@@ -24,3 +24,64 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Pulsing podcast animation */
+@keyframes pulse-podcast {
+  0% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.5);
+    transform: scale(1);
+  }
+  70% {
+    box-shadow: 0 0 0 16px rgba(59, 130, 246, 0);
+    transform: scale(1.08);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+    transform: scale(1);
+  }
+}
+
+.animate-pulse-podcast {
+  animation: pulse-podcast 1.2s infinite;
+}
+
+/* Mobile optimization for audio player */
+@media (max-width: 600px) {
+  .max-w-md {
+    max-width: 98vw !important;
+  }
+  .p-4 {
+    padding: 1rem 0.5rem !important;
+  }
+  .w-16, .h-16 {
+    width: 3.5rem !important;
+    height: 3.5rem !important;
+  }
+}
+
+/* Animated blob keyframes */
+@keyframes blob1 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  33% { transform: translate(10vw, -5vw) scale(1.1); }
+  66% { transform: translate(-5vw, 10vw) scale(0.95); }
+}
+@keyframes blob2 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  40% { transform: translate(-8vw, 8vw) scale(1.05); }
+  80% { transform: translate(8vw, -8vw) scale(1.1); }
+}
+@keyframes blob3 {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(5vw, 5vw) scale(1.08); }
+  75% { transform: translate(-5vw, -5vw) scale(0.92); }
+}
+
+.animate-blob1 {
+  animation: blob1 18s ease-in-out infinite;
+}
+.animate-blob2 {
+  animation: blob2 22s ease-in-out infinite;
+}
+.animate-blob3 {
+  animation: blob3 26s ease-in-out infinite;
+}
