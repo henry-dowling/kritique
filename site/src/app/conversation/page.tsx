@@ -1,13 +1,17 @@
 "use client";
-import React from "react";
+import React, { Suspense } from "react";
 import { Conversation } from "../components/conversation";
 import { useTheme } from "../lib/ThemeContext";
 import { useSearchParams } from "next/navigation";
 
-export default function ConversationPage() {
-  const { theme } = useTheme();
+function ConversationWithParams() {
   const searchParams = useSearchParams();
   const audioUrl = searchParams.get("audioUrl") || undefined;
+  return <Conversation audioUrl={audioUrl} />;
+}
+
+export default function ConversationPage() {
+  const { theme } = useTheme();
 
   return (
     <main
@@ -16,7 +20,9 @@ export default function ConversationPage() {
       }`}
     >
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm">
-        <Conversation audioUrl={audioUrl} />
+        <Suspense fallback={null}>
+          <ConversationWithParams />
+        </Suspense>
       </div>
     </main>
   );
