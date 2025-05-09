@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lex Fridman Podcast Player",
-  description: "A Spotify-like podcast player for Lex Fridman",
+  title: "Argue With Lex",
+  description: "Argue With Lex Fridman And His Guests On Demand",
 };
 
 export default function RootLayout({
