@@ -40,7 +40,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const [transcript, setTranscript] = useState<TranscriptEntry[]>([]);
   // Wake word detection components
   const [wakeWordDetected, setWakeWordDetected] = useState(false);
-  const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
+  const { keywordDetection, init, start, stop } =
     usePorcupine();
 
   // Audio visualization states
