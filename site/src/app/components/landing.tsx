@@ -108,9 +108,15 @@ export default function LandingPage() {
           </Combobox>
           <button
             type="submit"
-            className="px-4 py-2 rounded-lg bg-green-500 text-white font-semibold shadow hover:bg-green-600 transition"
+            className="group relative flex items-center justify-center gap-2 px-7 py-3 rounded-full border-2 border-black bg-transparent text-black font-bold text-lg shadow-sm transition-all duration-200 cursor-pointer hover:bg-black hover:text-white focus:outline-none focus-visible:ring-4 focus-visible:ring-black/30 active:scale-95"
+            aria-label="Play Podcast"
           >
-            Play Podcast
+            <span className="flex items-center">
+              <svg className="w-6 h-6 mr-2 transition-transform group-hover:scale-110" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+                <path d="M6.5 5.5v9l8-4.5-8-4.5z" />
+              </svg>
+              Play Podcast
+            </span>
           </button>
         </form>
       </div>
