@@ -46,9 +46,9 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   // Find the podcast object by audioUrl or uuid
   let podcast = undefined;
   if (audioUrl) {
-    podcast = lexPodcasts.find(p => p.url === audioUrl);
+    podcast = lexPodcasts.find((p) => p.url === audioUrl);
   } else if (uuid) {
-    podcast = lexPodcasts.find(p => p.uuid === uuid);
+    podcast = lexPodcasts.find((p) => p.uuid === uuid);
   }
   const podcastTitle = podcast?.title || "Unknown Title";
 
@@ -58,6 +58,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     if (!accessKey) {
       throw new Error("PicoVoice access key is not set");
     }
+    console.log("Access key:", accessKey);
 
     await init(accessKey, [porcupineKeywords[0]], porcupineModel);
     await start();
@@ -123,6 +124,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     const initMicrophone = async () => {
       await navigator.mediaDevices.getUserMedia({ audio: true });
       // Start porcupine on page load
+      console.log("Starting porcupine");
       startPorcupine();
     };
     initMicrophone();
@@ -155,7 +157,6 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     };
     const onTimeUpdate = () => {
       setCurrentTime(audio.currentTime);
-      console.log("Current time:", audio.currentTime);
     };
     const onLoadedMetadata = () => {
       setDuration(audio.duration);
@@ -376,15 +377,21 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
             {/* Extra controls */}
             <div className="w-1/4 flex justify-end space-x-3">
-              <div
+              <button
                 className={`px-3 py-1 rounded-full text-xs ${
                   theme === "dark"
                     ? "bg-white/20 text-white"
                     : "bg-black/10 text-gray-900"
-                } transition-colors duration-300`}
+                } transition-colors duration-300 cursor-pointer`}
+                onClick={() => {
+                  console.log("Manually starting elevenlabs conversation");
+                  startConversation();
+                  setWakeWordDetected(true);
+                  audioRef.current?.pause();
+                }}
               >
                 SAY "HEY LEX" TO INTERRUPT
-              </div>
+              </button>
             </div>
           </div>
         </div>
@@ -425,7 +432,10 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
       {/* Hidden audio element */}
       <audio
         ref={audioRef}
-        src={audioUrl || "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"}
+        src={
+          audioUrl ||
+          "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"
+        }
         preload="auto"
         onLoadedMetadata={(e) => {
           setDuration((e.target as HTMLAudioElement).duration);
