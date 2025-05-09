@@ -48,9 +48,12 @@ export default function LandingPage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
       <div className="z-10 max-w-3xl w-full items-center justify-center font-mono text-sm">
-        <h1 className="text-5xl font-extrabold mb-8 text-center tracking-tight drop-shadow-lg">
+        <h1 className="text-5xl font-extrabold mb-4 text-center tracking-tight drop-shadow-lg">
           Argue With Lex
         </h1>
+        <h2 className="text-xl font-medium mb-8 text-center text-gray-600 dark:text-gray-300">
+          Interrupt and debate podcast episodes in real time using AI.
+        </h2>
         <form onSubmit={handleSubmit} className="flex flex-col items-center gap-4 w-full">
           <Combobox value={selectedEpisode} onChange={ep => {
             setSelectedEpisode(ep);
@@ -66,7 +69,7 @@ export default function LandingPage() {
                   setSelectedEpisode(null);
                   debouncedSetQuery(e.target.value);
                 }}
-                placeholder="Search for an episode..."
+                placeholder="Try: ThePrimeagen"
               />
               <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none z-50">
                 {filteredEpisodes.length === 0 && query !== "" ? (
@@ -109,13 +112,13 @@ export default function LandingPage() {
           <button
             type="submit"
             className="group relative flex items-center justify-center gap-2 px-7 py-3 rounded-full border-2 border-black bg-transparent text-black font-bold text-lg shadow-sm transition-all duration-200 cursor-pointer hover:bg-black hover:text-white focus:outline-none focus-visible:ring-4 focus-visible:ring-black/30 active:scale-95"
-            aria-label="Play Podcast"
+            aria-label="Begin Discussion"
           >
             <span className="flex items-center">
               <svg className="w-6 h-6 mr-2 transition-transform group-hover:scale-110" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
                 <path d="M6.5 5.5v9l8-4.5-8-4.5z" />
               </svg>
-              Play Podcast
+              Begin Discussion
             </span>
           </button>
         </form>
