@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@11labs/react": "^0.1.4",
+    "@headlessui/react": "^2.2.2",
     "@picovoice/porcupine-node": "^3.0.6",
     "@picovoice/porcupine-react": "^3.0.3",
     "@picovoice/porcupine-web": "^3.0.3",
