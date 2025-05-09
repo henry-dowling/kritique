@@ -1,8 +1,9 @@
 'use client';
 import { Combobox } from '@headlessui/react';
 import { lexPodcasts as rawLexPodcasts } from '../lib/lex_podcasts';
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { useRouter } from "next/navigation";
+import debounce from "lodash.debounce";
 
 // Define the type for podcast episodes
 interface PodcastEpisode {
@@ -16,17 +17,26 @@ const lexPodcasts: PodcastEpisode[] = rawLexPodcasts;
 
 export default function LandingPage() {
   const [query, setQuery] = useState("");
+  const [debouncedQuery, setDebouncedQuery] = useState("");
   const [audioUrl, setAudioUrl] = useState("");
   const [selectedEpisode, setSelectedEpisode] = useState<PodcastEpisode | null>(null);
   const router = useRouter();
 
+  // Debounce the query update
+  const debouncedSetQuery = useMemo(
+    () => debounce(setDebouncedQuery, 200),
+    []
+  );
+
   const filteredEpisodes =
-    query === ""
-      ? lexPodcasts
-      : lexPodcasts.filter((ep) =>
-          ep.title.toLowerCase().includes(query.toLowerCase()) ||
-          ep.guest.toLowerCase().includes(query.toLowerCase())
-        );
+    debouncedQuery === ""
+      ? lexPodcasts.slice(0, 20)
+      : lexPodcasts
+          .filter((ep) =>
+            ep.title.toLowerCase().includes(debouncedQuery.toLowerCase()) ||
+            ep.guest.toLowerCase().includes(debouncedQuery.toLowerCase())
+          )
+          .slice(0, 20);
 
   const handleSample = () => {
     setQuery("Lex Fridman Primeagen");
@@ -51,6 +61,7 @@ export default function LandingPage() {
             setSelectedEpisode(ep);
             setQuery(ep ? ep.title : "");
             setAudioUrl(ep ? ep.url : "");
+            setDebouncedQuery(ep ? ep.title : ""); // keep debouncedQuery in sync if selected
           }}>
             <div className="relative w-full max-w-md">
               <Combobox.Input
@@ -59,6 +70,7 @@ export default function LandingPage() {
                 onChange={e => {
                   setQuery(e.target.value);
                   setSelectedEpisode(null);
+                  debouncedSetQuery(e.target.value);
                 }}
                 placeholder="Search for an episode..."
               />
