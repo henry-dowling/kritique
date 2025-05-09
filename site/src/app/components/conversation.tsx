@@ -26,10 +26,10 @@ type DynamicVariables = {
 
 type ConversationProps = {
   audioUrl?: string;
-  episode?: string;
+  uuid?: string;
 };
 
-export function Conversation({ audioUrl, episode }: ConversationProps) {
+export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const { theme, toggleTheme } = useTheme();
 
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -42,12 +42,12 @@ export function Conversation({ audioUrl, episode }: ConversationProps) {
   const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
     usePorcupine();
 
-  // Find the podcast object by audioUrl or episode
+  // Find the podcast object by audioUrl or uuid
   let podcast = undefined;
   if (audioUrl) {
     podcast = lexPodcasts.find(p => p.url === audioUrl);
-  } else if (episode) {
-    podcast = lexPodcasts.find(p => p.episode === episode);
+  } else if (uuid) {
+    podcast = lexPodcasts.find(p => p.uuid === uuid);
   }
   const podcastTitle = podcast?.title || "Unknown Title";
 
