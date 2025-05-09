@@ -1,4 +1,5 @@
 "use client";
+import React from "react";
 import { Conversation } from "../components/conversation";
 import { useTheme } from "../lib/ThemeContext";
 import { useSearchParams } from "next/navigation";
