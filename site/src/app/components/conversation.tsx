@@ -19,6 +19,8 @@ import {
 } from "react-icons/fi";
 import { contextToText, getRollingContext, TranscriptEntry } from "./context";
 import { lexPodcasts } from "../lib/lex_podcasts";
+import { AudioCircle } from "./AudioCircle";
+import { AudioAnalyzer } from "../lib/audioAnalyzer";
 
 type DynamicVariables = {
   podcast_context: string;
@@ -42,6 +44,11 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
     usePorcupine();
 
+  // Audio visualization states
+  const [podcastFrequency, setPodcastFrequency] = useState(0);
+  const [microphoneFrequency, setMicrophoneFrequency] = useState(0);
+  const podcastAnalyzerRef = useRef<AudioAnalyzer | null>(null);
+  const microphoneAnalyzerRef = useRef<AudioAnalyzer | null>(null);
 
   // Find the podcast object by audioUrl or uuid
   let podcast = undefined;
@@ -191,17 +198,6 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     }
   };
 
-  // Format time (mm:ss)
-  const formatTime = (t: number) => {
-    const m = Math.floor(t / 60)
-      .toString()
-      .padStart(2, "0");
-    const s = Math.floor(t % 60)
-      .toString()
-      .padStart(2, "0");
-    return `${m}:${s}`;
-  };
-
   // Format time (hh:mm:ss)
   const formatTimeHMS = (t: number) => {
     const h = Math.floor(t / 3600)
@@ -271,11 +267,11 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
           theme === "dark" ? "bg-[#181818]" : "bg-white"
         } transition-colors duration-300`}
       >
-        <div className="max-w-screen-xl mx-auto px-4 py-3">
+        <div className="max-w-screen-2xl mx-auto px-4 py-3">
           <div className="flex items-center justify-between">
             {/* Track info */}
             <div className="flex items-center space-x-4 w-1/4">
-              <div className="h-14 w-14 bg-gradient-to-br from-pink-300 to-green-300 rounded flex items-center justify-center shadow"></div>
+              <div className="h-14 w-28 bg-gradient-to-br from-pink-300 to-green-300 rounded flex items-center justify-center shadow"></div>
               <div>
                 <h3
                   className={`font-medium text-sm ${
@@ -400,12 +396,41 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     [theme, isPlaying, currentTime, duration, podcastTitle]
   );
 
+  console.log(
+    "Podcast frequency params: Podcast frequency: ",
+    podcastFrequency,
+    "Is playing: ",
+    isPlaying,
+    "Is speaking: ",
+    conversation.isSpeaking
+  );
+
   return (
     <div
       className={`w-full min-h-screen flex flex-col items-center justify-center gap-8 py-8 mb-24 transition-colors duration-300`}
     >
       {/* Theme toggle button */}
       <ThemeToggle />
+
+      {/* Audio visualization circles, only show lex when eleven labs is speaking, CORS errors getting audio from podcast site */}
+      <AudioCircle
+        position="left"
+        frequency={0}
+        isActive={isPlaying || conversation.isSpeaking}
+        label="Lex"
+      />
+
+      <AudioCircle
+        position="right"
+        frequency={microphoneFrequency}
+        isActive={
+          wakeWordDetected &&
+          conversation.status === "connected" &&
+          !conversation.isSpeaking
+        }
+        label="You"
+      />
+
       {/* Debugging info */}
       <div
         className={`flex flex-col items-center p-6 rounded-lg ${
