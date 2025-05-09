@@ -18,6 +18,7 @@ import {
   FiSkipForward,
 } from "react-icons/fi";
 import { contextToText, getRollingContext, TranscriptEntry } from "./context";
+import { lexPodcasts } from "../lib/lex_podcasts";
 
 type DynamicVariables = {
   podcast_context: string;
@@ -25,9 +26,10 @@ type DynamicVariables = {
 
 type ConversationProps = {
   audioUrl?: string;
+  episode?: string;
 };
 
-export function Conversation({ audioUrl }: ConversationProps) {
+export function Conversation({ audioUrl, episode }: ConversationProps) {
   const { theme, toggleTheme } = useTheme();
 
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -39,6 +41,15 @@ export function Conversation({ audioUrl }: ConversationProps) {
   const [wakeWordDetected, setWakeWordDetected] = useState(false);
   const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
     usePorcupine();
+
+  // Find the podcast object by audioUrl or episode
+  let podcast = undefined;
+  if (audioUrl) {
+    podcast = lexPodcasts.find(p => p.url === audioUrl);
+  } else if (episode) {
+    podcast = lexPodcasts.find(p => p.episode === episode);
+  }
+  const podcastTitle = podcast?.title || "Unknown Title";
 
   const startPorcupine = useCallback(async () => {
     // Start porcupine
@@ -255,7 +266,7 @@ export function Conversation({ audioUrl }: ConversationProps) {
                     theme === "dark" ? "text-white" : "text-gray-900"
                   } transition-colors duration-300`}
                 >
-                  The Primeagen
+                  {podcastTitle}
                 </h3>
                 <p
                   className={`text-xs ${
@@ -364,7 +375,7 @@ export function Conversation({ audioUrl }: ConversationProps) {
         </div>
       </div>
     ),
-    [theme, isPlaying, currentTime, duration]
+    [theme, isPlaying, currentTime, duration, podcastTitle]
   );
 
   return (
