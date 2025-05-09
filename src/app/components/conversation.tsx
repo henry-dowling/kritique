@@ -17,8 +17,11 @@ export function Conversation() {
       await navigator.mediaDevices.getUserMedia({ audio: true });
 
       // Start the conversation with your agent
+      if (!process.env.NEXT_PUBLIC_AGENT_ID) {
+        throw new Error("Agent ID is not set");
+      }
       await conversation.startSession({
-        agentId: "YOUR_AGENT_ID", // Replace with your agent ID
+        agentId: process.env.NEXT_PUBLIC_AGENT_ID,
       });
     } catch (error) {
       console.error("Failed to start conversation:", error);
