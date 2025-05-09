@@ -13,6 +13,8 @@ export function getRollingContext(
   targetTimestampSec: number,
   contextWindowSec: number = 120
 ): TranscriptEntry[] {
+  // Subtract 10 minutes (600 seconds) to account for ads
+  const adjustedTargetTimestampSec = Math.max(0, targetTimestampSec - 600);
   // Convert timestamp like "(00:00:46)" to seconds (46)
   const toSeconds = (ts: string): number => {
     const clean = ts.replace(/[()]/g, "");
@@ -20,11 +22,12 @@ export function getRollingContext(
     return hh * 3600 + mm * 60 + ss;
   };
 
-  const lowerBound = Math.max(0, targetTimestampSec - contextWindowSec);
+  console.log('targetTimeStamp is', adjustedTargetTimestampSec)
+  const lowerBound = Math.max(0, adjustedTargetTimestampSec - contextWindowSec);
 
   return data.filter((entry) => {
     const entrySeconds = toSeconds(entry.timestamp);
-    return entrySeconds >= lowerBound && entrySeconds <= targetTimestampSec;
+    return entrySeconds >= lowerBound && entrySeconds <= adjustedTargetTimestampSec;
   });
 }
 

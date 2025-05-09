@@ -42,6 +42,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
     usePorcupine();
 
+
   // Find the podcast object by audioUrl or uuid
   let podcast = undefined;
   if (audioUrl) {
@@ -200,6 +201,20 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     return `${m}:${s}`;
   };
 
+  // Format time (hh:mm:ss)
+  const formatTimeHMS = (t: number) => {
+    const h = Math.floor(t / 3600)
+      .toString()
+      .padStart(2, "0");
+    const m = Math.floor((t % 3600) / 60)
+      .toString()
+      .padStart(2, "0");
+    const s = Math.floor(t % 60)
+      .toString()
+      .padStart(2, "0");
+    return `${h}:${m}:${s}`;
+  };
+
   // Play/pause handlers
   const togglePlay = useCallback(() => {
     const audio = audioRef.current;
@@ -324,11 +339,11 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
               {/* Progress bar */}
               <div className="w-full flex items-center space-x-2">
                 <span
-                  className={`text-xs font-mono w-10 text-right ${
+                  className={`text-xs font-mono w-16 px-2 text-right ${
                     theme === "dark" ? "text-gray-400" : "text-gray-600"
                   } transition-colors duration-300`}
                 >
-                  {formatTime(currentTime)}
+                  {formatTimeHMS(currentTime)}
                 </span>
                 <div className="flex-1 relative">
                   <input
@@ -350,11 +365,11 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
                   />
                 </div>
                 <span
-                  className={`text-xs font-mono w-10 ${
+                  className={`text-xs font-mono w-16 px-2 ${
                     theme === "dark" ? "text-gray-400" : "text-gray-600"
                   } transition-colors duration-300`}
                 >
-                  {formatTime(duration)}
+                  {formatTimeHMS(duration)}
                 </span>
               </div>
             </div>
