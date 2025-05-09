@@ -45,10 +45,8 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     usePorcupine();
 
   // Audio visualization states
-  const [podcastFrequency, setPodcastFrequency] = useState(0);
-  const [microphoneFrequency, setMicrophoneFrequency] = useState(0);
-  const podcastAnalyzerRef = useRef<AudioAnalyzer | null>(null);
-  const microphoneAnalyzerRef = useRef<AudioAnalyzer | null>(null);
+  const [podcastFrequency] = useState(0);
+  const [microphoneFrequency] = useState(0);
 
   // Find the podcast object by audioUrl or uuid
   let podcast = undefined;
@@ -386,7 +384,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
                   audioRef.current?.pause();
                 }}
               >
-                SAY "HEY LEX" TO INTERRUPT
+                SAY &quot;HEY LEX&quot; TO INTERRUPT
               </button>
             </div>
           </div>

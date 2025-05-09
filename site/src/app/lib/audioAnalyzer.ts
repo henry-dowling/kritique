@@ -10,7 +10,7 @@ export class AudioAnalyzer {
 
   constructor(fftSize: number = 256) {
     this.audioContext = new (window.AudioContext ||
-      (window as any).webkitAudioContext)();
+      (window as Window & typeof globalThis & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext)();
     this.analyser = this.audioContext.createAnalyser();
     this.analyser.fftSize = fftSize;
 

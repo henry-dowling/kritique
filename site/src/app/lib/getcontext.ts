@@ -1,5 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import { TranscriptEntry } from '../components/context';
 
 /**
  * Get transcript context for the last N seconds before a given timestamp.
@@ -26,12 +27,12 @@ export async function getTranscriptContext(
   const windowStart = Math.max(0, timestamp - windowSeconds);
 
   // Filter segments within the window
-  const contextSegments = segments.filter((seg: any) => {
+  const contextSegments = (segments as TranscriptEntry[]).filter((seg: TranscriptEntry) => {
     // Use 'end' if available, otherwise 'start'
     const segTime = typeof seg.end === 'number' ? seg.end : seg.start;
     return segTime > windowStart && segTime <= timestamp;
   });
 
   // Concatenate text
-  return contextSegments.map((seg: any) => seg.text).join(' ');
+  return contextSegments.map((seg: TranscriptEntry) => seg.text).join(' ');
 }

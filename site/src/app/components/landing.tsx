@@ -38,11 +38,6 @@ export default function LandingPage() {
           )
           .slice(0, 20);
 
-  const handleSample = () => {
-    setQuery("Lex Fridman Primeagen");
-    router.push("/conversation");
-  };
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (selectedEpisode && selectedEpisode.url) {
