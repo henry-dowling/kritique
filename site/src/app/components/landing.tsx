@@ -9,7 +9,7 @@ import debounce from "lodash.debounce";
 interface PodcastEpisode {
   title: string;
   guest: string;
-  episode: number;
+  uuid: string;
   url: string;
 }
 
@@ -82,7 +82,7 @@ export default function LandingPage() {
                 ) : (
                   filteredEpisodes.map((ep) => (
                     <Combobox.Option
-                      key={ep.episode}
+                      key={ep.uuid}
                       value={ep}
                       className={({ active }) =>
                         `relative cursor-pointer select-none py-2 pl-10 pr-4 ${

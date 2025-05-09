@@ -28,19 +28,15 @@ def main():
             guest = parts[1].strip()
         else:
             guest = title
-        # Extract episode number from title (e.g., '#468 – ...'), else use uuid
-        match = re.match(r'#(\d+)', title)
-        if match:
-            ep_id = match.group(1)
-        else:
-            ep_id = str(uuid.uuid4())
+        # Always generate a UUID for each episode
+        ep_uuid = str(uuid.uuid4())
         # Get audio URL
         enclosure = item.find('enclosure')
         audio_url = enclosure.get('url') if enclosure is not None else ""
         episodes.append({
             'title': title,
             'guest': guest,
-            'episode': ep_id,
+            'uuid': ep_uuid,
             'url': audio_url
         })
 
@@ -51,7 +47,7 @@ def main():
             f.write('  {\n')
             f.write(f'    title: "{ep["title"]}",\n')
             f.write(f'    guest: "{ep["guest"]}",\n')
-            f.write(f'    episode: "{ep["episode"]}",\n')
+            f.write(f'    uuid: "{ep["uuid"]}",\n')
             f.write(f'    url: "{ep["url"]}"\n')
             f.write('  },\n')
         f.write('];\n')
