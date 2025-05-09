@@ -1,7 +1,12 @@
 "use client";
 
-import { useConversation } from "@11labs/react";
+import React from "react";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { useConversation } from "@11labs/react";
+// https://picovoice.ai/docs/api/porcupine-react/
+import { usePorcupine } from "@picovoice/porcupine-react";
+import porcupineKeywords from "../lib/porcupineKeywords";
+import porcupineModel from "../lib/porcupineModel";
 
 type DynamicVariables = {
   podcast_context: string;
@@ -17,13 +22,79 @@ export function Conversation() {
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
 
-  // Minimal conversation logic (no buttons)
+  // Wake word detection components
+  const [wakeWordDetected, setWakeWordDetected] = useState(false);
+  const { keywordDetection, isLoaded, isListening, error, init, start, stop } =
+    usePorcupine();
+
+  const startPorcupine = useCallback(async () => {
+    // Start porcupine
+    const accessKey = process.env.NEXT_PUBLIC_PICOVOICE_ACCESS_KEY;
+    if (!accessKey) {
+      throw new Error("PicoVoice access key is not set");
+    }
+
+    await init(accessKey, [porcupineKeywords[0]], porcupineModel);
+    await start();
+  }, [init, start]);
+
+  const stopPorcupine = useCallback(async () => {
+    await stop();
+  }, [stop]);
+
   const conversation = useConversation({
-    onConnect: () => {},
-    onDisconnect: () => {},
-    onMessage: () => {},
-    onError: () => {},
+    onConnect: () => console.debug("ElevenLabs Connected"),
+    onDisconnect: () => {
+      // Elevenlabs agent will auto end the call when it feels the conversation has concluded
+      // This triggers porcupine to reset (stop and start)
+      stopPorcupine();
+      startPorcupine();
+      // Reset wake word detection
+      setWakeWordDetected(false);
+      audioRef.current?.play();
+    },
+    onMessage: (message) => console.debug("ElevenLabs Message:", message),
+    onError: (error) => console.error("ElevenLabs Error:", error),
   });
+
+  const startConversation = useCallback(async () => {
+    try {
+      // Start the conversation with your agent
+      if (!process.env.NEXT_PUBLIC_AGENT_ID) {
+        throw new Error("Agent ID is not set");
+      }
+
+      await conversation.startSession({
+        agentId: process.env.NEXT_PUBLIC_AGENT_ID,
+        dynamicVariables,
+      });
+    } catch (error) {
+      console.error("Failed to start conversation:", error);
+    }
+  }, [conversation, dynamicVariables]);
+
+  // Request microphone permission on page load
+  useEffect(() => {
+    const initMicrophone = async () => {
+      await navigator.mediaDevices.getUserMedia({ audio: true });
+      // Start porcupine on page load
+      startPorcupine();
+    };
+    initMicrophone();
+  }, [startPorcupine]);
+
+  useEffect(() => {
+    if (keywordDetection !== null) {
+      setWakeWordDetected(true);
+      // Automatically start the conversation when wake word is detected
+      startConversation();
+      audioRef.current?.pause();
+    } else {
+      setWakeWordDetected(false);
+    }
+    // Deliberately only load when the keyword detection changes
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [keywordDetection]);
 
   // Audio event handlers
   useEffect(() => {
@@ -94,7 +165,9 @@ export function Conversation() {
       <div className="flex flex-col items-center w-full">
         <div className="relative flex items-center justify-center mb-6 mt-4">
           <span
-            className={`block w-16 h-16 rounded-full bg-blue-500/80 ${isPlaying ? "animate-pulse-podcast" : "opacity-40"}`}
+            className={`block w-16 h-16 rounded-full bg-blue-500/80 ${
+              isPlaying ? "animate-pulse-podcast" : "opacity-40"
+            }`}
             aria-label={isPlaying ? "Audio playing" : "Audio paused"}
           ></span>
           {/* Play/Pause button overlay */}
@@ -106,14 +179,26 @@ export function Conversation() {
           >
             {isPlaying ? (
               // Pause icon
-              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect x="9" y="8" width="4" height="16" rx="2" fill="#fff"/>
-                <rect x="19" y="8" width="4" height="16" rx="2" fill="#fff"/>
+              <svg
+                width="32"
+                height="32"
+                viewBox="0 0 32 32"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect x="9" y="8" width="4" height="16" rx="2" fill="#fff" />
+                <rect x="19" y="8" width="4" height="16" rx="2" fill="#fff" />
               </svg>
             ) : (
               // Play icon
-              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <polygon points="12,8 24,16 12,24" fill="#fff"/>
+              <svg
+                width="32"
+                height="32"
+                viewBox="0 0 32 32"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <polygon points="12,8 24,16 12,24" fill="#fff" />
               </svg>
             )}
           </button>
@@ -147,6 +232,24 @@ export function Conversation() {
           src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"
           preload="auto"
         />
+      </div>
+
+      {/* This is only for debugging and can be deleted later. This shows the state of elevenlabs agent and the pico wake word detection. */}
+      <div className="flex flex-col items-center">
+        <p>Debugging info:</p>
+        {wakeWordDetected ? (
+          <p className="text-green-500">Wake word detected!</p>
+        ) : (
+          <p>Wake word not detected yet</p>
+        )}
+        {/* Should be connected when the conversation is "speaking" */}
+        <p>EleventLabs Status: {conversation.status}</p>
+        <p>Agent is {conversation.isSpeaking ? "speaking" : "listening"}</p>
+        {/* Should be true, true, null */}
+        <p>Pico Voice Loaded: {JSON.stringify(isLoaded)}</p>
+        <p>Pico Voice Listening: {JSON.stringify(isListening)}</p>
+        <p>Pico Voice Error: {JSON.stringify(error !== null)}</p>
+        {error && <p className="text-red-500">Error: {error.message}</p>}
       </div>
     </div>
   );
