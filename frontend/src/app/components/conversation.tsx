@@ -1,9 +1,19 @@
 "use client";
 
 import { useConversation } from "@11labs/react";
-import { useCallback } from "react";
+import { useCallback, useState } from "react";
+
+type DynamicVariables = {
+  podcast_context: string;
+};
 
 export function Conversation() {
+  const [dynamicVariables, setDynamicVariables] = useState<DynamicVariables>({
+    podcast_context: `ThePrimeagen
+(01:31:06) I've always just been good at print off debugging because one of my first kind of side quest jobs that I got was writing robots for the government when I was still at school. And so I'd kind of do this contractually for so many hours a week. And my boss, Hunter Lloyd, great professor by the way, he just said, “Hey, here's your computer, here's the robot, here's how you plug it in. Here's how you run the code. Can you write the flash driver, the ethernet driver. Can you write the planetary pancake motor? Here's some manuals, I'm missing some. Just figure it out, I'll be back.” So that was government work for me. So I was like, okay, I'll figure all these things out. And I figured them all out and the only way to really get anything out of the machine was to print. And so it's like I had to become really good at printing my way through problems. And so that kind of became this skill I guess I adopted is that I can just kind of print off debug my way through a lot of these problems.
+`,
+  });
+
   const conversation = useConversation({
     onConnect: () => console.log("Connected"),
     onDisconnect: () => console.log("Disconnected"),
@@ -20,13 +30,15 @@ export function Conversation() {
       if (!process.env.NEXT_PUBLIC_AGENT_ID) {
         throw new Error("Agent ID is not set");
       }
+
       await conversation.startSession({
         agentId: process.env.NEXT_PUBLIC_AGENT_ID,
+        dynamicVariables,
       });
     } catch (error) {
       console.error("Failed to start conversation:", error);
     }
-  }, [conversation]);
+  }, [conversation, dynamicVariables]);
 
   const stopConversation = useCallback(async () => {
     await conversation.endSession();
