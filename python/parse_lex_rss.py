@@ -21,23 +21,35 @@ def main():
     episodes = []
     for item in items:
         title = clean(item.findtext('title', default="")).strip()
-        # Try to extract guest from title (usually after a colon)
+        # Improved guest extraction logic
         guest = ""
-        if ':' in title:
-            parts = title.split(':', 1)
-            guest = parts[1].strip()
+        # Try to extract guest from title (between en dash and colon)
+        m = re.match(r"^#[0-9]+\s+[–-]\s+([^:]+):", title)
+        if m:
+            guest = m.group(1).strip()
         else:
-            guest = title
+            # Try to extract guest after en dash if no colon
+            m2 = re.match(r"^#[0-9]+\s+[–-]\s+(.+)$", title)
+            if m2:
+                guest = m2.group(1).strip()
+            else:
+                guest = title
         # Always generate a UUID for each episode
         ep_uuid = str(uuid.uuid4())
         # Get audio URL
         enclosure = item.find('enclosure')
         audio_url = enclosure.get('url') if enclosure is not None else ""
+        # Generate transcript URL from guest name
+        transcript_url = ""
+        if guest:
+            guest_slug = re.sub(r'[^a-z0-9\-]', '', guest.lower().replace(' ', '-'))
+            transcript_url = f"https://lexfridman.com/{guest_slug}-transcript"
         episodes.append({
             'title': title,
             'guest': guest,
             'uuid': ep_uuid,
-            'url': audio_url
+            'url': audio_url,
+            'transcript': transcript_url
         })
 
     # Write to TypeScript file
@@ -48,7 +60,8 @@ def main():
             f.write(f'    title: "{ep["title"]}",\n')
             f.write(f'    guest: "{ep["guest"]}",\n')
             f.write(f'    uuid: "{ep["uuid"]}",\n')
-            f.write(f'    url: "{ep["url"]}"\n')
+            f.write(f'    url: "{ep["url"]}",\n')
+            f.write(f'    transcript: "{ep["transcript"]}"\n')
             f.write('  },\n')
         f.write('];\n')
 

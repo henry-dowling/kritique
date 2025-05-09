@@ -1,2816 +1,3285 @@
 export const lexPodcasts = [
   {
     title: "#468 – Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes & Extra Dimensions",
-    guest: "Black Holes, Wormholes, Aliens, Paradoxes & Extra Dimensions",
-    uuid: "05346f02-ffc3-478b-81ac-47972886d64a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_janna_levin.mp3"
+    guest: "Janna Levin",
+    uuid: "525ade6e-3a8c-48d1-9df0-cd1b825803c8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_janna_levin.mp3",
+    transcript: "https://lexfridman.com/janna-levin-transcript"
   },
   {
     title: "#467 – Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming",
-    guest: "Fortnite, Unreal Engine, and the Future of Gaming",
-    uuid: "4a75f1d1-9199-457d-9f5d-9d75701371dc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_sweeney.mp3"
+    guest: "Tim Sweeney",
+    uuid: "828335b4-6c5b-4921-804e-b867dbdd29f6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_sweeney.mp3",
+    transcript: "https://lexfridman.com/tim-sweeney-transcript"
   },
   {
     title: "#466 – Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao",
-    guest: "China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao",
-    uuid: "79dbcfcd-724f-4315-aae0-dd8ccb9e5359",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeffrey_wasserstrom.mp3"
+    guest: "Jeffrey Wasserstrom",
+    uuid: "5da4f9aa-e398-4395-82a9-d529436c6a20",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeffrey_wasserstrom.mp3",
+    transcript: "https://lexfridman.com/jeffrey-wasserstrom-transcript"
   },
   {
     title: "#465 – Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking",
-    guest: "Sin City, Desperado, El Mariachi, Alita, and Filmmaking",
-    uuid: "b352d896-2d47-473e-991e-cf4fe5e99d52",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_rodriguez.mp3"
+    guest: "Robert Rodriguez",
+    uuid: "00c6037c-a8ce-48f5-a73b-3adc05232dc8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_rodriguez.mp3",
+    transcript: "https://lexfridman.com/robert-rodriguez-transcript"
   },
   {
     title: "#464 – Dave Smith: Israel, Ukraine, Epstein, Mossad, Conspiracies & Antisemitism",
-    guest: "Israel, Ukraine, Epstein, Mossad, Conspiracies & Antisemitism",
-    uuid: "506d6286-9bb7-4f15-8eda-ee8a721a6aa2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dave_smith.mp3"
+    guest: "Dave Smith",
+    uuid: "afb58233-1bf0-4915-aeac-3f5eeb8f1fc1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dave_smith.mp3",
+    transcript: "https://lexfridman.com/dave-smith-transcript"
   },
   {
     title: "#463 – Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas & Gaza",
-    guest: "Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas & Gaza",
-    uuid: "e45086ee-6553-41a5-92a9-a01d69b26b5d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray_2.mp3"
+    guest: "Douglas Murray",
+    uuid: "53fe1f48-d50c-45b6-88fb-a953dd9ded45",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray_2.mp3",
+    transcript: "https://lexfridman.com/douglas-murray-transcript"
   },
   {
     title: "#462 – Ezra Klein and Derek Thompson: Politics, Trump, AOC, Elon & DOGE",
-    guest: "Politics, Trump, AOC, Elon & DOGE",
-    uuid: "236caa18-b0e6-4cd8-8871-8ab24f977879",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ezra_klein_and_derek_thompson.mp3"
+    guest: "Ezra Klein and Derek Thompson",
+    uuid: "1897480d-6c2e-4c71-a26b-3bdfd712d78a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ezra_klein_and_derek_thompson.mp3",
+    transcript: "https://lexfridman.com/ezra-klein-and-derek-thompson-transcript"
   },
   {
     title: "#461 – ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God",
-    guest: "Programming, AI, ADHD, Productivity, Addiction, and God",
-    uuid: "bf8901ed-9884-4bc2-8493-74db747e28b7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"
+    guest: "ThePrimeagen",
+    uuid: "4fcef428-e357-46fd-8702-bfc0c6922835",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3",
+    transcript: "https://lexfridman.com/theprimeagen-transcript"
   },
   {
     title: "#460 – Narendra Modi: Prime Minister of India – Power, Democracy, War & Peace",
-    guest: "Prime Minister of India – Power, Democracy, War & Peace",
-    uuid: "599b3b96-7254-480a-ac97-e99d48bb7694",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_narendra_modi.mp3"
+    guest: "Narendra Modi",
+    uuid: "f2d6608b-7510-4c53-abae-094a740b7745",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_narendra_modi.mp3",
+    transcript: "https://lexfridman.com/narendra-modi-transcript"
   },
   {
     title: "#459 – DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters",
-    guest: "#459 – DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters",
-    uuid: "7e6d0213-59af-49e9-b145-af0b3c6f4622",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_deepseek_dylan_patel_nathan_lambert.mp3"
+    guest: "DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters",
+    uuid: "1a5c1159-32b6-4d96-8ea8-2ee591b1141c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_deepseek_dylan_patel_nathan_lambert.mp3",
+    transcript: "https://lexfridman.com/deepseek-china-openai-nvidia-xai-tsmc-stargate-and-ai-megaclusters-transcript"
   },
   {
     title: "#458 – Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America",
-    guest: "Trump, Power, Tech, AI, Immigration & Future of America",
-    uuid: "ce83f234-984f-447f-b85b-c0b9471b65d5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen_2.mp3"
+    guest: "Marc Andreessen",
+    uuid: "a535159c-016e-413f-beee-27ffe2a4b99c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen_2.mp3",
+    transcript: "https://lexfridman.com/marc-andreessen-transcript"
   },
   {
     title: "#457 – Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom",
-    guest: "Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom",
-    uuid: "a90e4a04-695c-441a-8a34-b816a57a3298",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jennifer_burns.mp3"
+    guest: "Jennifer Burns",
+    uuid: "2b5d22db-1e93-4115-8cd9-9b4211c33c20",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jennifer_burns.mp3",
+    transcript: "https://lexfridman.com/jennifer-burns-transcript"
   },
   {
     title: "#456 – Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom",
-    guest: "Ukraine, War, Peace, Putin, Trump, NATO, and Freedom",
-    uuid: "2bb0cfde-d816-446d-9088-f8c7199b4289",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_volodymyr_zelenskyy.mp3"
+    guest: "Volodymyr Zelenskyy",
+    uuid: "5bf1c5f0-b3fd-4c12-ba7c-da27a685e603",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_volodymyr_zelenskyy.mp3",
+    transcript: "https://lexfridman.com/volodymyr-zelenskyy-transcript"
   },
   {
     title: "#455 – Adam Frank: Alien Civilizations and the Search for Extraterrestrial Life",
-    guest: "Alien Civilizations and the Search for Extraterrestrial Life",
-    uuid: "736ccd68-b945-4dd5-9b76-02abf9e6605d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_adam_frank.mp3"
+    guest: "Adam Frank",
+    uuid: "9dd9b9a5-a1e6-4572-b3b1-cf8a704baaed",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_adam_frank.mp3",
+    transcript: "https://lexfridman.com/adam-frank-transcript"
   },
   {
     title: "#454 – Saagar Enjeti: Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics",
-    guest: "Trump, MAGA, DOGE, Obama, FDR, JFK, History & Politics",
-    uuid: "10218731-2f37-4e65-91f7-6f8f6dc67319",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saagar_enjeti_2.mp3"
+    guest: "Saagar Enjeti",
+    uuid: "2240ce08-3ca7-4971-8408-815d43a37224",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saagar_enjeti_2.mp3",
+    transcript: "https://lexfridman.com/saagar-enjeti-transcript"
   },
   {
     title: "#453 – Javier Milei: President of Argentina – Freedom, Economics, and Corruption",
-    guest: "President of Argentina – Freedom, Economics, and Corruption",
-    uuid: "499687ae-ed8a-4f4d-860b-2764bd753a31",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_javier_milei.mp3"
+    guest: "Javier Milei",
+    uuid: "a570babf-ccd2-47a1-83c7-44b28408bdc9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_javier_milei.mp3",
+    transcript: "https://lexfridman.com/javier-milei-transcript"
   },
   {
     title: "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
-    guest: "Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
-    uuid: "93b0f7ca-e36f-4c9d-a9ee-86e57ed4937d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3"
+    guest: "Dario Amodei",
+    uuid: "459ba103-fb29-47b6-ba91-7e7488a02020",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3",
+    transcript: "https://lexfridman.com/dario-amodei-transcript"
   },
   {
     title: "#451 – Rick Spence: CIA, KGB, Illuminati, Secret Societies, Cults & Conspiracies",
-    guest: "CIA, KGB, Illuminati, Secret Societies, Cults & Conspiracies",
-    uuid: "a26ba63a-3942-4d26-9be3-4e49eb9380a6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_spence.mp3"
+    guest: "Rick Spence",
+    uuid: "32e4eafc-44f7-4191-b960-454e1a9cfc07",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_spence.mp3",
+    transcript: "https://lexfridman.com/rick-spence-transcript"
   },
   {
-    title: "#450 – Bernie Sanders Interview",
-    guest: "#450 – Bernie Sanders Interview",
-    uuid: "17b7f964-376b-4e8f-894a-6c7378848374",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bernie_sanders.mp3"
+    title: "#450 – Bernie Sanders",
+    guest: "Bernie Sanders",
+    uuid: "58900517-c88f-4f80-adc9-f3f28bf2ed62",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bernie_sanders.mp3",
+    transcript: "https://lexfridman.com/bernie-sanders-transcript"
   },
   {
     title: "#449 – Graham Hancock: Lost Civilization of the Ice Age & Ancient Human History",
-    guest: "Lost Civilization of the Ice Age & Ancient Human History",
-    uuid: "b2cc4839-1382-4279-90d3-b35e85c9ac31",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_graham_hancock.mp3"
+    guest: "Graham Hancock",
+    uuid: "34eb9757-71e2-4474-8b5b-16a6bcc86365",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_graham_hancock.mp3",
+    transcript: "https://lexfridman.com/graham-hancock-transcript"
   },
   {
     title: "#448 – Jordan Peterson: Nietzsche, Hitler, God, Psychopathy, Suffering & Meaning",
-    guest: "Nietzsche, Hitler, God, Psychopathy, Suffering & Meaning",
-    uuid: "bca42cf5-329b-4452-816c-342dff450346",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson_2.mp3"
+    guest: "Jordan Peterson",
+    uuid: "a3a947f6-66ed-4fa0-8754-fd7f33775b87",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson_2.mp3",
+    transcript: "https://lexfridman.com/jordan-peterson-transcript"
   },
   {
     title: "#447 – Cursor Team: Future of Programming with AI",
-    guest: "Future of Programming with AI",
-    uuid: "cafb386e-6b11-488b-be97-f9c617f40904",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cursor_team.mp3"
+    guest: "Cursor Team",
+    uuid: "a7c5ad2f-834b-402d-8ccf-cf9c7c004380",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cursor_team.mp3",
+    transcript: "https://lexfridman.com/cursor-team-transcript"
   },
   {
     title: "#446 – Ed Barnhart: Maya, Aztec, Inca, and Lost Civilizations of South America",
-    guest: "Maya, Aztec, Inca, and Lost Civilizations of South America",
-    uuid: "dbadfcab-4924-43de-9dae-be7e5355ee5a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ed_barnhart.mp3"
+    guest: "Ed Barnhart",
+    uuid: "38d9a0f2-adf5-4b42-b873-087591e6a031",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ed_barnhart.mp3",
+    transcript: "https://lexfridman.com/ed-barnhart-transcript"
   },
   {
     title: "#445 – Vivek Ramaswamy: Trump, Conservatism, Nationalism, Immigration, and War",
-    guest: "Trump, Conservatism, Nationalism, Immigration, and War",
-    uuid: "658c4f53-4320-4e56-81f9-70f2a242a02e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vivek_ramaswamy.mp3"
+    guest: "Vivek Ramaswamy",
+    uuid: "b5bf402d-e057-4c2a-9d92-b58f3eadb91b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vivek_ramaswamy.mp3",
+    transcript: "https://lexfridman.com/vivek-ramaswamy-transcript"
   },
   {
     title: "#444 – Vejas Liulevicius: Communism, Marxism, Nazism, Stalin, Mao, and Hitler",
-    guest: "Communism, Marxism, Nazism, Stalin, Mao, and Hitler",
-    uuid: "10778aec-89c4-4cb5-92ad-c07f094eb93a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vejas_liulevicius.mp3"
+    guest: "Vejas Liulevicius",
+    uuid: "1cf65562-fd70-4159-b451-0e78a95d5e34",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vejas_liulevicius.mp3",
+    transcript: "https://lexfridman.com/vejas-liulevicius-transcript"
   },
   {
     title: "#443 – Gregory Aldrete: The Roman Empire – Rise and Fall of Ancient Rome",
-    guest: "The Roman Empire – Rise and Fall of Ancient Rome",
-    uuid: "6d1fc064-38a3-4298-9d80-1566be3b47c3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gregory_aldrete.mp3"
+    guest: "Gregory Aldrete",
+    uuid: "1a6981b8-dac2-4051-8b96-758ab42a420a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gregory_aldrete.mp3",
+    transcript: "https://lexfridman.com/gregory-aldrete-transcript"
   },
   {
     title: "#442 – Donald Trump Interview",
-    guest: "#442 – Donald Trump Interview",
-    uuid: "ff8b6f78-11c0-47aa-a294-86488c7c6887",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_trump.mp3"
+    guest: "Donald Trump",
+    uuid: "fee6a850-d63e-46ae-874a-dc9b53132c46",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_trump.mp3",
+    transcript: "https://lexfridman.com/donald-trump-transcript"
   },
   {
     title: "#441 – Cenk Uygur: Trump vs Harris, Progressive Politics, Communism & Capitalism",
-    guest: "Trump vs Harris, Progressive Politics, Communism & Capitalism",
-    uuid: "bcf95bbe-6fe1-4022-9323-a7c2e998e204",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cenk_uygur.mp3"
+    guest: "Cenk Uygur",
+    uuid: "7f878e9c-bb9e-4b5f-b64c-e4720e474a55",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cenk_uygur.mp3",
+    transcript: "https://lexfridman.com/cenk-uygur-transcript"
   },
   {
     title: "#440 – Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life",
-    guest: "Programming, Viral AI Startups, and Digital Nomad Life",
-    uuid: "c3402e6c-3906-411b-96dc-cbe6295b3c51",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_pieter_levels.mp3"
+    guest: "Pieter Levels",
+    uuid: "64f9c9d1-1ae3-47ef-a5ee-562b4630b8ba",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_pieter_levels.mp3",
+    transcript: "https://lexfridman.com/pieter-levels-transcript"
   },
   {
     title: "#439 – Craig Jones: Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine & Trolling",
-    guest: "Jiu Jitsu, $2 Million Prize, CJI, ADCC, Ukraine & Trolling",
-    uuid: "dab23490-2e16-482c-a6c2-c8346b2467ed",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_craig_jones_2.mp3"
+    guest: "Craig Jones",
+    uuid: "5d52cf02-a7bf-4350-bf20-5d0d66bc4857",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_craig_jones_2.mp3",
+    transcript: "https://lexfridman.com/craig-jones-transcript"
   },
   {
     title: "#438 – Elon Musk: Neuralink and the Future of Humanity",
-    guest: "Neuralink and the Future of Humanity",
-    uuid: "ea7a10be-f0a2-4270-866a-52e9d3b6bdaf",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_and_neuralink_team.mp3"
+    guest: "Elon Musk",
+    uuid: "be1141d4-e7e8-44c4-9104-2667692f45c4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_and_neuralink_team.mp3",
+    transcript: "https://lexfridman.com/elon-musk-transcript"
   },
   {
     title: "#437 – Jordan Jonas: Survival, Hunting, Siberia, God, and Winning Alone Season 6",
-    guest: "Survival, Hunting, Siberia, God, and Winning Alone Season 6",
-    uuid: "f2916880-2b50-4140-8b0f-692aa0db266a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_jonas.mp3"
+    guest: "Jordan Jonas",
+    uuid: "e2d7a97f-e829-4741-84aa-c2d8b27ca410",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_jonas.mp3",
+    transcript: "https://lexfridman.com/jordan-jonas-transcript"
   },
   {
     title: "#436 – Ivanka Trump: Politics, Family, Real Estate, Fashion, Music, and Life",
-    guest: "Politics, Family, Real Estate, Fashion, Music, and Life",
-    uuid: "69db5536-ce44-45ea-840a-4e2864e6c50b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ivanka_trump.mp3"
+    guest: "Ivanka Trump",
+    uuid: "0ac35ce8-99ff-4ea9-ad2f-af99ff363472",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ivanka_trump.mp3",
+    transcript: "https://lexfridman.com/ivanka-trump-transcript"
   },
   {
     title: "#435 – Andrew Huberman: Focus, Controversy, Politics, and Relationships",
-    guest: "Focus, Controversy, Politics, and Relationships",
-    uuid: "5e333e6c-e1f1-4f81-abcc-401dfe5e091e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_5.mp3"
+    guest: "Andrew Huberman",
+    uuid: "094b5f0f-d3db-4a8b-bd00-9887e792ad66",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_5.mp3",
+    transcript: "https://lexfridman.com/andrew-huberman-transcript"
   },
   {
     title: "#434 – Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet",
-    guest: "Perplexity CEO on Future of AI, Search & the Internet",
-    uuid: "34891b21-cddc-44d9-8d4d-d442beaca36e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aravind_srinivas.mp3"
+    guest: "Aravind Srinivas",
+    uuid: "03356209-0e36-423a-85c9-d749885b119e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aravind_srinivas.mp3",
+    transcript: "https://lexfridman.com/aravind-srinivas-transcript"
   },
   {
     title: "#433 – Sara Walker: Physics of Life, Time, Complexity, and Aliens",
-    guest: "Physics of Life, Time, Complexity, and Aliens",
-    uuid: "8bc3959f-173f-4f93-bd4f-a248bcf8cd22",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker_3.mp3"
+    guest: "Sara Walker",
+    uuid: "3811c113-a6ea-4fab-adfc-81e7105aaf49",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker_3.mp3",
+    transcript: "https://lexfridman.com/sara-walker-transcript"
   },
   {
     title: "#432 – Kevin Spacey: Power, Controversy, Betrayal, Truth & Love in Film and Life",
-    guest: "Power, Controversy, Betrayal, Truth & Love in Film and Life",
-    uuid: "7485a311-d432-4a41-a3d6-b7f00e4a971a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kevin_spacey.mp3"
+    guest: "Kevin Spacey",
+    uuid: "4f41bf14-153c-45b6-b603-bc9c2c4c082c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kevin_spacey.mp3",
+    transcript: "https://lexfridman.com/kevin-spacey-transcript"
   },
   {
     title: "#431 – Roman Yampolskiy: Dangers of Superintelligent AI",
-    guest: "Dangers of Superintelligent AI",
-    uuid: "914ce43c-3609-45fd-9705-bab6eaced8dc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roman_yampolskiy.mp3"
+    guest: "Roman Yampolskiy",
+    uuid: "9d4623df-feb4-42fb-b904-43fee362834e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roman_yampolskiy.mp3",
+    transcript: "https://lexfridman.com/roman-yampolskiy-transcript"
   },
   {
     title: "#430 – Charan Ranganath: Human Memory, Imagination, Deja Vu, and False Memories",
-    guest: "Human Memory, Imagination, Deja Vu, and False Memories",
-    uuid: "0e87a1ad-f6dd-494d-85a8-9cbaa2229466",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charan_ranganath.mp3"
+    guest: "Charan Ranganath",
+    uuid: "e6ef5025-4062-4c31-9217-74c5203c031d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charan_ranganath.mp3",
+    transcript: "https://lexfridman.com/charan-ranganath-transcript"
   },
   {
     title: "#429 – Paul Rosolie: Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God",
-    guest: "Jungle, Apex Predators, Aliens, Uncontacted Tribes, and God",
-    uuid: "e84b0477-dcd2-48a5-8286-08ddb0e6a90f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_rosolie_2.mp3"
+    guest: "Paul Rosolie",
+    uuid: "90db770e-0d57-40d9-9953-714ad3b0478e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_rosolie_2.mp3",
+    transcript: "https://lexfridman.com/paul-rosolie-transcript"
   },
   {
     title: "#428 – Sean Carroll: General Relativity, Quantum Mechanics, Black Holes & Aliens",
-    guest: "General Relativity, Quantum Mechanics, Black Holes & Aliens",
-    uuid: "c4e5f9a9-6344-48b5-8312-548149591b4f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_carroll_3.mp3"
+    guest: "Sean Carroll",
+    uuid: "303cf71d-d26d-4e7e-85a2-1574eec30ea8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_carroll_3.mp3",
+    transcript: "https://lexfridman.com/sean-carroll-transcript"
   },
   {
     title: "#427 – Neil Adams: Judo, Olympics, Winning, Losing, and the Champion Mindset",
-    guest: "Judo, Olympics, Winning, Losing, and the Champion Mindset",
-    uuid: "faf32311-dc68-4167-b985-826a491e4326",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neil_adams.mp3"
+    guest: "Neil Adams",
+    uuid: "67dcdcb1-17f8-4bf1-82f9-872873807859",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neil_adams.mp3",
+    transcript: "https://lexfridman.com/neil-adams-transcript"
   },
   {
     title: "#426 – Edward Gibson: Human Language, Psycholinguistics, Syntax, Grammar & LLMs",
-    guest: "Human Language, Psycholinguistics, Syntax, Grammar & LLMs",
-    uuid: "bf61ce96-dcb1-4777-84ab-d341a74bcff4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_edward_gibson.mp3"
+    guest: "Edward Gibson",
+    uuid: "a9a4dbb8-4ab3-48a9-b342-c71b47908ba5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_edward_gibson.mp3",
+    transcript: "https://lexfridman.com/edward-gibson-transcript"
   },
   {
     title: "#425 – Andrew Callaghan: Channel 5, Gonzo, QAnon, O-Block, Politics & Alex Jones",
-    guest: "Channel 5, Gonzo, QAnon, O-Block, Politics & Alex Jones",
-    uuid: "5a571455-b088-40b2-89e3-f24493aceb10",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_callaghan.mp3"
+    guest: "Andrew Callaghan",
+    uuid: "0fe4d278-a37f-486e-a42c-35cdc87e5aa5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_callaghan.mp3",
+    transcript: "https://lexfridman.com/andrew-callaghan-transcript"
   },
   {
     title: "#424 – Bassem Youssef: Israel-Palestine, Gaza, Hamas, Middle East, Satire & Fame",
-    guest: "Israel-Palestine, Gaza, Hamas, Middle East, Satire & Fame",
-    uuid: "f8f2e161-c486-4e43-8c1d-3bd02cebe9c3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bassem_youssef.mp3"
+    guest: "Bassem Youssef",
+    uuid: "9369b108-4e75-4c5f-b4cb-2f3a8b00f871",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bassem_youssef.mp3",
+    transcript: "https://lexfridman.com/bassem-youssef-transcript"
   },
   {
     title: "#423 – Tulsi Gabbard: War, Politics, and the Military Industrial Complex",
-    guest: "War, Politics, and the Military Industrial Complex",
-    uuid: "5aee79fe-54bb-45c5-873f-d749130041a3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tulsi_gabbard.mp3"
+    guest: "Tulsi Gabbard",
+    uuid: "30387086-92e1-4833-bfa1-4240064ed0be",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tulsi_gabbard.mp3",
+    transcript: "https://lexfridman.com/tulsi-gabbard-transcript"
   },
   {
     title: "#422 – Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs",
-    guest: "Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs",
-    uuid: "053441d9-81ae-49f1-ba36-ec95f81d5db2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_cuban.mp3"
+    guest: "Mark Cuban",
+    uuid: "5822d228-c695-41cb-a11a-2922b6af8367",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_cuban.mp3",
+    transcript: "https://lexfridman.com/mark-cuban-transcript"
   },
   {
     title: "#421 – Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck",
-    guest: "UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck",
-    uuid: "784349e5-2d0c-4149-8e60-1360e7fe8ca0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dana_white.mp3"
+    guest: "Dana White",
+    uuid: "a622c55c-246e-499d-95bc-16c254a2f7a8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dana_white.mp3",
+    transcript: "https://lexfridman.com/dana-white-transcript"
   },
   {
     title: "#420 – Annie Jacobsen: Nuclear War, CIA, KGB, Aliens, Area 51, Roswell & Secrecy",
-    guest: "Nuclear War, CIA, KGB, Aliens, Area 51, Roswell & Secrecy",
-    uuid: "eeb7cf56-745c-4806-b50b-a6a85b69bd43",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_annie_jacobsen.mp3"
+    guest: "Annie Jacobsen",
+    uuid: "a74bda9a-0569-4c58-9ec6-d92ace4ff867",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_annie_jacobsen.mp3",
+    transcript: "https://lexfridman.com/annie-jacobsen-transcript"
   },
   {
     title: "#419 – Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI",
-    guest: "OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI",
-    uuid: "5ae3e907-83fa-4c49-bf0f-aaccc5538b5d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman_2.mp3"
+    guest: "Sam Altman",
+    uuid: "60de91c1-ee0e-4344-9d38-82857d9598c9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman_2.mp3",
+    transcript: "https://lexfridman.com/sam-altman-transcript"
   },
   {
     title: "#418 – Israel-Palestine Debate: Finkelstein, Destiny, M. Rabbani & Benny Morris",
-    guest: "Finkelstein, Destiny, M. Rabbani & Benny Morris",
-    uuid: "a9881a43-57da-47b9-8109-fdd53baf89dc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_israel_palestine_debate.mp3"
+    guest: "Israel-Palestine Debate",
+    uuid: "40674c8a-ae1e-4098-a56d-521b70f950d5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_israel_palestine_debate.mp3",
+    transcript: "https://lexfridman.com/israel-palestine-debate-transcript"
   },
   {
     title: "#417 – Kimbal Musk: The Art of Cooking, Tesla, SpaceX, Zip2, and Family",
-    guest: "The Art of Cooking, Tesla, SpaceX, Zip2, and Family",
-    uuid: "9c7fa397-200b-4593-a29d-7b3ea56f5e43",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kimbal_musk.mp3"
+    guest: "Kimbal Musk",
+    uuid: "a1a34e42-115d-41bd-b477-81490daab63d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kimbal_musk.mp3",
+    transcript: "https://lexfridman.com/kimbal-musk-transcript"
   },
   {
     title: "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
-    guest: "Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
-    uuid: "b6801eb3-e96f-45e0-8fef-e7852c822732",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yann_lecun_3.mp3"
+    guest: "Yann Lecun",
+    uuid: "a9c12389-3f6b-4c20-931e-49c5e3573427",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yann_lecun_3.mp3",
+    transcript: "https://lexfridman.com/yann-lecun-transcript"
   },
   {
     title: "#415 – Serhii Plokhy: History of Ukraine, Russia, Soviet Union, KGB, Nazis & War",
-    guest: "History of Ukraine, Russia, Soviet Union, KGB, Nazis & War",
-    uuid: "a5b20db7-451c-46f4-a25f-493a8607a377",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_serhii_plokhy.mp3"
+    guest: "Serhii Plokhy",
+    uuid: "6056800a-fa75-460b-8608-2ce3837125d2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_serhii_plokhy.mp3",
+    transcript: "https://lexfridman.com/serhii-plokhy-transcript"
   },
   {
     title: "#414 – Tucker Carlson: Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom",
-    guest: "Putin, Navalny, Trump, CIA, NSA, War, Politics & Freedom",
-    uuid: "3435f364-3c68-4f0a-b603-7dc6b326ba78",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tucker_carlson.mp3"
+    guest: "Tucker Carlson",
+    uuid: "62986f28-52d4-402d-b576-5cfc073fec56",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tucker_carlson.mp3",
+    transcript: "https://lexfridman.com/tucker-carlson-transcript"
   },
   {
     title: "#413 – Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech",
-    guest: "Investing, Financial Battles, Harvard, DEI, X & Free Speech",
-    uuid: "3c2be41e-d820-4b00-8c91-c66d2f1a5d05",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bill_ackman.mp3"
+    guest: "Bill Ackman",
+    uuid: "e66aa767-56a9-4a92-b707-3923a641231e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bill_ackman.mp3",
+    transcript: "https://lexfridman.com/bill-ackman-transcript"
   },
   {
     title: "#412 – Marc Raibert: Boston Dynamics and the Future of Robotics",
-    guest: "Boston Dynamics and the Future of Robotics",
-    uuid: "f37a8a90-386e-429c-8a15-5feea3a1d939",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_raibert.mp3"
+    guest: "Marc Raibert",
+    uuid: "5c09a34c-a13a-4527-acf2-62babf0a084c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_raibert.mp3",
+    transcript: "https://lexfridman.com/marc-raibert-transcript"
   },
   {
     title: "#411 – Omar Suleiman: Palestine, Gaza, Oct 7, Israel, Resistance, Faith & Islam",
-    guest: "Palestine, Gaza, Oct 7, Israel, Resistance, Faith & Islam",
-    uuid: "93857db1-2867-44cd-820d-2ee73b637336",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_omar_suleiman_2.mp3"
+    guest: "Omar Suleiman",
+    uuid: "79e4074b-787e-4a7e-b6d4-c39b3f0fd67b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_omar_suleiman_2.mp3",
+    transcript: "https://lexfridman.com/omar-suleiman-transcript"
   },
   {
     title: "#410 – Ben Shapiro vs Destiny Debate: Politics, Jan 6, Israel, Ukraine & Wokeism",
-    guest: "Politics, Jan 6, Israel, Ukraine & Wokeism",
-    uuid: "fcfe1402-1aad-4cf5-9b94-54a7158bed77",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_shapiro_destiny_debate.mp3"
+    guest: "Ben Shapiro vs Destiny Debate",
+    uuid: "037bf808-d755-43b5-97e4-7968c938efc2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_shapiro_destiny_debate.mp3",
+    transcript: "https://lexfridman.com/ben-shapiro-vs-destiny-debate-transcript"
   },
   {
     title: "#409 – Matthew Cox: FBI Most Wanted Con Man – $55 Million in Bank Fraud",
-    guest: "FBI Most Wanted Con Man – $55 Million in Bank Fraud",
-    uuid: "f8629172-ec55-4477-9ab7-166ed18fe110",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_cox.mp3"
+    guest: "Matthew Cox",
+    uuid: "d75cf4ca-e093-4704-b139-2e8b5321c1a5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_cox.mp3",
+    transcript: "https://lexfridman.com/matthew-cox-transcript"
   },
   {
     title: "#408 – Tal Wilkenfeld: Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen",
-    guest: "Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen",
-    uuid: "d04aa520-5378-4279-bfb7-16695bae8cd7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tal_wilkenfeld.mp3"
+    guest: "Tal Wilkenfeld",
+    uuid: "eb64dd59-0464-4cb0-97fd-0e0e9d6d991e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tal_wilkenfeld.mp3",
+    transcript: "https://lexfridman.com/tal-wilkenfeld-transcript"
   },
   {
     title: "#407 – Guillaume Verdon: Beff Jezos, E/acc Movement, Physics, Computation & AGI",
-    guest: "Beff Jezos, E/acc Movement, Physics, Computation & AGI",
-    uuid: "7ef07f01-f79c-4f17-817f-cb85ebdaa518",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_guillaume_verdon.mp3"
+    guest: "Guillaume Verdon",
+    uuid: "8e488d1f-5f32-4e7a-a7e2-431005d71adf",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_guillaume_verdon.mp3",
+    transcript: "https://lexfridman.com/guillaume-verdon-transcript"
   },
   {
     title: "#406 – Teddy Atlas: Mike Tyson, Cus D’Amato, Boxing, Loyalty, Fear & Greatness",
-    guest: "Mike Tyson, Cus D’Amato, Boxing, Loyalty, Fear & Greatness",
-    uuid: "6fcc8f41-6b28-4ddd-8234-ce244af6749e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_teddy_atlas.mp3"
+    guest: "Teddy Atlas",
+    uuid: "3eca9e97-8b82-4cf8-a32a-cc49eecbe661",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_teddy_atlas.mp3",
+    transcript: "https://lexfridman.com/teddy-atlas-transcript"
   },
   {
     title: "#405 – Jeff Bezos: Amazon and Blue Origin",
-    guest: "Amazon and Blue Origin",
-    uuid: "79b9ad06-3632-4899-98d4-6788c22c8eb5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_bezos.mp3"
+    guest: "Jeff Bezos",
+    uuid: "2853ca04-d3de-4378-84c4-0551ec028cc5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_bezos.mp3",
+    transcript: "https://lexfridman.com/jeff-bezos-transcript"
   },
   {
     title: "#404 – Lee Cronin: Controversial Nature Paper on Evolution of Life and Universe",
-    guest: "Controversial Nature Paper on Evolution of Life and Universe",
-    uuid: "dda6b390-ff6e-4395-8882-b8e321cb570e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_3.mp3"
+    guest: "Lee Cronin",
+    uuid: "9928d943-9ad4-4aaa-8513-9a05d2bd654e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_3.mp3",
+    transcript: "https://lexfridman.com/lee-cronin-transcript"
   },
   {
     title: "#403 – Lisa Randall: Dark Matter, Theoretical Physics, and Extinction Events",
-    guest: "Dark Matter, Theoretical Physics, and Extinction Events",
-    uuid: "bec5fe59-1936-4384-ab06-f1238a2335d1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_randall.mp3"
+    guest: "Lisa Randall",
+    uuid: "202aacc8-81a5-4144-bfbd-2105dc65a3a4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_randall.mp3",
+    transcript: "https://lexfridman.com/lisa-randall-transcript"
   },
   {
     title: "#402 – Michael Malice: Thanksgiving Pirate Special",
-    guest: "Thanksgiving Pirate Special",
-    uuid: "2869e7f3-70b4-4db7-a13d-67861bc5d745",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_7.mp3"
+    guest: "Michael Malice",
+    uuid: "b967a519-f6f0-4b39-a144-cae71f488309",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_7.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#401 – John Mearsheimer: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3",
-    guest: "Israel-Palestine, Russia-Ukraine, China, NATO, and WW3",
-    uuid: "24bb75d5-f238-4b8c-b429-f2719bd6fb77",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_mearsheimer.mp3"
+    guest: "John Mearsheimer",
+    uuid: "2bfd16c9-a001-47fe-8dc6-8c0e756f0b12",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_mearsheimer.mp3",
+    transcript: "https://lexfridman.com/john-mearsheimer-transcript"
   },
   {
     title: "#400 – Elon Musk: War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
-    guest: "War, AI, Aliens, Politics, Physics, Video Games, and Humanity",
-    uuid: "82d9f86f-4ea2-4349-b345-9a5954925a20",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_4.mp3"
+    guest: "Elon Musk",
+    uuid: "29fdd1d2-3b6a-4dc5-88b2-faa8fc0aff06",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_4.mp3",
+    transcript: "https://lexfridman.com/elon-musk-transcript"
   },
   {
     title: "#399 – Jared Kushner: Israel, Palestine, Hamas, Gaza, Iran, and the Middle East",
-    guest: "Israel, Palestine, Hamas, Gaza, Iran, and the Middle East",
-    uuid: "cc32dfd3-9824-4355-9067-867fdb2fef12",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jared_kushner.mp3"
+    guest: "Jared Kushner",
+    uuid: "80e1ede2-dd38-4ee0-b49e-f30659e499c7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jared_kushner.mp3",
+    transcript: "https://lexfridman.com/jared-kushner-transcript"
   },
   {
     title: "#398 – Mark Zuckerberg: First Interview in the Metaverse",
-    guest: "First Interview in the Metaverse",
-    uuid: "5bd5ea8b-7463-47f4-9292-1a1b2052b233",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_3.mp3"
+    guest: "Mark Zuckerberg",
+    uuid: "a35f8fc4-8faa-4780-9de0-d8b7d77cf882",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_3.mp3",
+    transcript: "https://lexfridman.com/mark-zuckerberg-transcript"
   },
   {
     title: "#397 – Greg Lukianoff: Cancel Culture, Deplatforming, Censorship & Free Speech",
-    guest: "Cancel Culture, Deplatforming, Censorship & Free Speech",
-    uuid: "1b6937ee-c5e2-42d2-adc8-4bbc84ebeaeb",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_greg_lukianoff.mp3"
+    guest: "Greg Lukianoff",
+    uuid: "ddf0e9e8-0dd5-4253-8ac5-9a95c8084716",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_greg_lukianoff.mp3",
+    transcript: "https://lexfridman.com/greg-lukianoff-transcript"
   },
   {
     title: "#396 – James Sexton: Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love",
-    guest: "Divorce Lawyer on Marriage, Relationships, Sex, Lies & Love",
-    uuid: "afc6549c-41b0-4b6f-9c87-0e9015bf0114",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3"
+    guest: "James Sexton",
+    uuid: "adc3bcaf-3416-4051-ad4c-ba52a13bc10c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3",
+    transcript: "https://lexfridman.com/james-sexton-transcript"
   },
   {
     title: "#395 – Walter Isaacson: Elon Musk, Steve Jobs, Einstein, Da Vinci & Ben Franklin",
-    guest: "Elon Musk, Steve Jobs, Einstein, Da Vinci & Ben Franklin",
-    uuid: "6bcc67f2-60fa-4aad-9981-fbd8d09cfb09",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_walter_isaacson.mp3"
+    guest: "Walter Isaacson",
+    uuid: "14685648-fc0c-46b5-9dd3-9d7b85008211",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_walter_isaacson.mp3",
+    transcript: "https://lexfridman.com/walter-isaacson-transcript"
   },
   {
     title: "#394 – Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature",
-    guest: "Biology, Art, and Science of Design & Engineering with Nature",
-    uuid: "ff973851-c09d-4f45-a2a5-eae9d4cd1909",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neri_oxman.mp3"
+    guest: "Neri Oxman",
+    uuid: "cac19f4e-0dde-4a70-8faf-c57db2d5189c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neri_oxman.mp3",
+    transcript: "https://lexfridman.com/neri-oxman-transcript"
   },
   {
     title: "#393 – Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love",
-    guest: "Relationships, Drama, Betrayal, Sex, and Love",
-    uuid: "ab46d379-ddda-4c0f-959d-7a1c206d42d0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_4.mp3"
+    guest: "Andrew Huberman",
+    uuid: "0e276ca0-6e7f-4d18-b4a8-a39429201d7b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_4.mp3",
+    transcript: "https://lexfridman.com/andrew-huberman-transcript"
   },
   {
     title: "#392 – Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans",
-    guest: "Life, Intelligence, Consciousness, AI & the Future of Humans",
-    uuid: "fc4b5079-e5b9-4b70-9415-8784e1ca1f00",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_3.mp3"
+    guest: "Joscha Bach",
+    uuid: "be1bb255-010b-4ca3-b738-f7fe9f4b812c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_3.mp3",
+    transcript: "https://lexfridman.com/joscha-bach-transcript"
   },
   {
     title: "#391 – Mohammed El-Kurd: Palestine",
-    guest: "Palestine",
-    uuid: "77d95e48-af78-49b2-8438-3029d8087449",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mohammed_el_kurd.mp3"
+    guest: "Mohammed El-Kurd",
+    uuid: "f745c363-8622-4441-9792-1f263159b852",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mohammed_el_kurd.mp3",
+    transcript: "https://lexfridman.com/mohammed-el-kurd-transcript"
   },
   {
     title: "#390 – Yuval Noah Harari: Human Nature, Intelligence, Power, and Conspiracies",
-    guest: "Human Nature, Intelligence, Power, and Conspiracies",
-    uuid: "31ceeb65-7e51-4dca-b781-dc44714cfd62",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yuval_noah_harari.mp3"
+    guest: "Yuval Noah Harari",
+    uuid: "6af98d6e-3d22-49bb-94d7-ff2688386321",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yuval_noah_harari.mp3",
+    transcript: "https://lexfridman.com/yuval-noah-harari-transcript"
   },
   {
     title: "#389 – Benjamin Netanyahu: Israel, Palestine, Power, Corruption, Hate, and Peace",
-    guest: "Israel, Palestine, Power, Corruption, Hate, and Peace",
-    uuid: "651cbab0-fff4-4537-88e7-28ce0c809ba8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_benjamin_netanyahu.mp3"
+    guest: "Benjamin Netanyahu",
+    uuid: "955b0c6b-9c69-4f4c-af3e-98133dd177b7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_benjamin_netanyahu.mp3",
+    transcript: "https://lexfridman.com/benjamin-netanyahu-transcript"
   },
   {
     title: "#388 – Robert F. Kennedy Jr: CIA, Power, Corruption, War, Freedom, and Meaning",
-    guest: "CIA, Power, Corruption, War, Freedom, and Meaning",
-    uuid: "f437e247-025d-4378-80ef-291519d27c2f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_f_kennedy_jr.mp3"
+    guest: "Robert F. Kennedy Jr",
+    uuid: "fbaa73f3-b55c-4b64-9951-73dbc6419af8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_f_kennedy_jr.mp3",
+    transcript: "https://lexfridman.com/robert-f-kennedy-jr-transcript"
   },
   {
     title: "#387 – George Hotz: Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God",
-    guest: "Tiny Corp, Twitter, AI Safety, Self-Driving, GPT, AGI & God",
-    uuid: "72010d06-c2ce-4359-8ad2-8346903e10f7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_3.mp3"
+    guest: "George Hotz",
+    uuid: "938eefe9-ff70-4459-88c1-5f159a169f11",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_3.mp3",
+    transcript: "https://lexfridman.com/george-hotz-transcript"
   },
   {
     title: "#386 – Marc Andreessen: Future of the Internet, Technology, and AI",
-    guest: "Future of the Internet, Technology, and AI",
-    uuid: "0589b4b7-800a-45b4-95ca-2300828bcb9b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen.mp3"
+    guest: "Marc Andreessen",
+    uuid: "c341e0f2-e547-4e2c-82f3-d9e4c1d4db54",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen.mp3",
+    transcript: "https://lexfridman.com/marc-andreessen-transcript"
   },
   {
     title: "#385 – Jimmy Wales: Wikipedia",
-    guest: "Wikipedia",
-    uuid: "35e19de8-f90c-446d-bc0e-2d2a10faaa35",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_wales.mp3"
+    guest: "Jimmy Wales",
+    uuid: "0a3a701f-454d-4cda-8d88-993be6866c19",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_wales.mp3",
+    transcript: "https://lexfridman.com/jimmy-wales-transcript"
   },
   {
     title: "#384 – Matthew McConaughey: Freedom, Truth, Family, Hardship, and Love",
-    guest: "Freedom, Truth, Family, Hardship, and Love",
-    uuid: "8b8e30f7-d56b-4866-9643-4c435d5d0c32",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_mcconaughey.mp3"
+    guest: "Matthew McConaughey",
+    uuid: "43ba0ed0-3b29-41cf-b68f-bdc02bb6d0f0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_mcconaughey.mp3",
+    transcript: "https://lexfridman.com/matthew-mcconaughey-transcript"
   },
   {
     title: "#383 – Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp",
-    guest: "Future of AI at Meta, Facebook, Instagram, and WhatsApp",
-    uuid: "58bf0cf9-a37c-49d0-a4d2-b1a8e74944e9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_2.mp3"
+    guest: "Mark Zuckerberg",
+    uuid: "15fc2877-fd3c-410d-bcf1-e2697c4c2093",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_2.mp3",
+    transcript: "https://lexfridman.com/mark-zuckerberg-transcript"
   },
   {
     title: "#382 – Bert Kreischer: Comedy, Drinking, Rogan, Segura, Churchill & Kim Jong Un",
-    guest: "Comedy, Drinking, Rogan, Segura, Churchill & Kim Jong Un",
-    uuid: "b2a8fe1a-6d0f-4122-a083-84685fb200c5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bert_kreischer.mp3"
+    guest: "Bert Kreischer",
+    uuid: "f1f9331e-da29-44a6-b763-5bf2dbf50e00",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bert_kreischer.mp3",
+    transcript: "https://lexfridman.com/bert-kreischer-transcript"
   },
   {
     title: "#381 – Chris Lattner: Future of Programming and AI",
-    guest: "Future of Programming and AI",
-    uuid: "0ba0ee33-810c-4988-840d-2e437aae62d4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_3.mp3"
+    guest: "Chris Lattner",
+    uuid: "77092b0a-d056-4b1f-b17a-c5b1913ab706",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_3.mp3",
+    transcript: "https://lexfridman.com/chris-lattner-transcript"
   },
   {
     title: "#380 – Neil Gershenfeld: Self-Replicating Robots and the Future of Fabrication",
-    guest: "Self-Replicating Robots and the Future of Fabrication",
-    uuid: "f3e3daa2-6d1f-4eee-b961-6107b592ddaa",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neil_gershenfeld.mp3"
+    guest: "Neil Gershenfeld",
+    uuid: "d25f2764-8fd8-4ea0-9db1-cc36e2272b82",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neil_gershenfeld.mp3",
+    transcript: "https://lexfridman.com/neil-gershenfeld-transcript"
   },
   {
     title: "#379 – Randall Kennedy: The N-Word – History of Race, Law, Politics, and Power",
-    guest: "The N-Word – History of Race, Law, Politics, and Power",
-    uuid: "1e208300-2a81-41de-b3a5-1c8cef19ca7c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_randall_kennedy.mp3"
+    guest: "Randall Kennedy",
+    uuid: "e1669c90-9d99-494f-86fd-d35598acba1b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_randall_kennedy.mp3",
+    transcript: "https://lexfridman.com/randall-kennedy-transcript"
   },
   {
     title: "#378 – Anna Frebel: Origin and Evolution of the Universe, Galaxies, and Stars",
-    guest: "Origin and Evolution of the Universe, Galaxies, and Stars",
-    uuid: "0188f5ed-475f-447f-82bf-f7fff29fd9ab",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anna_frebel.mp3"
+    guest: "Anna Frebel",
+    uuid: "585950e2-0c33-4e2e-8fc8-240415be9efe",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anna_frebel.mp3",
+    transcript: "https://lexfridman.com/anna-frebel-transcript"
   },
   {
     title: "#377 – Harvey Silverglate: Freedom of Speech",
-    guest: "Freedom of Speech",
-    uuid: "9501f1b1-a43a-4f6b-a9c9-27cdaa578369",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harvey_silverglate.mp3"
+    guest: "Harvey Silverglate",
+    uuid: "78ebb196-6662-4493-9daa-329e3fa9277e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harvey_silverglate.mp3",
+    transcript: "https://lexfridman.com/harvey-silverglate-transcript"
   },
   {
     title: "#376 – Stephen Wolfram: ChatGPT and the Nature of Truth, Reality & Computation",
-    guest: "ChatGPT and the Nature of Truth, Reality & Computation",
-    uuid: "acc30252-1ee8-4604-abf1-87794de0b8a4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_4.mp3"
+    guest: "Stephen Wolfram",
+    uuid: "ba1ff7a4-d94d-4f07-bf08-a07d6a5bc366",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_4.mp3",
+    transcript: "https://lexfridman.com/stephen-wolfram-transcript"
   },
   {
     title: "#375 – David Pakman: Politics of Trump, Biden, Bernie, AOC, Socialism & Wokeism",
-    guest: "Politics of Trump, Biden, Bernie, AOC, Socialism & Wokeism",
-    uuid: "68597dd5-8ce0-4b12-a090-1badd35708f2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_pakman.mp3"
+    guest: "David Pakman",
+    uuid: "63e53353-4913-426f-93fb-0f6f8c63488d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_pakman.mp3",
+    transcript: "https://lexfridman.com/david-pakman-transcript"
   },
   {
     title: "#374 – Robert Playter: Boston Dynamics CEO on Humanoid and Legged Robotics",
-    guest: "Boston Dynamics CEO on Humanoid and Legged Robotics",
-    uuid: "bb377302-348d-4da7-a214-5a771109e9f1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_playter.mp3"
+    guest: "Robert Playter",
+    uuid: "549744bf-29f1-444d-b445-6c3c35498668",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_playter.mp3",
+    transcript: "https://lexfridman.com/robert-playter-transcript"
   },
   {
     title: "#373 – Manolis Kellis: Evolution of Human Civilization and Superintelligent AI",
-    guest: "Evolution of Human Civilization and Superintelligent AI",
-    uuid: "6bb50429-5048-44c5-a801-ca0bbd94475c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_5.mp3"
+    guest: "Manolis Kellis",
+    uuid: "14b338d3-6332-4f16-8047-6eb1afc65a29",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_5.mp3",
+    transcript: "https://lexfridman.com/manolis-kellis-transcript"
   },
   {
     title: "#372 – Simone Giertz: Queen of Sh*tty Robots, Innovative Engineering, and Design",
-    guest: "Queen of Sh*tty Robots, Innovative Engineering, and Design",
-    uuid: "03e8e481-0a8e-4d03-91b9-74111594f959",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simone_giertz.mp3"
+    guest: "Simone Giertz",
+    uuid: "28eeb108-d288-47f0-9947-ac36a8973e0b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simone_giertz.mp3",
+    transcript: "https://lexfridman.com/simone-giertz-transcript"
   },
   {
     title: "#371 – Max Tegmark: The Case for Halting AI Development",
-    guest: "The Case for Halting AI Development",
-    uuid: "a0517cc1-705b-4340-9532-e3c5310a8c6b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_3.mp3"
+    guest: "Max Tegmark",
+    uuid: "f4e92136-110d-436a-a196-c5e036d7cb7b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_3.mp3",
+    transcript: "https://lexfridman.com/max-tegmark-transcript"
   },
   {
     title: "#370 – Edward Frenkel: Reality is a Paradox – Mathematics, Physics, Truth & Love",
-    guest: "Reality is a Paradox – Mathematics, Physics, Truth & Love",
-    uuid: "e86ab1f3-b422-4a4f-bd0b-5b1d8def6958",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_edward_frenkel.mp3"
+    guest: "Edward Frenkel",
+    uuid: "028957d4-f36e-4130-9f81-58e00e94ceb4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_edward_frenkel.mp3",
+    transcript: "https://lexfridman.com/edward-frenkel-transcript"
   },
   {
     title: "#369 – Paul Rosolie: Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca",
-    guest: "Amazon Jungle, Uncontacted Tribes, Anacondas, and Ayahuasca",
-    uuid: "414266f2-5cca-4241-9c53-ce12b25ea996",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_rosolie.mp3"
+    guest: "Paul Rosolie",
+    uuid: "58844108-2fa9-4426-afb9-e6a6c0de6bb0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_rosolie.mp3",
+    transcript: "https://lexfridman.com/paul-rosolie-transcript"
   },
   {
     title: "#368 – Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization",
-    guest: "Dangers of AI and the End of Human Civilization",
-    uuid: "0c483b94-bb71-4af8-8f9a-7ebc86cd41a5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eliezer_yudkowsky.mp3"
+    guest: "Eliezer Yudkowsky",
+    uuid: "794ceb7f-6362-44ec-9fb6-5b75a4710d10",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eliezer_yudkowsky.mp3",
+    transcript: "https://lexfridman.com/eliezer-yudkowsky-transcript"
   },
   {
     title: "#367 – Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI",
-    guest: "OpenAI CEO on GPT-4, ChatGPT, and the Future of AI",
-    uuid: "dbb9907e-d38f-4ae4-adb2-c8faa82255fe",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman.mp3"
+    guest: "Sam Altman",
+    uuid: "0bd951e2-e16a-4c8d-983a-9d1b5553f24c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman.mp3",
+    transcript: "https://lexfridman.com/sam-altman-transcript"
   },
   {
     title: "#366 – Shannon Curry: Johnny Depp & Amber Heard Trial, Marriage, Dating & Love",
-    guest: "Johnny Depp & Amber Heard Trial, Marriage, Dating & Love",
-    uuid: "4d92b9cb-4ef1-43db-a3aa-8ec33607906b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_shannon_curry.mp3"
+    guest: "Shannon Curry",
+    uuid: "2ab2afaa-6d50-471f-b55a-9fee69557ce0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_shannon_curry.mp3",
+    transcript: "https://lexfridman.com/shannon-curry-transcript"
   },
   {
     title: "#365 – Sam Harris: Trump, Pandemic, Twitter, Elon, Bret, IDW, Kanye, AI & UFOs",
-    guest: "Trump, Pandemic, Twitter, Elon, Bret, IDW, Kanye, AI & UFOs",
-    uuid: "d89b516f-bfcc-4765-82e5-17c28e296e92",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris_2.mp3"
+    guest: "Sam Harris",
+    uuid: "cab01b8a-fb34-45de-a69f-f5d144254d8c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris_2.mp3",
+    transcript: "https://lexfridman.com/sam-harris-transcript"
   },
   {
     title: "#364 – Chris Voss: FBI Hostage Negotiator",
-    guest: "FBI Hostage Negotiator",
-    uuid: "1c636fed-713e-4b93-a659-f35eed37c4e6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_voss.mp3"
+    guest: "Chris Voss",
+    uuid: "6acae259-aee5-4f7a-9bae-efbfc105a239",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_voss.mp3",
+    transcript: "https://lexfridman.com/chris-voss-transcript"
   },
   {
     title: "#363 – B-Team Jiu Jitsu: Craig Jones, Nicky Rod, and Nicky Ryan",
-    guest: "Craig Jones, Nicky Rod, and Nicky Ryan",
-    uuid: "3671761f-01e4-43f2-aa7d-d72c7c3bad42",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_b_team.mp3"
+    guest: "B-Team Jiu Jitsu",
+    uuid: "f7dde7bf-60e6-43e7-a8dc-2b312b9cb695",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_b_team.mp3",
+    transcript: "https://lexfridman.com/b-team-jiu-jitsu-transcript"
   },
   {
     title: "#362 – Ginni Rometty: IBM CEO on Leadership, Power, and Adversity",
-    guest: "IBM CEO on Leadership, Power, and Adversity",
-    uuid: "c162db8a-378f-46f2-ad1f-23d45edac146",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ginni_rometty.mp3"
+    guest: "Ginni Rometty",
+    uuid: "a6b86d5c-b59d-45c5-aa55-aa8bbe0b76e4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ginni_rometty.mp3",
+    transcript: "https://lexfridman.com/ginni-rometty-transcript"
   },
   {
     title: "#361 – Aaron Smith-Levin: Scientology",
-    guest: "Scientology",
-    uuid: "5e8d954b-eeff-4aff-b6a5-76f0dbe35cbe",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aaron_smith_levin.mp3"
+    guest: "Aaron Smith-Levin",
+    uuid: "aafa03c1-889b-4e7c-9cf7-608be6187911",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aaron_smith_levin.mp3",
+    transcript: "https://lexfridman.com/aaron-smith-levin-transcript"
   },
   {
     title: "#360 – Tim Urban: Tribalism, Marxism, Liberalism, Social Justice, and Politics",
-    guest: "Tribalism, Marxism, Liberalism, Social Justice, and Politics",
-    uuid: "45df0917-50ba-41d1-88a5-df71f6235ae5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3"
+    guest: "Tim Urban",
+    uuid: "8f9370e6-89b7-477c-96a9-99eb637652eb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3",
+    transcript: "https://lexfridman.com/tim-urban-transcript"
   },
   {
     title: "#359 – Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics",
-    guest: "Black Holes, Quantum Gravity, and Theoretical Physics",
-    uuid: "8f83a1e5-217b-451f-aca1-674111c15d93",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_strominger.mp3"
+    guest: "Andrew Strominger",
+    uuid: "88f80ffe-233d-40f8-89d9-e46ea86d195a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_strominger.mp3",
+    transcript: "https://lexfridman.com/andrew-strominger-transcript"
   },
   {
     title: "#358 – Aella: Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality",
-    guest: "Sex Work, OnlyFans, Porn, Escorting, Dating, and Human Sexuality",
-    uuid: "ae6f3e12-6a3f-42c9-9f97-9d1ca46c0d12",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aella.mp3"
+    guest: "Aella",
+    uuid: "796dbe20-dfda-4fec-9b7d-c679da446930",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aella.mp3",
+    transcript: "https://lexfridman.com/aella-transcript"
   },
   {
     title: "#357 – Paul Conti: Narcissism, Sociopathy, Envy, and the Nature of Good and Evil",
-    guest: "Narcissism, Sociopathy, Envy, and the Nature of Good and Evil",
-    uuid: "221394e0-888d-4665-b99f-5466a6c94c04",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_conti.mp3"
+    guest: "Paul Conti",
+    uuid: "fd2b1668-0373-4951-87a3-60ccd7fbacd3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_conti.mp3",
+    transcript: "https://lexfridman.com/paul-conti-transcript"
   },
   {
     title: "#356 – Tim Dodd: SpaceX, Starship, Rocket Engines, and Future of Space Travel",
-    guest: "SpaceX, Starship, Rocket Engines, and Future of Space Travel",
-    uuid: "181c3b39-6aad-47e7-97bf-d87dad9ad17c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dodd.mp3"
+    guest: "Tim Dodd",
+    uuid: "20eeafc0-8321-4c7f-b02c-0d5bba66897b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dodd.mp3",
+    transcript: "https://lexfridman.com/tim-dodd-transcript"
   },
   {
     title: "#355 – David Kipping: Alien Civilizations and Habitable Worlds",
-    guest: "Alien Civilizations and Habitable Worlds",
-    uuid: "bef676a4-95b9-4c2c-9739-404f75320df3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_kipping.mp3"
+    guest: "David Kipping",
+    uuid: "dabfb7ab-b9a2-487a-a4b9-6753a34296c6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_kipping.mp3",
+    transcript: "https://lexfridman.com/david-kipping-transcript"
   },
   {
     title: "#354 – Jeremi Suri: American Civil War",
-    guest: "American Civil War",
-    uuid: "0074a1d6-594e-45a7-a140-f594bfef780e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri_2.mp3"
+    guest: "Jeremi Suri",
+    uuid: "5eefa1a7-864f-42e4-987b-7450dd8a069b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri_2.mp3",
+    transcript: "https://lexfridman.com/jeremi-suri-transcript"
   },
   {
     title: "#353 – Dennis Whyte: Nuclear Fusion and the Future of Energy",
-    guest: "Nuclear Fusion and the Future of Energy",
-    uuid: "ab7c3e77-b026-43ca-8b28-2a383e62e2f8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dennis_whyte.mp3"
+    guest: "Dennis Whyte",
+    uuid: "571592a5-3724-47ff-9f5c-4debab0acf43",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dennis_whyte.mp3",
+    transcript: "https://lexfridman.com/dennis-whyte-transcript"
   },
   {
     title: "#352 – Omar Suleiman: Islam",
-    guest: "Islam",
-    uuid: "d8943709-a5b5-44d1-9e61-04aa19dfe301",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_omar_suleiman.mp3"
+    guest: "Omar Suleiman",
+    uuid: "3972503c-c832-46a0-8cf1-62d6683e95a3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_omar_suleiman.mp3",
+    transcript: "https://lexfridman.com/omar-suleiman-transcript"
   },
   {
     title: "#351 – MrBeast: Future of YouTube, Twitter, TikTok, and Instagram",
-    guest: "Future of YouTube, Twitter, TikTok, and Instagram",
-    uuid: "0dd45e81-dc84-466c-92dd-2cbbe44ccc2d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mrbeast.mp3"
+    guest: "MrBeast",
+    uuid: "30ceda87-2779-4271-9e8b-6f087d611ad7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mrbeast.mp3",
+    transcript: "https://lexfridman.com/mrbeast-transcript"
   },
   {
     title: "#350 – Betül Kaçar: Origin of Life, Ancient DNA, Panspermia, and Aliens",
-    guest: "Origin of Life, Ancient DNA, Panspermia, and Aliens",
-    uuid: "43341e71-88a0-45c4-8eb1-7131731604a1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_betul_kacar.mp3"
+    guest: "Betül Kaçar",
+    uuid: "854625eb-0ae7-4978-ad45-65270c016dfd",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_betul_kacar.mp3",
+    transcript: "https://lexfridman.com/betl-kaar-transcript"
   },
   {
     title: "#349 – Bhaskar Sunkara: The Case for Socialism",
-    guest: "The Case for Socialism",
-    uuid: "81932b91-b1a6-4e7f-a3e4-2b4963fcc3f5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bhaskar_sunkara.mp3"
+    guest: "Bhaskar Sunkara",
+    uuid: "29fe3a1e-4f65-4380-aea3-4022c1acf24b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bhaskar_sunkara.mp3",
+    transcript: "https://lexfridman.com/bhaskar-sunkara-transcript"
   },
   {
     title: "#348 – Nathalie Cabrol: Search for Alien Life",
-    guest: "Search for Alien Life",
-    uuid: "e8d19602-2539-4d61-bf4f-74ac25b1c231",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nathalie_cabrol.mp3"
+    guest: "Nathalie Cabrol",
+    uuid: "94d2440f-cd48-4306-a90f-a743de9b89c9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nathalie_cabrol.mp3",
+    transcript: "https://lexfridman.com/nathalie-cabrol-transcript"
   },
   {
     title: "#347 – Michael Malice: Christmas Special",
-    guest: "Christmas Special",
-    uuid: "4fd45177-7cb9-4860-b91b-7a33692b4ae9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_6.mp3"
+    guest: "Michael Malice",
+    uuid: "c89c50b7-468e-427f-b668-e1e1cabfd3f3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_6.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#346 – Ed Calderon: Mexican Drug Cartels",
-    guest: "Mexican Drug Cartels",
-    uuid: "62191cb3-ee7e-45d3-bda2-a35fb7dc7001",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ed_calderon.mp3"
+    guest: "Ed Calderon",
+    uuid: "69ddc300-99cb-4f38-a724-205307875480",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ed_calderon.mp3",
+    transcript: "https://lexfridman.com/ed-calderon-transcript"
   },
   {
     title: "#345 – Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power",
-    guest: "SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power",
-    uuid: "691d151d-d9af-4995-8a45-be50585425fc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_coffeezilla.mp3"
+    guest: "Coffeezilla",
+    uuid: "eba4bfe6-42b8-41ba-9e2e-70a3a71c41f2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_coffeezilla.mp3",
+    transcript: "https://lexfridman.com/coffeezilla-transcript"
   },
   {
     title: "#344 – Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation",
-    guest: "AI vs Humans in Poker and Games of Strategic Negotiation",
-    uuid: "242d4074-ea13-4e27-96ca-d6a524179b4c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_brown.mp3"
+    guest: "Noam Brown",
+    uuid: "2ecdc781-43a9-49e0-99ed-43abcc5f2dc0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_brown.mp3",
+    transcript: "https://lexfridman.com/noam-brown-transcript"
   },
   {
     title: "#343 – Roger Gracie: Greatest Jiu Jitsu Competitor of All Time",
-    guest: "Greatest Jiu Jitsu Competitor of All Time",
-    uuid: "a2b67eaf-cf79-439c-9091-1ee45b03d45b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_gracie.mp3"
+    guest: "Roger Gracie",
+    uuid: "cc7e967d-fe53-4356-b1ed-cb756f89d2c3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_gracie.mp3",
+    transcript: "https://lexfridman.com/roger-gracie-transcript"
   },
   {
     title: "#342 – Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield",
-    guest: "Skyrim, Elder Scrolls 6, Fallout, and Starfield",
-    uuid: "441eccd3-c7f7-48f2-8055-9deadd4cf3b7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_todd_howard.mp3"
+    guest: "Todd Howard",
+    uuid: "51b2bfa0-5943-41aa-9809-9d54971711e2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_todd_howard.mp3",
+    transcript: "https://lexfridman.com/todd-howard-transcript"
   },
   {
     title: "#341 – Guido van Rossum: Python and the Future of Programming",
-    guest: "Python and the Future of Programming",
-    uuid: "9150cf99-ebc0-4ca6-a782-489f4f108aeb",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_guido_van_rossum_2.mp3"
+    guest: "Guido van Rossum",
+    uuid: "50acce45-41cf-4f8d-be82-429a8f0f9179",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_guido_van_rossum_2.mp3",
+    transcript: "https://lexfridman.com/guido-van-rossum-transcript"
   },
   {
     title: "#340 – Chris Tarbell: FBI Agent Who Took Down Silk Road",
-    guest: "FBI Agent Who Took Down Silk Road",
-    uuid: "14ef66de-7903-4e1e-9999-acf7e8936da7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_tarbell.mp3"
+    guest: "Chris Tarbell",
+    uuid: "6732f2fc-911a-4a42-bfa2-9f16cab6a2e1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_tarbell.mp3",
+    transcript: "https://lexfridman.com/chris-tarbell-transcript"
   },
   {
     title: "#339 – Climate Change Debate: Bjørn Lomborg and Andrew Revkin",
-    guest: "Bjørn Lomborg and Andrew Revkin",
-    uuid: "e383803c-acf4-4bfe-9b3a-244d265740e0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_climate_change_debate.mp3"
+    guest: "Climate Change Debate",
+    uuid: "e0a10721-2a57-40b2-9918-ff1cf0a74690",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_climate_change_debate.mp3",
+    transcript: "https://lexfridman.com/climate-change-debate-transcript"
   },
   {
     title: "#338 – Chamath Palihapitiya: Money, Success, Startups, Energy, Poker & Happiness",
-    guest: "Money, Success, Startups, Energy, Poker & Happiness",
-    uuid: "6cefb4c4-7af3-4faa-a0b0-c886de9504e2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chamath_palihapitiya.mp3"
+    guest: "Chamath Palihapitiya",
+    uuid: "64e5785e-a1ec-40fb-94be-87e20499b1b3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chamath_palihapitiya.mp3",
+    transcript: "https://lexfridman.com/chamath-palihapitiya-transcript"
   },
   {
     title: "#337 – Destiny: Politics, Free Speech, Controversy, Sex, War, and Relationships",
-    guest: "Politics, Free Speech, Controversy, Sex, War, and Relationships",
-    uuid: "0bba8c83-a3f8-412f-bb1a-3bf9a64b9911",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_destiny.mp3"
+    guest: "Destiny",
+    uuid: "f13d3ac5-9369-40bc-9c8c-4b978f93fc4a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_destiny.mp3",
+    transcript: "https://lexfridman.com/destiny-transcript"
   },
   {
     title: "#336 – Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War",
-    guest: "Politics, Kanye, Trump, Biden, Hitler, Extremism, and War",
-    uuid: "b9d8f335-1d75-4622-a13b-d5c0ed22fa84",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_shapiro.mp3"
+    guest: "Ben Shapiro",
+    uuid: "3659fb9b-f487-42c6-ae39-fb92a6e0becc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_shapiro.mp3",
+    transcript: "https://lexfridman.com/ben-shapiro-transcript"
   },
   {
     title: "#335 – Fiona Hill: Vladimir Putin and Donald Trump",
-    guest: "Vladimir Putin and Donald Trump",
-    uuid: "e4bc127c-a003-420b-a0e5-bb09f540906e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_fiona_hill.mp3"
+    guest: "Fiona Hill",
+    uuid: "27bdd6c2-7d19-4287-8c29-6eacb1062a54",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_fiona_hill.mp3",
+    transcript: "https://lexfridman.com/fiona-hill-transcript"
   },
   {
     title: "#334 – Abbas Amanat: Iran Protests, Mahsa Amini, History, CIA & Nuclear Weapons",
-    guest: "Iran Protests, Mahsa Amini, History, CIA & Nuclear Weapons",
-    uuid: "48be4618-ad97-4746-b4e6-64fd5578c7cc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_abbas_amanat.mp3"
+    guest: "Abbas Amanat",
+    uuid: "d2564135-aa79-42a7-89de-cf864d88abec",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_abbas_amanat.mp3",
+    transcript: "https://lexfridman.com/abbas-amanat-transcript"
   },
   {
     title: "#333 – Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI",
-    guest: "Tesla AI, Self-Driving, Optimus, Aliens, and AGI",
-    uuid: "bdad9867-775b-40ce-9d68-56592c677bca",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrej_karpathy.mp3"
+    guest: "Andrej Karpathy",
+    uuid: "e3d15447-71b2-4a65-87c7-e80a5ad7d50c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrej_karpathy.mp3",
+    transcript: "https://lexfridman.com/andrej-karpathy-transcript"
   },
   {
     title: "#332 – Kanye ‘Ye’ West Interview",
-    guest: "#332 – Kanye ‘Ye’ West Interview",
-    uuid: "e13d04ba-71a5-462b-98f6-a07be327884c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ye_aka_kanye_west.mp3"
+    guest: "Kanye ‘Ye’ West Interview",
+    uuid: "fa13d3f0-b743-4ec0-85eb-8512ce077216",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ye_aka_kanye_west.mp3",
+    transcript: "https://lexfridman.com/kanye-ye-west-interview-transcript"
   },
   {
     title: "#331 – Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA",
-    guest: "How to Fix Government, Twitter, Science, and the FDA",
-    uuid: "d826b7eb-c988-4d40-b87b-5f1f5bd43a1d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_balaji_srinivasan.mp3"
+    guest: "Balaji Srinivasan",
+    uuid: "e49cc509-c86a-4214-b180-0a58a9238bc5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_balaji_srinivasan.mp3",
+    transcript: "https://lexfridman.com/balaji-srinivasan-transcript"
   },
   {
     title: "#330 – Hikaru Nakamura: Chess, Magnus, Kasparov, and the Psychology of Greatness",
-    guest: "Chess, Magnus, Kasparov, and the Psychology of Greatness",
-    uuid: "bc227a5a-357c-4229-98ad-e64a47010f0f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_hikaru_nakamura.mp3"
+    guest: "Hikaru Nakamura",
+    uuid: "48540f67-a8f8-49df-acb4-530df500fc83",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_hikaru_nakamura.mp3",
+    transcript: "https://lexfridman.com/hikaru-nakamura-transcript"
   },
   {
     title: "#329 – Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT",
-    guest: "Social Robots, Ethics, Privacy and the Future of MIT",
-    uuid: "8d2d6513-d16d-4f34-b185-6405b22f31d4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kate_darling.mp3"
+    guest: "Kate Darling",
+    uuid: "d9aa313e-27e4-4bd3-81c4-26598189af99",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kate_darling.mp3",
+    transcript: "https://lexfridman.com/kate-darling-transcript"
   },
   {
     title: "#328 – John Danaher: Submission Grappling, ADCC, Animal Combat, and Knives",
-    guest: "Submission Grappling, ADCC, Animal Combat, and Knives",
-    uuid: "7460b023-949c-4b5f-b703-c6cc46a3f10f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher_3.mp3"
+    guest: "John Danaher",
+    uuid: "4d080a81-2714-4e48-a6f9-fc480d091ae6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher_3.mp3",
+    transcript: "https://lexfridman.com/john-danaher-transcript"
   },
   {
     title: "#327 – GothamChess: Hans Niemann, Magnus Carlsen, Cheating Scandal & Chess Bots",
-    guest: "Hans Niemann, Magnus Carlsen, Cheating Scandal & Chess Bots",
-    uuid: "68495811-b7e4-43e8-8117-3892dbfb6f6e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gothamchess.mp3"
+    guest: "GothamChess",
+    uuid: "492e5b09-3929-440e-afb0-466474681e47",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gothamchess.mp3",
+    transcript: "https://lexfridman.com/gothamchess-transcript"
   },
   {
     title: "#326 – Annaka Harris: Free Will, Consciousness, and the Nature of Reality",
-    guest: "Free Will, Consciousness, and the Nature of Reality",
-    uuid: "db6569c9-e566-4958-805c-247f708d9d52",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_annaka_harris.mp3"
+    guest: "Annaka Harris",
+    uuid: "5e7336e9-cb9f-4b93-9d95-5bf907e8e224",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_annaka_harris.mp3",
+    transcript: "https://lexfridman.com/annaka-harris-transcript"
   },
   {
     title: "#325 – Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots",
-    guest: "Biology, Life, Aliens, Evolution, Embryogenesis & Xenobots",
-    uuid: "6c28da8f-22e8-4090-9f0f-07fa265f7ac2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_levin.mp3"
+    guest: "Michael Levin",
+    uuid: "c7f46470-ec26-45e6-beb3-3963a1b7b03d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_levin.mp3",
+    transcript: "https://lexfridman.com/michael-levin-transcript"
   },
   {
     title: "#324 – Daniel Negreanu: Poker",
-    guest: "Poker",
-    uuid: "9c5fa970-4d12-4607-be91-cc6823888ae7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_negreanu.mp3"
+    guest: "Daniel Negreanu",
+    uuid: "5e3423e5-8d2e-4140-8be4-aac8bfa3defa",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_negreanu.mp3",
+    transcript: "https://lexfridman.com/daniel-negreanu-transcript"
   },
   {
     title: "#323 – Will Sasso: Comedy, MADtv, AI, Friendship, Madness, and Pro Wrestling",
-    guest: "Comedy, MADtv, AI, Friendship, Madness, and Pro Wrestling",
-    uuid: "ceae4e4f-fce3-4982-9382-b6d6d7368cc5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_will_sasso.mp3"
+    guest: "Will Sasso",
+    uuid: "63731c26-f65a-4ddd-b379-94953552ce6a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_will_sasso.mp3",
+    transcript: "https://lexfridman.com/will-sasso-transcript"
   },
   {
     title: "#322 – Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars",
-    guest: "Emotion AI, Social Robots, and Self-Driving Cars",
-    uuid: "1fe4acdc-9aa1-406f-8e55-a8f0f195188d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rana_el_kaliouby.mp3"
+    guest: "Rana el Kaliouby",
+    uuid: "c6750dcd-2989-4fe7-8b8d-9bd1228585b5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rana_el_kaliouby.mp3",
+    transcript: "https://lexfridman.com/rana-el-kaliouby-transcript"
   },
   {
     title: "#321 – Ray Kurzweil: Singularity, Superintelligence, and Immortality",
-    guest: "Singularity, Superintelligence, and Immortality",
-    uuid: "e87e1b51-0e07-4999-9144-9da9282e3cb7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_kurzweil.mp3"
+    guest: "Ray Kurzweil",
+    uuid: "2534035c-ec4c-456c-82c1-5259db097e0b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_kurzweil.mp3",
+    transcript: "https://lexfridman.com/ray-kurzweil-transcript"
   },
   {
     title: "#320 – Christopher Capozzola: World War I, Ideology, Propaganda, and Politics",
-    guest: "World War I, Ideology, Propaganda, and Politics",
-    uuid: "225438a7-ddcb-4ad0-ace5-f23ab406e228",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_capozzola.mp3"
+    guest: "Christopher Capozzola",
+    uuid: "e7ce0dc2-8072-4425-9d9d-cbe5dbf55403",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_capozzola.mp3",
+    transcript: "https://lexfridman.com/christopher-capozzola-transcript"
   },
   {
     title: "#319 – Botez Sisters: Chess, Streaming, and Fame",
-    guest: "Chess, Streaming, and Fame",
-    uuid: "2ff49c27-104b-4d00-b5fe-00647a247529",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_botez_sisters.mp3"
+    guest: "Botez Sisters",
+    uuid: "6b1fa6f5-b022-44e0-9d48-ff6789ac60d5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_botez_sisters.mp3",
+    transcript: "https://lexfridman.com/botez-sisters-transcript"
   },
   {
     title: "#318 – Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness",
-    guest: "Origin of Life, Evolution, Aliens, Biology, and Consciousness",
-    uuid: "52aed7b8-64eb-48e7-bf1b-3b5ad0791a66",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_lane.mp3"
+    guest: "Nick Lane",
+    uuid: "db70eddb-48ab-4b2f-aecc-cc1e45b72af1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_lane.mp3",
+    transcript: "https://lexfridman.com/nick-lane-transcript"
   },
   {
     title: "#317 – John Vervaeke: Meaning Crisis, Atheism, Religion & the Search for Wisdom",
-    guest: "Meaning Crisis, Atheism, Religion & the Search for Wisdom",
-    uuid: "bcc971f3-8edc-4d15-a70e-874fe68bfc68",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_vervaeke.mp3"
+    guest: "John Vervaeke",
+    uuid: "66774641-fb81-45b8-a617-83c653000795",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_vervaeke.mp3",
+    transcript: "https://lexfridman.com/john-vervaeke-transcript"
   },
   {
     title: "#316 – Noam Chomsky: Putin, Ukraine, China, and Nuclear War",
-    guest: "Putin, Ukraine, China, and Nuclear War",
-    uuid: "886149a9-d50b-4c55-b2f4-9053ba0807ed",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky_2.mp3"
+    guest: "Noam Chomsky",
+    uuid: "08174af1-27af-4d68-833e-42cb189f7754",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky_2.mp3",
+    transcript: "https://lexfridman.com/noam-chomsky-transcript"
   },
   {
     title: "#315 – Magnus Carlsen: Greatest Chess Player of All Time",
-    guest: "Greatest Chess Player of All Time",
-    uuid: "bdf81831-38a2-4862-b812-143c4d3b45fd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magnus_carlsen.mp3"
+    guest: "Magnus Carlsen",
+    uuid: "a25ac6bf-d8f5-4c82-9b73-b4967629cf62",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magnus_carlsen.mp3",
+    transcript: "https://lexfridman.com/magnus-carlsen-transcript"
   },
   {
     title: "#314 – Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens & Existential Risk",
-    guest: "Poker, Game Theory, AI, Simulation, Aliens & Existential Risk",
-    uuid: "81842d42-8653-40f2-9f5e-0c621a8a5ee7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_liv_boeree.mp3"
+    guest: "Liv Boeree",
+    uuid: "3f5fff7c-7429-4788-8e05-5e6ac1030077",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_liv_boeree.mp3",
+    transcript: "https://lexfridman.com/liv-boeree-transcript"
   },
   {
     title: "#313 – Jordan Peterson: Life, Death, Power, Fame, and Meaning",
-    guest: "Life, Death, Power, Fame, and Meaning",
-    uuid: "004a1831-8087-405d-817b-34ee9dab2356",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson.mp3"
+    guest: "Jordan Peterson",
+    uuid: "d7930c57-143b-41ee-81b0-26f4352e05e5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson.mp3",
+    transcript: "https://lexfridman.com/jordan-peterson-transcript"
   },
   {
     title: "#312 – Duncan Trussell: Comedy, Sentient Robots, Suffering, Love & Burning Man",
-    guest: "Comedy, Sentient Robots, Suffering, Love & Burning Man",
-    uuid: "3d9b23b0-c0df-4d40-ae87-5a6da6a45f17",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_duncan_trussell.mp3"
+    guest: "Duncan Trussell",
+    uuid: "08f46e6c-7316-4158-bf98-92dfdb967ae3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_duncan_trussell.mp3",
+    transcript: "https://lexfridman.com/duncan-trussell-transcript"
   },
   {
     title: "#311 – Magatte Wade: Africa, Capitalism, Communism, and the Future of Humanity",
-    guest: "Africa, Capitalism, Communism, and the Future of Humanity",
-    uuid: "ddf0807c-ea1b-4006-b382-31dbbee1a141",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magatte_wade.mp3"
+    guest: "Magatte Wade",
+    uuid: "bef0aaa6-262a-4338-9b5c-10fe57cdab87",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magatte_wade.mp3",
+    transcript: "https://lexfridman.com/magatte-wade-transcript"
   },
   {
     title: "#310 – Andrew Bustamante: CIA Spy",
-    guest: "CIA Spy",
-    uuid: "45cfa19f-5887-4f16-afab-09cfe8ff5e2d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_bustamante.mp3"
+    guest: "Andrew Bustamante",
+    uuid: "970909bb-f227-476a-a7da-ff1d41f73115",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_bustamante.mp3",
+    transcript: "https://lexfridman.com/andrew-bustamante-transcript"
   },
   {
     title: "#309 – John Carmack: Doom, Quake, VR, AGI, Programming, Video Games, and Rockets",
-    guest: "Doom, Quake, VR, AGI, Programming, Video Games, and Rockets",
-    uuid: "1ec03bb3-e734-488d-ab86-f618c500fe63",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_carmack.mp3"
+    guest: "John Carmack",
+    uuid: "46ed38a9-ee2d-49f7-ba9d-847f719cec65",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_carmack.mp3",
+    transcript: "https://lexfridman.com/john-carmack-transcript"
   },
   {
     title: "#308 – Ryan Graves: UFOs, Fighter Jets, and Aliens",
-    guest: "UFOs, Fighter Jets, and Aliens",
-    uuid: "a063f8a5-4e21-4a21-8cfe-94ca4aebdb68",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_graves.mp3"
+    guest: "Ryan Graves",
+    uuid: "5ca7e4c6-de45-4064-a204-4321be4daf4b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_graves.mp3",
+    transcript: "https://lexfridman.com/ryan-graves-transcript"
   },
   {
     title: "#307 – Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation",
-    guest: "Coinbase, Cryptocurrency, and Government Regulation",
-    uuid: "4b81b116-2eaa-4493-b83f-7e4b71d3dd61",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_armstrong.mp3"
+    guest: "Brian Armstrong",
+    uuid: "bafb1c7b-a057-48e7-a46a-17d41e80c2f6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_armstrong.mp3",
+    transcript: "https://lexfridman.com/brian-armstrong-transcript"
   },
   {
     title: "#306 – Oriol Vinyals: Deep Learning and Artificial General Intelligence",
-    guest: "Deep Learning and Artificial General Intelligence",
-    uuid: "abf8a0a1-49c3-48a5-9dc1-4a2d293520ac",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oriol_vinyals_2.mp3"
+    guest: "Oriol Vinyals",
+    uuid: "979261cf-ae48-4c61-9c83-c0096b005b75",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oriol_vinyals_2.mp3",
+    transcript: "https://lexfridman.com/oriol-vinyals-transcript"
   },
   {
     title: "#305 – Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang",
-    guest: "Black Holes, Alien Life, Dark Matter, and the Big Bang",
-    uuid: "a3ac3167-4ac2-4c30-8a2b-963a92e15fbe",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_martin_rees.mp3"
+    guest: "Martin Rees",
+    uuid: "5f40aec7-3c34-4664-8191-6b8510e92c87",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_martin_rees.mp3",
+    transcript: "https://lexfridman.com/martin-rees-transcript"
   },
   {
     title: "#304 – Bishop Robert Barron: Christianity and the Catholic Church",
-    guest: "Christianity and the Catholic Church",
-    uuid: "15fa0e3c-32a7-47d0-8995-f2220465d126",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_barron.mp3"
+    guest: "Bishop Robert Barron",
+    uuid: "afa56a0f-e193-4cf1-974d-1865d03dfd5f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_barron.mp3",
+    transcript: "https://lexfridman.com/bishop-robert-barron-transcript"
   },
   {
     title: "#303 – Steve Keen: Marxism, Capitalism, and Economics",
-    guest: "Marxism, Capitalism, and Economics",
-    uuid: "ce3c3549-4e83-4550-951f-dfc4ccef16d8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_keen.mp3"
+    guest: "Steve Keen",
+    uuid: "c9ed92b6-0452-4f5d-873e-664f13404907",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_keen.mp3",
+    transcript: "https://lexfridman.com/steve-keen-transcript"
   },
   {
     title: "#302 – Richard Haier: IQ Tests, Human Intelligence, and Group Differences",
-    guest: "IQ Tests, Human Intelligence, and Group Differences",
-    uuid: "168ead01-b821-4bc5-a81d-ff2cd55a6b54",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_haier.mp3"
+    guest: "Richard Haier",
+    uuid: "4be7da6b-fda9-49bb-bbde-3aca5d59524d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_haier.mp3",
+    transcript: "https://lexfridman.com/richard-haier-transcript"
   },
   {
     title: "#301 – Jack Barsky: KGB Spy",
-    guest: "KGB Spy",
-    uuid: "969de745-667b-4551-b79d-53c67bdc7573",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_barsky.mp3"
+    guest: "Jack Barsky",
+    uuid: "ed01d11b-1c09-4b45-9541-f53b9a7b9640",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_barsky.mp3",
+    transcript: "https://lexfridman.com/jack-barsky-transcript"
   },
   {
     title: "#300 – Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom",
-    guest: "Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom",
-    uuid: "86d6b12a-ba04-47b2-828c-9c0dda3476aa",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan_2.mp3"
+    guest: "Joe Rogan",
+    uuid: "ee4e5c45-67f2-4127-bbcf-6591da3f10ae",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan_2.mp3",
+    transcript: "https://lexfridman.com/joe-rogan-transcript"
   },
   {
     title: "#299 – Demis Hassabis: DeepMind",
-    guest: "DeepMind",
-    uuid: "9c777302-3cd5-440e-a1c2-42659efe856e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_demis_hassabis.mp3"
+    guest: "Demis Hassabis",
+    uuid: "7bab8720-aef1-4af3-9728-0d14ddd66a96",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_demis_hassabis.mp3",
+    transcript: "https://lexfridman.com/demis-hassabis-transcript"
   },
   {
     title: "#298 – Susan Cain: The Power of Introverts and Loneliness",
-    guest: "The Power of Introverts and Loneliness",
-    uuid: "aa1ff855-e4a6-4990-a5de-9a1fe5bd0d13",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_susan_cain.mp3"
+    guest: "Susan Cain",
+    uuid: "391160d6-e022-46db-8738-2c01d4cf3d86",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_susan_cain.mp3",
+    transcript: "https://lexfridman.com/susan-cain-transcript"
   },
   {
     title: "#297 – Jonathan Reisman: The Human Body – From Sex & Sperm to Hands & Heart",
-    guest: "The Human Body – From Sex & Sperm to Hands & Heart",
-    uuid: "9f6d4eb0-be49-432b-98f5-e492dcdb7db4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_reisman.mp3"
+    guest: "Jonathan Reisman",
+    uuid: "1bc7448d-881f-4c2a-9e09-a4363c6ab956",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_reisman.mp3",
+    transcript: "https://lexfridman.com/jonathan-reisman-transcript"
   },
   {
     title: "#296 – Douglas Murray: Racism, Marxism, and the War on the West",
-    guest: "Racism, Marxism, and the War on the West",
-    uuid: "396acbe2-11e6-4562-a8d2-bea4753d2558",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray.mp3"
+    guest: "Douglas Murray",
+    uuid: "30273ad2-ffa5-485d-b92c-373e7aae081d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray.mp3",
+    transcript: "https://lexfridman.com/douglas-murray-transcript"
   },
   {
     title: "#295 – Richard Wolff: Marxism and Communism",
-    guest: "Marxism and Communism",
-    uuid: "f76322b2-27b3-4d70-ad3a-6bdcbbfaca7a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wolff.mp3"
+    guest: "Richard Wolff",
+    uuid: "76a14893-9290-4cd3-95aa-bdec932544b6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wolff.mp3",
+    transcript: "https://lexfridman.com/richard-wolff-transcript"
   },
   {
     title: "#294 – Tony Fadell: iPhone, iPod, and Nest",
-    guest: "iPhone, iPod, and Nest",
-    uuid: "20e7f801-4a8b-49a7-baab-c082f81d7990",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tony_fadell.mp3"
+    guest: "Tony Fadell",
+    uuid: "798f3d35-3627-4701-bffd-0ce26530ca7c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tony_fadell.mp3",
+    transcript: "https://lexfridman.com/tony-fadell-transcript"
   },
   {
     title: "#293 – Donald Hoffman: Reality is an Illusion – How Evolution Hid the Truth",
-    guest: "Reality is an Illusion – How Evolution Hid the Truth",
-    uuid: "b286010a-4739-45da-8fab-4343fa105039",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_hoffman.mp3"
+    guest: "Donald Hoffman",
+    uuid: "919f049a-8ba6-4237-b4ec-4eb4e67d93f0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_hoffman.mp3",
+    transcript: "https://lexfridman.com/donald-hoffman-transcript"
   },
   {
     title: "#292 – Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity",
-    guest: "Alien Civilizations, UFOs, and the Future of Humanity",
-    uuid: "8d544471-2913-4e8f-8a0d-48da9a9c838d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robin_hanson.mp3"
+    guest: "Robin Hanson",
+    uuid: "af7e028c-2ac8-43e8-9a1f-efdcfe6ffcb6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robin_hanson.mp3",
+    transcript: "https://lexfridman.com/robin-hanson-transcript"
   },
   {
     title: "#291 – Jonathan Haidt: The Case Against Social Media",
-    guest: "The Case Against Social Media",
-    uuid: "cad5949d-7ce0-484c-8db3-8fd9ab9df941",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_haidt.mp3"
+    guest: "Jonathan Haidt",
+    uuid: "9b1c7641-0e2e-46b7-be6e-61769b24f044",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_haidt.mp3",
+    transcript: "https://lexfridman.com/jonathan-haidt-transcript"
   },
   {
     title: "#290 – Dan Reynolds: Imagine Dragons",
-    guest: "Imagine Dragons",
-    uuid: "1ae2ef5c-96cc-435a-8d4e-3eee4bada7bb",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_reynolds.mp3"
+    guest: "Dan Reynolds",
+    uuid: "c92a5947-e95f-46f1-95ab-ea3b944d22b5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_reynolds.mp3",
+    transcript: "https://lexfridman.com/dan-reynolds-transcript"
   },
   {
     title: "#289 – Stephen Kotkin: Putin, Zelenskyy, and War in Ukraine",
-    guest: "Putin, Zelenskyy, and War in Ukraine",
-    uuid: "7d7aea88-4435-4e8e-b1c8-17505b19c0bd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin_2.mp3"
+    guest: "Stephen Kotkin",
+    uuid: "13cc3d8c-c4b5-4d1d-8c13-de042d389134",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin_2.mp3",
+    transcript: "https://lexfridman.com/stephen-kotkin-transcript"
   },
   {
     title: "#288 – Sarma Melngailis: Bad Vegan",
-    guest: "Bad Vegan",
-    uuid: "25fd04a1-08f9-4f4b-aec1-116dc45fa8ab",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sarma_melngailis.mp3"
+    guest: "Sarma Melngailis",
+    uuid: "a5042c63-b6fd-4ed2-b19d-fc6db8ff24c8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sarma_melngailis.mp3",
+    transcript: "https://lexfridman.com/sarma-melngailis-transcript"
   },
   {
     title: "#287 – Bobby Lee: Comedy, Skyrim, Sex Robots, Love, Fame, and Power",
-    guest: "Comedy, Skyrim, Sex Robots, Love, Fame, and Power",
-    uuid: "55bf0812-eef5-49e1-9bd8-b9a2e185d8df",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bobby_lee.mp3"
+    guest: "Bobby Lee",
+    uuid: "4718fa99-263d-4e77-ad99-cee2185f4dac",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bobby_lee.mp3",
+    transcript: "https://lexfridman.com/bobby-lee-transcript"
   },
   {
     title: "#286 – Oliver Stone: Vladimir Putin and War in Ukraine",
-    guest: "Vladimir Putin and War in Ukraine",
-    uuid: "351fdc7c-fb1e-4c80-b4a8-b33b6df25211",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oliver_stone.mp3"
+    guest: "Oliver Stone",
+    uuid: "e294151d-658d-42ed-aa26-9d1aebaccf86",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oliver_stone.mp3",
+    transcript: "https://lexfridman.com/oliver-stone-transcript"
   },
   {
     title: "#285 – Glenn Loury: Race, Racism, Identity Politics, and Cancel Culture",
-    guest: "Race, Racism, Identity Politics, and Cancel Culture",
-    uuid: "75402f61-ca96-4e04-9e85-c327a1925136",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_glenn_loury.mp3"
+    guest: "Glenn Loury",
+    uuid: "9921b4cc-b4dd-4de4-a51a-b6633cf90b73",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_glenn_loury.mp3",
+    transcript: "https://lexfridman.com/glenn-loury-transcript"
   },
   {
     title: "#284 – Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics",
-    guest: "Bitcoin, Anarchy, and Austrian Economics",
-    uuid: "eba65fac-7a99-49a9-8d0f-50d345a6dcb4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saifedean_ammous.mp3"
+    guest: "Saifedean Ammous",
+    uuid: "89e320b2-9397-4af7-9434-2950f7d879c1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saifedean_ammous.mp3",
+    transcript: "https://lexfridman.com/saifedean-ammous-transcript"
   },
   {
     title: "#283 – Chris Mason: Space Travel, Colonization, and Long-Term Survival in Space",
-    guest: "Space Travel, Colonization, and Long-Term Survival in Space",
-    uuid: "c48576ad-eba9-4f84-8130-8f54dc3cdf0d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_mason.mp3"
+    guest: "Chris Mason",
+    uuid: "9acbe494-4bb3-451e-961a-54663562a675",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_mason.mp3",
+    transcript: "https://lexfridman.com/chris-mason-transcript"
   },
   {
     title: "#282 – David Buss: Sex, Dating, Relationships, and Sex Differences",
-    guest: "Sex, Dating, Relationships, and Sex Differences",
-    uuid: "0cc2c2e8-9e58-4ba1-96d1-da393c4b545c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_buss.mp3"
+    guest: "David Buss",
+    uuid: "390d14c7-81e6-48c9-9698-e24e321524d5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_buss.mp3",
+    transcript: "https://lexfridman.com/david-buss-transcript"
   },
   {
     title: "#281 – Grimes: Music, AI, and the Future of Humanity",
-    guest: "Music, AI, and the Future of Humanity",
-    uuid: "d5f6a1e7-c25a-4703-88a8-bd360b124712",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grimes.mp3"
+    guest: "Grimes",
+    uuid: "6b537cd4-e1bd-47c9-af29-43a0413e1784",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grimes.mp3",
+    transcript: "https://lexfridman.com/grimes-transcript"
   },
   {
     title: "#280 – Cristiano Amon: Qualcomm CEO",
-    guest: "Qualcomm CEO",
-    uuid: "f8387b7e-bfa0-4641-b6b9-f4044d557f76",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristiano_amon.mp3"
+    guest: "Cristiano Amon",
+    uuid: "683b7d43-730a-467a-ba0f-b1295e8f1baf",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristiano_amon.mp3",
+    transcript: "https://lexfridman.com/cristiano-amon-transcript"
   },
   {
     title: "#279 – Alien Debate: Sara Walker and Lee Cronin",
-    guest: "Sara Walker and Lee Cronin",
-    uuid: "9cd55dae-e010-49ea-a99f-daca63b1f468",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_sara_walker.mp3"
+    guest: "Alien Debate",
+    uuid: "7917495a-ea74-4ee7-ad62-032c02dbcfc2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_sara_walker.mp3",
+    transcript: "https://lexfridman.com/alien-debate-transcript"
   },
   {
     title: "#278 – Skye Fitzgerald: Hunger, War, and Human Suffering",
-    guest: "Hunger, War, and Human Suffering",
-    uuid: "d7ea1251-ca44-43fa-bdd8-0a04fc0b2768",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_skye_fitzgerald.mp3"
+    guest: "Skye Fitzgerald",
+    uuid: "04ea0210-a481-4208-ba33-af0e3c3c2918",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_skye_fitzgerald.mp3",
+    transcript: "https://lexfridman.com/skye-fitzgerald-transcript"
   },
   {
     title: "#277 – Andrew Huberman: Focus, Stress, Relationships, and Friendship",
-    guest: "Focus, Stress, Relationships, and Friendship",
-    uuid: "99ba0ccb-5d00-4616-a3d8-9d8375903f54",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_3.mp3"
+    guest: "Andrew Huberman",
+    uuid: "97c8d9c6-cece-4cc5-9c9b-e98d3fbe8109",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_3.mp3",
+    transcript: "https://lexfridman.com/andrew-huberman-transcript"
   },
   {
     title: "#276 – Michael Saylor: Bitcoin, Inflation, and the Future of Money",
-    guest: "Bitcoin, Inflation, and the Future of Money",
-    uuid: "647aaa5c-3473-4878-ac44-a0bd74e0d99d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_saylor.mp3"
+    guest: "Michael Saylor",
+    uuid: "f3715012-4751-4e03-a4f1-cdf0bc4315fd",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_saylor.mp3",
+    transcript: "https://lexfridman.com/michael-saylor-transcript"
   },
   {
     title: "#275 – Rick Rubin: Legendary Music Producer",
-    guest: "Legendary Music Producer",
-    uuid: "7bf990b4-8a13-4050-ad65-239aaafde589",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_rubin.mp3"
+    guest: "Rick Rubin",
+    uuid: "18632d54-4c3a-45fc-a5c7-af67688a85b8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_rubin.mp3",
+    transcript: "https://lexfridman.com/rick-rubin-transcript"
   },
   {
     title: "#274 – Karl Deisseroth: Depression, Schizophrenia, and Psychiatry",
-    guest: "Depression, Schizophrenia, and Psychiatry",
-    uuid: "7ae0aecf-5602-4e7f-a586-84942b101631",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_deisseroth.mp3"
+    guest: "Karl Deisseroth",
+    uuid: "4e870c0a-b174-4bf4-b2c6-ba03a6901fa4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_deisseroth.mp3",
+    transcript: "https://lexfridman.com/karl-deisseroth-transcript"
   },
   {
     title: "#273 – Chris Blattman: War and Violence",
-    guest: "War and Violence",
-    uuid: "a03080af-b612-4315-8220-a768dc11d70b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_blattman.mp3"
+    guest: "Chris Blattman",
+    uuid: "c0879735-ca1b-4395-b4f2-cce4966a908f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_blattman.mp3",
+    transcript: "https://lexfridman.com/chris-blattman-transcript"
   },
   {
     title: "#272 – Brett Johnson: US Most Wanted Cybercriminal",
-    guest: "US Most Wanted Cybercriminal",
-    uuid: "c19a9707-e3b6-4a70-ac94-bc69b1b73ae2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brett_johnson.mp3"
+    guest: "Brett Johnson",
+    uuid: "f1638d37-ae59-4627-8103-c20f0a199bb6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brett_johnson.mp3",
+    transcript: "https://lexfridman.com/brett-johnson-transcript"
   },
   {
     title: "#271 – Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures",
-    guest: "Space Colonization and Self-Assembling Space Megastructures",
-    uuid: "acdd0ca4-25a2-4af5-a767-fc01f2b84367",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ariel_ekblaw.mp3"
+    guest: "Ariel Ekblaw",
+    uuid: "99605605-d2ab-4ad3-becd-d0a98b47c073",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ariel_ekblaw.mp3",
+    transcript: "https://lexfridman.com/ariel-ekblaw-transcript"
   },
   {
     title: "#270 – David Wolpe: Judaism",
-    guest: "Judaism",
-    uuid: "237df8de-3116-4e93-8c02-ee686127b545",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_wolpe.mp3"
+    guest: "David Wolpe",
+    uuid: "538d27fd-1b04-455d-8e66-51c91a11e5b3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_wolpe.mp3",
+    transcript: "https://lexfridman.com/david-wolpe-transcript"
   },
   {
     title: "#269 – Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness",
-    guest: "Origin of Life, Aliens, Complexity, and Consciousness",
-    uuid: "93d94e52-1e3f-42cd-85c2-ca1a9b6e4c48",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin.mp3"
+    guest: "Lee Cronin",
+    uuid: "f62f844b-3529-4ea0-bea9-bb4deb4254d8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin.mp3",
+    transcript: "https://lexfridman.com/lee-cronin-transcript"
   },
   {
     title: "#268 – Robert Proctor: Nazi Science and Ideology",
-    guest: "Nazi Science and Ideology",
-    uuid: "6480322e-a745-4f78-befd-ea5d05726506",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_proctor.mp3"
+    guest: "Robert Proctor",
+    uuid: "1d629cb6-3ddc-4f29-8c44-ac573d71f639",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_proctor.mp3",
+    transcript: "https://lexfridman.com/robert-proctor-transcript"
   },
   {
     title: "#267 – Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse",
-    guest: "Meta, Facebook, Instagram, and the Metaverse",
-    uuid: "0e797e21-2778-4d4c-9534-5c5fbedd48c0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_feb26.mp3"
+    guest: "Mark Zuckerberg",
+    uuid: "cd28f89f-c686-4ea6-b54b-c09fe14eb0c3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_feb26.mp3",
+    transcript: "https://lexfridman.com/mark-zuckerberg-transcript"
   },
   {
     title: "#266 – Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar",
-    guest: "Cybersecurity and the Weapons of Cyberwar",
-    uuid: "97be7331-67bc-4c81-bbc6-f59c23ac2b2c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nicole_perlroth.mp3"
+    guest: "Nicole Perlroth",
+    uuid: "9fc721ec-125c-422d-b6bc-01c267885824",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nicole_perlroth.mp3",
+    transcript: "https://lexfridman.com/nicole-perlroth-transcript"
   },
   {
     title: "#265 – Devon Larratt: Arm Wrestling",
-    guest: "Arm Wrestling",
-    uuid: "77f3c9e6-0545-4894-8e7b-d042381c878f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_devon_larratt.mp3"
+    guest: "Devon Larratt",
+    uuid: "70e9257b-d290-4d49-b09e-efe3face8dff",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_devon_larratt.mp3",
+    transcript: "https://lexfridman.com/devon-larratt-transcript"
   },
   {
     title: "#264 – Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity",
-    guest: "Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity",
-    uuid: "00e04993-50a8-4510-a247-9164dc4a9073",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban.mp3"
+    guest: "Tim Urban",
+    uuid: "022b6d49-727f-4b78-bc0d-df218e940523",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban.mp3",
+    transcript: "https://lexfridman.com/tim-urban-transcript"
   },
   {
     title: "#263 – John Abramson: Big Pharma",
-    guest: "Big Pharma",
-    uuid: "5bcec726-fa85-41bf-9b2f-10fda090ca83",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_abramson.mp3"
+    guest: "John Abramson",
+    uuid: "f300208c-ec22-451e-8abd-1c83eb2dd18c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_abramson.mp3",
+    transcript: "https://lexfridman.com/john-abramson-transcript"
   },
   {
     title: "#262 – Garry Nolan: UFOs and Aliens",
-    guest: "UFOs and Aliens",
-    uuid: "ef47e8ae-435c-4f4c-9d10-dd78118f5b58",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_nolan.mp3"
+    guest: "Garry Nolan",
+    uuid: "8451af0d-20cf-483b-ac25-eb4f61adc3fb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_nolan.mp3",
+    transcript: "https://lexfridman.com/garry-nolan-transcript"
   },
   {
     title: "#261 – Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind",
-    guest: "Consciousness, Panpsychism, and the Philosophy of Mind",
-    uuid: "adfd0c08-d460-4815-8a64-7d2953200d71",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_philip_goff.mp3"
+    guest: "Philip Goff",
+    uuid: "eebfb69a-b953-4078-8a09-39a67a40d4bc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_philip_goff.mp3",
+    transcript: "https://lexfridman.com/philip-goff-transcript"
   },
   {
     title: "#260 – Georges St-Pierre, John Danaher & Gordon Ryan: The Greatest of All Time",
-    guest: "The Greatest of All Time",
-    uuid: "c84b3d57-9ccf-4891-865e-0533cf4c0666",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gsp_danaher_gordon.mp3"
+    guest: "Georges St-Pierre, John Danaher & Gordon Ryan",
+    uuid: "da828be8-648a-415c-9712-454081b88f03",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gsp_danaher_gordon.mp3",
+    transcript: "https://lexfridman.com/georges-st-pierre-john-danaher--gordon-ryan-transcript"
   },
   {
     title: "#259 – Thomas Tull: From Batman Dark Knight Trilogy to AI and the Rolling Stones",
-    guest: "From Batman Dark Knight Trilogy to AI and the Rolling Stones",
-    uuid: "911ef0da-049c-43bd-93c6-554d05c52ea2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_thomas_tull.mp3"
+    guest: "Thomas Tull",
+    uuid: "a5d35260-1e46-42b3-a8f8-c03253028a9d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_thomas_tull.mp3",
+    transcript: "https://lexfridman.com/thomas-tull-transcript"
   },
   {
     title: "#258 – Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning",
-    guest: "Dark Matter of Intelligence and Self-Supervised Learning",
-    uuid: "dee2ea99-717b-4c24-a434-ccd5e701f10b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yann_lecun_2.mp3"
+    guest: "Yann LeCun",
+    uuid: "8d05658a-c9a9-4d67-b2e8-276f7d6dc752",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yann_lecun_2.mp3",
+    transcript: "https://lexfridman.com/yann-lecun-transcript"
   },
   {
     title: "#257 – Brian Keating: Cosmology, Astrophysics, Aliens & Losing the Nobel Prize",
-    guest: "Cosmology, Astrophysics, Aliens & Losing the Nobel Prize",
-    uuid: "d13bdec4-7db1-468b-b77b-7095bcd064c0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_keating.mp3"
+    guest: "Brian Keating",
+    uuid: "c1ff33e4-ce37-4898-8e10-64da68c55f2f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_keating.mp3",
+    transcript: "https://lexfridman.com/brian-keating-transcript"
   },
   {
     title: "#256 – Nationalism Debate: Yaron Brook and Yoram Hazony",
-    guest: "Yaron Brook and Yoram Hazony",
-    uuid: "c231e017-d428-4c43-afef-baf46af192f0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nationalism_debate.mp3"
+    guest: "Nationalism Debate",
+    uuid: "c889e57a-d1dd-4e9d-a081-89f7c8bbad6f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nationalism_debate.mp3",
+    transcript: "https://lexfridman.com/nationalism-debate-transcript"
   },
   {
     title: "#255 – Mark Normand: Comedy!",
-    guest: "Comedy!",
-    uuid: "95000dab-61d8-4574-a5e6-1183144072a8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_normand.mp3"
+    guest: "Mark Normand",
+    uuid: "7194d8ff-9302-47fb-8317-e8c762eb9597",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_normand.mp3",
+    transcript: "https://lexfridman.com/mark-normand-transcript"
   },
   {
     title: "#254 – Jay Bhattacharya: The Case Against Lockdowns",
-    guest: "The Case Against Lockdowns",
-    uuid: "9ad2a989-7111-4dfa-ab2f-4ac7886aa572",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_bhattacharya.mp3"
+    guest: "Jay Bhattacharya",
+    uuid: "3dca2209-703b-48bf-8c0c-6552bfef1de0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_bhattacharya.mp3",
+    transcript: "https://lexfridman.com/jay-bhattacharya-transcript"
   },
   {
     title: "#253 – Michael Malice: New Year’s Special",
-    guest: "New Year’s Special",
-    uuid: "83e8c3cb-9c92-4aeb-a41d-56a8c839393b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_5.mp3"
+    guest: "Michael Malice",
+    uuid: "4621a542-e60a-4f1a-9b1b-690a9d90031a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_5.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#252 – Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
-    guest: "SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI",
-    uuid: "a7035dc9-db19-4b54-9053-e6fa8f492bab",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_3.mp3"
+    guest: "Elon Musk",
+    uuid: "a7247402-c3a2-461a-b8d8-d16f1a579952",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_3.mp3",
+    transcript: "https://lexfridman.com/elon-musk-transcript"
   },
   {
     title: "#251 – Ray Dalio: Money, Power, and the Collapse of Empires",
-    guest: "Money, Power, and the Collapse of Empires",
-    uuid: "675c1a5f-5290-44da-baa6-c614a1a72e83",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio_2.mp3"
+    guest: "Ray Dalio",
+    uuid: "7bef4e24-327a-4c97-b5ad-990dee5a83b6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio_2.mp3",
+    transcript: "https://lexfridman.com/ray-dalio-transcript"
   },
   {
     title: "#250 – Peter Wang: Python and the Source Code of Humans, Computers, and Reality",
-    guest: "Python and the Source Code of Humans, Computers, and Reality",
-    uuid: "407817c8-6f28-4fd9-a953-43c9f55f1a7e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_wang.mp3"
+    guest: "Peter Wang",
+    uuid: "1d2d873a-80fd-4165-bd36-cefbe6a689f0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_wang.mp3",
+    transcript: "https://lexfridman.com/peter-wang-transcript"
   },
   {
     title: "#249 – Albert Bourla: Pfizer CEO",
-    guest: "Pfizer CEO",
-    uuid: "20bfa3c3-9b05-40ec-9116-630bbf084880",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/albert_bourla_audio.mp3"
+    guest: "Albert Bourla",
+    uuid: "29b40c4e-34ba-4e69-afe0-fda2ba74ec37",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/albert_bourla_audio.mp3",
+    transcript: "https://lexfridman.com/albert-bourla-transcript"
   },
   {
     title: "#248 – Norman Naimark: Genocide, Stalin, Hitler, Mao, and Absolute Power",
-    guest: "Genocide, Stalin, Hitler, Mao, and Absolute Power",
-    uuid: "c397b72b-f29d-4d5c-afd8-327d33576f56",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_norman_naimark.mp3"
+    guest: "Norman Naimark",
+    uuid: "af0ffd57-e495-4764-acb5-505b8ac475b8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_norman_naimark.mp3",
+    transcript: "https://lexfridman.com/norman-naimark-transcript"
   },
   {
     title: "#247 – Jamie Metzl: Lab Leak Theory",
-    guest: "Lab Leak Theory",
-    uuid: "c1efaf72-8375-4459-a825-51cffc316298",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jamie_metzl.mp3"
+    guest: "Jamie Metzl",
+    uuid: "996326fa-40de-45f3-bfa3-9da94eda3470",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jamie_metzl.mp3",
+    transcript: "https://lexfridman.com/jamie-metzl-transcript"
   },
   {
     title: "#246 – Peter Woit: Theories of Everything and Why String Theory is Not Even Wrong",
-    guest: "Theories of Everything and Why String Theory is Not Even Wrong",
-    uuid: "b8273b06-a45b-40dc-9946-28ea4e2150db",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_woit.mp3"
+    guest: "Peter Woit",
+    uuid: "d3fe4da0-ff85-487a-9cc7-81c05584f86a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_woit.mp3",
+    transcript: "https://lexfridman.com/peter-woit-transcript"
   },
   {
     title: "#245 – Tom Brands: Iowa Wrestling",
-    guest: "Iowa Wrestling",
-    uuid: "72fc06b1-73b2-4efc-a6c8-9f29741c8a73",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tom_brands.mp3"
+    guest: "Tom Brands",
+    uuid: "45613aaf-b9f0-4882-be28-5601fdc531a7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tom_brands.mp3",
+    transcript: "https://lexfridman.com/tom-brands-transcript"
   },
   {
     title: "#244 – Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East",
-    guest: "Afghanistan, Taliban, Bin Laden, and War in the Middle East",
-    uuid: "8a4ac747-73c3-4aa2-b2d6-8b9e8e81eafb",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_crews.mp3"
+    guest: "Robert Crews",
+    uuid: "88fc0e93-4d9e-4640-a1c5-93614cede1b9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_crews.mp3",
+    transcript: "https://lexfridman.com/robert-crews-transcript"
   },
   {
     title: "#243 – Kevin Systrom: Instagram",
-    guest: "Instagram",
-    uuid: "c629181a-2491-410e-b714-b540538da0d4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kevin_systrom.mp3"
+    guest: "Kevin Systrom",
+    uuid: "767387c5-d539-4bdc-b34b-888cd0865de3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kevin_systrom.mp3",
+    transcript: "https://lexfridman.com/kevin-systrom-transcript"
   },
   {
     title: "#242 – Ben Askren: Wrestling and MMA",
-    guest: "Wrestling and MMA",
-    uuid: "12e86ee5-f709-4097-9967-758f4813b067",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_askren.mp3"
+    guest: "Ben Askren",
+    uuid: "a7c60ceb-8079-4ab0-a708-3393b2bfdd7c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_askren.mp3",
+    transcript: "https://lexfridman.com/ben-askren-transcript"
   },
   {
     title: "#241 – Boris Sofman: Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics",
-    guest: "Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics",
-    uuid: "4e4d2eee-0044-41b3-8fde-991c26396188",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_boris_sofman.mp3"
+    guest: "Boris Sofman",
+    uuid: "11b0cc85-443d-4183-8200-95b997dbb996",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_boris_sofman.mp3",
+    transcript: "https://lexfridman.com/boris-sofman-transcript"
   },
   {
     title: "#240 – Neal Stephenson: Sci-Fi, Space, Aliens, AI, VR & the Future of Humanity",
-    guest: "Sci-Fi, Space, Aliens, AI, VR & the Future of Humanity",
-    uuid: "e6c961e1-729c-4b37-9d63-7c7ec5633fe3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neal_stephenson.mp3"
+    guest: "Neal Stephenson",
+    uuid: "5cf25212-9727-414b-a00a-02f4b0879bb5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neal_stephenson.mp3",
+    transcript: "https://lexfridman.com/neal-stephenson-transcript"
   },
   {
     title: "#239 – Niall Ferguson: History of Money, Power, War, and Truth",
-    guest: "History of Money, Power, War, and Truth",
-    uuid: "bdb1c950-4de3-4b26-b6be-2e003c31d8f4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niall_ferguson.mp3"
+    guest: "Niall Ferguson",
+    uuid: "6c1f7d8e-e52a-450e-b3fb-7c0182b06284",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niall_ferguson.mp3",
+    transcript: "https://lexfridman.com/niall-ferguson-transcript"
   },
   {
     title: "#238 – Francis Collins: National Institutes of Health (NIH)",
-    guest: "National Institutes of Health (NIH)",
-    uuid: "d020cbbb-6278-4453-86c2-47de170b70cc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francis_collins.mp3"
+    guest: "Francis Collins",
+    uuid: "6f7fd688-798c-47a2-be8e-24f24d0e1cd2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francis_collins.mp3",
+    transcript: "https://lexfridman.com/francis-collins-transcript"
   },
   {
     title: "#237 – Steve Viscelli: Trucking and the Decline of the American Dream",
-    guest: "Trucking and the Decline of the American Dream",
-    uuid: "db3567d7-30dc-4f74-b7c2-8b8212aa46fc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_viscelli.mp3"
+    guest: "Steve Viscelli",
+    uuid: "d34e1743-4dfa-4614-8b90-da55cea80732",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_viscelli.mp3",
+    transcript: "https://lexfridman.com/steve-viscelli-transcript"
   },
   {
     title: "#236 – Jimmy Pedro: Judo and the Forging of Champions",
-    guest: "Judo and the Forging of Champions",
-    uuid: "a9122c49-2a5f-4c16-9238-e73b9ea1c341",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_pedro.mp3"
+    guest: "Jimmy Pedro",
+    uuid: "49a68a4c-d1de-4b85-841b-01a47bcfea99",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_pedro.mp3",
+    transcript: "https://lexfridman.com/jimmy-pedro-transcript"
   },
   {
     title: "#235 – Michael Mina: Rapid COVID Testing",
-    guest: "Rapid COVID Testing",
-    uuid: "2c8d0966-2033-4946-8119-848e840ad0bd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina_2.mp3"
+    guest: "Michael Mina",
+    uuid: "87fa3288-c1b8-4729-ac55-4825c23dfff6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina_2.mp3",
+    transcript: "https://lexfridman.com/michael-mina-transcript"
   },
   {
     title: "#234 – Stephen Wolfram: Complexity and the Fabric of Reality",
-    guest: "Complexity and the Fabric of Reality",
-    uuid: "9f74a254-bdec-459f-a675-aabd03ee902d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_3.mp3"
+    guest: "Stephen Wolfram",
+    uuid: "a3af46e7-e2c6-4fa8-bec6-38eadf23cfdf",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_3.mp3",
+    transcript: "https://lexfridman.com/stephen-wolfram-transcript"
   },
   {
     title: "#233 – Carl Hart: Heroin, Cocaine, MDMA, Alcohol & the Role of Drugs in Society",
-    guest: "Heroin, Cocaine, MDMA, Alcohol & the Role of Drugs in Society",
-    uuid: "cb6a7bb2-11de-496b-a66a-d0a0b33fdd13",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_carl_hart.mp3"
+    guest: "Carl Hart",
+    uuid: "0e03241b-24df-4051-bc5c-444874a60766",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_carl_hart.mp3",
+    transcript: "https://lexfridman.com/carl-hart-transcript"
   },
   {
     title: "#232 – Brian Greene: Quantum Gravity, Big Bang, Aliens, Life, Death, and Meaning",
-    guest: "Quantum Gravity, Big Bang, Aliens, Life, Death, and Meaning",
-    uuid: "fbf3f050-108f-461a-b018-c12cb99adc9e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_greene.mp3"
+    guest: "Brian Greene",
+    uuid: "8b7a916b-edd6-4bfc-86f7-37c70eeffe7d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_greene.mp3",
+    transcript: "https://lexfridman.com/brian-greene-transcript"
   },
   {
     title: "#231 – Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights",
-    guest: "Bitcoin, Authoritarianism, and Human Rights",
-    uuid: "a57ac88c-3dae-4cac-bcf6-a56e9c8d18e2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_gladstein.mp3"
+    guest: "Alex Gladstein",
+    uuid: "8e4a96e8-a937-4bcb-b6b7-d966980a56e4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_gladstein.mp3",
+    transcript: "https://lexfridman.com/alex-gladstein-transcript"
   },
   {
     title: "#230 – Kelsi Sheren: War, Artillery, PTSD, and Love",
-    guest: "War, Artillery, PTSD, and Love",
-    uuid: "c2a810c8-957f-4d96-8709-9b9693edaf92",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kelsi_sheren.mp3"
+    guest: "Kelsi Sheren",
+    uuid: "7c2718fe-0dee-4c81-ad71-e2507408bc5c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kelsi_sheren.mp3",
+    transcript: "https://lexfridman.com/kelsi-sheren-transcript"
   },
   {
     title: "#229 – Richard Wrangham: Role of Violence, Sex, and Fire in Human Evolution",
-    guest: "Role of Violence, Sex, and Fire in Human Evolution",
-    uuid: "86d2eff2-f3f5-4f00-8976-2caeb18a95c9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wrangham.mp3"
+    guest: "Richard Wrangham",
+    uuid: "ad25e92d-8112-4aa5-90ce-3656504e6e1e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wrangham.mp3",
+    transcript: "https://lexfridman.com/richard-wrangham-transcript"
   },
   {
     title: "#228 – RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death",
-    guest: "Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death",
-    uuid: "b5208ae2-a380-4b87-9ef3-87164641efc9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rza.mp3"
+    guest: "RZA",
+    uuid: "1c174c3f-00d7-449b-922f-41c080dd7679",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rza.mp3",
+    transcript: "https://lexfridman.com/rza-transcript"
   },
   {
     title: "#227 – Sean Kelly: Existentialism, Nihilism, and the Search for Meaning",
-    guest: "Existentialism, Nihilism, and the Search for Meaning",
-    uuid: "45c3b0cc-c4d3-496b-bf43-110fc49e545e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_kelly.mp3"
+    guest: "Sean Kelly",
+    uuid: "6089691c-848c-4895-9b8b-ecbff50d2460",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_kelly.mp3",
+    transcript: "https://lexfridman.com/sean-kelly-transcript"
   },
   {
     title: "#226 – Jo Boaler: How to Learn Math",
-    guest: "How to Learn Math",
-    uuid: "b9e1eb6b-1720-4fde-979b-47784f3e0adf",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jo_boaler.mp3"
+    guest: "Jo Boaler",
+    uuid: "ab778b11-73f5-4f74-852e-91ff68fc1773",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jo_boaler.mp3",
+    transcript: "https://lexfridman.com/jo-boaler-transcript"
   },
   {
     title: "#225 – Jeffrey Shainline: Neuromorphic Computing and Optoelectronic Intelligence",
-    guest: "Neuromorphic Computing and Optoelectronic Intelligence",
-    uuid: "2cbccfbf-4599-4f14-80e9-d45ad3d5b482",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeffrey_shainline.mp3"
+    guest: "Jeffrey Shainline",
+    uuid: "49a065b0-b053-4a34-a67a-c7bd879d8ca0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeffrey_shainline.mp3",
+    transcript: "https://lexfridman.com/jeffrey-shainline-transcript"
   },
   {
     title: "#224 – Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming",
-    guest: "NumPy, SciPy, Anaconda, Python & Scientific Programming",
-    uuid: "590be4e9-3263-4049-b14e-1a6a128aecf5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_audio_travis_oliphant.mp3"
+    guest: "Travis Oliphant",
+    uuid: "06ee21c2-5300-43db-be92-fd2774fc9afb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_audio_travis_oliphant.mp3",
+    transcript: "https://lexfridman.com/travis-oliphant-transcript"
   },
   {
     title: "#223 – Travis Stevens: Judo, Olympics, and Mental Toughness",
-    guest: "Judo, Olympics, and Mental Toughness",
-    uuid: "f5cc6edc-b238-45de-91fc-a3d3dc27e28d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_travis_stevens.mp3"
+    guest: "Travis Stevens",
+    uuid: "3c1489be-0d88-4a8d-a7a8-5194ca60f267",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_travis_stevens.mp3",
+    transcript: "https://lexfridman.com/travis-stevens-transcript"
   },
   {
     title: "#222 – Jay McClelland: Neural Networks and the Emergence of Cognition",
-    guest: "Neural Networks and the Emergence of Cognition",
-    uuid: "60b213c0-5a25-4d94-b5e6-f9c4e7bc67ee",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_mcclelland.mp3"
+    guest: "Jay McClelland",
+    uuid: "3f18ebc6-e20b-46a3-bc2b-a3b35666fcd7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_mcclelland.mp3",
+    transcript: "https://lexfridman.com/jay-mcclelland-transcript"
   },
   {
     title: "#221 – Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI",
-    guest: "Cyc and the Quest to Solve Common Sense Reasoning in AI",
-    uuid: "837410a4-d356-43f2-a45e-70636086d247",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_lenat.mp3"
+    guest: "Douglas Lenat",
+    uuid: "b064a650-3d98-4bad-93fc-ba5271dbc354",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_lenat.mp3",
+    transcript: "https://lexfridman.com/douglas-lenat-transcript"
   },
   {
     title: "#220 – Niels Jorgensen: New York Firefighters and the Heroes of 9/11",
-    guest: "New York Firefighters and the Heroes of 9/11",
-    uuid: "887f778d-b9a4-4b80-aa05-f633dbfcff35",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niels_jorgensen.mp3"
+    guest: "Niels Jorgensen",
+    uuid: "4a5b32d3-fddd-4479-81ed-b68674afcddc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niels_jorgensen.mp3",
+    transcript: "https://lexfridman.com/niels-jorgensen-transcript"
   },
   {
     title: "#219 – Donald Knuth: Programming, Algorithms, Hard Problems & the Game of Life",
-    guest: "Programming, Algorithms, Hard Problems & the Game of Life",
-    uuid: "8ef8c0f1-adf9-47ab-a0ca-88e1b80e1f01",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth_2.mp3"
+    guest: "Donald Knuth",
+    uuid: "879703ed-3f7e-434b-87d1-cfabfb109ea9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth_2.mp3",
+    transcript: "https://lexfridman.com/donald-knuth-transcript"
   },
   {
     title: "#218 – Jaron Lanier: Virtual Reality, Social Media & the Future of Humans and AI",
-    guest: "Virtual Reality, Social Media & the Future of Humans and AI",
-    uuid: "5008264e-0984-483c-ac42-441276dec6e5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jaron_lanier.mp3"
+    guest: "Jaron Lanier",
+    uuid: "0012e398-867c-4e5b-bc2e-23f5a8225525",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jaron_lanier.mp3",
+    transcript: "https://lexfridman.com/jaron-lanier-transcript"
   },
   {
     title: "#217 – Rodney Brooks: Robotics",
-    guest: "Robotics",
-    uuid: "5cd2e000-f652-497a-8115-f97812b3493f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rodney_brooks.mp3"
+    guest: "Rodney Brooks",
+    uuid: "56f0443f-613b-4a6d-8d71-b6e21cd1e273",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rodney_brooks.mp3",
+    transcript: "https://lexfridman.com/rodney-brooks-transcript"
   },
   {
     title: "#216 – Vincent Racaniello: Viruses and Vaccines",
-    guest: "Viruses and Vaccines",
-    uuid: "7ed9e995-924a-4404-be20-95ab6e6c46bc",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vincent_racaniello.mp3"
+    guest: "Vincent Racaniello",
+    uuid: "b5c510a6-53fc-4994-a6fa-4154bc9bd1b1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vincent_racaniello.mp3",
+    transcript: "https://lexfridman.com/vincent-racaniello-transcript"
   },
   {
     title: "#215 – Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI",
-    guest: "OpenAI Codex, GPT-3, Robotics, and the Future of AI",
-    uuid: "16369497-ef28-43a9-9da8-f5db9547a190",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_wojciech_zaremba.mp3"
+    guest: "Wojciech Zaremba",
+    uuid: "a6b72d2a-c637-4cfb-b3ea-0d4462e3d12a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_wojciech_zaremba.mp3",
+    transcript: "https://lexfridman.com/wojciech-zaremba-transcript"
   },
   {
     title: "#214 – Jed Buchwald: Isaac Newton and the Philosophy of Science",
-    guest: "Isaac Newton and the Philosophy of Science",
-    uuid: "716e9fd2-6944-4fc5-a3fe-e5dd49dc61cf",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jed_buchwald.mp3"
+    guest: "Jed Buchwald",
+    uuid: "f1a844e5-6da0-408e-ada3-e678c6806f10",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jed_buchwald.mp3",
+    transcript: "https://lexfridman.com/jed-buchwald-transcript"
   },
   {
     title: "#213 – Barry Barish: Gravitational Waves and the Most Precise Device Ever Built",
-    guest: "Gravitational Waves and the Most Precise Device Ever Built",
-    uuid: "0c339e0d-01bd-41d8-a5e9-22f99a7756ad",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_barry_barish.mp3"
+    guest: "Barry Barish",
+    uuid: "8ec5de4d-b5c1-412d-b61b-ed7a21062c8a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_barry_barish.mp3",
+    transcript: "https://lexfridman.com/barry-barish-transcript"
   },
   {
     title: "#212 – Joscha Bach: Nature of Reality, Dreams, and Consciousness",
-    guest: "Nature of Reality, Dreams, and Consciousness",
-    uuid: "2c977788-6f21-44d8-adf6-708d612c608c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_2.mp3"
+    guest: "Joscha Bach",
+    uuid: "7a65f577-d0fa-4114-be02-f45d8bbc7cff",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_2.mp3",
+    transcript: "https://lexfridman.com/joscha-bach-transcript"
   },
   {
     title: "#211 – Brian Muraresku: The Secret History of Psychedelics",
-    guest: "The Secret History of Psychedelics",
-    uuid: "74c19f24-5d1b-4d50-9fe9-f356b6ecd87e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_muraresku.mp3"
+    guest: "Brian Muraresku",
+    uuid: "8a0b8c72-fd7c-4552-8f40-3dd267603db9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_muraresku.mp3",
+    transcript: "https://lexfridman.com/brian-muraresku-transcript"
   },
   {
     title: "#210 – Matt Walker: Sleep",
-    guest: "Sleep",
-    uuid: "5a9d5bb6-1b38-4cc0-b383-06d005f6a59a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3"
+    guest: "Matt Walker",
+    uuid: "f3ef72df-5d80-4c62-a643-d21f309c943e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3",
+    transcript: "https://lexfridman.com/matt-walker-transcript"
   },
   {
     title: "#209 – Luís and João Batalha: Fermat’s Library and the Art of Studying Papers",
-    guest: "Fermat’s Library and the Art of Studying Papers",
-    uuid: "648d5b3f-3cad-4a1e-ae61-141f419224f7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_luis_and_joao_batalha.mp3"
+    guest: "Luís and João Batalha",
+    uuid: "113b2276-2a63-43bd-ad7e-afff8bcb11c6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_luis_and_joao_batalha.mp3",
+    transcript: "https://lexfridman.com/lus-and-joo-batalha-transcript"
   },
   {
     title: "#208 – Jeff Hawkins: The Thousand Brains Theory of Intelligence",
-    guest: "The Thousand Brains Theory of Intelligence",
-    uuid: "1e84ff7c-f954-4077-8f2b-169fd8eb6be3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_hawkins_2.mp3"
+    guest: "Jeff Hawkins",
+    uuid: "d6669ea9-c97a-40d3-ac28-5d034851e516",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_hawkins_2.mp3",
+    transcript: "https://lexfridman.com/jeff-hawkins-transcript"
   },
   {
     title: "#207 – Chris Duffin: The Mad Scientist of Strength",
-    guest: "The Mad Scientist of Strength",
-    uuid: "7b230a25-bd29-4fac-babc-7392afca37aa",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_duffin.mp3"
+    guest: "Chris Duffin",
+    uuid: "36c7755d-48a2-4147-9d8f-149d7bd53921",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_duffin.mp3",
+    transcript: "https://lexfridman.com/chris-duffin-transcript"
   },
   {
     title: "#206 – Ishan Misra: Self-Supervised Deep Learning in Computer Vision",
-    guest: "Self-Supervised Deep Learning in Computer Vision",
-    uuid: "8ca08f71-cd4b-49c9-8842-150dbbaf49c0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ishan_misra.mp3"
+    guest: "Ishan Misra",
+    uuid: "2879691a-52a6-4449-b419-5fe69ecde0c2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ishan_misra.mp3",
+    transcript: "https://lexfridman.com/ishan-misra-transcript"
   },
   {
     title: "#205 – Zach Bitter: Ultramarathon Running",
-    guest: "Ultramarathon Running",
-    uuid: "4d15f68c-0875-4cee-b411-b87bac3e8297",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zach_bitter.mp3"
+    guest: "Zach Bitter",
+    uuid: "5bd65e7c-4598-4311-8135-738f156308c9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zach_bitter.mp3",
+    transcript: "https://lexfridman.com/zach-bitter-transcript"
   },
   {
     title: "#204 – Cumrun Vafa: String Theory",
-    guest: "String Theory",
-    uuid: "0a3a79db-0bdf-4888-8394-0cb38ded026d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cumrun_vafa.mp3"
+    guest: "Cumrun Vafa",
+    uuid: "fcaea539-0d24-4f5c-a0a9-9201a31076c1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cumrun_vafa.mp3",
+    transcript: "https://lexfridman.com/cumrun-vafa-transcript"
   },
   {
     title: "#203 – Anya Fernald: Regenerative Farming and the Art of Cooking Meat",
-    guest: "Regenerative Farming and the Art of Cooking Meat",
-    uuid: "87f16ee9-f48b-40d5-9ee7-e5e92ec28fa1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anya_fernald.mp3"
+    guest: "Anya Fernald",
+    uuid: "747f5098-6580-4cf9-9900-6a479b6bf1da",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anya_fernald.mp3",
+    transcript: "https://lexfridman.com/anya-fernald-transcript"
   },
   {
     title: "#202 – Rick Doblin: Psychedelics",
-    guest: "Psychedelics",
-    uuid: "929d4c61-9605-4d88-b623-c1f6a920eaf4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_doblin.mp3"
+    guest: "Rick Doblin",
+    uuid: "7837bd2b-22bf-47c3-876b-fb0cb961ae45",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_doblin.mp3",
+    transcript: "https://lexfridman.com/rick-doblin-transcript"
   },
   {
     title: "#201 – Konstantin Batygin: Planet 9 and the Edge of Our Solar System",
-    guest: "Planet 9 and the Edge of Our Solar System",
-    uuid: "938d3718-f7be-4c64-aefa-970cf9f37811",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_konstanin_botygin.mp3"
+    guest: "Konstantin Batygin",
+    uuid: "67ac7905-8518-4dd8-a60b-1240950f6419",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_konstanin_botygin.mp3",
+    transcript: "https://lexfridman.com/konstantin-batygin-transcript"
   },
   {
     title: "#200 – Michael Malice: Totalitarianism and Anarchy",
-    guest: "Totalitarianism and Anarchy",
-    uuid: "3e006874-3e9c-4d55-bfe6-f7400b8f7ac4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_3.mp3"
+    guest: "Michael Malice",
+    uuid: "2c1e3505-c9e9-4313-a03a-2057d5935c1b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_3.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#199 – Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel",
-    guest: "Smuggling Drugs for Pablo Escobar and the Medellin Cartel",
-    uuid: "2cabf286-4a1b-4b1b-9bc1-f5873c79a839",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_reaves.mp3"
+    guest: "Roger Reaves",
+    uuid: "2057cd03-1cef-4f1b-9ae1-eafe20ea251a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_reaves.mp3",
+    transcript: "https://lexfridman.com/roger-reaves-transcript"
   },
   {
     title: "#198 – Sara Walker: The Origin of Life on Earth and Alien Worlds",
-    guest: "The Origin of Life on Earth and Alien Worlds",
-    uuid: "d7662d7d-4fec-437d-9da6-8820a41e9ab4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker.mp3"
+    guest: "Sara Walker",
+    uuid: "b097e2c6-dabd-4b2b-a48f-2bdaf2397cbc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker.mp3",
+    transcript: "https://lexfridman.com/sara-walker-transcript"
   },
   {
     title: "#197 – Jocko Willink: War, Leadership, and Discipline",
-    guest: "War, Leadership, and Discipline",
-    uuid: "7c44fc17-50ce-4025-85fd-4222825e469b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jocko_willink.mp3"
+    guest: "Jocko Willink",
+    uuid: "eba7a824-0afc-474f-b669-abbc96757508",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jocko_willink.mp3",
+    transcript: "https://lexfridman.com/jocko-willink-transcript"
   },
   {
     title: "#196 – Yeonmi Park: North Korea",
-    guest: "North Korea",
-    uuid: "b572694c-4781-4ac0-809b-d879233f2b66",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yeonmi_park.mp3"
+    guest: "Yeonmi Park",
+    uuid: "d1f8787d-f80e-4a11-b571-d763a14d78b7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yeonmi_park.mp3",
+    transcript: "https://lexfridman.com/yeonmi-park-transcript"
   },
   {
     title: "#195 – Clara Sousa-Silva: Searching for Signs of Life on Venus and Other Planets",
-    guest: "Searching for Signs of Life on Venus and Other Planets",
-    uuid: "7a967013-1caa-472f-be97-461014448a41",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_clara_sousa_silva.mp3"
+    guest: "Clara Sousa-Silva",
+    uuid: "e354a229-2381-4754-98a6-1ce58da137cb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_clara_sousa_silva.mp3",
+    transcript: "https://lexfridman.com/clara-sousa-silva-transcript"
   },
   {
     title: "#194 – Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic",
-    guest: "Truth, Science, and Censorship in the Time of a Pandemic",
-    uuid: "257c88f6-1b70-4e2f-8045-b2b1a4b3c05e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bret_weinstein.mp3"
+    guest: "Bret Weinstein",
+    uuid: "e8124172-e2e3-4892-8cbf-0444a3aadb3b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bret_weinstein.mp3",
+    transcript: "https://lexfridman.com/bret-weinstein-transcript"
   },
   {
     title: "#193 – Rob Reid: The Existential Threat of Engineered Viruses and Lab Leaks",
-    guest: "The Existential Threat of Engineered Viruses and Lab Leaks",
-    uuid: "0855d7f2-d530-4184-a300-6879301b89e0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rob_reid.mp3"
+    guest: "Rob Reid",
+    uuid: "13c80ec0-2d6c-42b6-a78c-5441fc077972",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rob_reid.mp3",
+    transcript: "https://lexfridman.com/rob-reid-transcript"
   },
   {
     title: "#192 – Charles Hoskinson: Cardano",
-    guest: "Cardano",
-    uuid: "797531b6-9eeb-4b1a-b500-ef99c5259dce",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_hoskinson.mp3"
+    guest: "Charles Hoskinson",
+    uuid: "aad878dd-f06c-4112-9d18-849b032cf1b4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_hoskinson.mp3",
+    transcript: "https://lexfridman.com/charles-hoskinson-transcript"
   },
   {
     title: "#191 – Daniel Schmachtenberger: Steering Civilization Away from Self-Destruction",
-    guest: "Steering Civilization Away from Self-Destruction",
-    uuid: "e9865a5d-72ec-4d0a-878c-3ccd3ec6379e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_schmachtenberger.mp3"
+    guest: "Daniel Schmachtenberger",
+    uuid: "d804dbbf-3a1a-4ac3-a3d4-b35717a7f11f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_schmachtenberger.mp3",
+    transcript: "https://lexfridman.com/daniel-schmachtenberger-transcript"
   },
   {
     title: "#190 – Jordan Ellenberg: Mathematics of High-Dimensional Shapes and Geometries",
-    guest: "Mathematics of High-Dimensional Shapes and Geometries",
-    uuid: "61c8db52-0e8b-47c0-af6d-9dbf72ab9999",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_ellenberg.mp3"
+    guest: "Jordan Ellenberg",
+    uuid: "3583cdad-d912-49a2-ae01-fd31853af286",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_ellenberg.mp3",
+    transcript: "https://lexfridman.com/jordan-ellenberg-transcript"
   },
   {
     title: "#189 – David Sinclair: Extending the Human Lifespan Beyond 100 Years",
-    guest: "Extending the Human Lifespan Beyond 100 Years",
-    uuid: "8c037470-5177-4039-a30d-4bb6bca964e1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_sinclair.mp3"
+    guest: "David Sinclair",
+    uuid: "01459f4d-caca-4fe4-ac3c-83dfb6b140f7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_sinclair.mp3",
+    transcript: "https://lexfridman.com/david-sinclair-transcript"
   },
   {
     title: "#188 – Vitalik Buterin: Ethereum 2.0",
-    guest: "Ethereum 2.0",
-    uuid: "5bd41c5d-bcd3-4c6d-b3f1-7cfd1d56f629",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin_2.mp3"
+    guest: "Vitalik Buterin",
+    uuid: "d8cc8409-a788-4e23-b396-7c84a52b1247",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin_2.mp3",
+    transcript: "https://lexfridman.com/vitalik-buterin-transcript"
   },
   {
     title: "#187 – Frank Wilczek: Physics of Quarks, Dark Matter, Complexity, Life & Aliens",
-    guest: "Physics of Quarks, Dark Matter, Complexity, Life & Aliens",
-    uuid: "6a578871-72bc-405a-a476-c355477fbbd6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_frank_wilczek.mp3"
+    guest: "Frank Wilczek",
+    uuid: "c76a04fd-1b3b-4a55-94ee-9da576b45e21",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_frank_wilczek.mp3",
+    transcript: "https://lexfridman.com/frank-wilczek-transcript"
   },
   {
     title: "#186 – Bryan Johnson: Kernel Brain-Computer Interfaces",
-    guest: "Kernel Brain-Computer Interfaces",
-    uuid: "4daa93c3-912e-4265-af3a-95194ebba527",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bryan_johnson.mp3"
+    guest: "Bryan Johnson",
+    uuid: "15fdbd71-69a8-4168-806e-ca32761ebed1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bryan_johnson.mp3",
+    transcript: "https://lexfridman.com/bryan-johnson-transcript"
   },
   {
     title: "#185 – Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning",
-    guest: "Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning",
-    uuid: "5e8b2195-b272-46c6-8abe-daf59023d6af",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris.mp3"
+    guest: "Sam Harris",
+    uuid: "d2f316cd-cd50-4a40-824b-9e1c42ef395b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris.mp3",
+    transcript: "https://lexfridman.com/sam-harris-transcript"
   },
   {
     title: "#184 – Katherine de Kleer: Planets, Moons, and Asteroids in Our Solar System",
-    guest: "Planets, Moons, and Asteroids in Our Solar System",
-    uuid: "125e35a1-e879-40e7-b1ea-e41f2085a6e8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_katherine_de_kleer.mp3"
+    guest: "Katherine de Kleer",
+    uuid: "05309585-b5c8-4928-9ae4-07ef2c067bf2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_katherine_de_kleer.mp3",
+    transcript: "https://lexfridman.com/katherine-de-kleer-transcript"
   },
   {
     title: "#183 – Po-Shen Loh: Mathematics, Math Olympiad, Combinatorics & Contact Tracing",
-    guest: "Mathematics, Math Olympiad, Combinatorics & Contact Tracing",
-    uuid: "c96aa2f7-2b16-4d44-b2bd-bb480fde2593",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_po_shen_loh.mp3"
+    guest: "Po-Shen Loh",
+    uuid: "9575e029-f6e3-412d-93ed-506ecc36506c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_po_shen_loh.mp3",
+    transcript: "https://lexfridman.com/po-shen-loh-transcript"
   },
   {
     title: "#182 – John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA",
-    guest: "The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA",
-    uuid: "db9f1f88-1451-4a78-a134-7e6a04a7cdc7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher.mp3"
+    guest: "John Danaher",
+    uuid: "06d65b2e-2c04-4df9-b4e2-67afc5da9558",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher.mp3",
+    transcript: "https://lexfridman.com/john-danaher-transcript"
   },
   {
     title: "#181 – Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks",
-    guest: "Chainlink, Smart Contracts, and Oracle Networks",
-    uuid: "7ebaf343-7b28-4c53-b5b9-e7811664cfb3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_nazarov.mp3"
+    guest: "Sergey Nazarov",
+    uuid: "5b114688-334f-4d8e-9102-94522d4ad47c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_nazarov.mp3",
+    transcript: "https://lexfridman.com/sergey-nazarov-transcript"
   },
   {
     title: "#180 – Jeremi Suri: History of American Power",
-    guest: "History of American Power",
-    uuid: "a8b78edd-d1c7-4dc7-a885-49038f2ce6dd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri.mp3"
+    guest: "Jeremi Suri",
+    uuid: "15dcc89f-e0d8-4736-a2f5-af7b4b1e0403",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri.mp3",
+    transcript: "https://lexfridman.com/jeremi-suri-transcript"
   },
   {
     title: "#179 – Georges St-Pierre: The Science of Fighting",
-    guest: "The Science of Fighting",
-    uuid: "90b4e616-805d-4d9a-8713-a1fb15938fcf",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_georges_st_pierre.mp3"
+    guest: "Georges St-Pierre",
+    uuid: "9e098f9f-c564-4349-bf45-db10819a816f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_georges_st_pierre.mp3",
+    transcript: "https://lexfridman.com/georges-st-pierre-transcript"
   },
   {
     title: "#178 – Michael Malice and Yaron Brook: Ayn Rand, Human Nature, and Anarchy",
-    guest: "Ayn Rand, Human Nature, and Anarchy",
-    uuid: "a4a1b808-9463-4241-a581-8d71bf6c8227",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_and_yaron_brook.mp3"
+    guest: "Michael Malice and Yaron Brook",
+    uuid: "72a4c976-e87e-48ed-b170-06728a665336",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_and_yaron_brook.mp3",
+    transcript: "https://lexfridman.com/michael-malice-and-yaron-brook-transcript"
   },
   {
     title: "#177 – Risto Miikkulainen: Neuroevolution and Evolutionary Computation",
-    guest: "Neuroevolution and Evolutionary Computation",
-    uuid: "b4e2498d-245b-4973-8a4d-6772e6388678",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_risto_miikkulainen.mp3"
+    guest: "Risto Miikkulainen",
+    uuid: "5833c3b1-2556-456c-b1c9-bebe22d0ad22",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_risto_miikkulainen.mp3",
+    transcript: "https://lexfridman.com/risto-miikkulainen-transcript"
   },
   {
     title: "#176 – Robert Breedlove: Philosophy of Bitcoin from First Principles",
-    guest: "Philosophy of Bitcoin from First Principles",
-    uuid: "668038b5-7482-4a07-8bac-43d56ae93454",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_breedlove.mp3"
+    guest: "Robert Breedlove",
+    uuid: "928e2ab2-71bf-4abb-a8eb-9487e73c58ac",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_breedlove.mp3",
+    transcript: "https://lexfridman.com/robert-breedlove-transcript"
   },
   {
     title: "#175 – Yannis Pappas: History and Comedy",
-    guest: "History and Comedy",
-    uuid: "60f81bbf-3635-42ee-91b6-61217c4cfa93",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yannis_pappas.mp3"
+    guest: "Yannis Pappas",
+    uuid: "8712dac9-c926-447d-9b28-a19086a99129",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yannis_pappas.mp3",
+    transcript: "https://lexfridman.com/yannis-pappas-transcript"
   },
   {
     title: "#174 – Tyler Cowen: Economic Growth and the Fight Against Conformity and Mediocrity",
-    guest: "Economic Growth and the Fight Against Conformity and Mediocrity",
-    uuid: "ca50005b-d921-4dac-a535-43545e4db210",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tyler_cowen.mp3"
+    guest: "Tyler Cowen",
+    uuid: "1c163954-84da-4922-8f1b-049c8acc0b87",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tyler_cowen.mp3",
+    transcript: "https://lexfridman.com/tyler-cowen-transcript"
   },
   {
     title: "#173 – Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates",
-    guest: "Bitcoin Core Values, Layered Scaling, and Blocksize Debates",
-    uuid: "6fb2e05a-4906-4a33-903b-3f3faf1830d8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nic_carter.mp3"
+    guest: "Nic Carter",
+    uuid: "76c2354f-1732-41e8-8f5f-008078621396",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nic_carter.mp3",
+    transcript: "https://lexfridman.com/nic-carter-transcript"
   },
   {
     title: "#172 – Ryan Schiller: Librex and the Free Exchange of Ideas on College Campuses",
-    guest: "Librex and the Free Exchange of Ideas on College Campuses",
-    uuid: "99b7bf5a-8e8e-44a0-b83a-883fa58e742d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_schiller.mp3"
+    guest: "Ryan Schiller",
+    uuid: "d1220eca-0c4a-46fb-b8fb-c1c534f0e494",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_schiller.mp3",
+    transcript: "https://lexfridman.com/ryan-schiller-transcript"
   },
   {
     title: "#171 – Anthony Pompliano: Bitcoin",
-    guest: "Bitcoin",
-    uuid: "f572f750-e305-4486-9e61-932e9a6e366b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anthony_pompliano.mp3"
+    guest: "Anthony Pompliano",
+    uuid: "f6fa1732-29f7-4082-8416-fff22edfd4a3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anthony_pompliano.mp3",
+    transcript: "https://lexfridman.com/anthony-pompliano-transcript"
   },
   {
     title: "#170 – Ronald Sullivan: The Ideal of Justice in the Face of Controversy and Evil",
-    guest: "The Ideal of Justice in the Face of Controversy and Evil",
-    uuid: "34d942a5-fcac-4601-8289-1edca103a05f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ronald_sullivan.mp3"
+    guest: "Ronald Sullivan",
+    uuid: "6271739d-60ad-4434-8215-c14a773c5369",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ronald_sullivan.mp3",
+    transcript: "https://lexfridman.com/ronald-sullivan-transcript"
   },
   {
     title: "#169 – Ryan Hall: Solving Martial Arts from First Principles",
-    guest: "Solving Martial Arts from First Principles",
-    uuid: "cabe8df5-2d3e-4164-a67c-a49c0f2170d7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall_2.mp3"
+    guest: "Ryan Hall",
+    uuid: "ad74d110-bd16-4782-9b93-a5d867df94df",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall_2.mp3",
+    transcript: "https://lexfridman.com/ryan-hall-transcript"
   },
   {
     title: "#168 – Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum",
-    guest: "Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum",
-    uuid: "1e4fbf85-c1f6-4e1a-b222-a8321b1daae4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_silvio_micali.mp3"
+    guest: "Silvio Micali",
+    uuid: "cabed551-ff69-4b51-b828-eae2dc8ba3e5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_silvio_micali.mp3",
+    transcript: "https://lexfridman.com/silvio-micali-transcript"
   },
   {
     title: "#167 – Saagar Enjeti: Politics, History, and Power",
-    guest: "Politics, History, and Power",
-    uuid: "3430e852-92ef-4095-ac43-18859a11e82c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saagar_enjeti.mp3"
+    guest: "Saagar Enjeti",
+    uuid: "87a0c4ea-c279-4426-b187-c4ddd3c15436",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saagar_enjeti.mp3",
+    transcript: "https://lexfridman.com/saagar-enjeti-transcript"
   },
   {
     title: "#166 – Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media",
-    guest: "Deep Work, Focus, Productivity, Email, and Social Media",
-    uuid: "71ecef59-26dc-4835-b411-4af68593ea27",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cal_newport.mp3"
+    guest: "Cal Newport",
+    uuid: "b2812482-b41f-4e07-8980-adf83e51106c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cal_newport.mp3",
+    transcript: "https://lexfridman.com/cal-newport-transcript"
   },
   {
     title: "#165 – Josh Barnett: Philosophy of Violence, Power, and the Martial Arts",
-    guest: "Philosophy of Violence, Power, and the Martial Arts",
-    uuid: "71488880-548a-451f-804e-8ec1d69e366b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_josh_barnett.mp3"
+    guest: "Josh Barnett",
+    uuid: "e5215aa0-fdc6-4233-b27b-9a057e1c46f3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_josh_barnett.mp3",
+    transcript: "https://lexfridman.com/josh-barnett-transcript"
   },
   {
     title: "#164 – Andrew Huberman: Sleep, Dreams, Creativity & the Limits of the Human Mind",
-    guest: "Sleep, Dreams, Creativity & the Limits of the Human Mind",
-    uuid: "708865f4-da80-44c8-b674-0eeadabced8e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_2.mp3"
+    guest: "Andrew Huberman",
+    uuid: "f31ef522-62a6-464e-8c31-086747526b97",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_2.mp3",
+    transcript: "https://lexfridman.com/andrew-huberman-transcript"
   },
   {
     title: "#163 – Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics",
-    guest: "Difficult Conversations, Freedom of Speech, and Physics",
-    uuid: "264de4ed-9f4d-4e85-b148-643f0ab345dd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_4.mp3"
+    guest: "Eric Weinstein",
+    uuid: "2210663b-048b-442a-b126-c74181be9a0a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_4.mp3",
+    transcript: "https://lexfridman.com/eric-weinstein-transcript"
   },
   {
     title: "#162 – Jim Keller: The Future of Computing, AI, Life, and Consciousness",
-    guest: "The Future of Computing, AI, Life, and Consciousness",
-    uuid: "bb1e2c62-e1d5-4950-92b0-e1e9b0868619",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller_2.mp3"
+    guest: "Jim Keller",
+    uuid: "c8cea241-c0df-449b-a424-2de29b4451c1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller_2.mp3",
+    transcript: "https://lexfridman.com/jim-keller-transcript"
   },
   {
     title: "#161 – Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship",
-    guest: "Startups, Angel Investing, Capitalism, and Friendship",
-    uuid: "4345398d-ceab-4cb0-a10b-a90beb6a06d3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jason_calacanis.mp3"
+    guest: "Jason Calacanis",
+    uuid: "a073be79-a89d-4142-b012-a17e4b050097",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jason_calacanis.mp3",
+    transcript: "https://lexfridman.com/jason-calacanis-transcript"
   },
   {
     title: "#160 – Brendan Eich: JavaScript, Firefox, Mozilla, and Brave",
-    guest: "JavaScript, Firefox, Mozilla, and Brave",
-    uuid: "c39c37a6-1101-41e1-bb7f-4eeb10ed3678",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brendan_eich.mp3"
+    guest: "Brendan Eich",
+    uuid: "de7e679f-c04c-4e17-9a68-2bf05f6147da",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brendan_eich.mp3",
+    transcript: "https://lexfridman.com/brendan-eich-transcript"
   },
   {
     title: "#159 – Richard Craib: WallStreetBets, Numerai, and the Future of Stock Trading",
-    guest: "WallStreetBets, Numerai, and the Future of Stock Trading",
-    uuid: "505ed7c5-c2a3-4c45-bbcc-67eabad5ab75",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_craib.mp3"
+    guest: "Richard Craib",
+    uuid: "b3ed69dd-1080-4885-abd9-a3cf5e53fc02",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_craib.mp3",
+    transcript: "https://lexfridman.com/richard-craib-transcript"
   },
   {
     title: "#158 – Zev Weinstein: The Next Generation of Big Ideas and Brave Minds",
-    guest: "The Next Generation of Big Ideas and Brave Minds",
-    uuid: "0cdcabcb-1cc3-444a-9d4d-99d453707133",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zev_weinstein.mp3"
+    guest: "Zev Weinstein",
+    uuid: "15037bd0-1833-47a7-9138-12cc0afb1079",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zev_weinstein.mp3",
+    transcript: "https://lexfridman.com/zev-weinstein-transcript"
   },
   {
     title: "#157 – Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion",
-    guest: "Rocket Engines and Electric Spacecraft Propulsion",
-    uuid: "2d442fa1-2b00-42c9-9174-8e5216fbf185",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_natalya_bailey.mp3"
+    guest: "Natalya Bailey",
+    uuid: "6b34b3ba-f420-439f-8efe-c7bb031b4a39",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_natalya_bailey.mp3",
+    transcript: "https://lexfridman.com/natalya-bailey-transcript"
   },
   {
     title: "#156 – Tim Dillon: Comedy, Power, Conspiracy Theories, and Freedom",
-    guest: "Comedy, Power, Conspiracy Theories, and Freedom",
-    uuid: "72bf4941-7ea9-47c4-bcf7-62a50e9d273f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dillon.mp3"
+    guest: "Tim Dillon",
+    uuid: "db3d6f1c-13a0-450e-b987-21f062f4fe80",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dillon.mp3",
+    transcript: "https://lexfridman.com/tim-dillon-transcript"
   },
   {
     title: "Lex Fridman: Ask Me Anything – AMA January 2021",
-    guest: "Ask Me Anything – AMA January 2021",
-    uuid: "a27bd645-fd61-487f-90d2-bd773d3f3b4c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ama1.mp3"
+    guest: "Lex Fridman: Ask Me Anything – AMA January 2021",
+    uuid: "d3dcd046-9414-4d55-acf4-c7be25960db1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ama1.mp3",
+    transcript: "https://lexfridman.com/lex-fridman-ask-me-anything--ama-january-2021-transcript"
   },
   {
     title: "#155 – Max Tegmark: AI and Physics",
-    guest: "AI and Physics",
-    uuid: "969c0640-cb57-4a23-8450-314c4febef9a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_2.mp3"
+    guest: "Max Tegmark",
+    uuid: "4118ffb7-e312-4197-a09f-e57a2ff49472",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_2.mp3",
+    transcript: "https://lexfridman.com/max-tegmark-transcript"
   },
   {
     title: "#154 – Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua",
-    guest: "Aliens, Black Holes, and the Mystery of the Oumuamua",
-    uuid: "e5868c20-9741-4b05-8a93-55379ae72631",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_avi_loeb.mp3"
+    guest: "Avi Loeb",
+    uuid: "042f75d1-47da-4bf2-b2a9-1e82c39a7c50",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_avi_loeb.mp3",
+    transcript: "https://lexfridman.com/avi-loeb-transcript"
   },
   {
     title: "#153 – Dmitry Korkin: Evolution of Proteins, Viruses, Life, and AI",
-    guest: "Evolution of Proteins, Viruses, Life, and AI",
-    uuid: "d95d2e2c-1b1b-401b-99b4-11aa5547196a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin_2.mp3"
+    guest: "Dmitry Korkin",
+    uuid: "9838cb4b-061c-415d-aa24-46cba9f5beac",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin_2.mp3",
+    transcript: "https://lexfridman.com/dmitry-korkin-transcript"
   },
   {
     title: "#152 – Dan Gable: Olympic Wrestling, Mental Toughness & the Making of Champions",
-    guest: "Olympic Wrestling, Mental Toughness & the Making of Champions",
-    uuid: "0c3a8557-6ead-4176-8655-69f06a53ad7f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_gable.mp3"
+    guest: "Dan Gable",
+    uuid: "e0de9352-177a-4b15-9d27-efc33388acbc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_gable.mp3",
+    transcript: "https://lexfridman.com/dan-gable-transcript"
   },
   {
     title: "#151 – Dan Kokotov: Speech Recognition with AI and Humans",
-    guest: "Speech Recognition with AI and Humans",
-    uuid: "0564f3d1-0046-4359-9aa1-f2da23ac8c05",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_kokotov.mp3"
+    guest: "Dan Kokotov",
+    uuid: "60d86273-fad2-45e7-bba4-b880f298cb18",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_kokotov.mp3",
+    transcript: "https://lexfridman.com/dan-kokotov-transcript"
   },
   {
     title: "#150 – Michael Malice: The White Pill, Freedom, Hope, and Happiness Amidst Chaos",
-    guest: "The White Pill, Freedom, Hope, and Happiness Amidst Chaos",
-    uuid: "b32f3888-7733-49c0-b655-92925845f8db",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_2.mp3"
+    guest: "Michael Malice",
+    uuid: "153cf9bb-4801-45cd-9a43-4119b4dd4a13",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_2.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#149 – Diana Walsh Pasulka: Aliens, Technology, Religion, and the Nature of Belief",
-    guest: "Aliens, Technology, Religion, and the Nature of Belief",
-    uuid: "99d4365f-ceb1-4add-9889-c10d9136f9aa",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_diana_walsh_pasulka.mp3"
+    guest: "Diana Walsh Pasulka",
+    uuid: "b5a86439-ea7e-41be-983e-a22b40883a5c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_diana_walsh_pasulka.mp3",
+    transcript: "https://lexfridman.com/diana-walsh-pasulka-transcript"
   },
   {
     title: "#148 – Charles Isbell and Michael Littman: Machine Learning and Education",
-    guest: "Machine Learning and Education",
-    uuid: "c7d8ea8d-4b24-46d5-947a-55fbd6be7f2d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell_and_michael_littman.mp3"
+    guest: "Charles Isbell and Michael Littman",
+    uuid: "99c8ea26-4ce9-4ec8-a322-fd4e3c31aa93",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell_and_michael_littman.mp3",
+    transcript: "https://lexfridman.com/charles-isbell-and-michael-littman-transcript"
   },
   {
     title: "#147 – Dmitri Dolgov: Waymo and the Future of Self-Driving Cars",
-    guest: "Waymo and the Future of Self-Driving Cars",
-    uuid: "0cdd8952-abf7-43a5-9b8c-7a6484617d94",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitri_dolgov.mp3"
+    guest: "Dmitri Dolgov",
+    uuid: "b88f368a-0f69-4666-a7c1-6f8c1b07a961",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitri_dolgov.mp3",
+    transcript: "https://lexfridman.com/dmitri-dolgov-transcript"
   },
   {
     title: "#146 – Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset",
-    guest: "Rapid Testing, Viruses, and the Engineering Mindset",
-    uuid: "98198064-318b-40a1-a07e-658c70e4aaac",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina.mp3"
+    guest: "Michael Mina",
+    uuid: "c5762df5-2a40-474c-a355-eaa46fa6cc7e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina.mp3",
+    transcript: "https://lexfridman.com/michael-mina-transcript"
   },
   {
     title: "#145 – Matthew Johnson: Psychedelics",
-    guest: "Psychedelics",
-    uuid: "0652ac19-5646-46e9-b815-126ea4e0d92c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_johnson.mp3"
+    guest: "Matthew Johnson",
+    uuid: "21efd548-6eae-4c9f-8f25-79b70e5eac6e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_johnson.mp3",
+    transcript: "https://lexfridman.com/matthew-johnson-transcript"
   },
   {
     title: "#144 – Michael Littman: Reinforcement Learning and the Future of AI",
-    guest: "Reinforcement Learning and the Future of AI",
-    uuid: "6da2cf3a-683e-4868-bd8b-3d443d11b565",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_littman.mp3"
+    guest: "Michael Littman",
+    uuid: "4924abab-7578-4d64-ada5-160c30bb34e4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_littman.mp3",
+    transcript: "https://lexfridman.com/michael-littman-transcript"
   },
   {
     title: "#143 – John Clarke: The Art of Fighting and the Pursuit of Excellence",
-    guest: "The Art of Fighting and the Pursuit of Excellence",
-    uuid: "a8bbff74-e396-4b81-bdf7-0b4b39bb6260",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_clarke.mp3"
+    guest: "John Clarke",
+    uuid: "0b3a8355-acaf-4ddf-8747-3968c4bde3b5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_clarke.mp3",
+    transcript: "https://lexfridman.com/john-clarke-transcript"
   },
   {
     title: "#142 – Manolis Kellis: Meaning of Life, the Universe, and Everything",
-    guest: "Meaning of Life, the Universe, and Everything",
-    uuid: "1c5ebabf-89ce-446a-b92c-3ed87d146e9c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_4.mp3"
+    guest: "Manolis Kellis",
+    uuid: "30e5ca15-9419-4454-a5d2-8da2207658ac",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_4.mp3",
+    transcript: "https://lexfridman.com/manolis-kellis-transcript"
   },
   {
     title: "#141 – Erik Brynjolfsson: Economics of AI, Social Networks, and Technology",
-    guest: "Economics of AI, Social Networks, and Technology",
-    uuid: "ca96317b-e62d-4b34-abdd-c9eadfe7ba6a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_erik_brynjolfsson.mp3"
+    guest: "Erik Brynjolfsson",
+    uuid: "950b5fa0-6d60-4cfc-8778-571f26cef1eb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_erik_brynjolfsson.mp3",
+    transcript: "https://lexfridman.com/erik-brynjolfsson-transcript"
   },
   {
     title: "#140 – Lisa Feldman Barrett: Love, Evolution, and the Human Brain",
-    guest: "Love, Evolution, and the Human Brain",
-    uuid: "ae77867e-7983-4a03-b00b-4506a892b70e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett_2.mp3"
+    guest: "Lisa Feldman Barrett",
+    uuid: "df8eb56d-58cb-44e0-88e6-5ba8751c13ad",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett_2.mp3",
+    transcript: "https://lexfridman.com/lisa-feldman-barrett-transcript"
   },
   {
     title: "#139 – Andrew Huberman: Neuroscience of Optimal Performance",
-    guest: "Neuroscience of Optimal Performance",
-    uuid: "51fa81d7-f860-4eea-baca-7d0c009000d4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman.mp3"
+    guest: "Andrew Huberman",
+    uuid: "3aaea4a3-51c6-45e0-a43a-cfaa05080597",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman.mp3",
+    transcript: "https://lexfridman.com/andrew-huberman-transcript"
   },
   {
     title: "#138 – Yaron Brook: Ayn Rand and the Philosophy of Objectivism",
-    guest: "Ayn Rand and the Philosophy of Objectivism",
-    uuid: "b179fbca-e382-453d-ab95-c996416571f8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yaron_brook.mp3"
+    guest: "Yaron Brook",
+    uuid: "1ac6304f-a84d-4226-869c-4a0b3676fa87",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yaron_brook.mp3",
+    transcript: "https://lexfridman.com/yaron-brook-transcript"
   },
   {
     title: "#137 – Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe",
-    guest: "Supernovae, Dark Energy, Aliens & the Expanding Universe",
-    uuid: "4a813259-ea27-4bd0-9b66-250cc48eef77",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_filippenko.mp3"
+    guest: "Alex Filippenko",
+    uuid: "77b07b70-29ea-4461-afe9-5f5091763bdc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_filippenko.mp3",
+    transcript: "https://lexfridman.com/alex-filippenko-transcript"
   },
   {
     title: "#136 – Dan Carlin: Hardcore History",
-    guest: "Hardcore History",
-    uuid: "059b5724-6415-47ff-a834-6f3e5c022498",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_carlin.mp3"
+    guest: "Dan Carlin",
+    uuid: "d694fcce-ae78-479c-b93d-2e7287704780",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_carlin.mp3",
+    transcript: "https://lexfridman.com/dan-carlin-transcript"
   },
   {
     title: "#135 – Charles Isbell: Computing, Interactive AI, and Race in America",
-    guest: "Computing, Interactive AI, and Race in America",
-    uuid: "b2ab6554-3592-460d-b893-1c526fac44b6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell.mp3"
+    guest: "Charles Isbell",
+    uuid: "0f6d7e59-0269-41e8-ad79-9f0a05fe429e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell.mp3",
+    transcript: "https://lexfridman.com/charles-isbell-transcript"
   },
   {
     title: "#134 – Eric Weinstein: On the Nature of Good and Evil, Genius and Madness",
-    guest: "On the Nature of Good and Evil, Genius and Madness",
-    uuid: "b5691af9-dcad-4b55-9c39-9f336c3124db",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_3.mp3"
+    guest: "Eric Weinstein",
+    uuid: "4b863d89-3684-4a48-adbe-34df99fb702e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_3.mp3",
+    transcript: "https://lexfridman.com/eric-weinstein-transcript"
   },
   {
     title: "#133 – Manolis Kellis: Biology of Disease",
-    guest: "Biology of Disease",
-    uuid: "32b95a6a-8290-41e9-b5e8-8cc888890afd",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_3.mp3"
+    guest: "Manolis Kellis",
+    uuid: "ff010b35-4c7d-4c96-8c4b-4c61e8508748",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_3.mp3",
+    transcript: "https://lexfridman.com/manolis-kellis-transcript"
   },
   {
     title: "#132 – George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets",
-    guest: "Hacking the Simulation & Learning to Drive with Neural Nets",
-    uuid: "d5189797-b668-4291-8049-725f04118283",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_2.mp3"
+    guest: "George Hotz",
+    uuid: "cff85634-5d17-4fe3-951f-407e63ea263c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_2.mp3",
+    transcript: "https://lexfridman.com/george-hotz-transcript"
   },
   {
     title: "#131 – Chris Lattner: The Future of Computing and Programming Languages",
-    guest: "The Future of Computing and Programming Languages",
-    uuid: "39e8b4e6-9ca0-4100-ba51-8500b46bb0c8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_2.mp3"
+    guest: "Chris Lattner",
+    uuid: "360ab44d-a892-4b95-af64-4f36b2ecbf7e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_2.mp3",
+    transcript: "https://lexfridman.com/chris-lattner-transcript"
   },
   {
     title: "#130 – Scott Aaronson: Computational Complexity and Consciousness",
-    guest: "Computational Complexity and Consciousness",
-    uuid: "aef722b8-62f3-47ee-8880-296dba0eec26",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson_2.mp3"
+    guest: "Scott Aaronson",
+    uuid: "e960c232-44b1-4124-8a66-d9cffa61260b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson_2.mp3",
+    transcript: "https://lexfridman.com/scott-aaronson-transcript"
   },
   {
     title: "#129 – Lisa Feldman Barrett: Counterintuitive Ideas About How the Brain Works",
-    guest: "Counterintuitive Ideas About How the Brain Works",
-    uuid: "6739753f-27de-4040-afdc-614ef0716dd9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett.mp3"
+    guest: "Lisa Feldman Barrett",
+    uuid: "388fdd86-7d93-4be4-84ba-6dfdffff21cc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett.mp3",
+    transcript: "https://lexfridman.com/lisa-feldman-barrett-transcript"
   },
   {
     title: "#128 – Michael Malice: Anarchy, Democracy, Libertarianism, Love, and Trolling",
-    guest: "Anarchy, Democracy, Libertarianism, Love, and Trolling",
-    uuid: "7a3cdcf0-8e49-4186-a0d3-5acaa1faa230",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice.mp3"
+    guest: "Michael Malice",
+    uuid: "5f4c7f5a-9530-4fec-be71-312602f45ddc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice.mp3",
+    transcript: "https://lexfridman.com/michael-malice-transcript"
   },
   {
     title: "#127 – Joe Rogan: Conversations, Ideas, Love, Freedom & The Joe Rogan Experience",
-    guest: "Conversations, Ideas, Love, Freedom & The Joe Rogan Experience",
-    uuid: "647c8aa4-76ce-45b0-bc14-40b65a8d31bf",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan.mp3"
+    guest: "Joe Rogan",
+    uuid: "a1917101-6bfc-4814-ad5d-46a086adbc27",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan.mp3",
+    transcript: "https://lexfridman.com/joe-rogan-transcript"
   },
   {
     title: "#126 – James Gosling: Java, JVM, Emacs, and the Early Days of Computing",
-    guest: "Java, JVM, Emacs, and the Early Days of Computing",
-    uuid: "dc3199f8-478d-41ca-b571-3f79ea1e2ada",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_gosling.mp3"
+    guest: "James Gosling",
+    uuid: "ee6468c5-8d89-450d-96f3-b422bd223c4b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_gosling.mp3",
+    transcript: "https://lexfridman.com/james-gosling-transcript"
   },
   {
     title: "#125 – Ryan Hall: Martial Arts and the Philosophy of Violence, Power, and Grace",
-    guest: "Martial Arts and the Philosophy of Violence, Power, and Grace",
-    uuid: "1df743d0-0e49-4d76-a0e7-866e6c5def2f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall.mp3"
+    guest: "Ryan Hall",
+    uuid: "2aa50a92-ddfc-4fa7-ac0d-04db28eef9fa",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall.mp3",
+    transcript: "https://lexfridman.com/ryan-hall-transcript"
   },
   {
     title: "#124 – Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe",
-    guest: "Fundamental Theory of Physics, Life, and the Universe",
-    uuid: "45395b36-5b22-434a-b5d1-40899c2518ba",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_2.mp3"
+    guest: "Stephen Wolfram",
+    uuid: "1535714c-5a7a-492e-a56b-e30eecb614e9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_2.mp3",
+    transcript: "https://lexfridman.com/stephen-wolfram-transcript"
   },
   {
     title: "#123 – Manolis Kellis: Origin of Life, Humans, Ideas, Suffering, and Happiness",
-    guest: "Origin of Life, Humans, Ideas, Suffering, and Happiness",
-    uuid: "46ffa834-4982-4c07-b2d0-3ac126a2489a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_2.mp3"
+    guest: "Manolis Kellis",
+    uuid: "2dbc5858-e9fa-49d9-9a53-9bfdb513d1f1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_2.mp3",
+    transcript: "https://lexfridman.com/manolis-kellis-transcript"
   },
   {
     title: "#122 – David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering",
-    guest: "UFOs, Aliens, Fighter Jets, and Aerospace Engineering",
-    uuid: "2907dea6-1a26-458d-a525-9dffb3172905",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_fravor.mp3"
+    guest: "David Fravor",
+    uuid: "b45a0f3c-5082-4de2-802a-c33e1012f99c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_fravor.mp3",
+    transcript: "https://lexfridman.com/david-fravor-transcript"
   },
   {
     title: "Lex Solo #3 – In Memory of My Grandmother",
     guest: "Lex Solo #3 – In Memory of My Grandmother",
-    uuid: "0050d33e-3d5f-4db3-b91d-041cc51d459d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_grandmother.mp3"
+    uuid: "004f13bb-92ac-4c10-9422-68502c03bae0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_grandmother.mp3",
+    transcript: "https://lexfridman.com/lex-solo-3--in-memory-of-my-grandmother-transcript"
   },
   {
     title: "#121 – Eugenia Kuyda: Friendship with an AI Companion",
-    guest: "Friendship with an AI Companion",
-    uuid: "1a27cc6a-fbef-4065-b19f-1b23e22ae7b8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eugenia_kuyda.mp3"
+    guest: "Eugenia Kuyda",
+    uuid: "a77e003d-0f5d-4800-a03d-31c8d33dc65f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eugenia_kuyda.mp3",
+    transcript: "https://lexfridman.com/eugenia-kuyda-transcript"
   },
   {
     title: "Lex Solo #2 – The Future of Neuralink",
     guest: "Lex Solo #2 – The Future of Neuralink",
-    uuid: "6f6bbf0c-5c90-4f8a-896c-54bce4bdeb47",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_neuralink.mp3"
+    uuid: "e564284e-41c1-4368-a2d4-c02a369b6d54",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_neuralink.mp3",
+    transcript: "https://lexfridman.com/lex-solo-2--the-future-of-neuralink-transcript"
   },
   {
     title: "#120 – François Chollet: Measures of Intelligence",
-    guest: "Measures of Intelligence",
-    uuid: "65a53b61-04e5-40fa-a0e8-740b5c38f8b4",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet_2.mp3"
+    guest: "François Chollet",
+    uuid: "14038967-6b87-4b91-8d85-907f10fc61a6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet_2.mp3",
+    transcript: "https://lexfridman.com/franois-chollet-transcript"
   },
   {
     title: "#119 – David Eagleman: Neuroplasticity and the Livewired Brain",
-    guest: "Neuroplasticity and the Livewired Brain",
-    uuid: "34b2504b-bb07-423c-9b31-133d7113b883",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_eagleman.mp3"
+    guest: "David Eagleman",
+    uuid: "c0068a34-013e-41cc-94fc-90239fa17767",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_eagleman.mp3",
+    transcript: "https://lexfridman.com/david-eagleman-transcript"
   },
   {
     title: "New Name: Lex Fridman Podcast",
-    guest: "Lex Fridman Podcast",
-    uuid: "3bc8312a-a25b-493d-9ffb-c5c1c24a25c8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_fridman_podcast_new_name.mp3"
+    guest: "New Name: Lex Fridman Podcast",
+    uuid: "b752d0d8-4c1f-43b2-87e9-82a94b14bb4a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_fridman_podcast_new_name.mp3",
+    transcript: "https://lexfridman.com/new-name-lex-fridman-podcast-transcript"
   },
   {
     title: "#118 – Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown",
-    guest: "Math, Manim, Neural Networks & Teaching with 3Blue1Brown",
-    uuid: "93e7e565-9c02-4465-8dae-f91f46333db2",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson_2.mp3"
+    guest: "Grant Sanderson",
+    uuid: "11d0e6c1-b8ff-44c2-996e-5ed98b034504",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson_2.mp3",
+    transcript: "https://lexfridman.com/grant-sanderson-transcript"
   },
   {
     title: "#117 – Sheldon Solomon: Death and Meaning",
-    guest: "Death and Meaning",
-    uuid: "ffc17d2e-f0ca-465d-beba-4079a18495d5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sheldon_solomon.mp3"
+    guest: "Sheldon Solomon",
+    uuid: "08ea6aef-7711-4b53-80fc-31c23eab3a1b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sheldon_solomon.mp3",
+    transcript: "https://lexfridman.com/sheldon-solomon-transcript"
   },
   {
     title: "#116 – Sara Seager: Search for Planets and Life Outside Our Solar System",
-    guest: "Search for Planets and Life Outside Our Solar System",
-    uuid: "04f06a92-0b7f-4993-8775-ceba36863876",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_seager.mp3"
+    guest: "Sara Seager",
+    uuid: "b56d27a4-de03-41c9-82af-4e513003f834",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_seager.mp3",
+    transcript: "https://lexfridman.com/sara-seager-transcript"
   },
   {
     title: "#115 – Dileep George: Brain-Inspired AI",
-    guest: "Brain-Inspired AI",
-    uuid: "27fcb5b4-d050-4c7e-b4ce-ed9fe1e1c301",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dileep_george.mp3"
+    guest: "Dileep George",
+    uuid: "59d5c6c0-2164-4b1c-acb6-2161be4bc69a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dileep_george.mp3",
+    transcript: "https://lexfridman.com/dileep-george-transcript"
   },
   {
     title: "#114 – Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch",
-    guest: "Underactuated Robotics, Control, Dynamics and Touch",
-    uuid: "35265e09-9bc2-4d5e-8e23-7bbed89d62e0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_russ_tedrake.mp3"
+    guest: "Russ Tedrake",
+    uuid: "bb4f2acf-2335-42f0-a3a2-f6f44e341de8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_russ_tedrake.mp3",
+    transcript: "https://lexfridman.com/russ-tedrake-transcript"
   },
   {
     title: "#113 – Manolis Kellis: Human Genome and Evolutionary Dynamics",
-    guest: "Human Genome and Evolutionary Dynamics",
-    uuid: "690e9817-45e6-4f43-b7fc-1d216a627cc6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis.mp3"
+    guest: "Manolis Kellis",
+    uuid: "bf49d93f-c62c-44a6-a65a-a4d81475c8f4",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis.mp3",
+    transcript: "https://lexfridman.com/manolis-kellis-transcript"
   },
   {
     title: "#112 – Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion",
-    guest: "Nuclear Fusion, Plasma Physics, and Religion",
-    uuid: "487a0edf-fd62-4e74-9b8f-f7a1bf14857d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ian_hutchinson.mp3"
+    guest: "Ian Hutchinson",
+    uuid: "3f532ba6-4a0b-4837-a754-5096303aa2e3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ian_hutchinson.mp3",
+    transcript: "https://lexfridman.com/ian-hutchinson-transcript"
   },
   {
     title: "#111 – Richard Karp: Algorithms and Computational Complexity",
-    guest: "Algorithms and Computational Complexity",
-    uuid: "5e9497d8-1c20-4c7a-abb4-cfefe2e08f9b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_karp.mp3"
+    guest: "Richard Karp",
+    uuid: "18384270-1d63-4305-bb3d-0c53aa7fdb27",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_karp.mp3",
+    transcript: "https://lexfridman.com/richard-karp-transcript"
   },
   {
     title: "#110 – Jitendra Malik: Computer Vision",
-    guest: "Computer Vision",
-    uuid: "085da0cd-68e8-4fd5-a819-3349b657e1f7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jitendra_malik.mp3"
+    guest: "Jitendra Malik",
+    uuid: "5200b968-010a-44ab-b0f8-4ce781c1c668",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jitendra_malik.mp3",
+    transcript: "https://lexfridman.com/jitendra-malik-transcript"
   },
   {
     title: "#109 – Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming",
-    guest: "UNIX, C, AWK, AMPL, and Go Programming",
-    uuid: "642807cd-17e0-4399-8992-89a2706d33f1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_kernighan.mp3"
+    guest: "Brian Kernighan",
+    uuid: "63a8429a-dd7e-48d5-b74a-16a2f690f2c8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_kernighan.mp3",
+    transcript: "https://lexfridman.com/brian-kernighan-transcript"
   },
   {
     title: "#108 – Sergey Levine: Robotics and Machine Learning",
-    guest: "Robotics and Machine Learning",
-    uuid: "c39e641c-2837-4aee-8ce9-bd61100da8be",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_levine.mp3"
+    guest: "Sergey Levine",
+    uuid: "f1fdf550-99a1-4dc0-abe6-4344ce63d15c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_levine.mp3",
+    transcript: "https://lexfridman.com/sergey-levine-transcript"
   },
   {
     title: "#107 – Peter Singer: Suffering in Humans, Animals, and AI",
-    guest: "Suffering in Humans, Animals, and AI",
-    uuid: "d279bea8-c52d-46d5-8261-c1c6ae75e52f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_singer.mp3"
+    guest: "Peter Singer",
+    uuid: "6ce2d981-d9d2-4156-b51a-9bf148c1611b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_singer.mp3",
+    transcript: "https://lexfridman.com/peter-singer-transcript"
   },
   {
     title: "#106 – Matt Botvinick: Neuroscience, Psychology, and AI at DeepMind",
-    guest: "Neuroscience, Psychology, and AI at DeepMind",
-    uuid: "6399b533-a864-46ca-99cd-5f248602fd78",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_botvinick.mp3"
+    guest: "Matt Botvinick",
+    uuid: "2dac30e6-a117-421c-9784-a36381b3090d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_botvinick.mp3",
+    transcript: "https://lexfridman.com/matt-botvinick-transcript"
   },
   {
     title: "#105 – Robert Langer: Edison of Medicine",
-    guest: "Edison of Medicine",
-    uuid: "f95a40e5-7297-499e-90e4-6c70ad0ed64e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bob_langer.mp3"
+    guest: "Robert Langer",
+    uuid: "2168ff8a-961e-4eb1-85a8-0cc5ca8b4035",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bob_langer.mp3",
+    transcript: "https://lexfridman.com/robert-langer-transcript"
   },
   {
     title: "#104 – David Patterson: Computer Architecture and Data Storage",
-    guest: "Computer Architecture and Data Storage",
-    uuid: "affad23d-aedc-47bf-8414-c30304ceb7ff",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_patterson.mp3"
+    guest: "David Patterson",
+    uuid: "5f770e96-664e-49f5-96bd-9e196bdc99ca",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_patterson.mp3",
+    transcript: "https://lexfridman.com/david-patterson-transcript"
   },
   {
     title: "#103 – Ben Goertzel: Artificial General Intelligence",
-    guest: "Artificial General Intelligence",
-    uuid: "28e3e288-b231-4188-a5ed-8b4eaa5ce8bb",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_goertzel.mp3"
+    guest: "Ben Goertzel",
+    uuid: "935643de-4f75-4f71-80ff-724a03d5cf45",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_goertzel.mp3",
+    transcript: "https://lexfridman.com/ben-goertzel-transcript"
   },
   {
     title: "#102 – Steven Pressfield: The War of Art",
-    guest: "The War of Art",
-    uuid: "30876e96-202a-44b6-99df-301d96978083",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steven_pressfield.mp3"
+    guest: "Steven Pressfield",
+    uuid: "36bda36f-a60c-40ce-8137-8e9bb0bd9fdb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steven_pressfield.mp3",
+    transcript: "https://lexfridman.com/steven-pressfield-transcript"
   },
   {
     title: "#101 – Joscha Bach: Artificial Consciousness and the Nature of Reality",
-    guest: "Artificial Consciousness and the Nature of Reality",
-    uuid: "71a9272b-d91a-48e2-94b9-25a87c240e5f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach.mp3"
+    guest: "Joscha Bach",
+    uuid: "5eaa73b0-24c5-4c23-8fde-3fb68139dd7d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach.mp3",
+    transcript: "https://lexfridman.com/joscha-bach-transcript"
   },
   {
     title: "#99 – Karl Friston: Neuroscience and the Free Energy Principle",
-    guest: "Neuroscience and the Free Energy Principle",
-    uuid: "df3e2c9c-2025-45fc-80c6-b532bc4809ed",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_friston.mp3"
+    guest: "Karl Friston",
+    uuid: "cbad6f2a-2545-4373-8f1b-a045f0f3c5bc",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_friston.mp3",
+    transcript: "https://lexfridman.com/karl-friston-transcript"
   },
   {
     title: "#97 – Sertac Karaman: Robots That Fly and Robots That Drive",
-    guest: "Robots That Fly and Robots That Drive",
-    uuid: "9bf40b68-c551-4435-87f9-97a2065991e8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sertac_karaman.mp3"
+    guest: "Sertac Karaman",
+    uuid: "fdcb4df1-83fc-4edc-89cf-ecf8d04df562",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sertac_karaman.mp3",
+    transcript: "https://lexfridman.com/sertac-karaman-transcript"
   },
   {
     title: "#96 – Stephen Schwarzman: Going Big in Business, Investing, and AI",
-    guest: "Going Big in Business, Investing, and AI",
-    uuid: "2d5c0f51-a07e-42de-99de-0a6b86ee4e28",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_schwarzman.mp3"
+    guest: "Stephen Schwarzman",
+    uuid: "d88a0658-8f6a-4401-af1c-511b26b5efbd",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_schwarzman.mp3",
+    transcript: "https://lexfridman.com/stephen-schwarzman-transcript"
   },
   {
     title: "#95 – Dawn Song: Adversarial Machine Learning and Computer Security",
-    guest: "Adversarial Machine Learning and Computer Security",
-    uuid: "a78ad493-0b17-4ffe-8b0d-e903895e23c1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dawn_song.mp3"
+    guest: "Dawn Song",
+    uuid: "fd315078-da6e-4a0e-af97-db230366ad8e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dawn_song.mp3",
+    transcript: "https://lexfridman.com/dawn-song-transcript"
   },
   {
     title: "#94 – Ilya Sutskever: Deep Learning",
-    guest: "Deep Learning",
-    uuid: "db0f1b1c-79a8-4d8e-a9e4-31bcec5f3259",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ilya_sutskever.mp3"
+    guest: "Ilya Sutskever",
+    uuid: "b7f67067-d0d3-4a0f-99c9-fa0aaac8facd",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ilya_sutskever.mp3",
+    transcript: "https://lexfridman.com/ilya-sutskever-transcript"
   },
   {
     title: "#93 – Daphne Koller: Biomedicine and Machine Learning",
-    guest: "Biomedicine and Machine Learning",
-    uuid: "aa6e5f02-1d68-415b-879f-67de13fef61d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daphne_koller.mp3"
+    guest: "Daphne Koller",
+    uuid: "508b2a03-3b23-4e7e-9609-4c3eaecd2785",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daphne_koller.mp3",
+    transcript: "https://lexfridman.com/daphne-koller-transcript"
   },
   {
     title: "#92 – Harry Cliff: Particle Physics and the Large Hadron Collider",
-    guest: "Particle Physics and the Large Hadron Collider",
-    uuid: "dd478cba-5dd4-4966-b06a-d7e393adf5ce",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harry_cliff.mp3"
+    guest: "Harry Cliff",
+    uuid: "2e120574-0365-4ef7-b321-5025aa652175",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harry_cliff.mp3",
+    transcript: "https://lexfridman.com/harry-cliff-transcript"
   },
   {
     title: "#91 – Jack Dorsey: Square, Cryptocurrency, and Artificial Intelligence",
-    guest: "Square, Cryptocurrency, and Artificial Intelligence",
-    uuid: "7c9b0d97-6b05-4763-be6d-1776c118d8a0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_dorsey.mp3"
+    guest: "Jack Dorsey",
+    uuid: "dda1dfc0-3d19-469b-91f0-de588ce5b8ec",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_dorsey.mp3",
+    transcript: "https://lexfridman.com/jack-dorsey-transcript"
   },
   {
     title: "#90 – Dmitry Korkin: Computational Biology of Coronavirus",
-    guest: "Computational Biology of Coronavirus",
-    uuid: "17016071-ba51-476a-b49b-8ac7ba38b6f3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin.mp3"
+    guest: "Dmitry Korkin",
+    uuid: "0e689e8c-3371-4ce6-b229-9d5cc3e2f8e5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin.mp3",
+    transcript: "https://lexfridman.com/dmitry-korkin-transcript"
   },
   {
     title: "#89 – Stephen Wolfram: Cellular Automata, Computation, and Physics",
-    guest: "Cellular Automata, Computation, and Physics",
-    uuid: "c56864a9-dac6-4751-9af1-fcc61f59310b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram.mp3"
+    guest: "Stephen Wolfram",
+    uuid: "98cd1342-1e07-4429-b669-b8ca7e6af7ea",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram.mp3",
+    transcript: "https://lexfridman.com/stephen-wolfram-transcript"
   },
   {
     title: "#88 – Eric Weinstein: Geometric Unity and the Call for New Ideas, Leaders & Institutions",
-    guest: "Geometric Unity and the Call for New Ideas, Leaders & Institutions",
-    uuid: "cad0a1ba-d11e-4511-918e-afe1907938d0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_2.mp3"
+    guest: "Eric Weinstein",
+    uuid: "40fdcf09-28a6-45e0-bcdd-786ee9d63944",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_2.mp3",
+    transcript: "https://lexfridman.com/eric-weinstein-transcript"
   },
   {
     title: "#87 – Richard Dawkins: Evolution, Intelligence, Simulation, and Memes",
-    guest: "Evolution, Intelligence, Simulation, and Memes",
-    uuid: "adb182df-f7e9-4f70-afba-1c1072a471a0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_dawkins.mp3"
+    guest: "Richard Dawkins",
+    uuid: "179d46ff-7304-481f-b036-dfc8a951064f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_dawkins.mp3",
+    transcript: "https://lexfridman.com/richard-dawkins-transcript"
   },
   {
     title: "#86 – David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning",
-    guest: "AlphaGo, AlphaZero, and Deep Reinforcement Learning",
-    uuid: "38f8cc7a-22a0-4bd9-872c-b5fb54d86448",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_silver.mp3"
+    guest: "David Silver",
+    uuid: "1865cb4e-d5cb-43fb-beaa-65bf1ee7131a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_silver.mp3",
+    transcript: "https://lexfridman.com/david-silver-transcript"
   },
   {
     title: "#85 – Roger Penrose: Physics of Consciousness and the Infinite Universe",
-    guest: "Physics of Consciousness and the Infinite Universe",
-    uuid: "b021a319-6934-4b97-b118-07b0d32e2ce3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_penrose.mp3"
+    guest: "Roger Penrose",
+    uuid: "3fac0bba-cf92-4eeb-8c05-1cca340f5a6c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_penrose.mp3",
+    transcript: "https://lexfridman.com/roger-penrose-transcript"
   },
   {
     title: "#83 – Nick Bostrom: Simulation and Superintelligence",
-    guest: "Simulation and Superintelligence",
-    uuid: "dcf09c89-3683-4045-aaea-88bacf3bb2c7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_bostrom.mp3"
+    guest: "Nick Bostrom",
+    uuid: "3eae39af-269e-4d14-b13f-11c6d8c06f53",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_bostrom.mp3",
+    transcript: "https://lexfridman.com/nick-bostrom-transcript"
   },
   {
     title: "#82 – Simon Sinek: Leadership, Hard Work, Optimism and the Infinite Game",
-    guest: "Leadership, Hard Work, Optimism and the Infinite Game",
-    uuid: "60e9a829-e9f1-43ae-a350-448869b77ba6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simon_sinek.mp3"
+    guest: "Simon Sinek",
+    uuid: "7d46cd27-0af9-470c-8339-efac31da25a2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simon_sinek.mp3",
+    transcript: "https://lexfridman.com/simon-sinek-transcript"
   },
   {
     title: "#81 – Anca Dragan: Human-Robot Interaction and Reward Engineering",
-    guest: "Human-Robot Interaction and Reward Engineering",
-    uuid: "b4674aac-2ab4-4ee3-837e-076d1cdd0f34",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anca_dragan.mp3"
+    guest: "Anca Dragan",
+    uuid: "c5f3ff52-8818-48ac-af9e-fc9b7474e65e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anca_dragan.mp3",
+    transcript: "https://lexfridman.com/anca-dragan-transcript"
   },
   {
     title: "#80 – Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money",
-    guest: "Ethereum, Cryptocurrency, and the Future of Money",
-    uuid: "86dabcaa-40f6-42af-b9fe-43aedfa2dded",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin.mp3"
+    guest: "Vitalik Buterin",
+    uuid: "30085f46-e393-4d2d-89c2-72d7152f52b6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin.mp3",
+    transcript: "https://lexfridman.com/vitalik-buterin-transcript"
   },
   {
     title: "#79 – Lee Smolin: Quantum Gravity and Einstein’s Unfinished Revolution",
-    guest: "Quantum Gravity and Einstein’s Unfinished Revolution",
-    uuid: "fa92924e-b157-4c83-be0b-d66110c9a96a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_smolin.mp3"
+    guest: "Lee Smolin",
+    uuid: "81b37ecd-22c8-4e71-bf0e-e0efe4cfaed1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_smolin.mp3",
+    transcript: "https://lexfridman.com/lee-smolin-transcript"
   },
   {
     title: "#78 – Ann Druyan: Cosmos, Carl Sagan, Voyager, and the Beauty of Science",
-    guest: "Cosmos, Carl Sagan, Voyager, and the Beauty of Science",
-    uuid: "7e2f8f3e-cbc2-484c-bfa1-d7000eb884b5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ann_druyan.mp3"
+    guest: "Ann Druyan",
+    uuid: "27054289-7cc4-467d-a901-48444ec8f7f8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ann_druyan.mp3",
+    transcript: "https://lexfridman.com/ann-druyan-transcript"
   },
   {
     title: "#77 – Alex Garland: Ex Machina, Devs, Annihilation, and the Poetry of Science",
-    guest: "Ex Machina, Devs, Annihilation, and the Poetry of Science",
-    uuid: "ef4e0c28-413f-447d-bd13-9f31170effa9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_garland.mp3"
+    guest: "Alex Garland",
+    uuid: "c7312f51-fdb4-466f-ac68-ff446f67b101",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_garland.mp3",
+    transcript: "https://lexfridman.com/alex-garland-transcript"
   },
   {
     title: "#76 – John Hopfield: Physics View of the Mind and Neurobiology",
-    guest: "Physics View of the Mind and Neurobiology",
-    uuid: "fae5f5e7-8e10-48f4-b780-6d6c1289ec24",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_hopfield.mp3"
+    guest: "John Hopfield",
+    uuid: "af7556bc-3c25-424a-b404-2808a63f320f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_hopfield.mp3",
+    transcript: "https://lexfridman.com/john-hopfield-transcript"
   },
   {
     title: "#75 – Marcus Hutter: Universal Artificial Intelligence, AIXI, and AGI",
-    guest: "Universal Artificial Intelligence, AIXI, and AGI",
-    uuid: "4e79e4a1-4fe8-49a8-a931-aaa0ac21d91f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marcus_hutter.mp3"
+    guest: "Marcus Hutter",
+    uuid: "a4676b2d-f561-4860-8d53-357ff7fbcb4e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marcus_hutter.mp3",
+    transcript: "https://lexfridman.com/marcus-hutter-transcript"
   },
   {
     title: "#74 – Michael I. Jordan: Machine Learning, Recommender Systems, and the Future of AI",
-    guest: "Machine Learning, Recommender Systems, and the Future of AI",
-    uuid: "fe059e3c-f5fb-44de-a6a7-97f16c428ac0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_i_jordan.mp3"
+    guest: "Michael I. Jordan",
+    uuid: "850f1e2e-9d5e-4608-b577-decaceb0bf05",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_i_jordan.mp3",
+    transcript: "https://lexfridman.com/michael-i-jordan-transcript"
   },
   {
     title: "#73 – Andrew Ng: Deep Learning, Education, and Real-World AI",
-    guest: "Deep Learning, Education, and Real-World AI",
-    uuid: "67b88eac-f0f7-481b-b507-9bd5fb66180f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_ng.mp3"
+    guest: "Andrew Ng",
+    uuid: "b5f13437-aa6f-4403-9ef7-9ff60e5e2d45",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_ng.mp3",
+    transcript: "https://lexfridman.com/andrew-ng-transcript"
   },
   {
     title: "#72 – Scott Aaronson: Quantum Computing",
-    guest: "Quantum Computing",
-    uuid: "41d758d6-1062-41ee-87e0-9a2a8ab7f32e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson.mp3"
+    guest: "Scott Aaronson",
+    uuid: "0b7d12b5-c3d2-4dcf-bc52-b87b296aa872",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson.mp3",
+    transcript: "https://lexfridman.com/scott-aaronson-transcript"
   },
   {
     title: "Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence",
-    guest: "Predicates, Invariants, and the Essence of Intelligence",
-    uuid: "68cacbdd-377c-463c-bbe1-79c9f7f3b198",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vladimir_vapnik_2.mp3"
+    guest: "Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence",
+    uuid: "7cb872fc-6cde-4118-a29e-8ebfc5b21a4d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vladimir_vapnik_2.mp3",
+    transcript: "https://lexfridman.com/vladimir-vapnik-predicates-invariants-and-the-essence-of-intelligence-transcript"
   },
   {
     title: "Jim Keller: Moore’s Law, Microprocessors, Abstractions, and First Principles",
-    guest: "Moore’s Law, Microprocessors, Abstractions, and First Principles",
-    uuid: "d70fb30c-7354-4f2c-bea1-52a6a7450803",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller.mp3"
+    guest: "Jim Keller: Moore’s Law, Microprocessors, Abstractions, and First Principles",
+    uuid: "0c2b9f4f-fe3a-4ed7-83ba-43fd545709b3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller.mp3",
+    transcript: "https://lexfridman.com/jim-keller-moores-law-microprocessors-abstractions-and-first-principles-transcript"
   },
   {
     title: "David Chalmers: The Hard Problem of Consciousness",
-    guest: "The Hard Problem of Consciousness",
-    uuid: "1f2d1faa-b7df-4a7c-96b0-fb899638384c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_chalmers.mp3"
+    guest: "David Chalmers: The Hard Problem of Consciousness",
+    uuid: "5d3f7717-221e-4af9-bb91-f75958b877e3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_chalmers.mp3",
+    transcript: "https://lexfridman.com/david-chalmers-the-hard-problem-of-consciousness-transcript"
   },
   {
     title: "Cristos Goodrow: YouTube Algorithm",
-    guest: "YouTube Algorithm",
-    uuid: "a7b1e2c1-86d7-470e-ad64-32549f42844d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristos_goodrow.mp3"
+    guest: "Cristos Goodrow: YouTube Algorithm",
+    uuid: "4c4bf222-82ee-4586-8b23-27c53fb6761a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristos_goodrow.mp3",
+    transcript: "https://lexfridman.com/cristos-goodrow-youtube-algorithm-transcript"
   },
   {
     title: "Paul Krugman: Economics of Innovation, Automation, Safety Nets & Universal Basic Income",
-    guest: "Economics of Innovation, Automation, Safety Nets & Universal Basic Income",
-    uuid: "442b1e29-daa9-4e4d-b1a6-2fcab078261e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_krugman.mp3"
+    guest: "Paul Krugman: Economics of Innovation, Automation, Safety Nets & Universal Basic Income",
+    uuid: "003befb5-ccee-477c-a92e-e48e942ac4f7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_krugman.mp3",
+    transcript: "https://lexfridman.com/paul-krugman-economics-of-innovation-automation-safety-nets--universal-basic-income-transcript"
   },
   {
     title: "Ayanna Howard: Human-Robot Interaction and Ethics of Safety-Critical Systems",
-    guest: "Human-Robot Interaction and Ethics of Safety-Critical Systems",
-    uuid: "7936c421-5765-46e7-8d2e-94e45e2a20e7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ayanna_howard.mp3"
+    guest: "Ayanna Howard: Human-Robot Interaction and Ethics of Safety-Critical Systems",
+    uuid: "3b63b33a-7a39-47ec-8c42-5d64fd604c40",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ayanna_howard.mp3",
+    transcript: "https://lexfridman.com/ayanna-howard-human-robot-interaction-and-ethics-of-safety-critical-systems-transcript"
   },
   {
     title: "Daniel Kahneman: Thinking Fast and Slow, Deep Learning, and AI",
-    guest: "Thinking Fast and Slow, Deep Learning, and AI",
-    uuid: "399f96a5-e6bb-4a31-9418-26aaf25ba6b6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_kahneman.mp3"
+    guest: "Daniel Kahneman: Thinking Fast and Slow, Deep Learning, and AI",
+    uuid: "ea207a0c-d4ba-4f61-a999-209e3f436d58",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_kahneman.mp3",
+    transcript: "https://lexfridman.com/daniel-kahneman-thinking-fast-and-slow-deep-learning-and-ai-transcript"
   },
   {
     title: "Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics",
-    guest: "3Blue1Brown and the Beauty of Mathematics",
-    uuid: "2f477123-6fb9-4acc-8474-24e9b3a2e72b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson.mp3"
+    guest: "Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics",
+    uuid: "59e81d15-e244-4b6b-bb15-5c4ada2d45df",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson.mp3",
+    transcript: "https://lexfridman.com/grant-sanderson-3blue1brown-and-the-beauty-of-mathematics-transcript"
   },
   {
     title: "Stephen Kotkin: Stalin, Putin, and the Nature of Power",
-    guest: "Stalin, Putin, and the Nature of Power",
-    uuid: "5019e17d-da19-4c17-9198-6e02a726a54a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin.mp3"
+    guest: "Stephen Kotkin: Stalin, Putin, and the Nature of Power",
+    uuid: "3991649c-d8c7-477e-b998-3173b39ac4a5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin.mp3",
+    transcript: "https://lexfridman.com/stephen-kotkin-stalin-putin-and-the-nature-of-power-transcript"
   },
   {
     title: "Donald Knuth: Algorithms, TeX, Life, and The Art of Computer Programming",
-    guest: "Algorithms, TeX, Life, and The Art of Computer Programming",
-    uuid: "57f951f3-8e4a-4fad-9469-70445f1d68ac",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth.mp3"
+    guest: "Donald Knuth: Algorithms, TeX, Life, and The Art of Computer Programming",
+    uuid: "c849455d-959a-4835-8ad8-d0effe6b2325",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth.mp3",
+    transcript: "https://lexfridman.com/donald-knuth-algorithms-tex-life-and-the-art-of-computer-programming-transcript"
   },
   {
     title: "Melanie Mitchell: Concepts, Analogies, Common Sense & Future of AI",
-    guest: "Concepts, Analogies, Common Sense & Future of AI",
-    uuid: "dd2deff2-2d72-4b93-8cc4-2aae1972eb14",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_melanie_mitchell.mp3"
+    guest: "Melanie Mitchell: Concepts, Analogies, Common Sense & Future of AI",
+    uuid: "ccbdd20e-a26c-4da4-9a47-8288e02cf262",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_melanie_mitchell.mp3",
+    transcript: "https://lexfridman.com/melanie-mitchell-concepts-analogies-common-sense--future-of-ai-transcript"
   },
   {
     title: "Jim Gates: Supersymmetry, String Theory and Proving Einstein Right",
-    guest: "Supersymmetry, String Theory and Proving Einstein Right",
-    uuid: "f20614ec-7ad5-465c-9e99-a175afff0b8e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_gates.mp3"
+    guest: "Jim Gates: Supersymmetry, String Theory and Proving Einstein Right",
+    uuid: "59e40dff-4601-42fa-8635-7600999ad296",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_gates.mp3",
+    transcript: "https://lexfridman.com/jim-gates-supersymmetry-string-theory-and-proving-einstein-right-transcript"
   },
   {
     title: "Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education",
-    guest: "Flying Cars, Autonomous Vehicles, and Education",
-    uuid: "4417da3c-41dc-4555-8008-ba0d866a53a9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sebastian_thrun.mp3"
+    guest: "Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education",
+    uuid: "0d0bb39f-5507-47ad-b229-f461c7f8af52",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sebastian_thrun.mp3",
+    transcript: "https://lexfridman.com/sebastian-thrun-flying-cars-autonomous-vehicles-and-education-transcript"
   },
   {
     title: "Michael Stevens: Vsauce",
-    guest: "Vsauce",
-    uuid: "59fbc8a2-2652-4b04-8c53-a3be429be88a",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_stevens.mp3"
+    guest: "Michael Stevens: Vsauce",
+    uuid: "e5a26686-f452-45e7-a5f6-401114214b80",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_stevens.mp3",
+    transcript: "https://lexfridman.com/michael-stevens-vsauce-transcript"
   },
   {
     title: "Rohit Prasad: Amazon Alexa and Conversational AI",
-    guest: "Amazon Alexa and Conversational AI",
-    uuid: "0ca5b756-e9f3-4b9c-815a-2c81f600580d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rohit_prasad.mp3"
+    guest: "Rohit Prasad: Amazon Alexa and Conversational AI",
+    uuid: "5cbf86e0-86f7-443d-a7da-845e46ba6e7d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rohit_prasad.mp3",
+    transcript: "https://lexfridman.com/rohit-prasad-amazon-alexa-and-conversational-ai-transcript"
   },
   {
     title: "Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI",
-    guest: "Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI",
-    uuid: "c0ef0024-d414-456f-8b8f-c3b891e9245f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_judea_pearl.mp3"
+    guest: "Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI",
+    uuid: "6b9d7100-156d-4bc8-9ac3-87162ae6e877",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_judea_pearl.mp3",
+    transcript: "https://lexfridman.com/judea-pearl-causal-reasoning-counterfactuals-bayesian-networks-and-the-path-to-agi-transcript"
   },
   {
     title: "Whitney Cummings: Comedy, Robotics, Neurology, and Love",
-    guest: "Comedy, Robotics, Neurology, and Love",
-    uuid: "91e1930d-fb6a-4634-87c5-61cd8f834645",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_whitney_cummings.mp3"
+    guest: "Whitney Cummings: Comedy, Robotics, Neurology, and Love",
+    uuid: "d2aa2fb4-48a1-4830-89f5-4ebf033c79f5",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_whitney_cummings.mp3",
+    transcript: "https://lexfridman.com/whitney-cummings-comedy-robotics-neurology-and-love-transcript"
   },
   {
     title: "Ray Dalio: Principles, the Economic Machine, Artificial Intelligence & the Arc of Life",
-    guest: "Principles, the Economic Machine, Artificial Intelligence & the Arc of Life",
-    uuid: "bd829a66-5f52-4a51-9e71-0c74f3b8c683",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio.mp3"
+    guest: "Ray Dalio: Principles, the Economic Machine, Artificial Intelligence & the Arc of Life",
+    uuid: "d6a0e830-3416-406e-af4b-46a29ad5de0a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio.mp3",
+    transcript: "https://lexfridman.com/ray-dalio-principles-the-economic-machine-artificial-intelligence--the-arc-of-life-transcript"
   },
   {
     title: "Noam Chomsky: Language, Cognition, and Deep Learning",
-    guest: "Language, Cognition, and Deep Learning",
-    uuid: "a1516ff8-1d12-4ee1-8f6e-072aee1c645e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky.mp3"
+    guest: "Noam Chomsky: Language, Cognition, and Deep Learning",
+    uuid: "0a95615c-3b03-4a4c-97fb-486e3a2aa40e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky.mp3",
+    transcript: "https://lexfridman.com/noam-chomsky-language-cognition-and-deep-learning-transcript"
   },
   {
     title: "Gilbert Strang: Linear Algebra, Deep Learning, Teaching, and MIT OpenCourseWare",
-    guest: "Linear Algebra, Deep Learning, Teaching, and MIT OpenCourseWare",
-    uuid: "9a1bb961-b86f-46a7-954b-f00a3a46b88d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gilbert_strang.mp3"
+    guest: "Gilbert Strang: Linear Algebra, Deep Learning, Teaching, and MIT OpenCourseWare",
+    uuid: "4038d48c-dbc4-44fd-9a43-18ea04f131b8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gilbert_strang.mp3",
+    transcript: "https://lexfridman.com/gilbert-strang-linear-algebra-deep-learning-teaching-and-mit-opencourseware-transcript"
   },
   {
     title: "Dava Newman: Space Exploration, Space Suits, and Life on Mars",
-    guest: "Space Exploration, Space Suits, and Life on Mars",
-    uuid: "bb4efb67-5696-4bea-b1a5-a10c0fc51c70",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dava_newman.mp3"
+    guest: "Dava Newman: Space Exploration, Space Suits, and Life on Mars",
+    uuid: "42ef5a27-5c5f-4982-9ae1-ae5c418cd113",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dava_newman.mp3",
+    transcript: "https://lexfridman.com/dava-newman-space-exploration-space-suits-and-life-on-mars-transcript"
   },
   {
     title: "Michael Kearns: Algorithmic Fairness, Bias, Privacy, and Ethics in Machine Learning",
-    guest: "Algorithmic Fairness, Bias, Privacy, and Ethics in Machine Learning",
-    uuid: "5bfeb526-0bac-4d78-ad20-5e5187ef160b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_kearns.mp3"
+    guest: "Michael Kearns: Algorithmic Fairness, Bias, Privacy, and Ethics in Machine Learning",
+    uuid: "776d5777-a9f6-44d4-adf6-b793393de83c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_kearns.mp3",
+    transcript: "https://lexfridman.com/michael-kearns-algorithmic-fairness-bias-privacy-and-ethics-in-machine-learning-transcript"
   },
   {
     title: "Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot",
-    guest: "Neuralink, AI, Autopilot, and the Pale Blue Dot",
-    uuid: "1b39b56b-9c1e-43dd-9a53-696d6a5acdb1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_2.mp3"
+    guest: "Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot",
+    uuid: "263710db-b435-47c4-bab5-d8797ff8712c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_2.mp3",
+    transcript: "https://lexfridman.com/elon-musk-neuralink-ai-autopilot-and-the-pale-blue-dot-transcript"
   },
   {
     title: "Bjarne Stroustrup: C++",
-    guest: "C++",
-    uuid: "b0ce1383-a268-422a-bcb4-c05b009e8123",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bjarne_stroustrup.mp3"
+    guest: "Bjarne Stroustrup: C++",
+    uuid: "d92ddbc9-4ddb-4eb9-ae42-c4031ebbf257",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bjarne_stroustrup.mp3",
+    transcript: "https://lexfridman.com/bjarne-stroustrup-c-transcript"
   },
   {
     title: "Sean Carroll: Quantum Mechanics and the Many-Worlds Interpretation",
-    guest: "Quantum Mechanics and the Many-Worlds Interpretation",
-    uuid: "39f3bc07-01b4-4b5d-a3d4-1b63347208d9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_carroll_2.mp3"
+    guest: "Sean Carroll: Quantum Mechanics and the Many-Worlds Interpretation",
+    uuid: "533f6a64-9991-491d-8261-d810727e4299",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_carroll_2.mp3",
+    transcript: "https://lexfridman.com/sean-carroll-quantum-mechanics-and-the-many-worlds-interpretation-transcript"
   },
   {
     title: "Garry Kasparov: Chess, Deep Blue, AI, and Putin",
-    guest: "Chess, Deep Blue, AI, and Putin",
-    uuid: "7e742a95-f50f-4d71-8ab7-1f2e872e4b30",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_kasparov.mp3"
+    guest: "Garry Kasparov: Chess, Deep Blue, AI, and Putin",
+    uuid: "017e28d8-20eb-4cfa-9d33-1d1bef45486c",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_kasparov.mp3",
+    transcript: "https://lexfridman.com/garry-kasparov-chess-deep-blue-ai-and-putin-transcript"
   },
   {
     title: "Michio Kaku: Future of Humans, Aliens, Space Travel & Physics",
-    guest: "Future of Humans, Aliens, Space Travel & Physics",
-    uuid: "9cf16fe8-d8ef-4cef-ab81-11cf7ffea9f9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michio_kaku.mp3"
+    guest: "Michio Kaku: Future of Humans, Aliens, Space Travel & Physics",
+    uuid: "09670785-218c-4a3f-9e4f-7be65fdb0549",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michio_kaku.mp3",
+    transcript: "https://lexfridman.com/michio-kaku-future-of-humans-aliens-space-travel--physics-transcript"
   },
   {
     title: "David Ferrucci: IBM Watson, Jeopardy & Deep Conversations with AI",
-    guest: "IBM Watson, Jeopardy & Deep Conversations with AI",
-    uuid: "2398cfe4-8609-419b-8894-eb866a2d48e1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_ferrucci.mp3"
+    guest: "David Ferrucci: IBM Watson, Jeopardy & Deep Conversations with AI",
+    uuid: "f7025b80-2add-48e1-aac6-469f41d49dcb",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_ferrucci.mp3",
+    transcript: "https://lexfridman.com/david-ferrucci-ibm-watson-jeopardy--deep-conversations-with-ai-transcript"
   },
   {
     title: "Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI",
-    guest: "Toward a Hybrid of Deep Learning and Symbolic AI",
-    uuid: "a6b1f99b-386d-4e53-b14e-19cd03e829f3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gary_marcus.mp3"
+    guest: "Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI",
+    uuid: "27cfa60e-af98-4556-964d-87d676ee2d0e",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gary_marcus.mp3",
+    transcript: "https://lexfridman.com/gary-marcus-toward-a-hybrid-of-deep-learning-and-symbolic-ai-transcript"
   },
   {
     title: "Peter Norvig: Artificial Intelligence: A Modern Approach",
-    guest: "Artificial Intelligence: A Modern Approach",
-    uuid: "80b4bd52-edf0-4db3-8228-d0fa631c5ea1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_norvig.mp3"
+    guest: "Peter Norvig: Artificial Intelligence: A Modern Approach",
+    uuid: "a197b63f-debf-4d20-850e-901910cb16e7",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_norvig.mp3",
+    transcript: "https://lexfridman.com/peter-norvig-artificial-intelligence-a-modern-approach-transcript"
   },
   {
     title: "Leonard Susskind: Quantum Mechanics, String Theory, and Black Holes",
-    guest: "Quantum Mechanics, String Theory, and Black Holes",
-    uuid: "3de617e0-947b-4f4c-b467-99fecef00cce",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_leonard_susskind.mp3"
+    guest: "Leonard Susskind: Quantum Mechanics, String Theory, and Black Holes",
+    uuid: "e8118c6a-7fa6-4b2b-bee1-66fdfb16883b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_leonard_susskind.mp3",
+    transcript: "https://lexfridman.com/leonard-susskind-quantum-mechanics-string-theory-and-black-holes-transcript"
   },
   {
     title: "Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment",
-    guest: "Deep Learning for Cancer Diagnosis and Treatment",
-    uuid: "6c446979-b19d-443f-89e0-2145eb869ec8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_regina_barzilay.mp3"
+    guest: "Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment",
+    uuid: "7a14cf2a-b294-4dcd-92b3-b754717b14a1",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_regina_barzilay.mp3",
+    transcript: "https://lexfridman.com/regina-barzilay-deep-learning-for-cancer-diagnosis-and-treatment-transcript"
   },
   {
     title: "Colin Angle: iRobot",
-    guest: "iRobot",
-    uuid: "872b45a9-f5ff-43df-8209-d52afb1ec8c9",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_colin_angle.mp3"
+    guest: "Colin Angle: iRobot",
+    uuid: "e4e8376f-d24c-4ed8-8c9b-251287019e09",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_colin_angle.mp3",
+    transcript: "https://lexfridman.com/colin-angle-irobot-transcript"
   },
   {
     title: "François Chollet: Keras, Deep Learning, and the Progress of AI",
-    guest: "Keras, Deep Learning, and the Progress of AI",
-    uuid: "305ee1fa-803c-459a-91c5-1145966562db",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet.mp3"
+    guest: "François Chollet: Keras, Deep Learning, and the Progress of AI",
+    uuid: "e8dc14bc-24e6-4a31-9696-44c75ba36b01",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet.mp3",
+    transcript: "https://lexfridman.com/franois-chollet-keras-deep-learning-and-the-progress-of-ai-transcript"
   },
   {
     title: "Vijay Kumar: Flying Robots",
-    guest: "Flying Robots",
-    uuid: "738af8f6-9c00-4534-a083-7affd087982f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vijay_kumar.mp3"
+    guest: "Vijay Kumar: Flying Robots",
+    uuid: "cf8e8515-95c0-4da9-938f-19106462948a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vijay_kumar.mp3",
+    transcript: "https://lexfridman.com/vijay-kumar-flying-robots-transcript"
   },
   {
     title: "Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning",
-    guest: "Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning",
-    uuid: "06e25694-ae6c-4e6f-8b01-4ecaaea29828",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yann_lecun.mp3"
+    guest: "Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning",
+    uuid: "a9f42c49-ab75-487a-9163-d80b681cf17a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yann_lecun.mp3",
+    transcript: "https://lexfridman.com/yann-lecun-deep-learning-convolutional-neural-networks-and-self-supervised-learning-transcript"
   },
   {
     title: "Jeremy Howard: fast.ai Deep Learning Courses and Research",
-    guest: "fast.ai Deep Learning Courses and Research",
-    uuid: "806211e2-cda0-45e5-b703-ba9b14b1ae92",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeremy_howard.mp3"
+    guest: "Jeremy Howard: fast.ai Deep Learning Courses and Research",
+    uuid: "2dce3139-2587-4543-bcdf-8807dd0fc342",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeremy_howard.mp3",
+    transcript: "https://lexfridman.com/jeremy-howard-fastai-deep-learning-courses-and-research-transcript"
   },
   {
     title: "Pamela McCorduck: Machines Who Think and the Early Days of AI",
-    guest: "Machines Who Think and the Early Days of AI",
-    uuid: "4ff790f6-8f17-4044-b816-440fde794ea6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pamela_mccorduck.mp3"
+    guest: "Pamela McCorduck: Machines Who Think and the Early Days of AI",
+    uuid: "23112321-2240-48cb-bd8a-7fe0c39d85b2",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pamela_mccorduck.mp3",
+    transcript: "https://lexfridman.com/pamela-mccorduck-machines-who-think-and-the-early-days-of-ai-transcript"
   },
   {
     title: "Keoki Jackson: Lockheed Martin",
-    guest: "Lockheed Martin",
-    uuid: "5041fc21-a4d5-42b5-acb7-a9d5de8bc401",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_keoki_jackson.mp3"
+    guest: "Keoki Jackson: Lockheed Martin",
+    uuid: "74e3ce8f-fd87-4066-9eb5-3e29e26cb0fe",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_keoki_jackson.mp3",
+    transcript: "https://lexfridman.com/keoki-jackson-lockheed-martin-transcript"
   },
   {
     title: "Paola Arlotta: Brain Development from Stem Cell to Organoid",
-    guest: "Brain Development from Stem Cell to Organoid",
-    uuid: "73298914-4135-4e96-aa8b-bd458667e2c7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_paola_arlotta.mp3"
+    guest: "Paola Arlotta: Brain Development from Stem Cell to Organoid",
+    uuid: "91dffa65-755a-4e1c-8896-3fe7d87c73df",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_paola_arlotta.mp3",
+    transcript: "https://lexfridman.com/paola-arlotta-brain-development-from-stem-cell-to-organoid-transcript"
   },
   {
     title: "George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles",
-    guest: "Comma.ai, OpenPilot, and Autonomous Vehicles",
-    uuid: "a893aa64-d07d-4f32-a256-e19e01b27cce",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_george_hotz.mp3"
+    guest: "George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles",
+    uuid: "853bfe05-9d54-4a3a-baee-52ab6f2d61a0",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_george_hotz.mp3",
+    transcript: "https://lexfridman.com/george-hotz-commaai-openpilot-and-autonomous-vehicles-transcript"
   },
   {
     title: "Kevin Scott: Microsoft CTO",
-    guest: "Microsoft CTO",
-    uuid: "ec528c4c-939c-4097-b61c-885d26848eb5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kevin_scott.mp3"
+    guest: "Kevin Scott: Microsoft CTO",
+    uuid: "07a8a6df-9495-48a1-8fa1-86ea833c7eab",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kevin_scott.mp3",
+    transcript: "https://lexfridman.com/kevin-scott-microsoft-cto-transcript"
   },
   {
     title: "Gustav Soderstrom: Spotify",
-    guest: "Spotify",
-    uuid: "f076f4ee-a9b5-4ba2-8b0e-4228c1590d2f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gustav_soderstrom.mp3"
+    guest: "Gustav Soderstrom: Spotify",
+    uuid: "c9202365-d135-4f1c-82b8-93304f7b5035",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gustav_soderstrom.mp3",
+    transcript: "https://lexfridman.com/gustav-soderstrom-spotify-transcript"
   },
   {
     title: "Chris Urmson: Self-Driving Cars at Aurora, Google, CMU, and DARPA",
-    guest: "Self-Driving Cars at Aurora, Google, CMU, and DARPA",
-    uuid: "df43e837-921f-44b2-bc87-c402973b7024",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_urmson.mp3"
+    guest: "Chris Urmson: Self-Driving Cars at Aurora, Google, CMU, and DARPA",
+    uuid: "eed325de-09b9-4991-a452-4759e4bf2ab9",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_urmson.mp3",
+    transcript: "https://lexfridman.com/chris-urmson-self-driving-cars-at-aurora-google-cmu-and-darpa-transcript"
   },
   {
     title: "Kai-Fu Lee: AI Superpowers – China and Silicon Valley",
-    guest: "AI Superpowers – China and Silicon Valley",
-    uuid: "1f45bbc2-837a-4d1d-9673-025a460ec941",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kai_fu_lee.mp3"
+    guest: "Kai-Fu Lee: AI Superpowers – China and Silicon Valley",
+    uuid: "07ba245f-829d-49fb-8a9e-c2cca7218c1f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kai_fu_lee.mp3",
+    transcript: "https://lexfridman.com/kai-fu-lee-ai-superpowers--china-and-silicon-valley-transcript"
   },
   {
     title: "Sean Carroll: The Nature of the Universe, Life, and Intelligence",
-    guest: "The Nature of the Universe, Life, and Intelligence",
-    uuid: "064a3cfe-f39d-4af4-811d-79e065561a2f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_sean_carroll.mp3"
+    guest: "Sean Carroll: The Nature of the Universe, Life, and Intelligence",
+    uuid: "e8ffdef1-4c51-40b4-aa02-844a5b53f279",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_sean_carroll.mp3",
+    transcript: "https://lexfridman.com/sean-carroll-the-nature-of-the-universe-life-and-intelligence-transcript"
   },
   {
     title: "Jeff Hawkins: Thousand Brains Theory of Intelligence",
-    guest: "Thousand Brains Theory of Intelligence",
-    uuid: "f5b6af18-3120-4a23-87fa-2febf3bf67b8",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_hawkins.mp3"
+    guest: "Jeff Hawkins: Thousand Brains Theory of Intelligence",
+    uuid: "8ce2ec6a-9192-457d-a632-861b5315a722",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_hawkins.mp3",
+    transcript: "https://lexfridman.com/jeff-hawkins-thousand-brains-theory-of-intelligence-transcript"
   },
   {
     title: "Rosalind Picard: Affective Computing, Emotion, Privacy, and Health",
-    guest: "Affective Computing, Emotion, Privacy, and Health",
-    uuid: "71154b21-a1f3-4e3b-a75f-1757966b0f3b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rosalind_picard.mp3"
+    guest: "Rosalind Picard: Affective Computing, Emotion, Privacy, and Health",
+    uuid: "2d7d21e9-9df7-4d28-beaa-92e0917c2f46",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rosalind_picard.mp3",
+    transcript: "https://lexfridman.com/rosalind-picard-affective-computing-emotion-privacy-and-health-transcript"
   },
   {
     title: "Gavin Miller: Adobe Research",
-    guest: "Adobe Research",
-    uuid: "fc6fa83d-4308-4c15-9c03-7512372b9a9c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gavin_miller.mp3"
+    guest: "Gavin Miller: Adobe Research",
+    uuid: "09d7e2c7-4cd0-4942-832d-16b29db06bec",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gavin_miller.mp3",
+    transcript: "https://lexfridman.com/gavin-miller-adobe-research-transcript"
   },
   {
     title: "Rajat Monga: TensorFlow",
-    guest: "TensorFlow",
-    uuid: "0678e4ed-5eec-44f3-b4de-e99eb3b166b6",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rajat_monga.mp3"
+    guest: "Rajat Monga: TensorFlow",
+    uuid: "69ec6052-65a7-483d-8f8a-8e9bb670d579",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rajat_monga.mp3",
+    transcript: "https://lexfridman.com/rajat-monga-tensorflow-transcript"
   },
   {
     title: "Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators",
-    guest: "Compilers, LLVM, Swift, TPU, and ML Accelerators",
-    uuid: "c41d6eb4-269c-478f-a2b0-663878ecc259",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_lattner.mp3"
+    guest: "Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators",
+    uuid: "2a338eb5-9d36-4095-a88b-3806a1e884b3",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_lattner.mp3",
+    transcript: "https://lexfridman.com/chris-lattner-compilers-llvm-swift-tpu-and-ml-accelerators-transcript"
   },
   {
     title: "Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences",
-    guest: "DeepMind AlphaStar, StarCraft, Language, and Sequences",
-    uuid: "46b51778-6d51-4d97-9682-1aca13c18f60",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_oriol_vinyals.mp3"
+    guest: "Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences",
+    uuid: "95b7e61c-226c-47a8-b843-a08a41316155",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_oriol_vinyals.mp3",
+    transcript: "https://lexfridman.com/oriol-vinyals-deepmind-alphastar-starcraft-language-and-sequences-transcript"
   },
   {
     title: "Ian Goodfellow: Generative Adversarial Networks (GANs)",
-    guest: "Generative Adversarial Networks (GANs)",
-    uuid: "aa5d77c5-1445-44f3-adcc-c98ad55bbe0b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_ian_goodfellow.mp3"
+    guest: "Ian Goodfellow: Generative Adversarial Networks (GANs)",
+    uuid: "45699513-8b8a-4d90-b4a2-e92c7538df50",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_ian_goodfellow.mp3",
+    transcript: "https://lexfridman.com/ian-goodfellow-generative-adversarial-networks-gans-transcript"
   },
   {
     title: "Elon Musk: Tesla Autopilot",
-    guest: "Tesla Autopilot",
-    uuid: "2202b543-2bb5-4ded-aaac-b9c5c644ab5c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_elon_musk.mp3"
+    guest: "Elon Musk: Tesla Autopilot",
+    uuid: "a901b338-f08d-4b31-9ed3-046d5387a720",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_elon_musk.mp3",
+    transcript: "https://lexfridman.com/elon-musk-tesla-autopilot-transcript"
   },
   {
     title: "Greg Brockman: OpenAI and AGI",
-    guest: "OpenAI and AGI",
-    uuid: "6d72c5fe-3a91-4759-8cb5-68d4d11d9e2b",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_greg_brockman.mp3"
+    guest: "Greg Brockman: OpenAI and AGI",
+    uuid: "8de09a46-eee9-4324-81fb-6a6f6d3a2173",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_greg_brockman.mp3",
+    transcript: "https://lexfridman.com/greg-brockman-openai-and-agi-transcript"
   },
   {
     title: "Eric Weinstein: Revolutionary Ideas in Science, Math, and Society",
-    guest: "Revolutionary Ideas in Science, Math, and Society",
-    uuid: "f928001f-6474-42b2-aa73-55e92f6b3c1c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_weinstein.mp3"
+    guest: "Eric Weinstein: Revolutionary Ideas in Science, Math, and Society",
+    uuid: "36e96109-d212-4c9c-a928-85e2d33881e8",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_weinstein.mp3",
+    transcript: "https://lexfridman.com/eric-weinstein-revolutionary-ideas-in-science-math-and-society-transcript"
   },
   {
     title: "Leslie Kaelbling: Reinforcement Learning, Planning, and Robotics",
-    guest: "Reinforcement Learning, Planning, and Robotics",
-    uuid: "08ba1889-3b6c-42e5-9f96-9e6062425d62",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_leslie_kaelbling.mp3"
+    guest: "Leslie Kaelbling: Reinforcement Learning, Planning, and Robotics",
+    uuid: "7c0101ff-d859-4193-a513-2c9f4e959d68",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_leslie_kaelbling.mp3",
+    transcript: "https://lexfridman.com/leslie-kaelbling-reinforcement-learning-planning-and-robotics-transcript"
   },
   {
     title: "Kyle Vogt: Cruise Automation",
-    guest: "Cruise Automation",
-    uuid: "9aa546e5-b615-4440-b356-a5a5030b803c",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kyle_vogt.mp3"
+    guest: "Kyle Vogt: Cruise Automation",
+    uuid: "cdcc3b64-3c44-401d-be93-40911e3df58f",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kyle_vogt.mp3",
+    transcript: "https://lexfridman.com/kyle-vogt-cruise-automation-transcript"
   },
   {
     title: "Tomaso Poggio: Brains, Minds, and Machines",
-    guest: "Brains, Minds, and Machines",
-    uuid: "a9d34192-8b6f-45b3-87a4-f05e458ac06e",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tomaso_poggio.mp3"
+    guest: "Tomaso Poggio: Brains, Minds, and Machines",
+    uuid: "f26734ee-d9f1-40de-9780-c2fc0780510d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tomaso_poggio.mp3",
+    transcript: "https://lexfridman.com/tomaso-poggio-brains-minds-and-machines-transcript"
   },
   {
     title: "Tuomas Sandholm: Poker and Game Theory",
-    guest: "Poker and Game Theory",
-    uuid: "173d7b3d-7f35-4c9c-af59-1e56596b37df",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tuomas_sandholm.mp3"
+    guest: "Tuomas Sandholm: Poker and Game Theory",
+    uuid: "61825292-0488-4123-b020-d0aa20e7faac",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tuomas_sandholm.mp3",
+    transcript: "https://lexfridman.com/tuomas-sandholm-poker-and-game-theory-transcript"
   },
   {
     title: "Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs",
-    guest: "Godel Machines, Meta-Learning, and LSTMs",
-    uuid: "7ee46a0b-92c4-478a-966a-aed971def1a3",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_juergen_schmidhuber.mp3"
+    guest: "Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs",
+    uuid: "7431001f-5135-4f4b-b6f0-4327c7d807ff",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_juergen_schmidhuber.mp3",
+    transcript: "https://lexfridman.com/juergen-schmidhuber-godel-machines-meta-learning-and-lstms-transcript"
   },
   {
     title: "Pieter Abbeel: Deep Reinforcement Learning",
-    guest: "Deep Reinforcement Learning",
-    uuid: "7b5e776e-831b-4901-b581-7110a51a7812",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pieter_abbeel.mp3"
+    guest: "Pieter Abbeel: Deep Reinforcement Learning",
+    uuid: "5ad5c08b-1e7f-49ae-bf44-0a4a42a66dab",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pieter_abbeel.mp3",
+    transcript: "https://lexfridman.com/pieter-abbeel-deep-reinforcement-learning-transcript"
   },
   {
     title: "Stuart Russell: Long-Term Future of AI",
-    guest: "Long-Term Future of AI",
-    uuid: "3b3c0770-9f4f-4e76-b4fb-748ac24b9be5",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_stuart_russell.mp3"
+    guest: "Stuart Russell: Long-Term Future of AI",
+    uuid: "94db9ea1-6b99-4eed-9af2-e9bce5eefe5a",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_stuart_russell.mp3",
+    transcript: "https://lexfridman.com/stuart-russell-long-term-future-of-ai-transcript"
   },
   {
     title: "Eric Schmidt: Google",
-    guest: "Google",
-    uuid: "c0b5256a-4b62-49f8-8e4a-a27e57932ee0",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_schmidt.mp3"
+    guest: "Eric Schmidt: Google",
+    uuid: "518c43d9-2d95-40db-bfc9-e2302364e52b",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_schmidt.mp3",
+    transcript: "https://lexfridman.com/eric-schmidt-google-transcript"
   },
   {
     title: "Jeff Atwood: Stack Overflow and Coding Horror",
-    guest: "Stack Overflow and Coding Horror",
-    uuid: "f4b4e98a-2f16-4fe9-8466-4d4d65fa986d",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_atwood.mp3"
+    guest: "Jeff Atwood: Stack Overflow and Coding Horror",
+    uuid: "5997cc39-3e99-464d-8e29-62783d217436",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_atwood.mp3",
+    transcript: "https://lexfridman.com/jeff-atwood-stack-overflow-and-coding-horror-transcript"
   },
   {
     title: "Guido van Rossum: Python",
-    guest: "Python",
-    uuid: "78481139-47cb-4bb2-9dc9-1212cc7aa421",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_guido_van_rossum.mp3"
+    guest: "Guido van Rossum: Python",
+    uuid: "e5a86bec-a448-4d24-bcba-145b3c2deda6",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_guido_van_rossum.mp3",
+    transcript: "https://lexfridman.com/guido-van-rossum-python-transcript"
   },
   {
     title: "Vladimir Vapnik: Statistical Learning",
-    guest: "Statistical Learning",
-    uuid: "d4a77d54-3c69-4b33-a242-b261d41778f1",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vladimir_vapnik.mp3"
+    guest: "Vladimir Vapnik: Statistical Learning",
+    uuid: "875e6215-77b9-4dad-9d79-6b5938c90a11",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vladimir_vapnik.mp3",
+    transcript: "https://lexfridman.com/vladimir-vapnik-statistical-learning-transcript"
   },
   {
     title: "Yoshua Bengio: Deep Learning",
-    guest: "Deep Learning",
-    uuid: "53b10c28-a5a8-4693-b7d3-36b956537736",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yoshua_bengio.mp3"
+    guest: "Yoshua Bengio: Deep Learning",
+    uuid: "85e78c6d-9da8-4b1f-9c77-627aab50659d",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yoshua_bengio.mp3",
+    transcript: "https://lexfridman.com/yoshua-bengio-deep-learning-transcript"
   },
   {
     title: "Steven Pinker: AI in the Age of Reason",
-    guest: "AI in the Age of Reason",
-    uuid: "b66285d4-b823-4e8c-9c5b-bbbd652d8fa7",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_steven_pinker.mp3"
+    guest: "Steven Pinker: AI in the Age of Reason",
+    uuid: "f35242b9-c5e9-454d-9c17-05e4f2996680",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_steven_pinker.mp3",
+    transcript: "https://lexfridman.com/steven-pinker-ai-in-the-age-of-reason-transcript"
   },
   {
     title: "Christof Koch: Consciousness",
-    guest: "Consciousness",
-    uuid: "c1735d65-33fc-458d-9157-9157bfd36686",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_christof_koch.mp3"
+    guest: "Christof Koch: Consciousness",
+    uuid: "d1ab4510-4931-41f4-bbdc-079bd78d2c39",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_christof_koch.mp3",
+    transcript: "https://lexfridman.com/christof-koch-consciousness-transcript"
   },
   {
     title: "Max Tegmark: Life 3.0",
-    guest: "Life 3.0",
-    uuid: "1c148107-b1ce-425a-85cc-56a0ae48063f",
-    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_max_tegmark.mp3"
+    guest: "Max Tegmark: Life 3.0",
+    uuid: "3fc19335-4d60-47a0-bb36-588e90f3b179",
+    url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_max_tegmark.mp3",
+    transcript: "https://lexfridman.com/max-tegmark-life-30-transcript"
   },
 ];
