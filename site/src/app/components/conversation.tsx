@@ -20,7 +20,6 @@ import {
 import { contextToText, getRollingContext, TranscriptEntry } from "./context";
 import { lexPodcasts } from "../lib/lex_podcasts";
 import { AudioCircle } from "./AudioCircle";
-import { AudioAnalyzer } from "../lib/audioAnalyzer";
 
 type DynamicVariables = {
   podcast_context: string;

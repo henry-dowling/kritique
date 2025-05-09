@@ -5,7 +5,7 @@ import { useTheme } from "../lib/ThemeContext";
 import { useSearchParams } from "next/navigation";
 
 export default function ConversationPage() {
-  const { theme, toggleTheme } = useTheme();
+  const { theme } = useTheme();
   const searchParams = useSearchParams();
   const audioUrl = searchParams.get("audioUrl") || undefined;
 
