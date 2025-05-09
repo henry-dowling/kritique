@@ -135,6 +135,11 @@ export function Conversation() {
             <span>{formatTime(currentTime)}</span>
             <span>{formatTime(duration)}</span>
           </div>
+          {isPlaying && (
+            <div className="w-full text-center mt-2 text-base text-blue-700 font-semibold animate-pulse">
+              Say Hey Lex to Interrupt!
+            </div>
+          )}
         </div>
         {/* Hidden audio element */}
         <audio
