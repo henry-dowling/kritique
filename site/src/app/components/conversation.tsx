@@ -23,7 +23,11 @@ type DynamicVariables = {
   podcast_context: string;
 };
 
-export function Conversation() {
+type ConversationProps = {
+  audioUrl?: string;
+};
+
+export function Conversation({ audioUrl }: ConversationProps) {
   const { theme, toggleTheme } = useTheme();
 
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -395,7 +399,7 @@ export function Conversation() {
       {/* Hidden audio element */}
       <audio
         ref={audioRef}
-        src="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"
+        src={audioUrl || "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_theprimeagen.mp3"}
         preload="auto"
         onLoadedMetadata={(e) => {
           setDuration((e.target as HTMLAudioElement).duration);
