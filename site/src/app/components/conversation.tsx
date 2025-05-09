@@ -61,7 +61,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
   const startPorcupine = useCallback(async () => {
     // Start porcupine
-    const accessKey = process.env.NEXT_PUBLIC_PICOVOICE_ACCESS_KEY;
+    const accessKey = process.env.PICOVOICE_ACCESS_KEY;
     if (!accessKey) {
       throw new Error("PicoVoice access key is not set");
     }
