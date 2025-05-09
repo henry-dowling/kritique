@@ -5,12 +5,7 @@
   --foreground: #171717;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+/* Dark mode is now handled by Tailwind dark: classes */
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -20,9 +15,15 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Add theme transition to all elements */
+* {
+  transition-property: color, background-color, border-color,
+    text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
 }
 
 /* Pulsing podcast animation */
@@ -53,7 +54,8 @@ body {
   .p-4 {
     padding: 1rem 0.5rem !important;
   }
-  .w-16, .h-16 {
+  .w-16,
+  .h-16 {
     width: 3.5rem !important;
     height: 3.5rem !important;
   }
@@ -61,19 +63,40 @@ body {
 
 /* Animated blob keyframes */
 @keyframes blob1 {
-  0%, 100% { transform: translate(0, 0) scale(1); }
-  33% { transform: translate(10vw, -5vw) scale(1.1); }
-  66% { transform: translate(-5vw, 10vw) scale(0.95); }
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(10vw, -5vw) scale(1.1);
+  }
+  66% {
+    transform: translate(-5vw, 10vw) scale(0.95);
+  }
 }
 @keyframes blob2 {
-  0%, 100% { transform: translate(0, 0) scale(1); }
-  40% { transform: translate(-8vw, 8vw) scale(1.05); }
-  80% { transform: translate(8vw, -8vw) scale(1.1); }
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  40% {
+    transform: translate(-8vw, 8vw) scale(1.05);
+  }
+  80% {
+    transform: translate(8vw, -8vw) scale(1.1);
+  }
 }
 @keyframes blob3 {
-  0%, 100% { transform: translate(0, 0) scale(1); }
-  25% { transform: translate(5vw, 5vw) scale(1.08); }
-  75% { transform: translate(-5vw, -5vw) scale(0.92); }
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(5vw, 5vw) scale(1.08);
+  }
+  75% {
+    transform: translate(-5vw, -5vw) scale(0.92);
+  }
 }
 
 .animate-blob1 {
