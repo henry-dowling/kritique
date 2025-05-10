@@ -112,7 +112,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     console.log("yo whats up");
     try {
       // Start the conversation with your agent
-      if (!process.env.ELEVEN_LABS_AGENT_ID) {
+      if (!process.env.NEXT_PUBLIC_AGENT_ID) {
         throw new Error("Agent ID is not set");
       }
 
@@ -125,7 +125,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
       console.log("Dynamic variables:", dynamicVariables);
 
       await conversation.startSession({
-        agentId: process.env.ELEVEN_LABS_AGENT_ID,
+        agentId: process.env.NEXT_PUBLIC_AGENT_ID,
         dynamicVariables,
       });
     } catch (error) {
