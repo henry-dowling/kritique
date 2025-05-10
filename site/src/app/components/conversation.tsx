@@ -445,27 +445,6 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
         label="You"
       />
 
-      {/* Debugging info */}
-      <div
-        className={`flex flex-col items-center p-6 rounded-lg ${
-          theme === "dark" ? "text-white" : "text-gray-900"
-        }`}
-      >
-        <p className="font-medium mb-2">Debugging info:</p>
-        {wakeWordDetected ? (
-          <p className="text-green-500">Wake word detected!</p>
-        ) : (
-          <p>Wake word not detected yet</p>
-        )}
-        {/* Should be connected when the conversation is "speaking" */}
-        <p>EleventLabs Status: {conversation.status}</p>
-        <p>Agent is {conversation.isSpeaking ? "speaking" : "listening"}</p>
-        {/* Should be true, true, null */}
-        <p>Pico Voice Loaded: {JSON.stringify(isLoaded)}</p>
-        <p>Pico Voice Listening: {JSON.stringify(isListening)}</p>
-        <p>Pico Voice Error: {JSON.stringify(error)}</p>
-      </div>
-
       <Player />
 
       {/* Hidden audio element */}
