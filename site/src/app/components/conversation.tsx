@@ -400,7 +400,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
                   audioRef.current?.pause();
                 }}
               >
-                SAY &quot;HEY LEX&quot; TO INTERRUPT
+                press here to argue
               </button>
             </div>
           </div>
