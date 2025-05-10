@@ -49,8 +49,6 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
   // Find the podcast object by audioUrl or uuid
 
-  console.log("yo were running conversation")
-
   let podcast = undefined;
   if (audioUrl) {
     podcast = lexPodcasts.find((p) => p.url === audioUrl);
@@ -61,7 +59,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
   const startPorcupine = useCallback(async () => {
     // Start porcupine
-    const accessKey = process.env.NEXT_PUBLIC_PICOVOICE_ACCESS_KEY;
+    const accessKey = process.env.PICOVOICE_ACCESS_KEY;
     if (!accessKey) {
       console.error("PicoVoice access key is not set");
       throw new Error("PicoVoice access key is not set");
@@ -111,10 +109,10 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   }, []);
 
   const startConversation = useCallback(async () => {
-    console.log('yo whats up')
+    console.log("yo whats up");
     try {
       // Start the conversation with your agent
-      if (!process.env.NEXT_PUBLIC_AGENT_ID) {
+      if (!process.env.ELEVEN_LABS_AGENT_ID) {
         throw new Error("Agent ID is not set");
       }
 
@@ -127,7 +125,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
       console.log("Dynamic variables:", dynamicVariables);
 
       await conversation.startSession({
-        agentId: process.env.NEXT_PUBLIC_AGENT_ID,
+        agentId: process.env.ELEVEN_LABS_AGENT_ID,
         dynamicVariables,
       });
     } catch (error) {
