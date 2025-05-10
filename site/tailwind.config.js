@@ -1,11 +1,12 @@
+// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+const config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  darkMode: "class", // This enables dark mode with the 'dark' class
+  darkMode: "class",
   theme: {
     extend: {
       backgroundImage: {
@@ -17,3 +18,5 @@ module.exports = {
   },
   plugins: [],
 };
+
+export default config;
