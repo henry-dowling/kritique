@@ -40,7 +40,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const [transcript, setTranscript] = useState<TranscriptEntry[]>([]);
   // Wake word detection components
   const [wakeWordDetected, setWakeWordDetected] = useState(false);
-  const { keywordDetection, init, start, stop } =
+  const { keywordDetection, init, start, stop, isLoaded, isListening, error } =
     usePorcupine();
 
   // Audio visualization states
@@ -48,6 +48,9 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   const [microphoneFrequency] = useState(0);
 
   // Find the podcast object by audioUrl or uuid
+
+  console.log("yo were running conversation")
+
   let podcast = undefined;
   if (audioUrl) {
     podcast = lexPodcasts.find((p) => p.url === audioUrl);
@@ -108,6 +111,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
   }, []);
 
   const startConversation = useCallback(async () => {
+    console.log('yo whats up')
     try {
       // Start the conversation with your agent
       if (!process.env.NEXT_PUBLIC_AGENT_ID) {
@@ -440,6 +444,27 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
         }
         label="You"
       />
+
+      {/* Debugging info */}
+      <div
+        className={`flex flex-col items-center p-6 rounded-lg ${
+          theme === "dark" ? "text-white" : "text-gray-900"
+        }`}
+      >
+        <p className="font-medium mb-2">Debugging info:</p>
+        {wakeWordDetected ? (
+          <p className="text-green-500">Wake word detected!</p>
+        ) : (
+          <p>Wake word not detected yet</p>
+        )}
+        {/* Should be connected when the conversation is "speaking" */}
+        <p>EleventLabs Status: {conversation.status}</p>
+        <p>Agent is {conversation.isSpeaking ? "speaking" : "listening"}</p>
+        {/* Should be true, true, null */}
+        <p>Pico Voice Loaded: {JSON.stringify(isLoaded)}</p>
+        <p>Pico Voice Listening: {JSON.stringify(isListening)}</p>
+        <p>Pico Voice Error: {JSON.stringify(error)}</p>
+      </div>
 
       <Player />
 
