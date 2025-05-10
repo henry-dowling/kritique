@@ -60,16 +60,27 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     // Start porcupine
     const accessKey = process.env.NEXT_PUBLIC_PICOVOICE_ACCESS_KEY;
     if (!accessKey) {
+      console.error("PicoVoice access key is not set");
       throw new Error("PicoVoice access key is not set");
     }
-    console.log("Access key:", accessKey);
-
-    await init(accessKey, [porcupineKeywords[0]], porcupineModel);
-    await start();
+    console.log("[PICO] Starting Porcupine with access key:", accessKey);
+    try {
+      await init(accessKey, [porcupineKeywords[0]], porcupineModel);
+      console.log("[PICO] Porcupine initialized");
+      await start();
+      console.log("[PICO] Porcupine started");
+    } catch (err) {
+      console.error("[PICO] Error initializing Porcupine:", err);
+    }
   }, [init, start]);
 
   const stopPorcupine = useCallback(async () => {
-    await stop();
+    try {
+      await stop();
+      console.log("[PICO] Porcupine stopped");
+    } catch (err) {
+      console.error("[PICO] Error stopping Porcupine:", err);
+    }
   }, [stop]);
 
   const conversation = useConversation({
@@ -136,11 +147,13 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
   useEffect(() => {
     if (keywordDetection !== null) {
+      console.log("[PICO] Wake word detected!", keywordDetection);
       setWakeWordDetected(true);
       // Automatically start the conversation when wake word is detected
       startConversation();
       audioRef.current?.pause();
     } else {
+      console.log("[PICO] Wake word NOT detected (keywordDetection is null)");
       setWakeWordDetected(false);
     }
     // Deliberately only load when the keyword detection changes
