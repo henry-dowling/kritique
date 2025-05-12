@@ -1,0 +1,2886 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Dana White",
+    "timestamp": "(00:00:00)",
+    "text": "Khabib beat Conor. Putin was on FaceTime before he even made it to the locker room. Trump sitting president, ex-president, watching all the fights calling, wants to talk about the fights. Valentina Shevchenko, every time she goes home, she meets with the president of the country. The list goes on and on and on. Elon Musk, Zuckerberg, I mean, the list goes on and on and on. The most powerful people in the world are all obsessed with fighting."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:30)",
+    "text": "The following is a conversation with Dana White, the president of the UFC, a mixed martial arts organization that revolutionized the art, the sport, and the business of fighting. And Dana is truly the mastermind behind the UFC. This is the Lex Fridman Podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Dana White. Do you remember when you saw your first fight?"
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "Dana White",
+    "timestamp": "(00:01:00)",
+    "text": "I think so. I remember being at my grandmother’s house and I think it was an Ali fight, and all my uncles were going crazy during the fight, and there was just this buzz and this energy in the house that I liked at a very young age, and I’m pretty sure that was my first fight."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:01:17)",
+    "text": "Ali was something special."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "Dana White",
+    "timestamp": "(00:01:18)",
+    "text": "Yeah, incredible. I mean, when you look around, not just here in the office, but at my house, Ali and Tyson are everywhere."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:01:27)",
+    "text": "Would you put Ali as the greatest of all time boxing?"
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "Dana White",
+    "timestamp": "(00:01:30)",
+    "text": "Well, I would put Ali as the greatest of all time human being. I mean, it’s easy as a fight fan to focus on him as a fighter, but when you focus on him as a human and you think about what he meant at that time and place, the things he said, the poems he came up with, just the overall brilliance of Muhammad Ali. The guts to have the strength mentally, physically, and emotionally to go against the grain at the time that he did it. It was a very dangerous time for him to be who he was. Yet, because of how smart he was and because of his personality and how if you sat down with him, you could be the biggest racist on the planet, it’s hard to get in the room with Ali and not like Ali."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:26)",
+    "text": "Yeah, he’s all love, humor, all of it."
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Dana White",
+    "timestamp": "(00:02:29)",
+    "text": "100%"
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:30)",
+    "text": "And had the guts in the ring and the guts to take a stand."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "Dana White",
+    "timestamp": "(00:02:34)",
+    "text": "100%"
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:34)",
+    "text": "When it was hard."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Dana White",
+    "timestamp": "(00:02:35)",
+    "text": "He might be one of the all time greatest humans. Just an impactful, powerful human being who happened to be a great boxer."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:47)",
+    "text": "And sometimes the right moment meets the great human being. That’s important."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Dana White",
+    "timestamp": "(00:02:52)",
+    "text": "I agree with you. And he was the right guy in the right place at the right time. And he’s also a guy who used his platform for all the right things."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:03)",
+    "text": "So that might’ve been your first fight, but when did you fall in love with fighting? The art of it? The science of it?"
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Dana White",
+    "timestamp": "(00:03:09)",
+    "text": "Yeah, I would say I really fell in love with it, so I was a senior. It was 1987 and Hagler Leonard happened, and I watched that fight and I taped it and I watched that fight like a million times. I was a huge, huge Hagler fan, and I like Sugar Ray Leonard too, but I was a huge Hagler fan. And I just remember I watched that fight a million times because I was pissed off and I felt like Haggler got robbed in the fight. But that was really what made me start to love the sport of boxing."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:49)",
+    "text": "The battle of it."
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "Dana White",
+    "timestamp": "(00:03:50)",
+    "text": "Yeah. I was 17 and then after that, USA’s Tuesday Night Fights came out on television. It was on every Tuesday night. Religiously, never missed Tuesday Night Fights. I was there, watched all those fights. And a lot of the things you see in the UFC, not necessarily just the production, but I would say the feel and the style and all those things are all things that I loved about boxing and things that I hated about boxing, right down to the commentary."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:31)",
+    "text": "You loved and hated?"
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Dana White",
+    "timestamp": "(00:04:34)",
+    "text": "Yeah."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:35)",
+    "text": "Hated the commentary."
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Dana White",
+    "timestamp": "(00:04:36)",
+    "text": "Certain things that I loved about boxing, I incorporated into the UFC. Things that I hated about boxing, I made sure that the UFC stayed far away from. I can’t stand Larry Merchant. Can’t stand Larry Merchant. And I used to watch HBO Boxing and mute the commentary so that I didn’t have to listen to them. Lampley too. You would spend this money for the pay-per-view to watch these people that you idolized to hear these idiots rip them apart while the fight was happening."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:09)",
+    "text": "Oh they were criticizing them?"
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:09)",
+    "text": "100%."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:10)",
+    "text": "Or taking them apart. I’ve gotten used to the UFC, so I’m trying to remember looking back."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:17)",
+    "text": "It was bad."
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:17)",
+    "text": "It was bad?"
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:18)",
+    "text": "It was really bad."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:20)",
+    "text": "But the sweet science, the art of boxing was beautiful still."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:24)",
+    "text": "100%."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:25)",
+    "text": "Like the stories you told."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:25)",
+    "text": "I want to do this with you right now. Hey, will you bring your cell phone over here and pull up YouTube? I want to do this for you so that you can understand this and understand where I was coming from."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:36)",
+    "text": "For the commentary?"
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:37)",
+    "text": "Yeah, at this point in time."
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:39)",
+    "text": "I have all good memories. You’re going to ruin it for me."
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Dana White",
+    "timestamp": "(00:05:41)",
+    "text": "Yeah, no, there are nothing but great memories about boxing, but the presentation and a lot of the things, but how fucking weird is it that I even cared about this shit at that point in my life and that time in my life? What impact could I possibly have on it? So think about Tyson and how much everybody loved Tyson at the time, and listen to this entrance."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Speaker 1",
+    "timestamp": "(00:06:04)",
+    "text": "…Of the former undisputed heavyweight champion. And here he comes, Mike Tyson, as he heads toward the same ring he made his disgraceful exit in June of ’97."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:12)",
+    "text": "Wow."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "Speaker 1",
+    "timestamp": "(00:06:14)",
+    "text": "…But proud."
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Dana White",
+    "timestamp": "(00:06:15)",
+    "text": "One of the baddest motherfucking walk-ins of all time, by the way."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:15)",
+    "text": "Look at that."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Dana White",
+    "timestamp": "(00:06:19)",
+    "text": "So what this guy should be doing, and this is one of the Albert brothers, shut the fuck up. Stay out of the way."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:26)",
+    "text": "Yeah, maybe build them up."
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Dana White",
+    "timestamp": "(00:06:30)",
+    "text": "Or that. Or don’t say anything. Just let the fans… That’s why we watch it. That’s why we paid our money."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:38)",
+    "text": "You don’t need to say anything."
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Speaker 1",
+    "timestamp": "(00:06:40)",
+    "text": "Scary imposing music. Will he be able to intimidate his opponent tonight? Will it even matter? I really thought that’d be more of an explosion by the crowd here, but very mixed. Even with a win tonight, no matter how one sided, he will still have his detractors following the two fights. With Holyfield, his stock plummeted, the pundits came down hard feeling they were duped, that his knockouts were over second rate fighters. Now the crowd erupts more as he gets into the ring, but it’s certainly nothing overwhelming."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:27)",
+    "text": "What a dick. You’re right. I don’t remember that. You’re right."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Dana White",
+    "timestamp": "(00:07:32)",
+    "text": "Imagine."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:33)",
+    "text": "You’re right."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "Dana White",
+    "timestamp": "(00:07:34)",
+    "text": "Imagine you paid your money to watch Mike Tyson and you got to listen to these fucking jerkoffs talk shit about him the whole way to the… First of all, one of the coolest walk-ins ever. The first time anybody had heard DMX."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:48)",
+    "text": "Yeah, that’s right."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Dana White",
+    "timestamp": "(00:07:51)",
+    "text": "He’s walking into some scary imposing music. Will it even matter? It’s just all that stuff. I literally used to analyze every ounce of the production that would happen on television and at a time when I didn’t even know why I was doing it, but-"
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:10)",
+    "text": "But it was in there somewhere. You were thinking about it."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Dana White",
+    "timestamp": "(00:08:12)",
+    "text": "Right? So yeah, I hated HBO commentary. I thought at the time, HBO Boxing was obviously the gold standard, but when you really think about boxing at that time, their production, the only thing that changed over 30 years was HD. I mean, even the commentators were the same for 30 years. And then you had the time when Larry Merchant gets up and literally starts fighting with Floyd Mayweather during the interview and says, “If I was 30 years younger, I’d kick your ass right now.”"
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:43)",
+    "text": "Oh yeah, I remember that."
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "Dana White",
+    "timestamp": "(00:08:44)",
+    "text": "I mean, these are the interviews that we have to listen to when we’re trying to watch a boxing match?"
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:49)",
+    "text": "The level of boxing was good."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Dana White",
+    "timestamp": "(00:08:51)",
+    "text": "Think about a fighter. A fighter has been gone for months away from their families and away from everything, training, cutting weight, sparring. Then they go in and they have to fight that night? And then if you watch your fight back, you got to listen to this bullshit from these guys? And then you get interviewed and your interview is this? It’s just…"
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:13)",
+    "text": "And it’s not just about the pay-per-view money. It’s about these are legends of humanity."
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "Dana White",
+    "timestamp": "(00:09:18)",
+    "text": "100%."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:18)",
+    "text": "We should celebrate the highest form of accomplishment."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "Dana White",
+    "timestamp": "(00:09:21)",
+    "text": "100%."
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:22)",
+    "text": "Because these are Mike Tyson."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Dana White",
+    "timestamp": "(00:09:23)",
+    "text": "So you know who goes in there and interviews fighters? Joe Rogan, who has trained and done everything and has the utmost respect for the sport and the athletes. Or you got Daniel Cormier who was a former world champion himself and has actually been through it, done it, knows. And those are the type of people that we put in the booth, people that are actually experienced in it, not these people who’ve never been in a fight in their fucking life."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:52)",
+    "text": "But they’re also, both DC and Rogan are big kids. They love it."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Dana White",
+    "timestamp": "(00:09:52)",
+    "text": "100%."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:56)",
+    "text": "They really love it."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Dana White",
+    "timestamp": "(00:09:58)",
+    "text": "Well, everybody does. I mean, it’s the difference between our commentary and what I feel their commentary was. We don’t hire paid talking heads. We hire people that have actually been in it, done it, love it, and are super passionate about the sport. And I would say that none of them that ever covered the sport back then were. I don’t know if that was Marv Albert or what Albert brother that was, but he sounded like he’s a fan of the sport or? Anyway, you got me on this, and once I get on this, I lose my mind."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:34)",
+    "text": "Maybe we wouldn’t have a UFC if they didn’t fuck it up so bad for the Tyson walk-up."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Dana White",
+    "timestamp": "(00:10:39)",
+    "text": "It would be different. You’re not wrong. You’re not wrong. It would be different. There’s no doubt about it. All those experiences growing up being a boxing fan help create what the UFC is today."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:49)",
+    "text": "It’s interesting because humans have been fighting for millennia, and it seems like with the UFC, the rate of innovation is just insane. In these last three decades, it seems like we’ve discovered how to do unarmed combat faster and better than any time in human history."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Dana White",
+    "timestamp": "(00:11:09)",
+    "text": "I agree with you 100%. The first UFC happened in 1993. Martial art versus martial art. And now over the last 30 years, martial arts has evolved faster than… And like you just said, combat sports, fighting, whatever you want to call it, martial arts, it has evolved so much in 30 years more than the last 300 years."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:35)",
+    "text": "What did you think when you saw UFC 1 with Hoist?"
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Dana White",
+    "timestamp": "(00:11:39)",
+    "text": "I remember everybody talking that this fight was going to happen and there was going to be no rules and all this other stuff. And we’re like, “There’s no way. That’s bullshit.” And then we ended up at some guy’s house that night in Boston and watching it and it was happening and it was fun and it was exciting and everything else. And then I fell off after that. The first one I watched, but I was too big of a boxing fan. Plus once grappling started taking over, and by grappling meaning the wrestling and the jiu-jitsu guys had just laid there, I completely lost interest. It’s funny that I’m having this conversation with you right now because I was out last night with my friends and we were talking about, because one of my buddies who’s a host here in town, just did jiu-jitsu for the first time."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:25)",
+    "text": "Nice."
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "Dana White",
+    "timestamp": "(00:12:25)",
+    "text": "…Yesterday. And he was like-"
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:27)",
+    "text": "Did he get his ass kicked?"
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Dana White",
+    "timestamp": "(00:12:28)",
+    "text": "Yeah, yeah. But when you first go in, our first jiu-jitsu lesson, me, Lorenzo, and Frank was with John Lewis, and I remember thinking, “Holy shit, I can’t believe that I’m 28 years old and this is the first time I’m experiencing this, that another human being could do this to me on the ground.” It is such an eyeopening, mind blowing experience when you do it for the first time and then you become completely addicted to it. And we were training three, four days a week trying to kill each other, me and the Fertittas, and that’s how we fell in love with the sport. I think that first time that you do jiu-jitsu, it’s like the red pill and the blue pill in The Matrix. Do you want to believe that this is the world that you live in, or do you want to see what the real world looks like?"
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:22)",
+    "text": "Just is a real red pill."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Dana White",
+    "timestamp": "(00:13:24)",
+    "text": "It really is."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:25)",
+    "text": "You realize, “Holy shit, all that shit talking I’ve been doing about me being a badass,” you realize you’re not. You get dominated by another human being, you realize, “No.”"
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Dana White",
+    "timestamp": "(00:13:35)",
+    "text": "And I mean dominated. I mean completely treats you like you’re a little kid. And then we had the opportunity to roll with a lot of different guys at the time because of the whatever, and we don’t have a good relationship at all. But I’ll tell you this, Frank Shamrock came in one day and Frank Shamrock had me in side control. The pressure that this guy put on my chest made me tap. It felt like there was a car on my chest. And with zero effort from him, it was absolutely effortless. And when you train with somebody that’s at such a level when you’re not, it is the most humbling, mind blowing experience you can have, especially as a man, but as a human being."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:26)",
+    "text": "Just for fun, do you remember what your go-to submission was?"
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Dana White",
+    "timestamp": "(00:14:30)",
+    "text": "Yeah, so when we first started out and started doing it, I had a pretty good guillotine in the beginning. So I’d catch a lot of people in guillotines."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:37)",
+    "text": "So you’re okay being on bottom? So the guard was pretty good?"
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Dana White",
+    "timestamp": "(00:14:40)",
+    "text": "Yeah, I was okay with the bottom. I was comfortable there. But you know what I never liked? I never liked gi. We started fucking around with a gi in the beginning, that’s how we started. And then once I took the gi off, I felt like I had no submissions because I couldn’t grab onto anything. So after that, I went all no gi and I never wanted to wear a gi."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:01)",
+    "text": "That’s fascinating because no gi has become big now and there’s a lot of interesting people. I got trained with Gordon Ryan, and the level there is just fascinating. It’s become the science and it looks like fighting now. It looks more like fighting as opposed to with the gi, sometimes it doesn’t quite look like fighting. And I feel like it’s transferable to actual MMA fighting, no gi stuff."
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Dana White",
+    "timestamp": "(00:15:24)",
+    "text": "Or street."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:25)",
+    "text": "Street, yeah."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "Dana White",
+    "timestamp": "(00:15:27)",
+    "text": "I mean, if you start off in your first year you’re in a gi, man, you better hope guy’s got winter jackets on or something if something happens in the street because, I know all the jiu-jitsu fucking people are going to go crazy over this, but in my opinion, no gi is way better than gi."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:44)",
+    "text": "That said, I also do judo. So in the street scenario, if you’re comfortable on the feet and you can clinch and you can throw, because most of us wear clothing, especially in Boston in the winter setting, so if you’re comfortable on the feet, you could still do well. The problem with jiu-jitsu is most people are not comfortable on the feet, the sports jiu-jitsu. Most people want to get to the ground as quickly as possible. So what’d you think of Hoist at that time in the early… Because it blew a lot of people’s minds that there’s more to this puzzle."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Dana White",
+    "timestamp": "(00:16:17)",
+    "text": "100%, and the fact that you had these guys like Ken Shamrock that were jacked and you had all these wrestlers or the big massive guys that they had in the different weight classes, and this skinny little dude like Hoist was out there beating everybody. I mean, if you look at the way the Gracie’s played that, you couldn’t have had a better advertisement for Gracie Jiu-jitsu at the time."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:42)",
+    "text": "But also for MMA, because there’s just a lot of surprising elements. A lot of people’s prediction was wrong. They didn’t think the skinny guy would win. And they’re like, “Oh shit, there’s more to this.”"
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Dana White",
+    "timestamp": "(00:16:56)",
+    "text": "What’s the real beautiful thing about jiu-jitsu? It’s like when you talk about if you wanted to get your daughter into a martial art, “Should I put my daughter into karate or should I put her into this?” You put your daughter into jiu-jitsu 100% because it’s not about size or strength, it’s about technique. And you give your daughter a bunch of jiu-jitsu and a little bit of Muay Thai."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:19)",
+    "text": "Yeah, she becomes dangerous."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "Dana White",
+    "timestamp": "(00:17:21)",
+    "text": "It’s like the perfect combo. Because you can put your son into anything. Your son can get into some… Boys are going to learn how to fight and they’re going to do whatever. But girls are different. And the other thing, I mean, this is the biggest selling point for jiu-jitsu for women. I mean, when a woman, no matter how big, how small can put a guy to sleep in three and a half seconds."
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:39)",
+    "text": "What’s the origin story of the UFC as it is today as you’ve created it and you and Lorenzo and Fertitta brothers built it?"
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Dana White",
+    "timestamp": "(00:17:48)",
+    "text": "It started with John Lewis and seeing him. Frank and I were out one night at the Hard Rock and John Lewis was there and he’s like, “Oh, that’s that ultimate fighting guy.” And I was like, ” I know him.” And Frank’s like, “I’ve always wanted to learn ground fighting.” And I said, “Yeah, I’m interested in it too.” So we went over, we talked to John Lewis and we made an appointment to wrestle with him on Monday. And we told Lorenzo and Lorenzo came with us. And that was the beginning of the end. I mean, we started doing jiu-jitsu and started to meet a lot of the fighters."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "",
+    "timestamp": "(00:18:25)",
+    "text": "At the time, there was a stigma attached to the sport that these guys were despicable, disgusting human beings, which was the furthest thing from the truth. These kids had all gone to college, had college degrees, most of them because they wrestled in college. And we started to meet some of them. We loved the different stories. You had Chuck Liddell who had this mohawk, looks like an ax murderer, but graduated from Cal Poly with honors in accounting. Then you had Matt Hughes who was this farm boy, literally lived on a farm. And so there were all these cool stories with all these good people that weren’t what people thought they were. And Lorenzo and I always felt like there’s something here. If this thing was done the right way, this could be big."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "",
+    "timestamp": "(00:19:15)",
+    "text": "And what was crazy was I was in a contract negotiation with Bob Meyrowitz, the old owner of the UFC over Tito’s contract and Chuck Liddell. They didn’t even want Chuck Liddell in the UFC.I was trying to get Chuck in the UFC and they didn’t even want him. And we got into this contract dispute over Tito’s contract and Bob Meyrowitz said, “You know what? There is no more money, okay? I don’t even know if I’ll even be able to put on one more event.” And he flipped out. When we hung up the phone, I literally picked up the phone and called Lorenzo and I said, “Hey, I just got off the phone with Bob Meyrowitz, the owner of the UFC, I think they’re in trouble and I think we could buy it and I think we should. You should reach out to him.” So Lorenzo called Meyrowitz, and I don’t remember the timeline, but within the next two months, we ended up owning the UFC for $2 million bucks."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:07)",
+    "text": "And you’ve said that you fought a lot of battles during that time."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Dana White",
+    "timestamp": "(00:20:11)",
+    "text": "I mean, the early days of building this company and building the sport, it was the wild, wild west, man. It was crazy back then. I was literally at war every day with all different types of people. Plus traditionally, there’s bad people that are involved in fighting, man, there’s lots of bad people. And we had to sift our way through that for the first seven, eight years."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:36)",
+    "text": "So in general, there’s corruption that people steal money. They’re thinking just about themselves, not the bigger business."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Dana White",
+    "timestamp": "(00:20:42)",
+    "text": "Let me tell you about this. I mean, I want to say it was the Netherlands. I don’t remember exactly where. It could have been Amsterdam. I mean, MMA promoters were like car bombing each other, and then the other guy shot up the other guy’s house with machine guns and that’s the kind of shit that was going on. I’ll tell you the story. So Affliction, do you remember Affliction?"
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:04)",
+    "text": "Yeah."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Dana White",
+    "timestamp": "(00:21:04)",
+    "text": "So there was a guy, I want to say his name was Todd Beard or something like that. This guy used to text me every day when they started their MMA thing telling me he was going to kill me."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:05)",
+    "text": "Legitimately, that’s what-"
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Dana White",
+    "timestamp": "(00:21:19)",
+    "text": "Legitimately going to kill me. “You punk motherfucker. I’m going to fucking kill you. You don’t understand who I am and what I’ve done,” and this and that. I think this guy would get drunk or do drugs every night or whatever his deal was. This guy would call me, text me, and threaten my life every day. I used to go, “Fuck you,” and this and that."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:38)",
+    "text": "You said, “Fuck you” to that guy?"
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Dana White",
+    "timestamp": "(00:21:39)",
+    "text": "Oh yeah, man. Especially back then. But I mean, this is the type of shit that went on in the early days. This guy who was one of the owners of Affliction was not a good human, let’s put it that way."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:53)",
+    "text": "What about the business side of it? It’s tough to make money in this business."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Dana White",
+    "timestamp": "(00:21:57)",
+    "text": "Yeah, we weren’t making money, so trying to build this thing corrupt. The guys that worked for In Demand pay-per-view at the time were not good dudes and that thing was a fucking total monopoly. God, I wish I could remember his name right now. He used to run In Demand and he was a fucking bad guy. Then he comes over and starts running DirecTV, who we always had a great relationship with and he’s the reason we left DirecTV and said, “Fuck it. We’ll just go streaming then.” I don’t remember his name. I’d have to ask Lorenzo."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:38)",
+    "text": "So in general, just in this whole space, there’s a lot of shady people?"
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Dana White",
+    "timestamp": "(00:22:42)",
+    "text": "Everybody you deal with, you’re dealing with a lot of different forces and your hands are in a lot of different businesses. From the venue business to the merchandise business to the video game business, the pay-per-view business, the list goes on and on of all the different types of… The production…"
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Dana White",
+    "timestamp": "(00:23:00)",
+    "text": "The list goes on and on of all the different types of the production business, of all these different… When I first started this, we had a production team that was the production team that was in it before we bought it. So there was this incident with Phil Baroni, where Phil Baroni, we did an interview with him, and Baroni flips out in the interview when they’re interviewing him and goes crazy. And I thought it was awesome. So I’m like, “We’re going to leave this in. We’re going to leave this interview in.” And the production guys were arguing with me. They’re like, “We can’t leave this in. This is totally unprofessional.” I said, “I don’t give a shit. This is what we’re doing. We’re going to do this and clip it like this and do it like that.”"
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "",
+    "timestamp": "(00:23:46)",
+    "text": "We’re sitting in the venue that night, and I lean over to Lorenzo because the fight’s coming up. I go, wait till you see this interview with Baroni. They didn’t fucking do it. They didn’t do it. These guys were guys that were freelance guys that worked for Showtime at the time or something like that."
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:03)",
+    "text": "[inaudible 00:24:03]."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "Dana White",
+    "timestamp": "(00:24:03)",
+    "text": "I literally got up from my fucking seat, went back there, kicked the fucking door of the truck open, and I said, “You motherfuckers. You ever do that again and I’ll fire every one of you.” Let’s just put it this way. I ended up firing every one of them anyway and going with a whole new crew. But these were the type of things that early on… There’s so much stuff. I mean, I could sit here for three days and walk you through all the stuff that used to go on back in those days. But it was the Wild Wild West, man."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:30)",
+    "text": "But how’d you figure out, how’d you know how to deal with all this mess? First of all, to fire people, to fire people that aren’t doing a good job, all of that. How to be a leader, how to be a…"
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Dana White",
+    "timestamp": "(00:24:38)",
+    "text": "Well, that’s the thing too."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:40)",
+    "text": "… business leader."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Dana White",
+    "timestamp": "(00:24:41)",
+    "text": "In the early days, there was two employees, me and another girl that worked for me, for my company before I started doing this, and then we slowly started to bring people on and you started to build a team. And then before you know it, we had 10 people. We used to do our Christmas parties back then too. There’d be eight to ten people at our Christmas party. But a lot of it is, you’ll learn as you go. You know what me and the Fertittas knew about production when we bought this UFC? I want to say we had two or three weeks to pull off an event. This is what we knew about production."
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:15)",
+    "text": "Really?"
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Dana White",
+    "timestamp": "(00:25:15)",
+    "text": "Jack shit. So we had to dive in and we had to learn it. We had to figure it out, and we knew what we wanted. We knew what we liked. We knew what we were looking for. It’s just about building a good team, and I think that’s one of the things, if you want to talk about what I’ve accomplished in the last 25 years of my life, I’ve been really good at building teams."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:39)",
+    "text": "Already have a vision of what you want the final thing to look like, and then build a team that can bring that to life."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Dana White",
+    "timestamp": "(00:25:43)",
+    "text": "A hundred percent. Well, you have to have the vision. Without the vision, there’s nothing. So that’s sort of what I do. I am the vision part of this thing. We’re going to open a PI in Mexico, we’re going to do this, we’re going to do that. And then you build the team to come in and help execute."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:09)",
+    "text": "A lot of people that do fighting promotions fail. You succeeded against the long odds. What’s the secret to your success, if you would, just looking back over the years?"
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Dana White",
+    "timestamp": "(00:26:20)",
+    "text": "Well, the secret to success, I would say, first of all is passion and consistency. You have to love what you do. You have to get up every day. And I get here every day at 9:30 in the morning. When we sold in 2016, a lot of people in the company made a lot of money, and they all took off and they retired. Other than the Fertittas, I made the most money. I’m still here. I get here at 9:30 every morning. Last night I left here at 8:30. And I don’t know how late I’m going to be here tonight, but I love what I do. We get up every day and grind. I work just as hard now as I did back then."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "",
+    "timestamp": "(00:27:03)",
+    "text": "The difference between back then and now is I don’t have to do a bunch of the that I don’t really like to do, like budget meetings. I don’t like budget meetings. I sat through enough fucking budget meetings and… Horrible budget meetings. Horrible. We’re losing millions of dollars a year, and I’m in these budget meetings. So I get to pick and choose what I do these days. Back in the early days, you don’t get to pick and choose. You have to be involved in everything."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:33)",
+    "text": "So cost, you’re just looking at cost and stuff."
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Dana White",
+    "timestamp": "(00:27:35)",
+    "text": "A hundred percent. You literally go through line by line, every fucking number in the company and where did the money go and how can we save costs? How can we do this better? How can we… They are brutal, and there are multiple times a week and-"
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:53)",
+    "text": "Probably helps to deeply appreciate how much this shit costs though."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Dana White",
+    "timestamp": "(00:27:56)",
+    "text": "A hundred percent. Well, you have to know that. In the early days when you start your business, you have these people, who, when I hear them say, “You know what? I want to work for myself. I want to create my own schedule, and I want to do all the…” If that’s your thought process going into it, you’re never going to be successful. You have to pay attention to every single detail of the business early on. You’re involved in everything. There’s no days off, there’s no birthdays, there’s no Christmas, there’s none of that shit. I literally moved the birth of my second son for a Chuck Liddell fight. We had a Chuck Liddell fight coming up and they’re like, “Yeah, your son’s going to be born on this date.” And I’m like, “Yeah, that’s not going to work. We’re going to have to take him earlier. So they literally gave my wife a C-section and took my son early."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:44)",
+    "text": "You were all in."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Dana White",
+    "timestamp": "(00:28:44)",
+    "text": "All in. Yeah."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:46)",
+    "text": "And the fascinating thing, like you said, you’ve said that you could care less about money. You’re doing this for the love of it."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Dana White",
+    "timestamp": "(00:28:55)",
+    "text": "Yeah, I was doing this when I was broke, and I’m doing this now when I’m not broke. I’m doing this because I love it. And I feel like there’s so much more to do, and this is truly my passion in life. It’s like the Sphere. We’re doing the Sphere? Why? Why would I do the Sphere? It’s going to cost me a bunch of money. It’s really challenging. Most people think it can’t be pulled off, and you’re looking at weird angles, different things going on inside other than the fight and all this other stuff. But yeah, I’m doing it because it’s awesome and it’s challenging and it’s hard, and I think that if anybody can do it right, it’s us. So why not take that challenge?"
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:37)",
+    "text": "It’s actually why I’m here. I’m going to the Sphere for the first time because I’m hanging out with Darren Aronofsky who put together the thing that’s in there now, and I can’t believe you’re thinking of… I don’t know how you’re going to solve that puzzle."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Dana White",
+    "timestamp": "(00:29:48)",
+    "text": "There’s many puzzles to solve for this one. Many puzzles."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:53)",
+    "text": "Can you speak to that? What are interesting challenges that you’re encountering?"
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Dana White",
+    "timestamp": "(00:29:59)",
+    "text": "Yeah, so there’s a lot. So you have the octagon and then behind it is the world’s biggest screen, ever. So what is the theme? How do you program it? First of all, it’s super expensive to shoot, and the format for the Sphere, angles. We were talking about today. I just had a big meeting today about the Sphere this afternoon, and making sure that all my departments, all the details that I want all start to come together here in the next two weeks. I want the creative, the commercial. I have some goals. I will tell people as we get closer what I’m looking to achieve with this other than putting on one of the greatest, most unique sporting events of all time, and probably the greatest combat sporting event of all time. But yeah, there’s challenges. There’s a laundry list of challenges for this thing, and not to mention the fact that it’s on Mexican Independence Day, and we’re going to weave in the whole history of combat in Mexico-"
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:09)",
+    "text": "Yeah. Nice."
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:10)",
+    "text": "… into this event."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:12)",
+    "text": "But the production, this is hilarious, because you were just talking about knowing nothing about production, so many years ago."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:17)",
+    "text": "And now tackling the Sphere, yeah."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:19)",
+    "text": "The hardest production effort."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:20)",
+    "text": "Ever."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:21)",
+    "text": "And that will be live?"
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:23)",
+    "text": "It’ll be live. It’ll be live on pay-per-view, it’ll be live in the arena, and it’ll also be in movie theaters."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:31)",
+    "text": "Nice. So it will be shown at the Sphere later too? Will you try to create an experience?"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:37)",
+    "text": "ESPN’s doing a doc on it."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:38)",
+    "text": "Nice."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:39)",
+    "text": "The making of the Sphere. Yeah."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:41)",
+    "text": "Well, you’re feeling good about it?"
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:42)",
+    "text": "Oh, yeah. I feel incredible about it. I can’t wait. It’s going to be fun."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:47)",
+    "text": "I can’t wait to see how you solve the puzzle."
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Dana White",
+    "timestamp": "(00:31:50)",
+    "text": "Thank you."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:50)",
+    "text": "Another guy that I feel like could care less about the money is Joe Rogan. How important is he to the UFC, to the rise of the UFC, and what in general do you love about Joe?"
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Dana White",
+    "timestamp": "(00:32:02)",
+    "text": "It’s a fact, he doesn’t care about money, and he did the first 13 shows for free for us. You know what I mean? That was at a time when we were hurting and he’s like, “Wait a minute, you want me to do the commentary? You’re saying that I get to sit in the best seat in the house and watch these fights for free? Yeah, I’m in.” And then obviously, when we turned things around, we made it up to Joe. But Joe is one of the things that I loved early on about…"
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "",
+    "timestamp": "(00:32:30)",
+    "text": "So I’ll tell you the story. So we buy the UFC. They’re based in New York. We’re moving the corporate offices to Vegas. So I have to fly out to New York, go into the offices and start going through everything and figuring out what needs to come back to Vegas and what we can just throw away. So they literally had a VHS machine and a TV, and there were a million tapes in this place, man. So I didn’t know what tapes were these definitely we have to keep, or these we don’t need. So I had to sit there and go through every single tape. And I popped in a tape and there was an interview on the Ivory Keenen Wayans show, the oldest Wayans brother, and he had a talk show at the time, and he had Joe Rogan, the guy from Fear Factor on the show, and he was promoting Fear Factor, but all he would talk about was UFC."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:23)",
+    "text": "Yeah, that’s Joe."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Dana White",
+    "timestamp": "(00:33:24)",
+    "text": "And he was talking about how people think that these guys in the martial arts movies are tough, and he was talking about what UFC fighters would do to these martial arts guys if they ever got their hands on them. And I was like, this is exactly what I need. A guy who isn’t afraid to speak his mind and knows the sport inside and out, but more importantly, is super passionate about it and loves it."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "",
+    "timestamp": "(00:33:53)",
+    "text": "So when you see Joe Rogan on camera, and I was talking about the paid talking heads that they had in HBO boxing that were terrible, Joe Rogan does not come off as a paid talking head. He comes off as a guy who loves this. And so early on, no media would cover us. So I had to buy my way onto radio. So we’d do these radio tours, and they would drop us in. You’d have to get up at 3:30 in the morning in Vegas, on the west coast, because they’re at 6:30 in the morning in New York and Boston and Florida and all these other places. So they drop you into these markets to do radio, and the fighters were horrible at it. Fighters getting up at 3:30 in the morning, especially leading up to a fight, never good. They sound like they’re tired, they act like they’re tired, and they definitely act like they don’t want to be on there, and it’s bad radio. What you can’t have is bad radio. So the only two people that could pull off these radio tours were me and Joe Rogan. So me and Joe Rogan would alternate doing these radio tours all over the country."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:04)",
+    "text": "Just talking about fighting, talking about-"
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Dana White",
+    "timestamp": "(00:35:04)",
+    "text": "Exactly."
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:05)",
+    "text": "… what this whole thing is,"
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Dana White",
+    "timestamp": "(00:35:06)",
+    "text": "A hundred percent."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:07)",
+    "text": "… getting people excited."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Dana White",
+    "timestamp": "(00:35:08)",
+    "text": "Two guys that are really into it and passionate about it and love it. And it’s one of the things about Rogan too, when early on, nobody understood the ground game. Joe Rogan would walk you through what was happening literally before it would happen. He would tell you the setup, what was going to come next and everything. He’d just absolutely articulate it perfectly, brilliantly, and people at home started to understand. And the impact that Joe Rogan has had and continues to have on this sport is immeasurable. He’s the biggest podcaster in the world, and he is on the UFC pay-per-views 14 times a year, and he’s always talking about the sport. It’s immeasurable what this guy has done for this company and the sport."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:00)",
+    "text": "Yeah, still to this day, like I’ll have dinner with him offline, he’ll just talk fighting. He just loves it."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Dana White",
+    "timestamp": "(00:36:05)",
+    "text": "It’s true."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:06)",
+    "text": "Loves every aspect of it."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Dana White",
+    "timestamp": "(00:36:07)",
+    "text": "Yep. Joe Rogan is one of those guys. I saw that early on. Why would you go after the Fear Factor guy to be such a key component, to not only the company, but to the sport? I saw it in the fucking interview on Ivory Keenen Wayans."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:28)",
+    "text": "I value loyalty a lot, and I remember there was a moment not too long ago, maybe a year ago when I was sitting with Joe and he had a phone call with you. Joe was getting canceled for something, and they didn’t want him commentating the fights, and you on the phone offered your resignation over this. I got teary-eyed over that. That’s such a… You’re a good man. You know?"
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "Dana White",
+    "timestamp": "(00:36:58)",
+    "text": "Thank you."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:59)",
+    "text": "That was powerful."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Dana White",
+    "timestamp": "(00:37:01)",
+    "text": "Anybody who is with me, has been with me, knows. When you’re with me, you’re with me. It’s a two-way street. It’s not a one-way street. I’m not one of these guys that is going to roll over and… It’s like going through COVID. I wasn’t laying any of these people. Some of these people have been with me for 20 years. We’re going to lay them off. This will motherfucker will burn, burn, before I would do that to my people. None of that type of stuff is ever going to happen while I’m here. I can’t say what’s going to happen when I leave, but when I’m here, the people who are with me and have been with me, they know exactly what’s up, and Joe knows what’s up. And again, it’s a two-way street. Joe Rogan has been very loyal to me, and I’m very loyal to Joe Rogan."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:57)",
+    "text": "Lorenzo, another guy you have close friendship with, you seem to have been extremely effective together as business partners. What’s the magic behind that? How can you explain that?"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Dana White",
+    "timestamp": "(00:38:07)",
+    "text": "I love him. Lorenzo and I work really well together because we have two different personalities. I’m the guy that always… I’m going here. Lorenzo was always here. You could walk in a room and say, “Lorenzo, you just lost $10 million. Lorenzo, you just won $10 million.” It never changes. And I’m a guy that goes like this, right? So we almost balance each other out. There’s a lot of things that he’s really fucking good at, and there’s a lot of things that I’m really good at, and they’re both on the opposite sides of the spectrum."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:41)",
+    "text": "So that level headed thing was useful when the UFC was losing money and it was unknown whether it’s going to survive those low points?"
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Dana White",
+    "timestamp": "(00:38:50)",
+    "text": "Yeah. A hundred percent. What’s incredible when you think of the story of the UFC, at the time the casino business was cranking, and station casinos was killing it. And stations, their money from stations is what was funding the UFC. Then in the ’08, ‘9 crash, the UFC was killing it in ’08 and ’09, and the casino businesses were hurting. So timing on everything, the way that it all worked out couldn’t have worked out better for them, and obviously for all of us. When you think about the UFC and how big it is and how far it reaches and how many people it touches, the Fertittas Brothers made a $2 million investment, then put in another 44 million, and look at how many lives that investment has changed over the last 25 years. It’s fascinating."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:55)",
+    "text": "And it’s also crazy. Just forget the business of it. Just the effect it has on the history of humanity in terms of this is what we do, we’re descendants of apes that fight. And this is like the organizations that catalyze the innovation in how we fight. It’s crazy."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Dana White",
+    "timestamp": "(00:40:13)",
+    "text": "[inaudible 00:40:13]."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:13)",
+    "text": "You created a whole new sport."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Dana White",
+    "timestamp": "(00:40:15)",
+    "text": "That people all over the world participate in now. Literally, there isn’t a place on earth that we can’t get a fighter from now."
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:23)",
+    "text": "You said in the UFC 299 post-fight press conference that sometimes fighters might complain that they get matched up, uneven odds, but that’s actually when legends are made. I think you gave Dustin Poirier as an example. Can you elaborate on that a little bit? What makes a legend, what makes greatness in a fight?"
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Dana White",
+    "timestamp": "(00:40:45)",
+    "text": "So behind the scenes, fighters are a very paranoid bunch of people. They’re very paranoid, and there’s been this theme with fighters where they’re trying to get me beat, right? We don’t determine who wins and loses. If we did, we’d be the WWE, okay? You do. I’m the bells and whistles guy. I make sure that as many people that we can possibly let know that you’re fighting on Saturday know that you’re fighting on Saturday. Who you are, who you’re going against, and why people should give a shit. That’s what I do."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "",
+    "timestamp": "(00:41:26)",
+    "text": "Then the night you show up, I put on the best live event that I possibly can, and I put on the best television show that I possibly can. Once that door shuts, it’s all up to you. You determine whether you lose or not. And if you get into a position where you become so paranoid that you think that the powers that be here are against you, and you try to steer yourself away from certain fights… That’s one of the big things that happens in these other organizations. In these other organizations, the inmates run the asylum. So if they don’t want to fight bad enough, these other companies don’t push and they don’t do this and they don’t… We put on the best possible matchups that we can make."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "",
+    "timestamp": "(00:42:22)",
+    "text": "And in this business, you might be an older fighter, but if you’re still ranked in the top 10, there’s young guys coming for you. Killers. Young killers are coming out and they want your position. So you being the veteran that you are have to prepare yourself to go in. And everybody was saying, when we made that fight with Saint-Denis that Poirier was in big trouble, dah, dah, dah, dah, dah. That’s awesome. That helps build the entire thing that Poirier, and then Poirier goes out and does what he did that night. That’s what makes fucking legends."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:06)",
+    "text": "It’s interesting because sometimes being the underdog is a really good thing for the long-term story of who you are as a fighter."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Dana White",
+    "timestamp": "(00:43:13)",
+    "text": "Especially when you’re a big name and a name that people recognize and a name that people know. And they’re like, “Oh man.” I remember Israel Adesanya and Sean Strickland. A hundred out of a hundred people knew for a fact that Israel was going to win that fight, and here comes Strickland. And we could go on for days with this. You know what I mean? That is what creates legendary moments, legendary fights, and it’s what builds stars and legends."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:42)",
+    "text": "Arguably, Conor McGregor with Jose Aldo."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Dana White",
+    "timestamp": "(00:43:45)",
+    "text": "Yep. Conor McGregor with a bunch of people in the beginning. People said he couldn’t wrestle, people said he wouldn’t be able to defend a take down, blah, blah, blah, blah. Nate Diaz against Conor McGregor, you know what I mean?"
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:56)",
+    "text": "Mm-hmm. And Conor McGregor against Khabib, underdog, probably. But if he won, there’s an opportunity to win. If he won, that’s the legend forming. He’s now in the conversation for the greatest of all time without argument."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Dana White",
+    "timestamp": "(00:44:11)",
+    "text": "And if you look at the way that Khabib ran through so many people, Conor hung in there-"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:17)",
+    "text": "Yeah. It could have been."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "Dana White",
+    "timestamp": "(00:44:18)",
+    "text": "… and made a fight of it."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:19)",
+    "text": "It could have been. What do you think about that matchup? It’s one of the greats, one of the great matchups that you’ve made, Conor McGregor versus Khabib."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Dana White",
+    "timestamp": "(00:44:28)",
+    "text": "Yeah. At the time, I was incredibly criticized for putting together the spot that had the scene with the bus in it. The fucking medias, but they were saying that I was pandering to the violence that happened and trying to… I’m telling you a story, telling you a story of how we got here and how big this fight is, and how bad the blood is between these guys. And I mean, I think that’s what we do the best job at, is telling the fucking stories of why."
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "",
+    "timestamp": "(00:45:09)",
+    "text": "We go into Monday. It’s fight week. We got a whole list of things that we do fight week. And then you get right down to the press conference on Thursday, the weigh-ins on Friday, and then the fights on Saturday. Now my people fly back home, they go to bed on Sunday night, and it’s Groundhog Day. We wake up again on Monday and it starts all over again. Every weekend, every Saturday, for a year. So there’s lots of stories that need to be told, there’s lots of… When you think about what I compete with, whatever takes your attention on a Saturday night is my competitor."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:47)",
+    "text": "So you’re always trying to build a foundation for great stories, and if the fighters step up, they step up and they can together create greatness."
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Dana White",
+    "timestamp": "(00:45:56)",
+    "text": "That’s it. That’s exactly right. So when we are aligned, like when you get to the UFC, I mean, you just saw it with MVP, you’re going to see it with Kayla Harrison."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Dana White",
+    "timestamp": "(00:46:00)",
+    "text": "You just saw it with MVP, you’re going to see it with Kayla Harrison and so many others that have come from other organizations, and they get here. They notice immediately the difference between fighting here and fighting wherever they were before. It’s not even comparable to the impact it has on you when you leave whatever organization you’re with and you come to the UFC. And I think that it gives them a sense of, holy shit. MVP when he came, I mean there were probably more people at the press conference than any fight he’d ever fought in, in Bellator. You know what I mean? And you feel that energy and you feel the difference of the impact of being here, and I think it takes a lot of these guys to another level."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:49)",
+    "text": "Yeah. Just the aura of it."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Dana White",
+    "timestamp": "(00:46:51)",
+    "text": "100%."
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:51)",
+    "text": "This is where you’re supposed to step up. Yeah, it’s the way people feel about Ted Talks, giving lectures."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Dana White",
+    "timestamp": "(00:46:57)",
+    "text": "Right."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:57)",
+    "text": "This is your moment. You get 15 minutes and you better say some interesting shit. And Kayla Harrison, by the way, is a badass. I can’t wait to see what happens there."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:05)",
+    "text": "She was walking around with this sleeveless shirt the night of the fights and holy shit, she’s jacked, man. It’s crazy."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:12)",
+    "text": "Two time Olympic gold medalist."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:13)",
+    "text": "Right."
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:14)",
+    "text": "You don’t fuck with those people. You win a medal, you’re made of something special."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:18)",
+    "text": "So true. Especially in judo."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:20)",
+    "text": "Yeah, especially in American judo where you don’t have many training partners that are great."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:24)",
+    "text": "That’s what I’m saying."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:25)",
+    "text": "So you better fucking work for it. Ridiculous question, but who’s in the conversation for the greatest of all time?"
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:32)",
+    "text": "Jon Jones."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:34)",
+    "text": "You’ve talked about Jon Jones, but what are the metrics involved here?"
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Dana White",
+    "timestamp": "(00:47:38)",
+    "text": "He’s never been beat. He destroyed everybody at light heavyweight, which at the time was the toughest weight class in the company, in the sport. And then he moved up to heavyweight, won easily at heavyweight. When you look at a guy and you look at what he was doing outside the octagon at the same time, which shouldn’t be part of it, shouldn’t be part of the equation, but when you do, wow, there’s no debate. Nobody can debate who’s the greatest of all time. It’s absolutely positively Jon Jones. He’s never lost. He’s never been beat in the octagon ever."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:21)",
+    "text": "So that’s one of the metrics, pure sheer dominance. But there’s others. Losing sometimes is a catalyst for greatness."
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Dana White",
+    "timestamp": "(00:48:33)",
+    "text": "I don’t disagree. But when you’ve never lost, you’ve never lost. We’ve never found somebody. And the other thing that you have to factor in too is longevity. Because sometimes with a lot of these guys, the sport passes them by. You get younger guys that are faster, this, that, and the sport evolves. Nobody’s been able to beat Jon Jones. Oh, and the other thing that you measure is, when you said dominance, it’s true, if you’re this guy that has unbelievable power and you’re just going in and you’re just fucking knocking everybody out and nobody’s ever pulled you into the deep water before, that was when my opinion of Jon Jones started to change."
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "",
+    "timestamp": "(00:49:18)",
+    "text": "Gustafsson took him into the deep water. Gustafsson hit him with some shit he’d never been hit with. Gustafsson tested him and put Jon Jones in a place where, I bet if you sat down and interviewed John Jones, going into the deep rounds of that, Jon Jones thought he was going to die. You know what I’m saying?"
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:36)",
+    "text": "And he’s willing to go there."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "Dana White",
+    "timestamp": "(00:49:37)",
+    "text": "And he kept going. He was willing, willing to do whatever it took to win that fight."
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:44)",
+    "text": "And it breaks my heart because he beat DC, and DC is one of the greatest of all time."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Dana White",
+    "timestamp": "(00:49:48)",
+    "text": "That’s the thing too. And I believe that DC doesn’t get the credit he deserves because of the Jon Jones thing. When you look at DC and what he’s accomplished, and Jon Jones beat him twice."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:59)",
+    "text": "Yeah."
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Dana White",
+    "timestamp": "(00:50:00)",
+    "text": "It’s undeniable. You can hate all you want. Jon Jones is the greatest of all time."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:50:05)",
+    "text": "Do you think Habib was tested enough?"
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Dana White",
+    "timestamp": "(00:50:09)",
+    "text": "I think that Habib had the potential to be in the running for that. He just didn’t stick around. First of all, he had injuries that he should have been where he got a lot sooner had he not had the injuries that he had and the setbacks in his career. But there’s no doubt, Habib is one of the all-time greats."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:50:29)",
+    "text": "What’s the good, the bad, and the ugly of your relationship with Conor?"
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Dana White",
+    "timestamp": "(00:50:33)",
+    "text": "There’s literally no ugly. Conor McGregor has been an incredible partner to work with. If Conor showed up to things on time, there wouldn’t be one fucking bad thing I could say about Conor. You know what I mean?"
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:50:45)",
+    "text": "It’s only being late to shit?"
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Dana White",
+    "timestamp": "(00:50:46)",
+    "text": "If you put a fucking gun to my head and said, “Don’t lie, mother-fucker. Tell me all the bad things about Conor McGregor.” I’d say the guy doesn’t show up on time. That’s it."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:50:57)",
+    "text": "That’s it."
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Dana White",
+    "timestamp": "(00:50:57)",
+    "text": "If Conor McGregor showed up to shit on time, and sometimes he does. Sometimes he does. He’s been a great partner. If you look at what a huge superstar he became, the fights that he was involved in, let me tell you what Conor McGregor never did. We never walked in a room and said, “Conor, this guy just fell out. We want you to fight this guy.” And he was like, “No way. I’m not taking this fucking risk. I’m at this point in my career where my money, my this, my that,” he was like, “Fuck it, let’s do it.” He’d always say, “Let’s do it.”"
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "",
+    "timestamp": "(00:51:28)",
+    "text": "The other thing that Conor McGregor never did, no matter how big he was or whatever it was, and we were heading into a fight, “Oh, Conor, this guy just fell out. Aldo fell out. We’re looking for another,” “Yeah, I’ll do it, but I’m going to need another 200,000. I’m going to need another $1 million.” Conor McGregor never did that chicken shit, bullshit kind of stuff. He never did any of that. Conor was as solid a guy as you could possibly work with."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:54)",
+    "text": "Just fuck it, I’ll do it."
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Dana White",
+    "timestamp": "(00:51:56)",
+    "text": "I’ll do it. There’s actually a scene, because we were filming something, I don’t know if it was embedded or what we were filming at the time. Me and Lorenzo walk into his house that he rented here in Vegas, and I’m pretty sure it was when Aldo fell out, and we’re telling him this, that, and we’re looking at some options. He says, “I’m going to the gym. When I’m done working out, let me know.” He just woke up out of bed, he is in his fucking underwear, and he gets hit with this and he is like, “All right, I’m going to the gym. Let me know when I get out who I’m fighting.” Doesn’t care. Doesn’t want to know. Doesn’t want any more money. Nothing. Fucking shows up and he delivers. Conor has been incredibly successful, he’s made a lot of money, and he’s had his ups and downs outside and inside the octagon. But as for a guy who was on the dole and was a plumber, he’s actually a really smart businessman and he has been one of the best partners that I’ve ever had in the history of the sport."
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:55)",
+    "text": "And an important part of the history of the UFC."
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Dana White",
+    "timestamp": "(00:52:57)",
+    "text": "Big."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:58)",
+    "text": "He opened it up to all kinds of new eyes."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Dana White",
+    "timestamp": "(00:53:01)",
+    "text": "Yep. He literally set Europe, Australia, Canada, and many other parts of the world on fire, man. He was our first legit megastar."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:15)",
+    "text": "And I personally think he doesn’t get enough credit for just how good he was as a fighter. People love to talk shit about Conor."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Dana White",
+    "timestamp": "(00:53:22)",
+    "text": "So true."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:23)",
+    "text": "I suppose that’s part of his magic."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Dana White",
+    "timestamp": "(00:53:25)",
+    "text": "But it comes with success. When you’re successful, there’s always people out there that are going to talk shit. You always have a bunch of know nothing, do nothing fucking losers that love to talk shit."
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:37)",
+    "text": "You think if you were to do it all over again, Habib is the right matchup?"
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "Dana White",
+    "timestamp": "(00:53:41)",
+    "text": "Yeah. Listen, the thing that you can’t do is avoid match-ups. You know what I mean? This is what we’re talking about when you talk about being a legend. Conor McGregor needed Habib. Habib needed Conor McGregor. You can hate each other as much as you want, but you have to fight these other legendary bad mother-fuckers to yourself. Become a legend. I mean, it’s like Jon Jones needed Cyril Gun and Cyril Gun needed Jon Jones, because if Cyril could have beat Jon, the first guy, if anybody can ever figure it out and beat Jon Jones, it’s a big deal. And it’s almost like your obligation as a fighter. And when you think about Jon Jones became who he is today, and the reason I’m sitting here telling you how great he is, because all these other guys gave him the opportunity to beat them. Or they beat Jon. It’s all about giving these other guys the opportunity. Saint Denis, Poirier gave him the opportunity to come in and beat him. That’s how this all works."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:51)",
+    "text": "It’s the two of them together, the two fighters together."
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Dana White",
+    "timestamp": "(00:54:54)",
+    "text": "You have to have them both. Listen, I could line up a bunch of no-name bums that Jon Jones could run through. That’s what they do in all the other organizations. We would have nothing to fucking talk about right now."
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:55:08)",
+    "text": "That’s why, luckily, a perfect record in the UFC is not as important as who you fought, how you fought."
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Dana White",
+    "timestamp": "(00:55:13)",
+    "text": "So true. But when you have a perfect record in the UFC, holy shit, right?"
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:55:21)",
+    "text": "Yeah."
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Dana White",
+    "timestamp": "(00:55:23)",
+    "text": "When you can have a perfect record in the UFC, you are absolutely one of the most special athletes on planet earth."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:55:31)",
+    "text": "You and Trump are friends. I just talked to Ivanka last night about her experience in the Miami event. She loves it. She’s training too. You’re talking about getting girls to train. She’s trained."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "Dana White",
+    "timestamp": "(00:55:43)",
+    "text": "And the kids are training, yeah. Her father’s the biggest fucking fight fan on the planet. Calls me all the time to talk about the fights. And Don Jr. said that I’m the only guy on earth that he bros out with. It’s funny when you talk about how powerful fighting is. This last Miami event, the President of Ecuador and the President of Spain both posted about the fights. Habib beat Conor. Putin was on FaceTime before he even made it to the locker room. Trump, sitting President, ex-President, watching all the fights, calling, wants to talk about the fights. Valentina Shevchenko, every time she goes home, she meets with the President of the country. The list goes on and on and on. Elon Musk, Zuckerberg, the list goes on and on and on, the most powerful people in the world are all obsessed with fighting."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:42)",
+    "text": "When did you first discover that Trump loves fighting?"
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Dana White",
+    "timestamp": "(00:56:45)",
+    "text": "I first discovered that Trump was a big fight fan, obviously, you saw him, we were talking about how big boxing fans we were, he was a part of all the big fights back then. But when we first bought the UFC, this thing was so bad venues didn’t even want us. And we ended up doing our first event in Atlantic City at the Trump Taj Mahal. Now, think about this. At that time, Trump brand here, UFC brand, I can’t go low enough. And he had us at his venue two times, back to back, showed up for the first fight of the night, and stayed till the last fight of the night. Then after that, any good thing that would ever happen to me in my career, Trump would reach out. Whether it was, we were on the front page of the New York Times at one time and he said, “Congratulations, Dana. I always knew you guys were going to do it.” Little things like that, but that are big things and mean a lot, especially coming from a guy like him."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:44)",
+    "text": "He saw something in you like, this is going to be…"
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "Dana White",
+    "timestamp": "(00:57:46)",
+    "text": "100%. He definitely saw it. And then comes ’15, ’16, whenever it was, I don’t remember, but he called me and he said, “Listen, if you don’t want to do this, I completely understand, but I would be honored if you would speak at the National Republican Convention for me.” And I’m not a very political guy, you know what I mean? And everybody told me not to do it. “Do not do this.” But I was like, why would I not do this? This guy’s been great to me. And I did it. And our relationship is just like, you know what I mean? I consider Donald Trump to be one of my very, very good friends."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:31)",
+    "text": "Any favorite stories?"
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Dana White",
+    "timestamp": "(00:58:34)",
+    "text": "There’s so many stories. Once he won the election, I’d be at work and I’d be down the hall in the matchmaking room, whatever, and my secretary would yell, “The President’s on the phone!”, fucking come running down the hallway and grab the phone, and he’d want to talk about the fight that was coming up or the fight that happened. Or I’d be in my car and I’d answer the phone and it’s like, “Hi. This is the White House. We have the President of the United States on the phone.” That’s a trip, when that first starts happening. And then just to sum him up, this is the kind of guy that you want to talk about a fighter, this is the most resilient human being I’ve ever met. If you see the shit that this guy’s going through publicly every day."
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "",
+    "timestamp": "(00:59:26)",
+    "text": "And I’ll call him on the phone as a friend and be like, “Hey, you good? How you doing?” Unfazed, unfazed like nothing’s going on. And then he’ll start talking to me about this and that and all this other. One time, there’s only been one time, I’ve never talked about this publicly, but one time I called him and he was not good. He was a mess. I’ve never heard him like that and I’ve never seen him like that. When Ivana died, the only time I’ve ever seen him fucked up. Obviously, as soon as I heard it, I reached out. And I have never, look at all the stuff that’s gone on with Trump, all the bad stuff that they say, they’re trying to attack him, they’re trying to ruin him, unfazed. I called him that day and it’s the first time I’ve ever seen that guy busted up and not good."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:25)",
+    "text": "But that says something that that’s the only time."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Dana White",
+    "timestamp": "(01:00:27)",
+    "text": "100%."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:28)",
+    "text": "Because that that guy is, I mean, walking through fire."
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "Dana White",
+    "timestamp": "(01:00:30)",
+    "text": "He does not get rattled. He will walk through fire. He’s an absolute savage."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:34)",
+    "text": "You think he wins the Presidential election?"
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "Dana White",
+    "timestamp": "(01:00:36)",
+    "text": "I don’t know, man. It’s going to depend on how this whole… Politics is the most dirtiest, scummiest thing on planet earth, man, and who knows how this is all going to play out. It’s all dirty. It’s all ugly. And obviously I’m rooting for him and I’m behind him and I hope he does. But we’ll see."
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:56)",
+    "text": "What’s dirtier, the fighting game in the early days or politics?"
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "Dana White",
+    "timestamp": "(01:01:01)",
+    "text": "There’s nothing dirtier than politics, nothing. There’s literally nothing dirtier."
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:05)",
+    "text": "All right."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "Dana White",
+    "timestamp": "(01:01:06)",
+    "text": "It is the dirtiest thing on planet Earth."
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:08)",
+    "text": "I just wanted to get that on record. Another guy who doesn’t seem to be phased by the fire, I’ve gotten to know him, is Elon. I have to ask you, it’s a bit of fun. You were a part of thinking about putting together Zuck versus Elon. I trained with both. I did a phone call with Elon and you when we were training on the mat."
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "Dana White",
+    "timestamp": "(01:01:29)",
+    "text": "I remember, yeah."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:30)",
+    "text": "You really think that could have been a good fight?"
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Dana White",
+    "timestamp": "(01:01:32)",
+    "text": "It would’ve been the biggest fight ever done."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:34)",
+    "text": "The spectacle of it."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Dana White",
+    "timestamp": "(01:01:35)",
+    "text": "Two of the most powerful, wealthiest men in the world. Lots of guys talk hit and go back and forth and sue each other and do all this stuff. These two guys were literally talking about facing each other in the octagon and fighting. And they’re in a business that’s looked at as geeky. You know what I mean? They’re tech nerds. They’re this, they’re that. These are two dudes that were willing to throw down and fight. And you know as well as I do, there’s a lot of public speculation about this. I was taking serious real time and working on this thing. I had projections, I had numbers. I was looking at venues. I was on the phone with the fucking coliseum in Italy. You name it, I was in it. These guys were serious. And this was something that was really going to happen. And I’ll tell you right now, in the short amount of time that it was going down, it was fun. I was having a blast with it."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:30)",
+    "text": "What do you think about Tyson, Tyson fighting Jake Paul?"
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "Dana White",
+    "timestamp": "(01:02:34)",
+    "text": "I love Mike Tyson, and I’m not a fan of anybody fighting at our age. But he’s a grown man, obviously, and he’s going to do what he’s going to do. But at least I know, I talked to his wife a couple of days ago, and he’s taken this serious and he’s training for it. So we’ll see how it plays out."
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:59)",
+    "text": "Why do you think he fights though? What is that about? Is there a broader lesson there about fighters, about great fighters?"
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Dana White",
+    "timestamp": "(01:03:07)",
+    "text": "I think that Mike Tyson is actually one of those unique guys who has crossed over. Any of these other boxers from his era, they have no way of making money other than fighting. Mike Tyson has made a lot of money outside of fighting. Tyson still has that aura. You could be at a restaurant and he walks in and you’re like, “Holy fuck. Mike Tyson’s here.” He still has that type of aura and energy in a room, and he makes lots of money outside of the ring. I think that he ends up getting these offers that he can’t refuse."
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:03:44)",
+    "text": "Oh, you think it’s financial? I mean, that’s a good question to ask. You work with a lot of fighters. For how many of them is it about money and for how many is it about the fact of the pure love of fighting?"
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Dana White",
+    "timestamp": "(01:03:58)",
+    "text": "Well, the guys that get into it for the right reason are the guys who get into it for greatness. Because you want to be the fucking best. And when you’re in it for that reason, you love it and you want to be looked at as the best ever, and you have the talent, the money happens. Then you have other guys who get in, believe me, I’ve dealt with fighters who just wanted to be famous and just wanted to make money. You know what I mean? And listen, it is what it is. It’s your life and you live it the way that you want and do your thing. But the ones that are beloved are the guys who really want to be fucking great and they’re the ones that are remembered. When you look at Tyson in his early years, when he came up under Cus D’Amato, he was a student of the game."
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "",
+    "timestamp": "(01:04:47)",
+    "text": "He loved everything. He became completely infatuated with the fight game. Then he became such a massive superstar, it’s almost like the whole thing starts to turn on you. All the things that come at you at a young age and that kind of money, it’s tough. It’s tough to navigate and get through. You say something like that and people are like, “Oh, poor him. He had fucking $100 million and couldn’t…” At that age and with all the shit that people talk and all the things that you got to put up with and the fame, a lot of people deal with fame, some people handle it really well and some people don’t. And the perfect example of that was Forrest Griffin and Stephan Bonner. They fought that unbelievable fight on the Ultimate Fighter. Everything blew up after that. Forrest dealt with fame really well and Stephan did not."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:05:42)",
+    "text": "That was a special fight."
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "Dana White",
+    "timestamp": "(01:05:43)",
+    "text": "It really was."
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:05:44)",
+    "text": "What do you think attracted people to that fight? That was a big leap for the UFC."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Dana White",
+    "timestamp": "(01:05:50)",
+    "text": "It was everything."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:05:51)",
+    "text": "It was everything."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "Dana White",
+    "timestamp": "(01:05:52)",
+    "text": "It was everything."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:05:52)",
+    "text": "Why do you think people loved that fight? What attracted people to that fight? Why did it change everything?"
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "Dana White",
+    "timestamp": "(01:05:58)",
+    "text": "Well, what happened that night is that the rest of the show was a disaster. We had the co-main event and the main event. Diego Sanchez ran through Kenny Florian in seconds. Oh my God, that was terrible. And the fights that led up to that weren’t anything to talk about either. Then Stephan and Forrest got in there and just went toe-to-toe in this unbelievable slug fest live on free television when cable still mattered. And what I heard was at the time, you had people picking up the phone going, “Are you watching this show?” The numbers just started climbing. Then you got a razor-thin decision. Who’s going to win? You got the crowd stomping their feet. It sounded like a train was going through the place and everybody’s chanting, “One more round!” Me and the Fertitta brothers get together and we talk. We’re going to give them both contracts."
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "",
+    "timestamp": "(01:06:52)",
+    "text": "So we give them both contracts and the place erupts. It couldn’t have been a more perfect fight at the most perfect time. It all came together. It’s almost like this was meant to be. You know what I mean? Yeah. So we had so many problems with Spike TV at the time, because halfway through the season, the president of the company got fired. All the things that we thought we were going to get that year, we had this runaway hit show. And normally at that time when you would see runaway hit shows, there’d be commercials. It’d be on billboards. It’d be on the side of buses in L.A. and New York. We got none of that. We didn’t even know if we were going to get a second season coming out of that. And when that fight was over, I swear to God, I was like, “I don’t even give a fuck. We’re going to end up somewhere now after this fight.” And we didn’t even make it out of the building that night. The Spike guys did the contract with us in the alley on a fucking napkin after the fight."
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:00)",
+    "text": "So you already saw the magic of the fight itself. It captured something."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Dana White",
+    "timestamp": "(01:08:04)",
+    "text": "Once that happened and all the shit, and at that time, I didn’t know the ratings, it’s not like we were streaming and we could see, we had no idea, but I knew."
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:12)",
+    "text": "You just knew this was [inaudible 01:08:13]."
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "Dana White",
+    "timestamp": "(01:08:12)",
+    "text": "I knew ."
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:13)",
+    "text": "What is that? It’s just two people being willing to stand toe to toe and just go to war."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "Dana White",
+    "timestamp": "(01:08:21)",
+    "text": "And when you think about what was at stake. There was a car. Remember the Kia? The winner got a Kia."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:27)",
+    "text": "I don’t even remember that."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "Dana White",
+    "timestamp": "(01:08:28)",
+    "text": "That’s what was the fucking. And Stefan and Forrest, the will to win, they both wanted to win that fight so bad."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:38)",
+    "text": "It was bigger than the Kia probably."
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Dana White",
+    "timestamp": "(01:08:40)",
+    "text": "Forrest drove that Kia to 200,000 miles. The biggest mistake Kia ever made was not doing a fucking commercial with Forrest Griffin about that car. Forrest Griffin loved that car so much, he drove it. I think he still has it. It’s got 200,000 miles on it, that car. You couldn’t have a better fucking commercial than that. And we reached out to them too. I said, “Kia should know about this.” They fucking…"
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "Dana White",
+    "timestamp": "(01:09:00)",
+    "text": "… and we reached out to them too. I said, “Kia should know about this.” They fucking blew it. You got a bunch of… You know how those guys are in the business world. They don’t fucking get anything."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:09)",
+    "text": "Maybe it was about the Kia then."
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Dana White",
+    "timestamp": "(01:09:11)",
+    "text": "It was about winning. They both wanted to win the Ultimate Fighter so bad. It’s the Kia, it’s the win, it’s the contract you get, the whole thing."
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:22)",
+    "text": "But I think at that point, you even forget all of that. When you’re in there, you probably just, there’s a primal thing where I’m not backing down."
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Dana White",
+    "timestamp": "(01:09:31)",
+    "text": "Listen, they’re both bad dudes. They were both real fighters at the end of the day. That’s why the fight was so great. You know what I mean?"
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:36)",
+    "text": "They just throw all the caution to the wind and just fight. Those are some of the greatest moments in the FC too when the technique is falls apart and you’re just like, well, fuck it."
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Dana White",
+    "timestamp": "(01:09:49)",
+    "text": "Well, it’s because you’re in those deep rounds. You’ve been through a war now it’s all about heart and dog, who can dig deeper and who’s got it and who wants it. I mean, we all know when that moment happens in a fight, when you see that both of these guys are fucking exhausted."
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "",
+    "timestamp": "(01:10:06)",
+    "text": "And for people that are watching this, people that don’t know a lot about… Everybody thinks they know a lot about fighting. 99.9% of the people out there don’t know fucking jack shit about fighting or what it takes to do what these people do. But when you get into those later rounds and fatigue sets in, and then fatigue makes you start to fucking doubt yourself, and then you start to wonder, can I even make it through the rest of this round?"
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "",
+    "timestamp": "(01:10:30)",
+    "text": "And then you start to think, am I going to fucking die right now? And these kids dig fucking deep. And they just, like you said, all the other shit flies out the window and now they’re just on fucking autopilot to fight and win. Those are definitely the best fights you’ll ever see in any combat sport."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:47)",
+    "text": "I mean, that saying is true. The exhaustion makes cowards of us all. I mean, there’s something about… Because I’ve competed a lot in jujitsu. There’s the violence of being hit too, but even just exhaustion, it makes you question everything."
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "Dana White",
+    "timestamp": "(01:11:03)",
+    "text": "So true."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:04)",
+    "text": "It just takes you to some weird place where your brain starts to think you’re going to die for sure. Your brain starts to think, why am I doing this? All these excuses, all this."
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "Dana White",
+    "timestamp": "(01:11:16)",
+    "text": "I love that shit."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:17)",
+    "text": "And then…"
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Dana White",
+    "timestamp": "(01:11:18)",
+    "text": "I love that shit."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:19)",
+    "text": "The truly heroic action is to say, “Fuck it,” in that moment and just get in there."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Dana White",
+    "timestamp": "(01:11:24)",
+    "text": "When you think about these fights that you see in the UFC every fucking Saturday when these men and women get to this point where they’ve been in a dog fight, yet they keep fucking going and you keep trying to win. You can’t imagine what’s going on inside their heads. Self-doubt and all these other things that come into play when exhaustion sets in and they fucking power through it."
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:49)",
+    "text": "Yeah, those moments, sometimes they don’t have a glorious knockout at the end. But your decision in the third round or the fifth round to still keep pushing forward, not running."
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Dana White",
+    "timestamp": "(01:12:02)",
+    "text": "100%."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:03)",
+    "text": "That doesn’t matter what happened. That is a person winning a battle over themselves."
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Dana White",
+    "timestamp": "(01:12:09)",
+    "text": "So true. It’s so true, and it happens every fucking weekend. It’s so impressive. I say it all the time. The people that are involved in this sport are this much of the population. The people that make it to the top five are incredibly unique, special human beings, man. It’s fucking awesome."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:31)",
+    "text": "You love gambling."
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Dana White",
+    "timestamp": "(01:12:32)",
+    "text": "I do."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:35)",
+    "text": "What’s the biggest win of your gambling career, maybe psychologically, if not financially?"
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "speaker": "Dana White",
+    "timestamp": "(01:12:42)",
+    "text": "Well, two things. I won $1,000,000 hand one night. It’s happened one time. $1,000,000 hand one night at Mandalay Bay. And then one summer I beat Caesars for 12 million throughout the summer."
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:02)",
+    "text": "Throughout the summer."
+  },
+  {
+    "start": 666,
+    "end": 667,
+    "speaker": "Dana White",
+    "timestamp": "(01:13:03)",
+    "text": "Yeah. Then I’m on a pretty good run right now too."
+  },
+  {
+    "start": 668,
+    "end": 669,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:07)",
+    "text": "Now this is blackjack?"
+  },
+  {
+    "start": 670,
+    "end": 671,
+    "speaker": "Dana White",
+    "timestamp": "(01:13:08)",
+    "text": "Yeah."
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:09)",
+    "text": "What’s the biggest loss?"
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "speaker": "Dana White",
+    "timestamp": "(01:13:13)",
+    "text": "The biggest loss was… Here is… I would call this the biggest loss for many different reasons. This is what you live and you learn in life and you figure things out as you go along. One night I’m over at the Rio and they got big suites over there. I go over there with some buddies and we got one of the suites and we have some dinner and we start drinking. We’re having some drinks at dinner and blah, blah, blah. Starts to ramp up, having a good time."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "speaker": "",
+    "timestamp": "(01:13:48)",
+    "text": "And I make my way down to the Thai limit room. We start gambling. And I continue to drink having a blast. I end up leaving and going home that night, and I lost 80 grand. I wake up the next morning, I’m like, fuck. Those motherfuckers got me for 80,000 last night and dah, dah, dah, dah, dah."
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "speaker": "",
+    "timestamp": "(01:14:15)",
+    "text": "I’m at work the next day and the host over there calls me and he says, “Hey, Dana, are you coming back? Do you still need the room that you guys had where you ate and all this shit you stay?” And I said, “No, I don’t need the room, but don’t get too comfortable with my fucking 80 grand. I’m coming back for it.”"
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "speaker": "",
+    "timestamp": "(01:14:35)",
+    "text": "Dead fucking silence on the other end of the phone. And he’s like, “Dana, you lost $3 million last night.” I said, “What the fuck are you talking about? I only have a million and a half dollar credit line.” He goes, “Yeah, you made us call the GM of the hotel and you started calling him a fucking pussy and da, da, da, da, da.” And I went, “Yeah, no, that sounds like something I would do. Yeah.”"
+  },
+  {
+    "start": 682,
+    "end": 683,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:06)",
+    "text": "That’s the real number."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "speaker": "Dana White",
+    "timestamp": "(01:15:08)",
+    "text": "That was the real number. And then there’s been a lot of cases where people are in Vegas and they’re like, “Oh, I lost all this money. And they were giving me free drinks and I drank too much, and I was taken advantage of.” No, you stupid motherfucker. Man up. You got fucking drunk. Alcohol is free, but you don’t have to fucking drink it. You know what I mean? And this was a huge learning lesson for me. I never drank again when I was playing cards after that night. But yeah, when you asked me, that’s the one that stands out…"
+  },
+  {
+    "start": 686,
+    "end": 687,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:08)",
+    "text": "That one came back right now."
+  },
+  {
+    "start": 688,
+    "end": 689,
+    "speaker": "Dana White",
+    "timestamp": "(01:15:50)",
+    "text": "In my head the most as far as having a bad loss. And then of course I said, “Call the GM,” and I started calling him a pussy at three o’clock in the morning."
+  },
+  {
+    "start": 690,
+    "end": 691,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:00)",
+    "text": "Of course you did."
+  },
+  {
+    "start": 692,
+    "end": 693,
+    "speaker": "Dana White",
+    "timestamp": "(01:16:00)",
+    "text": "That is something I would absolutely do."
+  },
+  {
+    "start": 694,
+    "end": 695,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:03)",
+    "text": "How do you deal with those psychologically? When you gamble, maybe this applies to fighting too, do you love winning or hate losing more?"
+  },
+  {
+    "start": 696,
+    "end": 697,
+    "speaker": "Dana White",
+    "timestamp": "(01:16:14)",
+    "text": "They go hand in hand. The way that I play is I live in Vegas, so 2024 is a war for me. I go to war in ’24. Okay. All these nights that I play are little battles inside the war that I will fight in ’24. Now, at the end of the year, we will tally up all these little battles and see where I stand on wins and losses."
+  },
+  {
+    "start": 698,
+    "end": 699,
+    "speaker": "",
+    "timestamp": "(01:16:43)",
+    "text": "And there’s lots of talk out there about my gambling, places that I’ve been kicked out of and things like that. And I do pretty well. I do pretty well, but it’s what I like to do. I don’t gamble in a way that I would ever hurt myself or hurt my family. I’m sure you’ve heard the Norm MacDonald stories. Norm MacDonald lost his entire personal wealth four times or something like that. Yeah, that’s not going to happen to me."
+  },
+  {
+    "start": 700,
+    "end": 701,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:20)",
+    "text": "You manage it, but just psychologically you’re able to be even keel."
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "speaker": "Dana White",
+    "timestamp": "(01:17:24)",
+    "text": "Yeah. When I win, it’s awesome. It’s always great to win. Winning is a great feeling in business, in sports, in life, and definitely in gambling. Losing is never fun, but it’s part of the game. You know what I mean? If you want to be in the game and it’s sports, it’s business or whatever, there’s going to be wins and there’s going to be losses. And you have to take them both in stride and you have to be able to…"
+  },
+  {
+    "start": 704,
+    "end": 705,
+    "speaker": "",
+    "timestamp": "(01:17:54)",
+    "text": "There’s a of people… When you gamble and you lose and you go into a deep, dark depression, I’ve seen this with guys that do it, get depressed. Gambling isn’t for you. If you are the type of person that’s on social media and people say horrible things to you and you get depressed and da, da, you shouldn’t be on social media. You know what I mean?"
+  },
+  {
+    "start": 706,
+    "end": 707,
+    "speaker": "",
+    "timestamp": "(01:18:17)",
+    "text": "These are all part of being in the game. When you’re in the fucking game, great things happen and really bad things happen, and you got to take it all in stride. And you got to pick yourself up the next day, strap your fucking shoes back on and get out there and go to fucking war again. That’s how it works."
+  },
+  {
+    "start": 708,
+    "end": 709,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:33)",
+    "text": "That’s some goggin shit right there. All right. I love that motivational speech."
+  },
+  {
+    "start": 710,
+    "end": 711,
+    "speaker": "Dana White",
+    "timestamp": "(01:18:38)",
+    "text": "It’s the truth though."
+  },
+  {
+    "start": 712,
+    "end": 713,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:39)",
+    "text": "Yeah, it is."
+  },
+  {
+    "start": 714,
+    "end": 715,
+    "speaker": "Dana White",
+    "timestamp": "(01:18:39)",
+    "text": "It’s the truth though."
+  },
+  {
+    "start": 716,
+    "end": 717,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:41)",
+    "text": "It’s true."
+  },
+  {
+    "start": 718,
+    "end": 719,
+    "speaker": "Dana White",
+    "timestamp": "(01:18:41)",
+    "text": "Listen, every day when you get out of bed, life’s standing right there to kick you in the fucking face, man. Could be anything. Could be you get up and you walk downstairs, you got a fucking flat tire, and you’re late for work, and you got this and that. Life is going to throw all kinds of crazy shit at you, and you have to be ready for it, and you got to fucking deal with it. You can’t curl up into a ball. You can’t run away from it. You can’t hide. You have to take all this shit head on. You have to get up…"
+  },
+  {
+    "start": 720,
+    "end": 721,
+    "speaker": "",
+    "timestamp": "(01:19:06)",
+    "text": "Every day when I get up out of bed, I strap up and I’m getting ready for fucking war. Because I know I’m coming in here. I know a bunch of bad shit’s going to happen that I’m going to have to fucking deal with. And if that’s not bad enough, when I finally get out of here, I’m probably going to go to the casino and I’m going to get into another fucking war. You know what I mean?"
+  },
+  {
+    "start": 722,
+    "end": 723,
+    "speaker": "",
+    "timestamp": "(01:19:24)",
+    "text": "I thrive in chaos. I actually love chaos. Everybody talks about retiring. Fuck that shit. What am I going to do when I retire? What would I do? I like to go to war. I like to battle. I like to win. Sometimes I lose, but then I have to come back from the loss. And I love to build brands. I love to set short term and long-term goals and then knock them all down. This is just the stuff that excites me."
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "speaker": "",
+    "timestamp": "(01:19:53)",
+    "text": "And whether it’s business or gambling. I like being a fan of things too. I like live music. When I find a band that I like, I get excited to go watch the band live or a Celtics game. I love the fucking Boston Celtics, and I love going to the games and watching them. This is the year. Hopefully we’re going to fucking win it this year. These are all things that make me happy and excite me in my life."
+  },
+  {
+    "start": 726,
+    "end": 727,
+    "speaker": "",
+    "timestamp": "(01:20:20)",
+    "text": "And it’s funny because there’s this post that I post maybe three, four nights a week. I also love this city. I can’t tell if the city of Las Vegas was built for me or I was built for this fucking city, but I love it. And there’s this turn on Summerlin Parkway every night, and it’s dark. And from there you can see the entire city, and it’s all fucking lights and it’s badass."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "speaker": "",
+    "timestamp": "(01:20:44)",
+    "text": "And I’m usually driving home after a fucking incredible day. This amazing day and this unbelievable fucking life I have, and I have this just moment of gratitude. Every time I take that turn and I’m like, God damn, I love this fucking city. And just every night when I go home, I’m just so happy and grateful for this life that I have."
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:06)",
+    "text": "You’re grateful, you’re celebrating. Even if the day is full of shit, full of problems, you have to solve all of this. You’re still able to put that behind you, just turn it off?"
+  },
+  {
+    "start": 732,
+    "end": 733,
+    "speaker": "Dana White",
+    "timestamp": "(01:21:14)",
+    "text": "I love that too. I love problem solving. I love taking things that seem impossible. Fucking what’s been shit on more than this company right here? Power Slap, right? This thing’s a fucking beast. It’s an absolute beast. In 13 months, that’s the most successful thing I’ve ever been a part of. And I love every fucking minute of it, especially the negativity. I love negativity."
+  },
+  {
+    "start": 734,
+    "end": 735,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:45)",
+    "text": "You almost feed on it. That’s great. That’s great. You’re built for this."
+  },
+  {
+    "start": 736,
+    "end": 737,
+    "speaker": "Dana White",
+    "timestamp": "(01:21:48)",
+    "text": "I eat that shit for breakfast, man. I love it."
+  },
+  {
+    "start": 738,
+    "end": 739,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:51)",
+    "text": "What’s your favorite movie about Vegas, Casino?"
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "speaker": "Dana White",
+    "timestamp": "(01:21:55)",
+    "text": "Yeah, it would have to be Casino. No doubt about it."
+  },
+  {
+    "start": 742,
+    "end": 743,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:57)",
+    "text": "Yeah."
+  },
+  {
+    "start": 744,
+    "end": 745,
+    "speaker": "Dana White",
+    "timestamp": "(01:21:58)",
+    "text": "You ever see a movie that changed your life, that actually impacted your life in some way, shape, or form?"
+  },
+  {
+    "start": 746,
+    "end": 747,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:05)",
+    "text": "Probably."
+  },
+  {
+    "start": 748,
+    "end": 749,
+    "speaker": "Dana White",
+    "timestamp": "(01:22:06)",
+    "text": "Which one?"
+  },
+  {
+    "start": 750,
+    "end": 751,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:07)",
+    "text": "That’s a good question. I’ll have to think. Well, I have a lot, a lot. Casino could be one of them, probably taught me about women. Forrest Gump for me is a simple movie, but it was a really good movie to show. Because I’ve been really fortunate in my life over and over and over, and I don’t think I deserve any of it. I just always felt like Forrest Gump. When I finally saw it really connected with me. It was like, okay, this universe works in weird ways and stuff just materializes. And you just be good to people, put that good karma out there and it happens for you. That was a movie like that."
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "speaker": "Dana White",
+    "timestamp": "(01:22:46)",
+    "text": "I’m actually very superstitious about that. I believe that what you put out, you get back. And I believe that when you have, you should take care of other people and you should always try to bring people up with you and all that kind of stuff. But the movie that changed the whole trajectory of my life was Vision Quest."
+  },
+  {
+    "start": 754,
+    "end": 755,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:08)",
+    "text": "Oh, yeah. Well, yeah. That’s a good one too. Yeah."
+  },
+  {
+    "start": 756,
+    "end": 757,
+    "speaker": "Dana White",
+    "timestamp": "(01:23:10)",
+    "text": "Vision Quest, man, I fucking love that movie."
+  },
+  {
+    "start": 758,
+    "end": 759,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:11)",
+    "text": "That’s a good one."
+  },
+  {
+    "start": 760,
+    "end": 761,
+    "speaker": "Dana White",
+    "timestamp": "(01:23:13)",
+    "text": "It’s basically, it’s telling the story of a kid who really wasn’t anybody in high school, and nobody knew who he was. He wasn’t popular or any of that kind of shit. And he decided that that was the year that he was going to make his mark. And he was a good wrestler at 178 pounds, but he was going to move down to 160-something to take on the Shute, the scariest guy and the whatever."
+  },
+  {
+    "start": 762,
+    "end": 763,
+    "speaker": "",
+    "timestamp": "(01:23:34)",
+    "text": "But there’s all these little things in the movie that really lay out what life is all about. One of the parts is he’s in a class and the teacher’s talking about some poem. And he says, “What does this poem mean to you?” Well, this girl’s walking through the park and all the leaves are falling off the trees, and she realizes that she’s going to die someday. And that a lot of people think they have all this time so they fucking waste it, and they never go out and do what they really set out to do or accomplish or do anything great in their life. That’s one meaning."
+  },
+  {
+    "start": 764,
+    "end": 765,
+    "speaker": "",
+    "timestamp": "(01:24:11)",
+    "text": "Then he’s got the guy that he works with at work, he’s cutting weight and his nose is bleeding and all this shit. And this guy keeps going, “Why the fuck are you doing this? Pick that thing up and eat it like a fucking man. This is ridiculous. I don’t know why you’re doing this to yourself, blah, blah, blah, blah, blah.” Then when he meets the girl and he gets to the point where he feels like he wants to quit, where does he go? He goes to that guy’s fucking apartment because he knows when he shows up at this guy’s apartment, he’s going to go, “Yeah, fuck this shit.”"
+  },
+  {
+    "start": 766,
+    "end": 767,
+    "speaker": "",
+    "timestamp": "(01:24:37)",
+    "text": "No, he went to work. He went to work to talk to him, and he wasn’t at work. He took the night off. He shows up at the shitty little fucking apartment that the guy lives in and the guy’s putting a suit and tie on and shit. He’s like, “They said you called in sick. What’s going on?” He’s like, “Well, yeah. Aren’t you wrestling this guy tonight?” And he’s like, “Yeah, but why would you? You’re going to get docked a night’s pay and all this other shit.” He says, “You know what, man?” Then it all gets laid out. I get the goosebumps even telling you this fucking part of it."
+  },
+  {
+    "start": 768,
+    "end": 769,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:04)",
+    "text": "Is that the Pele speech?"
+  },
+  {
+    "start": 770,
+    "end": 771,
+    "speaker": "Dana White",
+    "timestamp": "(01:25:05)",
+    "text": "Pele. Yeah. When he’s saying about, “I’m fucking cooking in an overnight hotel fucking thing, and I live in this shitty apartment. A human being can lift himself upside down and backwards and kick a ball into a fucking net, and the whole stadium goes crazy. And this guy runs around. And I’m sitting here in my fucking apartment alone and I start crying. Yeah. I start crying.”"
+  },
+  {
+    "start": 772,
+    "end": 773,
+    "speaker": "",
+    "timestamp": "(01:25:26)",
+    "text": "The guy who’s been shitting on him the whole fucking time actually really respects him for what he’s done and sees what this kid is capable of doing and all this shit. This fucking movie spoke to me on so many different levels. And I think it’s probably the most underrated movie of all time when you really break down the meaning of what this movie is about. And it really fucking spoke to me."
+  },
+  {
+    "start": 774,
+    "end": 775,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:49)",
+    "text": "That’s probably the greatest movie on one-on-one combat…"
+  },
+  {
+    "start": 776,
+    "end": 777,
+    "speaker": "Dana White",
+    "timestamp": "(01:25:53)",
+    "text": "I would agree."
+  },
+  {
+    "start": 778,
+    "end": 779,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:54)",
+    "text": "Ever made."
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "speaker": "Dana White",
+    "timestamp": "(01:25:55)",
+    "text": "I would agree. And especially if you can really hear the messages that it’s giving you in this movie, it’s excellent. You know it’s funny. They just did the… And I saw this after the fact, which completely fucking pissed me off. They did the 25 year or the 30-year thing. It was filmed in Spokane, Washington. They showed the movie at a movie theater there, and the cast members came out and spoke about it. I would’ve fucking flown there for that. Are you shitting me? I’d have been there in fucking 30 seconds to go up there and be a part of that. That movie literally changed my life."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:30)",
+    "text": "Yeah, I suppose me too. It made me want to wrestle. I mean, probably the reason I was… Maybe it made me fall in love with wrestling."
+  },
+  {
+    "start": 784,
+    "end": 785,
+    "speaker": "Dana White",
+    "timestamp": "(01:26:39)",
+    "text": "Well, you know what’s funny? I wasn’t even into wrestling at all, and I didn’t have to be for that movie to…"
+  },
+  {
+    "start": 786,
+    "end": 787,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:44)",
+    "text": "Yeah, it’s this basic human story."
+  },
+  {
+    "start": 788,
+    "end": 789,
+    "speaker": "Dana White",
+    "timestamp": "(01:26:46)",
+    "text": "It’s such a great movie."
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:47)",
+    "text": "I mean, that’s what fighting does. It brings out the basic, the humanity of a person really, for the people that choose to step up and step in the ring. And then chase greatness and actually do it from against the long odds. That’s why it’s a beautiful game."
+  },
+  {
+    "start": 792,
+    "end": 793,
+    "speaker": "Dana White",
+    "timestamp": "(01:27:03)",
+    "text": "And it’s so true. I mean, when you think about, I’m 54 years old right now, like that. I mean, it just fucking flew by. And you think when you’re young that you have all this time. You have no time. There’s no time. I mean one of the quotes on the wall in the gym in there is, “There is no tomorrow,” from Rocky III. There is no tomorrow. Fuck that shit. Let’s get all this shit done today."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:33)",
+    "text": "Do you think about your death?"
+  },
+  {
+    "start": 796,
+    "end": 797,
+    "speaker": "Dana White",
+    "timestamp": "(01:27:35)",
+    "text": "Man, I’m not afraid of death. Not even a little bit. I’m not afraid of it. I don’t know if that’ll be the case when I’m facing it, when I’m looking down the barrel of it, laying in a hospital bed somewhere."
+  },
+  {
+    "start": 798,
+    "end": 799,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:49)",
+    "text": "But for now, just squeezing as much as you can out of it."
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "speaker": "Dana White",
+    "timestamp": "(01:27:52)",
+    "text": "100%. I literally, I don’t even like to sleep. My life is so fucking awesome, I don’t even want to go to bed at night. I don’t even want to go to sleep. I want to stay up fucking, I wish I could do fucking 24 hours and never have to sleep. That’s how much I love my life."
+  },
+  {
+    "start": 802,
+    "end": 803,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:05)",
+    "text": "What has watching thousands of fights over the years taught you about human nature, about us humans?"
+  },
+  {
+    "start": 804,
+    "end": 805,
+    "speaker": "Dana White",
+    "timestamp": "(01:28:12)",
+    "text": "I don’t care what color you are, what country you come from or what language you speak, we’re all human beings. Fighting’s in our DNA. We get it and we like it. And it’s true. Fighting is in our DNA. It’s a part of who we are."
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "speaker": "",
+    "timestamp": "(01:28:23)",
+    "text": "And no matter where you are, if a fight breaks out, it creates this fucking energy, this buzz, this sense of fear. I mean, a lot of different emotions happen in people when fights break out. But one thing that is always the case, everybody’s watching, man. Everybody’s, fucking all of their eyes are on the fight."
+  },
+  {
+    "start": 808,
+    "end": 809,
+    "speaker": "",
+    "timestamp": "(01:28:46)",
+    "text": "I mean, we were just in Mexico, fucking fight broke out in the good seats right here with these seats that are super expensive. And security never fucking came. They just let these guys fight until they gassed out. And then everybody put their chairs back together and snapped back down and fucking. I literally got up from my table, walked over, and was watching this fight at the fights."
+  },
+  {
+    "start": 810,
+    "end": 811,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:09)",
+    "text": "At the fights. I mean humans fight and humans love watching fighting."
+  },
+  {
+    "start": 812,
+    "end": 813,
+    "speaker": "Dana White",
+    "timestamp": "(01:29:14)",
+    "text": "Absolutely. And that was my thought process going into buying the UFC, and I believe that this would work everywhere. And thank God we were right."
+  },
+  {
+    "start": 814,
+    "end": 815,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:23)",
+    "text": "Well, Dana, thank you for bringing this very human thing of fighting, the art of it, the science of it, the heroic stories, the vision quest stories of it all."
+  },
+  {
+    "start": 816,
+    "end": 817,
+    "speaker": "Dana White",
+    "timestamp": "(01:29:34)",
+    "text": "Boom."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:35)",
+    "text": "Really appreciate you talking today, brother."
+  },
+  {
+    "start": 820,
+    "end": 821,
+    "speaker": "Dana White",
+    "timestamp": "(01:29:36)",
+    "text": "Thank you. Pleasure, buddy. Thank you for the kind words."
+  },
+  {
+    "start": 822,
+    "end": 823,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:40)",
+    "text": "Thanks for listening to this conversation with Dana White. To support this podcast, please check out our sponsors in the description. And now, let me leave you with some words from Muhammad Ali. “Impossible is just a big word thrown around by small men who find it easier to live in a world they’ve been given than to explore the power they have to change it. Impossible is not a fact, it’s an opinion. Impossible is not a declaration, it’s a dare.” Thank you for listening and hope to see you next time."
+  }
+]

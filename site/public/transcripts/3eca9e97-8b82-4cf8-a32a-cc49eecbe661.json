@@ -1,0 +1,2403 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:00)",
+    "text": "That’s all that matters, that he got there, that he got to the place to act like a fighter. To do what we want him to do, to be ready to persevere, to go beyond the comfort level, to do another round. He didn’t want to. Damn right he didn’t want to, but he knew we want him to. And he knew in order to pass the test, he had to do it. He goes, “Now, it’s going to be your job to get him in the gym, make him mentally stronger, make him face things, and teach him how to slip punches and create holes, and fill those freaking holes with devastating punches…” There’s a cuss, “… with punches with bad intentions.”"
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "",
+    "timestamp": "(00:00:40)",
+    "text": "The following is a conversation with Teddy Atlas, a legendary and, at times, controversial boxing trainer and commentator. When I was going to this conversation with Teddy, I was ready to talk boxing, styles, matches, techniques, tactics, and his analysis of individual fighters, like Mike Tyson, Michael Moorer, Klitschkos, Usyk, Povetkin, Lomachenko, Triple G, Canelo, Muhammad Ali, Sugar Ray Leonard, Hagler, Duran, Floyd, and on and on and on. Like I said, I came ready to talk boxing, but I stayed for something even bigger, the Shakespearian human story of Teddy Atlas, Cus D’Amato, and Mike Tyson."
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "",
+    "timestamp": "(00:01:23)",
+    "text": "It’s a story about loyalty, betrayal, fear, and greatness. It’s a story where nobody is perfect and everybody is human. To summarize, in the early ’80s, young trainer, Teddy Atlas, worked with his mentor, Cus D’Amato, in training the young boxing protégé, now a boxing legend, Mike Tyson. Mike was a troubled youth, arrested over 40 times, and at age 15, he was sexually inappropriate with Teddy’s 11-year-old niece."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "",
+    "timestamp": "(00:01:55)",
+    "text": "In response to this, Teddy put a .38 caliber handgun to Tyson’s ear and told him to never touch his family again or he would kill him if he did. For this Cus D’Amato kicked Teddy out. Why? Well, that’s complicated. In part, I think, to help minimize the chance of Mike Tyson, who Cus legally adopted, will be taken away by the state, and with him the dream of developing one of the greatest boxers of all time."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "",
+    "timestamp": "(00:02:24)",
+    "text": "Of course, that summary doesn’t capture the full complexity of human nature and human drama involved here. For that, you have to listen to this conversation, the things said and the things left unsaid. The pain in Teddy’s voice, the contradictions of love and anger that permeate his stories and his philosophy on life. Like I said, I came to talk about boxing and stayed to talk about life."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "",
+    "timestamp": "(00:02:52)",
+    "text": "This conversation will stay with me for a long time. The people close to you, the people you trust, the people you love, are everything. And if they betray you and break your heart, forgive them, forgive yourself and try again. Happy holidays, everyone. I love you all."
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "",
+    "timestamp": "(00:03:15)",
+    "text": "This is a Lex Fridman podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Teddy Atlas."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "",
+    "timestamp": "(00:03:26)",
+    "text": "You wrote in the book that your father had a big influence on your life. What lessons have you learned about life from your father?"
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:03:34)",
+    "text": "When you ask that question, I remember Cus D’Amato, when I was with him up in Catskill for all those years. He used to say to me, “Teddy, you learned through osmosis.” I believe there’s truth to that, if I know what osmosis is, but it sounds good. But I learned through osmosis with my father. He wasn’t a big talker. He was a doer. And when you’re around someone who lives a certain kind of life and does certain things, it penetrates."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:10)",
+    "text": "He was a doctor."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:04:11)",
+    "text": "I’m going to sound like an idiot right now, because I’m being a son, but he was the greatest diagnostic doctor. I mean, if I say, I ever knew, what does that mean? You know what I mean? Are you a doctor? You know what I mean? What does that mean? But, other people have told me this, just legendary stories."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:33)",
+    "text": "He would do house calls and he’d help people, and like you said, a lot of people have spoken about the impact he’s had on their life."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:04:38)",
+    "text": "He built two hospitals, and he built a hospital before the Verrazano Bridge in New York, connecting Brooklyn to Staten Island. And he built it so people could get proper hospital care that couldn’t afford it, period. And everybody looked at him as eccentric."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:58)",
+    "text": "Yeah, nice. [inaudible 00:04:58]."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:04:59)",
+    "text": "Yeah, because, he would literally sneak patients, not sneak them in, he was Dr. Atlas, he could do what he wanted, to a certain extent. But he would bring patients in without administering, putting through administration, so there was no charge, because they didn’t have anything. They were street people. I remember being… My only way to be with my father was to go on house calls or to go to the office. There was no…"
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "",
+    "timestamp": "(00:05:27)",
+    "text": "And so I went on house calls with him. And he did house calls, by the way, till he was 80, and $3. I mean, it was better than McDonald’s, you know what I mean? I mean, the deal, $3 and you got medicine, you got everything. But he used to, right around the holidays, there was just certain things that I didn’t understand, but I understood later, where we would just drive certain areas and he just, all of a sudden, open the door, he would pick up these… and-"
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:58)",
+    "text": "Help them."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:05:59)",
+    "text": "… I’m 10 years old, ” Move over.” Move over, you know?"
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:02)",
+    "text": "Mm-hmm. It was just you, him, and a homeless guy."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:06:06)",
+    "text": "A couple."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:06)",
+    "text": "Yeah, a couple."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:06:07)",
+    "text": "Yeah, whatever he could fit in, three, four, whatever it was."
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:11)",
+    "text": "That’s a big heart."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:06:12)",
+    "text": "And then he took them to the hospital, dropped them off. I would ask questions after it was all over with. I’d say, “Dad, they’re sick.” He goes, “Well, not in a way.” “Why did you put them in the hospital?” So he said, “Yeah.” And he’d tried to explain things to me. He would try, he didn’t talk much unless you’d ask him something, and that works. And don’t talk unless someone asks you something. And he explained to me that, he said… I said, “Well, why are you putting them in the hospital?”"
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "",
+    "timestamp": "(00:06:43)",
+    "text": "And, of course, their sickness was, they were alcoholics. “but ,why do you put them…?” It wasn’t an alcohol rehab, so why are you putting… And it wasn’t for the purpose to dry out. He wasn’t trying to cure them. Let’s put that before we anoint him for sainthood, by Teddy Atlas. I was like, we finally get to the point, “Why do you put them in there?” “Well, because it’s the holidays.”"
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "",
+    "timestamp": "(00:07:07)",
+    "text": "“All right, why do you put them in there?” “Well, the holidays are good for certain people and bad for others.” And it was always before the holidays. It was before Christmas, it was before whatever, New Year’s, whatever. So I said, “Why?” And he said, “Because they remind people, certain people, of what they don’t have. Other people enjoy the holidays because of what they have, family, whatever, and it reminds them, their mind is that.”"
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:46)",
+    "text": "That’s pretty profound."
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:07:47)",
+    "text": "Yeah. And then, I don’t remember, because he didn’t use the word suicide, but I got it. He basically, I forget how he said it, but I just got it. I don’t know how I… I suppose, I don’t know, but I just got it. So they don’t hurt themselves. That’s what came across-"
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:03)",
+    "text": "In every way."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:08:04)",
+    "text": "I don’t think he ever articulated that or ever verbalized that. But, yeah, they don’t hurt themselves. Well, how does that work? Well, it just basically they’re going to be around people. They’re not going to be alone. They’re going to be around people. They’re going to get fed, they’re going to be warm, right, and it’s going to be for three days, two, three days, whatever. And basically, it’s a bridge. So the funny thing, as a 10-year-old, I want to be connected to him, so I enlisted myself in the job."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "",
+    "timestamp": "(00:08:36)",
+    "text": "When he used to drop them off, he would take them, get them in, right? And then the thing that I know, again, he didn’t say nothing, but you notice things. And if you care enough, you don’t notice nothing if you don’t care. But if you can, if it’s important, you notice. And this guy was important to me. I just was, I didn’t know what a hero was, no clue. I loved Mickey Mantle, I loved Willie Mays, I love Muhammad Ali. I never, ever connected them in my mind as heroes. Never. My father, I didn’t connect it that way, but he-"
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:21)",
+    "text": "Looking back now now [inaudible 00:09:22]-"
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:09:22)",
+    "text": "Looking back, he was my first connection to a hero."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:25)",
+    "text": "The two of you ever talk about how much you love each other? The word love?"
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:09:29)",
+    "text": "One thing that was not allowed. The greatest memory I have, my father showing me love was, we were down in Florida at an airport and we were… I was born in Miami. Don’t ask where I was passing through. And the rest of my family’s born in New York, Staten Island. And so I was supposed to go back with him and I wanted to stay with my mother, for whatever reason. And so he, of course, conceded to it. Okay, whatever. And very quiet, very… And here’s a man who never showed emotion to anyone. I mean, for the most, you know… Well-"
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:11)",
+    "text": "Yeah."
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:10:12)",
+    "text": "… all of a sudden, he just turned and kissed me on the forehead and left. And I was like, “That’s different.”"
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:23)",
+    "text": "Yeah. You still remember that, huh?"
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:10:26)",
+    "text": "Yeah. Like, “That’s weird.”"
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:28)",
+    "text": "You lost him 30 years ago? How did that change you?"
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:10:39)",
+    "text": "It made me realize that some of the deals I used to make for God weren’t realistic. When I was a kid, I used to make deals with God. “Let me die before my father.” And then you get older and you have kids, you’re blessed, why did you make that deal? You know what I mean? Thank you for not taking me up on it."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:07)",
+    "text": "Yeah."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:11:08)",
+    "text": "Right."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:09)",
+    "text": "Yeah."
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:11:13)",
+    "text": "You know?"
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:14)",
+    "text": "Yeah. You miss him?"
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:11:15)",
+    "text": "I miss him in moments when I’d like to know what to do. And I remember when I would drive with him on the house calls, he didn’t listen to music. He was a guy, he read books to his… When he got older, he read books. Two blood vessels broke in his eyes. He only read nonfiction books, science. He loved science, wars, generals. I mean, I cheated on a couple book reports, because I didn’t do the reading of the book the night before I had a freaking a book report to put in. “Dad, I got a book report to do on the War of Stalingrad.” Really? The War of Stalingrad. And who the freak could tell you where you get an A? I got an A. I just wrote what he told me. He told me generals, he told me times, he told me strategy. He told me about the winter that came and destroyed the Germans, and the Soviets were tougher-"
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:15)",
+    "text": "You got an A."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:12:20)",
+    "text": "… and the Soviets were tougher than the Germans, and the Germans picked on the wrong opponent. I was already in the boxing business. I didn’t even know it. I didn’t even know it. Matchmaking, very important. They mismatched. They made a mistake with the picking the opponent. And so, when we would be driving in the car, my father would be in a trance. And dad, he wasn’t ignoring me at all, he was just with his thoughts. He was wherever. He wasn’t even hearing the radio no more."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "",
+    "timestamp": "(00:12:59)",
+    "text": "I always wondered where he was. I did. So I asked him one day. And just, so we’re driving, I said, I want to know so I said, “Dad, what do you think when you’re basically in this place, that I know you’re somewhere? Where are you? What are you seeing?” I actually said, “What do you see?” And he said to me, “I see what could be. I see what could be.” And I’m like, “Oh, all right.”"
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:32)",
+    "text": "I got to ask you, when did you discover boxing? When did you first fall in love with boxing?"
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:13:39)",
+    "text": "When it saved me."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:41)",
+    "text": "How did it save you?"
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:13:44)",
+    "text": "I was a stupid, violent kid that was angry. Not exactly know why I was angry. I’d fit in real good in today’s society, because there’s a lot of angry kids out there that I don’t think they know why they’re angry. I was just out there getting in fights and I got this stupid thing from that."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:05)",
+    "text": "Can you tell the story of how you got that?"
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:14:07)",
+    "text": "I was just running around doing stupid things, bad things. I hurt people, some people physically, but I hurt my family. That’s BS, you only hurt yourself. That’s a good way of alibi-ing it. But, at some point, the truth usually finds its way. I’d like it to look like I was just hurting myself, but I wasn’t, obviously. So I was just out on the streets, with kids that didn’t grow up in the neighborhood I grew up. I grew up in a neighborhood where father was a doctor. And I walked down the street…"
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "",
+    "timestamp": "(00:14:48)",
+    "text": "The funny thing was, down the hill was a very tough neighborhood called Stapleton. And most of the people down there on the corners wished they could get up the hill, and I wished I could get down the hill. So I went down the hill and I hung out with all these friends that became lifelong friends. I gravitated to that, because I figured out later a little bit, but I wanted family. We were destroying the family. My father was a doctor, he didn’t have time for nothing but being a doctor."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "",
+    "timestamp": "(00:15:26)",
+    "text": "I think when you created something, you sacrifice something, too. When you’re really great at something, so great that maybe God made you great and you’re too great for your own good. And then, I don’t know, it took me to these stupid, dangerous places. Dangerous for me, but dangerous for other people, too. Because, I got to the point where I was doing robberies on the street, I was fighting everybody."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "",
+    "timestamp": "(00:15:49)",
+    "text": "And you know what the most dangerous part about it was? And I came to this realization on my own. I’m all by myself. I figured out, I was really as dangerous… These kids from the project, some of them, they got nothing. First of all, I learned you don’t have to be poor to be poor. You don’t have to be deprived of certain things to be deprived, at least to think you’re deprived. And I was poor in away that I didn’t have the only thing I wanted to have, him."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "",
+    "timestamp": "(00:16:28)",
+    "text": "So here I am where I’m out there doing these things, and what made me more, I was more dangerous than some of these psychopaths. Well, I was a psychopath, too, I guess, the way I was behaving. But some of these psychopaths that really had nothing, really, they obviously would kill you. I was dangerous almost in the same way, but for a different reason. I know it’s ridiculous what I’m about to tell you, but I figured it out, because I felt it. I thought I was on a righteous path. I thought I had a right because it was going to get me my father back."
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "",
+    "timestamp": "(00:17:11)",
+    "text": "Why? Why? I mean, you’re a scientist, you couldn’t figure this one out. Because all the people that had him were injured people, fractured people, screwed up people in some ways, but hurt, damaged people. So if I get damaged, I’ll get him. So I was on a crusade, really, a righteous crusade where I thought it was okay. I had permission. I had permission to do these terrible things, quite frankly, and to fight everyone wanted to. And then it came almost to a crash of doing all that, winding up in Rikers Island like an idiot, not understanding the damage I did to this poor man, that he was a great doctor and he’s got to see his son and hear about, you know what I mean?"
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "",
+    "timestamp": "(00:18:14)",
+    "text": "God, I was out on that day with the guys that I grew up with now, the guys from the projects from as I described, and I was with one of them who, he’s dead now. I was with him and we were in a neighborhood, the neighborhood we grew up, that I hung out, and he grew up in. Billy, he came from the project. And we got into a thing where we cut, somebody cut us off, we cut them off, jumped out to fight. Turned out there’s five or six of them and two of us. And we fought, right on the side, right there, only about a block from where I used to hang out, and maybe a block and a half."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "",
+    "timestamp": "(00:19:06)",
+    "text": "And right in front of this Spanish bodega. It really does happen in slow motion. I actually saw the guy, I was fighting the guys that I had to fight. And then, all of a sudden, I was able to get one guy out of the way a little bit. And I really, I noticed the guy go into his pocket and I knew why he was going in his pocket. When he came out of his pocket, I knew what it was right away. It was weird, because in the neighborhood, guys used to hang out, they were into this… They get into fads right on the streets. And at that time, they went into this cheap knife, but they thought it was, well, we thought it was cool. It was a 007."
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "",
+    "timestamp": "(00:19:51)",
+    "text": "And the cool thing, whatever, was that you could flick it, you could learn. And I learned how to flick, but I never carried a knife. But, my friends would have it. I would just, you learn how you could flick it open, not a switchblade, but flick it with your wrist. And I was like, here I am in the middle of this freaking fight, and all of a sudden, “Oh, this is a 007.” And so I’m like, you got to make a decision. And I got a split, I can either not do nothing, which didn’t seem like a great option. I couldn’t run away."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:36)",
+    "text": "Why not?"
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:20:39)",
+    "text": "Because you got to live with yourself afterwards. And that’s more difficult to live with than whatever it is at that second, because that don’t go away."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:47)",
+    "text": "You couldn’t live with yourself-"
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:20:49)",
+    "text": "It just-"
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:49)",
+    "text": "… running away."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:20:49)",
+    "text": "… It just don’t go away. That thing, nothing to do with being brave. It has nothing to do with being brave, really. It’s got to do with just common sense in life. That, for me, whatever you’re dealing with, it’s over, it’s done. Like, okay, deal with it, good or bad, whatever. But, you do that, that other thing, you can’t, that never ends. This thing ends."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:19)",
+    "text": "Memory of you being, let’s say, a coward in that moment, that never ends."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:21:24)",
+    "text": "The only thing I had at that point in my life, in my stupid mind, was a reputation that I would stand up to certain things. That was like, and that for me was worth something, whatever, because I didn’t feel any worth to anything else. That was the only thing I felt a connection of worth to."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:47)",
+    "text": "Stood your ground and got cut."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:21:49)",
+    "text": "No, I made a decision. I stood my ground, but I actually, things do slow down. They do. And I actually said, “It’s a 007, he’s got to flick it.” And I didn’t say no, but he’s got to flick it. I get a split second, like I said, either I do nothing, whatever, or I get to him before he gets it flicked. I went to get to him before he got flicked. And I, just as I got close to, I did him a favor. I walked right into a counterpunch, because I cooperated with him. I went right to him. And just as I… He practiced more than I did with the 007 apparently. Because he was like, whomp, whomp, whomp, whomp. Anyway."
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:41)",
+    "text": "What did you think? What did you think that happened? That was all slow motion. Did you think he might die?"
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:22:49)",
+    "text": "Yeah. Well, not immediately. Took me a minute. I’m a slow learner. I put my hand up. Right? Wouldn’t you? I guess so."
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:59)",
+    "text": "Yeah, mm-hmm."
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:22:59)",
+    "text": "And it went into my face and that was it. It was gooey. It was warm and gooey. And I was like, “I don’t know what this means, but I don’t want to know, but I think I know.” And…"
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:21)",
+    "text": "Did you think about your dad in that moment?"
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:23:24)",
+    "text": "No. You know what I thought about him was, you don’t know who anyone is until they’re tested. I learned that. Cus used to tell me, but I learned it. He said, I remember one time Cus, because I was a 17, 18-year-old kid up there, thought I was, whatever I thought I was, and he said, “You got a lot of friends.” And I said, “Yeah.” Because I was on the street, hanging out with a hundred kids at night, sometimes on the street corner. So I was like, I don’t know too many people that hung out with a hundred kids on the street, on a corner, on a Friday, Saturday night."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "",
+    "timestamp": "(00:24:02)",
+    "text": "And I was like, “Yeah, I got a lot of friends.” He goes, “Really?” I said, “Yeah, really.” He said, “How about if I told you you might not have any. Most likely you don’t have any.” And he goes, and then he just started this thing. He said, “Everyone’s going to be tested, you, me, everyone, because you don’t know about nobody until they’re tested.” He goes, “You know nothing.” He goes, “You nothing until you know. Until something happens to test if they were really your friend.” And he told me this story about a guy."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "",
+    "timestamp": "(00:24:40)",
+    "text": "A guy came to him and he was upset. “What are you upset about?” He goes, “I’m upset because I just lost a friend. After 20 years of friendship, we’re not friends no more.” So Cus looks at him, he goes, “Let me ask you a question. What made you think you were ever friends with him?” Now the guy gets insulted to Cus. “Did you hear me?” He goes, “I just told you 20 years I’ve been friends with this guy. Why would you say that to me?”"
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "",
+    "timestamp": "(00:25:11)",
+    "text": "He said, “Well, I’ll say it again. What makes you think he was your friend?” He goes, “Whatever happened in the 20 years, other than chasing girls,” because Cus figured that went out fast, “… chasing girls and drinking together, and whatever else you’re doing out on the street, whatever gave you the inclination that he was a friend?” He goes, “Whatever, when did he risk himself to be your friend? When was it dangerous to be your friend?”"
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:44)",
+    "text": "When was the friendship tested?"
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:25:45)",
+    "text": "“When was it uncomfortable to be your friend?” And you know what the guy said? You can figure it out, you’re a scientist. He said, “Today.” And today came for me. And today, today, today, today, kept coming for me. Today.” And that day, my friend Billy had turned out while I was fighting these, whatever, five, six guys, and where was Billy? He was on the roof. He was on the roof. He was on the roof. He was my best friend."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "",
+    "timestamp": "(00:26:29)",
+    "text": "So anyway, they take me to the hospital. And here’s the thing with my father. But one thing Billy did do for me when he got off the roof, thank God, he did, he dragged me into this bodega, laid me on the floor, and started putting towels. And the towels, I vaguely remember this, they filled up with blood. I mean completely drenched, like you put them under a shower. And I heard the bodega owner screaming, screaming like… whatever. And everyone’s screaming and there’s chaos, and I’m like, I don’t know, I’m calm. Weird, I’m real calm. I’m just in this place, things calm."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "",
+    "timestamp": "(00:27:26)",
+    "text": "And all of a sudden I hear Billy, he’s screaming, ” Call the ambulance, call the…,” and nobody’s doing nothing, everyone’s frozen. I’m starting to understand already people get frozen in situations. People, the fear, fear, fear, fear, fear just paralyzes people. And I was going into a fear business. I was learning. I was learning. I was getting a learning, early PhD-"
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:58)",
+    "text": "Living in fear."
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:27:58)",
+    "text": "Yeah."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:59)",
+    "text": "Yeah."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:27:59)",
+    "text": "And, all of a sudden, genius, Billy genius, really, street kid. He jumps up on the freaking counter, jumps over the counter, grabs the phone, calls 911, says a cop’s been shot, and forget about it. It was crazy. All I remember after that, I’ll tell you the couple things I remember, lights, being put onto a stretcher, bounced around, rushed. I felt everyone’s anxiety, except mine. I had none. But I felt everyone’s anxiety, everyone’s fear, like was all around me. It was like, “Wow, this is interesting. It’s kind of…” I know that’s stupid, but, “Wow, this is interesting.”"
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:45)",
+    "text": "You really have an eye for fear. That’s fascinating. You’re really studying it."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:28:49)",
+    "text": "Well, I had no choice, I got introduced in a crash course. And they put me in ambulance, and this is what I remember to your point, I’m sorry it took so long to get to it. I am, although I’ll probably do it again before this conversation’s over. But I-"
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:05)",
+    "text": "It’s all about the journey."
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:29:06)",
+    "text": "Yeah. We’ll get there. We’ll get there, pops. So I hear the cops say, “We might lose him.” And I’m laughing to myself, I’m not laughing, because I’m not, again, I’m not John Wayne. John Wayne would’ve laughed, but I’m like, “Lose? You guys are stupid.” I didn’t say that, but I’m like, ” Lose me? My father’s the greatest doctor in the freaking world. There’s nothing to worry about. You people are all uptight and whacked out here with fear, and there’s nothing to worry about. Dr. Atlas is my father.”"
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "",
+    "timestamp": "(00:29:48)",
+    "text": "So anyway, so they’re taking me to the… And he said, “We don’t have time.” I hear, couple things I remember, “Don’t have time. Take him to…” and they take me to US Public Health Hospital. Marine Hospital was called at the time, but US Public Health. And it’s in Stapleton, so it’s close, thank God. So they’re taking me, and I hear them on the radio saying this stuff about, “We got to move. We got to move.” I start talking and they’re telling me, “Don’t talk.” But I like to talk a lot. And I’m… Again, fear.” There’s no fear when the fear’s been removed."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "",
+    "timestamp": "(00:30:35)",
+    "text": "It’s the only time you really free in life. And I know that sounds absurd, but really, it is. It’s the only time you’re really free in life. When you’re-"
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:46)",
+    "text": "Close to death?"
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:30:47)",
+    "text": "… when you’re devoid of things that normally hold you back, that normally influence you in ways that are, not of the influence that, always positive influence where you are in a pure place, where you’re in a purely free place from all inhibitions, from fear, from anxiety, from joy. Joy can screw you up, and you’re free from all these things. And I’m in this place, just [inaudible 00:31:18]-"
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:18)",
+    "text": "In the back of an ambulance, you’re free."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:31:19)",
+    "text": "Yeah. I said, “Just get me Dr. Atlas.” And they say, “We don’t have time.” “No, no, no, no, no, you don’t… You have to get Dr. Atlas. You have to get him.” This was the… Damn it, this was the… You know what I mean? I finally freaking hit the number and I’m not getting paid. And then, all of a sudden, I’m out."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:39)",
+    "text": "How many stitches?"
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:31:40)",
+    "text": "They… Well, I think it was 400, 200 inside, 200 outside, or whatever it was."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:45)",
+    "text": "It’s a lot."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:31:45)",
+    "text": "Hey, look, after 50, the number doesn’t matter no more. Whatever, 60, 70, 80, 90, whatever. So I was fortunate, I was fortunate. And, of course, I was fortunate, they told me afterwards, that missed my jugular, literally by a centimeter. I mean, whatever. So then we wouldn’t be having this conversation, obviously."
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:10)",
+    "text": "I’m glad you made it."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:32:11)",
+    "text": "Yeah-"
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:11)",
+    "text": "That’s another thing."
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:32:12)",
+    "text": "… I’m glad, too. And it just missed my eye, which, thank God. It’s bad enough I have a scar, imagine me with a patch? I mean, it’s enough that I got this freaking thing. And look, it goes all the way. I mean, it’s pretty long. I don’t know, I was out. And then somehow, I sensed, they had the curtain closed, and it’s amazing how vivid this is. And the curtain’s closed and I see a shadow. I felt a presence. I did, and I felt him. He’s a powerful guy. And I felt him and I just see a shadow, you know? And, all of a sudden, the curtain gets pushed-"
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:33:00)",
+    "text": "And all of a sudden the curtain gets pushed back. And I can’t really see. It’s dark and I’m out of it, but not completely out of it. And pushes the curtain back, comes in, and his hand, even though it’s all bandaged, whatever, but his hand surveys. It felt safe and it felt warm and safe. I was happy. And he got there."
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:37)",
+    "text": "Did he say something?"
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:33:38)",
+    "text": "Yeah, yeah. Remember, I gave you a little bit of introduction to my father, right? You know him now a little bit, right?"
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:44)",
+    "text": "Yeah, yeah. What’d he say about the job?"
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:33:47)",
+    "text": "This is what he said. I remember to this day what he said. That I do remember. I don’t know if it was six or five people, but this I do remember. He said, “They did a good job. You’re going to have a scar the rest of your life.” And he left."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:05)",
+    "text": "Oh, man. They did a good job. You mentioned Cus D’Amato, legendary trainer, and you also mentioned it turned out he really cared about you. In the book, you write about a testimony he gave. I was hoping I could read it because it speaks to your character. It speaks to his. It’s just powerful."
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "",
+    "timestamp": "(00:34:28)",
+    "text": "The testimony goes, ” Your Honor, I realize you might not know much about me, but I spent my whole life developing young men. As a boxing manager I trained two world champions, heavyweight champion Floyd Patterson and light heavyweight champion Jose Torres. I’ve also helped a lot of other young boys straighten out their lives and build character. I know things about Teddy Atlas this court doesn’t know, things you won’t find on his arrest record. This boy has character. He has loyalty. He’ll hurt himself before he’ll let down a friend. These qualities are rare and they shouldn’t be lost. He’s made mistakes. We’ve all made mistakes, but I’ve come to know this boy, and if we lose him, we’ll be losing someone who could help a lot of people. Please don’t take this young boy’s future away. He could be someone special. Let’s not lose him. Please.” Those are powerful words from a powerful man. What have you learned about life from Mr. Cus D’Amato?"
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:35:41)",
+    "text": "He gave me a quote that he drilled into my head. I became his guy. He loved me. I loved him. He said to me, “Teddy, no matter what a man says, it’s what he does in the end that he intended to do all along.” That’s what I learned from Cus. The rest of it is BS. And a lot of people say things. You just have to give them a minute to let them show you eventually what they really meant by it."
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "",
+    "timestamp": "(00:36:26)",
+    "text": "I also learned from him that everyone’s afraid. Cus, his way of saying it, another great saying, you’ll get a kick out of this, “Anyone who’s in a situation where fear should be prevalent, where fear is actually necessary to survive the situation, anyone who says that they’re not afraid, they’re one of two things. They’re either a liar or they should go to a doctor, find out what the frick’s wrong with them.” He was right about that. We live in a taboo society where that word, to a certain extent, is taboo because it invokes weakness. We are just layers of what we saw and learned since we were kids. We all are. We’re products of those layers. I learned that on my own and through some help."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "",
+    "timestamp": "(00:37:32)",
+    "text": "At the end of the day, fear, people will find their way of avoiding that term. So they use the word anxiety, they use the word butterflies, apprehension, a million different words. I find all those other words to be cousins of fear. And fear causes a lot of things in life. It causes a lot of problems and it also solves a lot of problems. Without it, we couldn’t be great if we are great, if we ever have a chance to be great or at least to aspire to be great."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:22)",
+    "text": "How does fear connect to greatness? That’s a profound statement. Without fear, we wouldn’t be able to be great."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:38:32)",
+    "text": "Yeah, you couldn’t be great without fear because fear allows you to be brave. The most important word for me in this whole conversation, right neighborhood would be selfishness, and it allows you to be, for a moment, less selfish. One of the things I learned, I guess partly on my own… Everyone thinks my greatest teacher was Cus. He was a great teacher, mentor. My greatest teacher was my father, the one who never talked. And I realized one of the things to be better, towards great is if you can submit less than we submit. See, one of the things that I’m afraid of, one of the things, I was always quitting. In my business, it’s not a good thing."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:29)",
+    "text": "Every business, I think. Yours is just more clear."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:39:35)",
+    "text": "Yeah. It hurts more."
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:39)",
+    "text": "True. In the moment, at least."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:39:42)",
+    "text": "Yeah, in the moment. You’re right, 100%, because some things hurt for a long time afterwards. And something like regret. Regret is the worst thing in the world because it’s a solitary sentence. And man, oh, man-"
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:58)",
+    "text": "That’s a powerful phrase, regret is a solitary sentence. Oh, boy."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:40:02)",
+    "text": "So, I-"
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:03)",
+    "text": "You’re full of good lines."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:40:07)",
+    "text": "It wasn’t easy to accumulate them."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:13)",
+    "text": "Yeah. Hard run."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:40:15)",
+    "text": "It was a little bit hurtful. So submit less, because we submit every day, and if we can get to a place where we submit or compromise ourselves less, we’ll get to a better place. Again, one of the words for me that attaches to things that wind up hurting you in life and have hurt me in life, one of those boogeymen words is the word of convenience. That’s attached to everything. People disappoint you not because they want to disappoint you or let you down or betray you, because they want to betray you. They do it because it’s more convenient to do than the other thing."
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "",
+    "timestamp": "(00:41:06)",
+    "text": "An old man once told me, he said to me… I was trying to rationalize something. I was trying to make an excuse for something. I was trying to make myself better than I was. I was trying to say it was okay. And he just looked at me, and he liked me, and he said, “Teddy, there ain’t no such thing as being a little pregnant.” I was like, “Yeah.” He goes, “Either you’re pregnant or you’re not pregnant. Either you’re real or you’re not real. Either you’re truthful or you’re not truthful. Either you’re tough or you’re not tough. Either you’re committed or you’re not committed. Either you’re in or you’re out.”"
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:56)",
+    "text": "That applies to a lot of things, including loyalty."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:42:00)",
+    "text": "That’s quite a statement. But the life level of humanity for me is loyalty. It’s what goes through the veins of… Everything has to have some veins in some form. And if humanity has veins, what runs through the veins of humanity instead of blood to keep it alive is loyalty."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:18)",
+    "text": "Those are powerful words."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:42:20)",
+    "text": "Without loyalty, we’re dead, we’re vessels. I never understood what a ghost ship was. You know what? As I got older, I know what a ghost ship is. It’s people. It’s people that are empty. They got no loyalty, therefore they got no humanity. Therefore, they got nothing. Therefore, frick them. Frick them. And you know why they don’t have loyalty? Convenience. And you know why? Because it’s hard to be loyal. It’s actually hard. I’ll be a son of a gun. “Yeah. Yeah, it sounds great. Give it to me. Give it to me. Paint me with it. Yeah, it’s great. Yeah, I’m loyal. Yeah, I’m great. Yeah, this is good. I’m ready. I’m on that team. I’m ready. Put me in, Coach. I’m ready.”"
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "",
+    "timestamp": "(00:43:09)",
+    "text": "“Okay. Now, you’re going to have to get hurt here.” “What do you mean, get hurt?” “Oh, well, it’s going to be painful. I mean, to be loyal, you’re going to be in danger because the person that you committed your loyalty to, for a reason, because obviously you did something in your life, whatever, whatever, you’re actually going to get hurt to be loyal to them. You’re actually going to…” “Hold on a minute. Wait. Hold on a minute, Coach. Hold on. Call time out here. Let me think about this, Coach. I might need more practice. I’m not ready for the game. I’m not ready to go in the game yet. Give me a little more practice, Coach.” It hurts to be loyal. It fricking hurts. But without loyalty, we’re ghost ships. We got no strength. We got nothing. We got nothing. We got nothing."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:05)",
+    "text": "I agree with you in a deep fundamental sense, but there’s pain that comes with that. I have to ask you to introspect on this part of your life. Because of your value for loyalty, as people know, you and Cus D’Amato trained young Mike Tyson, and the interaction there between the three of you led to the three of you parting ways. Given your value for loyalty, can you tell the full story of what led up to this and maybe the pain you felt from that?"
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:44:59)",
+    "text": "I guess it was the second time in my life I felt betrayed. The first time was when I was whatever, young, 17, and I got arrested. I was with all these older guys, tough guys, whatever, supposedly, and the detectives separated us. That’s what they do. And they asked me who did whatever? Whose gun? This, that, all that, the particulars of obviously what we did. And it was me. And they said, “You sure? You don’t want to change that? Because your friends changed it.”"
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "",
+    "timestamp": "(00:45:48)",
+    "text": "And these cops, they were nasty, but they were cops. They were, “You’re going to wind up in Rikers and they’re going to be doing this to you.” And I won’t even say the things because, then, why say them? Figure it out. But they’re trying to get what they’re trying to get. And, “You want to change it?” And, “No.” But I felt very betrayed and especially when I was standing in the cell at Rikers looking at the airplanes leave LaGuardia Airport. And then hoping I was on one. I was making a deal with God that, “Let me be on one of those planes and let it crash. I’ll take a shot.”"
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:31)",
+    "text": "Was part of you proud that you didn’t give up your friends?"
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:46:34)",
+    "text": "No, because I didn’t understand what proud was. I didn’t understand nothing. I just understood that-"
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:40)",
+    "text": "Rules are rules. You’re just loyal and that’s it?"
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:46:43)",
+    "text": "I didn’t even know there was an option. I know the cops said, “You could do this,” but there was no option. My father never had an option. But the betrayal, the private betrayal was like… And so we were partners, me and Cus. Cus was retired. This stupid kid goes up there and all of a sudden I start training fighters. First, I wanted the gloves. Cus put me in the gloves. I wanted gloves. Then I had an injury, whatever. But bottom line is I still want to fight. I want to turn pro. I want to fight. That was the plan. And Cus had a different plan. Cus was like, “You can’t.”"
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "",
+    "timestamp": "(00:47:29)",
+    "text": "And he had it set up a little bit, whatever. Without getting into it, hey, he did me a favor. I’d like to think he knew he was doing me a favor. And you know what? I do think he was. He was doing himself a little bit one too. But he was doing it for the greater course because he believed in this thing of boxing. He believed that it changed lives. He believed that it was worthwhile. He believed that there was a power to it beyond the left hook."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:55)",
+    "text": "The big picture of boxing."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:47:58)",
+    "text": "Yeah."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:58)",
+    "text": "He believed in it."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:47:59)",
+    "text": "Yeah, he believed that to be a champion, you had to be special, you had to be smart, you had to have character, that you had to be a better person, and that you couldn’t make a champion if you didn’t make him a better person first, and that this could strengthen people. The sport could strengthen people in those ways. So he was married to it. He was old and there was no one in the gym. It was empty. It was above a police station, which was crazy. He needed an heir to the throne. He needed to pass it on to someone."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "",
+    "timestamp": "(00:48:38)",
+    "text": "And he saw something, and all of a sudden he saw that my career as a boxer was less important than having me become his heir to the throne and becoming his trainer, his man, his guy, to continue, that we could do a lot more for him and for everyone. Not just for him but for everyone. It was more like to keep it going. It couldn’t die. It couldn’t die. Cus was afraid it would die with him. And he committed his whole life to it. He didn’t get married because of boxing. So he saw me as the little bit of the seed to plant for more things to grow before that plant died. And so all of a sudden he says, “You can’t fight.” I had people tell me that I could go somewhere else and fight. And I could, but I couldn’t because I’d be disloyal."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:36)",
+    "text": "Loyalty is everything."
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:49:37)",
+    "text": "Yeah. So I couldn’t leave Cus, and he kind of knew that. And so I couldn’t leave him. And he said, “You have an ability to teach.” He said, “Knowledge means nothing.” He said, “See these Britannica…” He had Britannica encyclopedias, the whole set, in our library. He said, “You see these?” “Yeah, I see them.” ” All the knowledge of the world, whatever, is in these.” “All right.” “Means nothing if you don’t have somebody to convey it to people. Otherwise, it just sits on a bookshelf and looks good.” He goes, “You have the ability to convey knowledge to people. You’re a teacher. You were born to be a teacher. You’d lessen yourself by only being a champion fighter because you’d only take care of one person. You could take care of all kinds of people and you could do this and you could do that and you could do this.”"
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "",
+    "timestamp": "(00:50:30)",
+    "text": "So we go on this venture. Took a minute, because I didn’t believe him at first, but finally I am, I’m there, I’m training fighters. Then he gets me to buy in, and I was a teacher. I start teaching these kids, and there’s no one in the gym. It’s dead. And all of a sudden there’s 10 kids, 15, 20, 25, 30, 35, 40, 45. Catskill Boxing Club, which was never there. Now it’s there. And I’m training fighters. I’m taking them down to South Bronx to get experience, one of his former fighters, Nelson Cuevas, down to South Bronx. I’m taking him down there to get smokers, to get fights when they’re ready after I teach."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "",
+    "timestamp": "(00:51:12)",
+    "text": "I’m wearing out dungarees. I’m getting holes in my dungarees. I was fashionable for it was fashionable to have holes in my dungarees. I could have made a lot of money with that because I was on my knees with these little kids, nine years old, 10 years old, eight years old, 10, 12, 13, 14, all these kids. I’m teaching them and I’m building a gym. Cus only came once a week because he was semi-retired, and he’s home. When he would come once a week, he knew he couldn’t give me money, but he gave me more than money. He gave me praise. And he said, “Look what Atlas is doing. He’s creating champions.” And I was like, “Whoa. Yeah. Wow. I’m doing good.”"
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "",
+    "timestamp": "(00:51:55)",
+    "text": "And then all of a sudden after four years of that, because I was up there seven years, eight years, eight years, after about three and a half, four years of that, we get a phone call that they got this kid in prison, in Tryon prison, from one of the guys that knew Cus, Matt Baranski. There’s a correction officer named Bobby Stewart who used to box, and Cus had helped him out a little bit. A little bit. They knew we had this gym. Now that was really starting to become something because we were winning tournaments and everything else. They go, ” We got this kid, Mike Tyson. He’s 12 years old, he’s 190 pounds, and he’s a mess. But Bobby Stewart got involved with him, the former fighter, and he’s taken a liking to it. And now where he didn’t behave at all and he didn’t listen to anyone, now he’s listening because Bobby’s got a carrot and the carrot is he’d teach him boxing. And now he’s at the point now where we want you to take a look, you and Teddy.” “All right. Bring him down.”"
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:57)",
+    "text": "What’d you think when you first saw Mike Tyson?"
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:53:00)",
+    "text": "Well, I wanted to see his birth certificate because he’s 190 pounds, 12 years old and all solid. Really? But, yeah."
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:10)",
+    "text": "Just physically, just as a physical specimen?"
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:53:13)",
+    "text": "Yeah."
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:13)",
+    "text": "Big guy?"
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:53:14)",
+    "text": "Yeah. And listen, Cus was right, I was a teacher. He was right. And he was testing me even that day. He said, “What do you think?” So I said, “Well, we ain’t going to know nothing hitting the bag. Who the frick cares about that? He knocked the bag down. We got to put him in with… We got no one to put them in that way.” I didn’t have anyone that way. We got to test him. Everyone’s got to be tested. So you got to put them in responsibly. But, “Let’s put him in, just responsible, but let’s put him in with Bobby Stewart.” Former pro fighter, had 14 pro fights. Smaller than Tyson. When he was fighting he was 175. But still, he’s 28 years old. Tyson’s 12. Come on. “And he’ll work with him, right?”"
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "",
+    "timestamp": "(00:53:57)",
+    "text": "So we do, we put him in. Tyson, he recognized the moment. He understood this was an audition, this was a chance. This was that TV show, Change Your Life. He understood that if he passed the audition, he could possibly change his life. He wasn’t sure what. How could he be sure what exactly? But it was better than what he had. And so he was on audition. So he innately understood what we would want to see: ferocious, toughness, character, desire, and, of course, ability. Well, we saw the ability, power, speed, but it was unbridled. It was untaught. It was raw. He didn’t know really much at all. At all. But we saw that."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "",
+    "timestamp": "(00:54:50)",
+    "text": "But he wanted to show more. He knew that wasn’t enough. Again, innate intelligence. He had to show desire. He had to show toughness. And so I was being responsible. After two rounds, that’s enough. Normally, I don’t put a guy in to box until maybe four months, five months, six months, eight months, 10. It depends what it takes to learn on the floor before it’s responsible to put them in the ring to actually take on incoming real live shells instead of blanks. And so normally I wouldn’t have him in. And I knew after today, he wouldn’t be in the ring again if I trained him. I would teach him first and then he’d get back in in a few months. But for this day, it was the only way."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "",
+    "timestamp": "(00:55:36)",
+    "text": "I used to make this announcement and Cus loved it. He said, “What’s training a fighter? What do you look for training a fighter, Teddy?” He asked me these ridiculous questions just to test me. And I say, “It’s like going to Macy’s…” Oh, he loved it. I said, “It’s like go to Macy’s window on Christmas.” He goes, “What do you mean, Macy’s window?” Cus was like, boom, boom, boom. So, “What do you mean, Macy’s window?” “You go to Macy’s window and they got the window with everything you want to see, everything in there. And it looks great, everything.” “Yeah? And then what?” “Well, then you ask, ‘What’s in the warehouse?’ and they tell you, ‘Nothing.'” And then Cus says, “That’s it. That’s the trainer.” And I wanted to see what was in the warehouse. Because I saw what was in Macy’s window. I saw the power, I saw the speed."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "",
+    "timestamp": "(00:56:22)",
+    "text": "So he goes two rounds and he gets a bloody nose. Here’s the weird thing, not weird, very telling. We knew what we were doing. I’m not bragging, but we knew what we were doing because he got a bloody nose because he got hit. After that, he never got another bloody nose. You know why? He didn’t get hit. Because he learned. He was still strong, but he was smarter now. Anyway, he goes two rounds, and I saw, and I’m being responsible because if he goes more, it’s not responsible. I saw what I needed to see. I saw speed, I saw power, I saw athleticism. And I saw, I didn’t believe him. I thought he was lying to me. I’m just telling you. I thought he was lying, trying to act tough when he wasn’t really feeling tough. It didn’t matter."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "",
+    "timestamp": "(00:57:04)",
+    "text": "Cus questioned me on it afterwards, “What did you see?” And when I said it, he goes, “Young master.” Again, he wasn’t paying me money so he had to give me something, right? And that was currency. “Young master.” I’m the young master? Whoa. “Young master.” You know what I mean? I felt like that guy, Kung Fu, like in the movie, like Kung Fu, “Grasshopper, when you’re ready, when can take this out of my hand, you can leave.” And-"
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:29)",
+    "text": "That’s powerful."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:57:30)",
+    "text": "Yeah, it was. It worked. Cus knew how to work me. And he did. And it worked. But you know what? I didn’t mind being worked. I kind of knew I was being shuffled a little bit."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:45)",
+    "text": "Well, you’re making it sound a little bit negative, but it’s also extremely positive. That’s a teacher instilling wisdom into you that you carried forward and it impacted a lot of people."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:57:56)",
+    "text": "Yeah. Cus got the job done, but he did it his way, and he did it for a myriad of reasons. But at the end of the day it was all good, and I just had to understand that eventually later on. But-"
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:11)",
+    "text": "And you do the same. You do things your way and carry some of him in you, some of your father in you."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:58:16)",
+    "text": "Yeah. That day it was funny because when Cus said, “What did you see, Teddy, with him?” After two rounds, I got up on the ring. I knew I was going to train him. Obviously, we weren’t going to say no. He still had about four months to serve, and we were going to work it out. And when I got up on the ring apron, that’s my gym, I’m the boss. People later on in life called me a dictator. You know what I said? “Yeah, you’re right.” I didn’t deny it. People thought it. “You mean I’m right?” “Yeah, I’m a dictator. I’m a trainer. I’m the boss. I’m in charge. You wouldn’t be here if I wasn’t. What the frick you need me for if I’m not fricking in charge, you idiot? Yeah, yeah. Damn right. Well, what do you think, it’s a shared responsibility? No, it’s my responsibility. That’s why you’re here. Yeah, I am in charge. You shouldn’t be here if you don’t understand that.”"
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "",
+    "timestamp": "(00:59:11)",
+    "text": "So I get up there and I know that I’m going to be training him. I got to show him who the boss is. I’m being really frank about this. So I get up there, I say, “That’s it. Out.” “No, no,” this is Tyson, “No, let me go. I want to do another round. I want to do another one.” “I said out. Did you hear what I said?” Because I knew that he was going to test me. He was testing me. I said, “I said get out.” He got out."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:59:39)",
+    "text": "But were you impressed with the fact that he wanted to keep going, or no?"
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(00:59:42)",
+    "text": "Yes, and I recognized what it really was. So Cus asked me, “What was that?” Cus wanted to know what the young master saw. So Cus said, “What was that?” I said, “It was an act.” He goes, “You saw that? Did he really want to go?” I said, “No.” I said, “He didn’t really want to go, but he knew that we wanted him to go, and he made himself ready to go in order to satisfy, and that’s just as good.” And Cus said, “Damn right it’s just as good. All that matters was not how he got there, but that he got there. That’s all that matters, that he got there. That he got to the place to act like a fighter, to do what we want him to do. To be ready to persevere, to go beyond the comfort level, to do another round. He didn’t want to, damn right he didn’t want to, but he knew we wanted him to, and he knew in order to pass the test, he had to do it.”"
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "",
+    "timestamp": "(01:00:43)",
+    "text": "And he said, “You’re right.” He goes, “Now it’s going to be your job to teach him, to make him a fighter that don’t get bloody noses, that don’t get hit and will get to that place without being chorused to get there, to get to that place on his own, instead of using the things that he had to use to get to that place today. Those things are not going to be available one day when you…” And listen to this. You talk about a man being prophetic. Cus was pretty good. You talk about a man being on the job, on the money, Lex. How do you think he finishes the sentence? He goes, “Because you’re going to have to make sure that he learns these things because he’ll be your first heavyweight champ.” “What did you just say?”"
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "",
+    "timestamp": "(01:01:36)",
+    "text": "He’s 12 years old. He’s been arrested 30 times. He’s getting out of jail, out of juvenile detention, Tryon. He’s a mess in a lot of ways. There’s a lot of things we find out later, a lot of problems, weaknesses. He goes, “And that’s part of your job. That’ll be part of your job.” But he really said that. And then he turned to him, he goes, “You want to come live with us, young man? You want to be a fighter?” “Yes.” Even that, Cus said to me later, “What do you think about that?” I said-"
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:14)",
+    "text": "The way he said, “Yes”?"
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:02:15)",
+    "text": "Yeah, the way he said, “Yes. Yes, sir.” Yeah. He said, “What do you think about that?” And we’re talking, I said, “He ain’t going to be that polite in a little while down the road. Again, he knew that that’s what he felt that he needed to project himself as, to present himself as to get to where he want to get to.” He goes, “Yeah, yeah.”"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:38)",
+    "text": "Did you see what Cus was seeing in terms of the heavyweight champion of the world?"
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:02:42)",
+    "text": "No. Again, the easiest answer would be yes. Teddy’s just a-"
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:45)",
+    "text": "Teddy knows."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:02:46)",
+    "text": "… genius. Wow, wow. Wow. No, no, no, no. But again, it was my job. And my job, it was simple, simpler than Cus’. Cus knew too much. I knew nothing. I just knew rudiments of boxing. I knew what it took to be a fighter and how to execute it, the steps of executing it. So I took those steps. The rest of it, you get blurred by those other things. I wasn’t blurred by those other things. It was just, “Get them in the gym, make them mentally stronger, make them face things, and teach them how to slip punches. And create holes, and fill those fricking holes with devastating punches,” this is Cus, “And what are you going to do?” “I’m going to teach them to fill holes and fill them with punches with bad intentions.” And that became the moniker. And then Tyson would say that, “I’m throwing punches with bad intentions.” Yes, you are."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:03:48)",
+    "text": "How do you make him mentally tougher? So that part of the job, you said the, “Don’t get a bloody nose,” but the part of the job where it makes him mentally tougher, how do you do that?"
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:03:57)",
+    "text": "Most important part of the job, to make him face things. Make him face where he’s lying to himself, where he’s submitting. What if we start this conversation with submission? Submit less, submit less, submit less every day, submit less. Cus only come to the gym once in a while. And if I had him sparring, he would come because that was his project, that was the heavyweight. Now he came. It put life in Cus. Cus had life. He was losing a little life, but that made the light bulb bright again. It did. And it was great to see. I felt proud of that. I felt connected to that."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "",
+    "timestamp": "(01:04:32)",
+    "text": "That’s why when it all went bad and Cus took the side, the only side he could take, the side of the next heavyweight champ of the world, but he left me, his partner, the young master… And for the second time I get betrayed. And I’m like, for a while I thought everything Cus taught me, said to me was a lie, and I didn’t want to be any part of it anymore until I got a little more mature and I got a little past that where I was able to understand. I was able to understand that just because somebody that you perceived as great in every area you find to be weak in certain areas doesn’t mean that they can’t still be what they want to you. It’s something that can be understood or forgiven."
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "",
+    "timestamp": "(01:05:43)",
+    "text": "But yeah, it’s hard. It’s hard to get to that place, to forgive somebody in that kind of way that I felt betrayed. Because Cus told me the most important thing was loyalty. Cus told me he loved me because I was loyal. Cus told people that the reason that he went to court was because I didn’t give up anybody."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:06:00)",
+    "text": "… to court was because I didn’t give up anybody, even though it meant put me in the risk of going to jail for 10 years because felt that he admired those traits. And so I assumed that he would show the same traits. And he took a deal. He took a deal. He took a deal. He signed the papers that those so-called Feds of mine signed. He took a deal to have the future heavyweight champion, as it turned out, and to let me go. To sign the deal to let me take the weight."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:48)",
+    "text": "For people who don’t know, Mike was inappropriate with a young girl and you pulled the gun on him. I don’t know if there’s deeper things to say about that situation."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:07:00)",
+    "text": "No."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:01)",
+    "text": "But why do you think Cus made the decision to cut you off from both Mike Tyson and from Cus D’Amato? To break that when he valued loyalty so much."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:07:12)",
+    "text": "I served my purpose. I got him to where he needed to get. Brought life back in the gym. If I wasn’t in the gym at that particular time, Tyson never would’ve been in the gym. There would’ve been no gym to bring him to when they called up and made that phone call to bring him to the gym. There would’ve been no activity. There would’ve been no boxing program. There would’ve been no training, training him 247 the way I was, where Cus wasn’t capable of doing that at that point in his life."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:40)",
+    "text": "Yeah."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:07:41)",
+    "text": "But then again, it’s not poor Teddy. I got the benefit of a career, I got the benefit of knowledge, I got the benefit of a life, I got the benefit of learning, of becoming hopefully a better person. I got the benefit of being betrayed again."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:59)",
+    "text": "That’s a hell of a statement right there. I don’t know what the benefit of that is."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:08:05)",
+    "text": "You can learn to forgive weakness when you realize how easy it is to be weak. And when you realize that… somebody asked me, how did you get to the point where you could forgive? It’s a pretty good question. Pretty simple, pretty basic, pretty important. And I didn’t understand, I understood. But I did understand immediately, for me. I said, “How can I not forgive somebody?” It becomes easier to learn how to forgive when you’re still trying to forgive yourself, when you’re still in the process of trying to forgive yourself for all your own inherent weaknesses and betrayals of people like my father in different ways that we forget very easily because it’s handy and it’s a way of surviving. It’s a lot easier to figure it out, rationalize it, to find forgiveness when you realize that you still haven’t figured out completely how to forgive yourself. I’m still trying to figure that out."
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "",
+    "timestamp": "(01:09:34)",
+    "text": "And so that helped me figure out how to forgive Cus because to figure out how to forgive me, I had to understood why I did these things. Where the weaknesses came from, where the selfishness came from, where the convenience came from. That they really existed. But they didn’t exist for malice, they existed for me not being prepared to understand that I could be stronger, to want to be stronger. And then I looked at Cus. He wanted to be stronger, but he got to a point in life where he had been strong for a lot of his life. He was strong with me, he was strong with a lot of things in his life. And does everyone deserve a pass in life?"
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "",
+    "timestamp": "(01:10:27)",
+    "text": "He got to a place where everything was in one basket, the basket of boxing. He once told me that he never got married because it would’ve been selfish to a woman to have gotten married when his whole life was boxing. That he couldn’t give to her kid, he couldn’t give to her. And then I thought about it. He had no money, really. And Jim Jacobs and Bill Caden took care of the bills, so he didn’t really need money that way. But what was the payoff of that kind of life, that kind of commitment, that kind of sacrifice? Really, what was the payoff? The payoff was to have champions. To have a champion that would keep your name alive."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "",
+    "timestamp": "(01:11:17)",
+    "text": "That word legacy, what does it mean? Sometimes it’s just a word, sometimes it’s more than a word. It’s a reprieve. It’s a pension plan. It’s being given a pension on your way out for the rest of your life, for your life wherever you’re going. You’re going to wherever you’re going for eternity. It’s the only thing that you take with you, is what you left behind. And for Cus it was all about leaving behind a mark. A mark of a champion. Yeah, it was attached to ego. We all have it. Yeah, it was attached to some selfishness and all. But yeah, it was also attached to wanting to leave something great behind."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:08)",
+    "text": "Yeah."
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:12:08)",
+    "text": "To know that you were part of it. That you existed for a reason. That you sacrificed for a reason. And all that freaking pain I brought my father, I was searching for something. Yeah, I made it into a righteous search. I made it into… I did. And I made it into, “It was okay because it was righteous,” but it still did damage. It still did damage. It still hurt people. It still betrayed my father’s trust. And Cus betrayed mine, but he didn’t do it maliciously. He did it out of, again… my father came home… this is how I’m going to connect it. My father came home from work one night, 12:00. And I was waiting on him. And like I said, I was nine, 10 years old. And he got mad at me. He goes, “Go to bed. What are you doing up?” I said, “I’m waiting for you. Waiting for you.” And he said, “Well, go to bed.” I said, “No. What were you doing?” He said, “I was at the hospital.” “Why were you there so late?”"
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "",
+    "timestamp": "(01:13:25)",
+    "text": "He answered me. He said, “There was a patient. There was a sick patient.” I said, ” He must be better now because you’re his doctor,” because my father could fix anything. My father, nothing got in the way of the truth. Nothing. Nothing. Even blowing his son’s bubble. Matter-of-factly he said to me, “No, he’s not going to get better. He’s going to die.” So as a 9-year-old kid, you’re a kid, you’re selfish, not in a bad way but you want what you… and I said two things. First I said, “How? You’re his doctor. How? It can’t be.” And then I said, I said it almost angry, “Then why were you there? You should’ve been here with me.”"
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:22)",
+    "text": "Yeah."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:14:23)",
+    "text": "And you know what he said to me? “Because you don’t give up on life. Go to bed.”"
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:51)",
+    "text": "Don’t give up on life."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:14:52)",
+    "text": "And I finally connected the dots. This idiot that didn’t graduate high school, I finally connected the dots. I was asking Cus to give up on life. You don’t give up on life. You don’t give up on aspirations of life. Life is all forms of life. It doesn’t have to be a physical form of it. It’s life. It’s having a reason to be alive. It’s having a reason to have tomorrow. And Cus’s only reason to have tomorrow was to have another heavyweight champ."
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:52)",
+    "text": "Yeah, a champ."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:15:11)",
+    "text": "And Teddy Atlas, even though we were together all those years, and we were partners, and we trained together, and the only thing we didn’t do was what they did in the Indian movies where they cut the finger and they became blood brothers."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:25)",
+    "text": "Yeah."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:15:25)",
+    "text": "That’s the only thing we didn’t do, and I felt like we did that without cutting. And now here we are, and he freaking betrayed me. The… and then all of a sudden I connected the dots. I was like, “He didn’t betray me in that cold sense, he didn’t give up on life.”"
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:53)",
+    "text": "Years later, Mike Tyson apologized to you. What’s meaningful to you about that? How does that fit the story?"
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:16:04)",
+    "text": "I want to be the great, gracious guy right now. Say, “Oh, I’m so human that a man’s man enough to say sorry, that’s it, we’re good.” I want to be, really. That’s the best presentation of Teddy Atlas I could put out there. He’s a good guy. He forgives. He’s a good guy. He’s a standup guy and he’s a good guy. I’m not sure. If he truly did it for himself, that he really did it because he felt that it was true. But if he’s persuaded by other things… he was in the middle. I know I’m taking it too deep, I know it, but what am I going to do?"
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "",
+    "timestamp": "(01:16:58)",
+    "text": "He was in the middle of 12 steps with the getting out of drugs, alcohol, 12 steps, which is a commemorable thing. Really, it is. And he’s taking the steps. Part of the steps was to admit all, to apologize to all people you offended in life. Okay. But are you doing it for the 12 steps or are you doing it because you really truly have come to terms with believing what you did was that hurtful to me, and that it matters to you that it was that hurtful to me, and that you were wrong in doing in it? Did you do it for… I know that’s deep. I know that I’m a freaking idiot. “Teddy, you should be better than that. He’s better than you.” Yeah, maybe he is better than me. Maybe he is. Really. Seriously, maybe he is. And I took it. He put his hand out. I took it. We hugged. He said, “I love you.”"
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "",
+    "timestamp": "(01:17:58)",
+    "text": "Yeah. Yeah. But I want to believe. But what did Cus tell me? “No matter what a man says, it’s what he does in the end that he intended to do all along.” So to this day today, was it really genuine or was it reflexive of that moment for him to get what he needed for that step? Or was it truly for what I needed? That he really cared that what he did to me caused me to do what I did. Because I did something that was pretty bad to him, too. Is he able to deal with that and put that where it has to be put? Is he able to put that? Or is it just he did something he had to do and maybe he’s sorry he did it? Look, I appreciated that he… I would it’d rather been in a private place."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:05)",
+    "text": "Yeah. So for people don’t know, you were in the middle of commentating a fight, and he walked up from behind you and he said he was sorry. He shook your hand, gave you a hug. I didn’t know. He said, “I love you.”"
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:19:15)",
+    "text": "Yeah, he’s emotional. I get emotional a little bit, too. But he’s emotional and he can be… I can see why people have a fascination and a love affair with him right now, because he was the meteor that went across the sky that, if they didn’t see it, their parents told them about it. There was a meteor that came across the sky one day."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:42)",
+    "text": "Yeah."
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:19:42)",
+    "text": "And the meteor is walking around in the room now, and that’s the meteorite. And it actually landed here, and that’s it right there. And now he’s come a long way. And now he’s more human and he’s lovable and compassionate and he cries. And I get the fascinating, I get the love affair. I get it because, inherently, we’re people that want to forgive. We’re people that, we want to be good, and part of being good is to forgive people and to show compassion to people. And when somebody’s been damaged, to acknowledge they’ve been damaged, to acknowledge that you know they’ve been damaged, and you care about them being damaged. And how do you show care? Through admiration. In some ways almost through adulation. And he’s getting adulation from people, which is to an incredible level. And it’s a phenomena, but I get it. I understand it. And I don’t know if he gets it. I don’t know if underneath all of this… he’s a complex guy. He’s a sensitive guy. I don’t know… And I am, too."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:00)",
+    "text": "One complex guy talking about another complex guy."
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:21:03)",
+    "text": "I don’t know if, underneath it all, where he’s really truly at as far as that day that he said that to me."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:12)",
+    "text": "Is there part of you that’s sorry to Mike for-"
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:21:15)",
+    "text": "I’m not sorry."
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:16)",
+    "text": "Pulling the gun on him?"
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:21:17)",
+    "text": "Yeah. And listen, that’s fair. I know dimensions of human nature too well to not know that he still has to have certain… because I have those strong feelings. What? It’s not fair for him to have them? Damn right, it’s fair. Now, he could look at it, if he was to be held to his word, that night that he just acknowledges that what happened, he deserved because of the position he put me in and he put himself in, what he did. And I wouldn’t change nothing."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:54)",
+    "text": "Still, you don’t regret pulling the gun on him?"
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:21:58)",
+    "text": "I regret that I had to."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:58)",
+    "text": "Yeah."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:22:01)",
+    "text": "Yeah, I regret very much that I had to. I regret very much."
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:06)",
+    "text": "He crossed the line."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:22:08)",
+    "text": "I hated him for putting me in that position. How dare he think that somebody’s feelings are that trivial? That the way I would feel about myself and the way the girl would feel about herself, that was 11 years old at the time, how she would feel about herself. How dare that he think it’s that trivial that I shouldn’t be ready freaking to both die and kill for that?"
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:35)",
+    "text": "Yeah. Why didn’t Cus D’Amato see it in a deeper way and talk through it?"
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:22:42)",
+    "text": "He did. The word came back to me but, of course, what does it mean? But the word came back to me that Cus said, “You were right.” But if he took the side of Teddy, he would destroy potentially a great fighter."
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:59)",
+    "text": "Why do you think that? Okay, if you were to try to understand the point he was making, why is that true? Isn’t the part of greatness that you said is building the character of knowing what is right?"
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:23:11)",
+    "text": "Cus was afraid to go there, where he used to not be afraid, because it’s kind of like you’re never afraid of going up. And I get it. When I train to fighter now, if I come out of retirement, I train to fighter now, I feel in camp like I’m on death row every day. Every day I try to retrace my memory and say, “Did I feel this way when I was younger? I don’t remember feeling this way.” I feel, every day, a dreadful feeling that if I don’t get this right, I betrayed everything. I betrayed the fighter’s trust, I betrayed what I’m supposed to be."
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "",
+    "timestamp": "(01:23:53)",
+    "text": "And then one day I tried to figure it out. Why do I feel this way? It’s so intense. I was in camp for two months training a guy for the world title a few years ago, fighting the hardest puncher in the world at the time, Adonis Stevenson, and the fighter was Ukrainian. And I was brought in to train him for that fight, and he trusted me and changed his whole style. Trusted me. Oh my God. I went to bed every night praying, dread. Waking up, dread. My stomach down to here. Saying, “What if I fail? What if everything that I told him was going to happen don’t happen? What if I fail him? What if he trusted me and I betrayed that trust?”"
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "",
+    "timestamp": "(01:24:37)",
+    "text": "And the thing with Cus was he used to be stronger than that. And then I tried to figure it out, why I got this way and why it was so dreadful to me, and why I felt like I was on death row every day training a fighter. Like, “Did I do enough? Did I do right? Will we accomplish what I promised him we would accomplish? Would I keep my word?” And then I started thinking, how did I become this weak? How did I freaking become… I was a pretty strong freaking guy. How did I become this weak? And then finally I think I figured it out. You know why?"
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:12)",
+    "text": "Hm?"
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:25:13)",
+    "text": "Because I was always working to get up. But once I finally got up, now I was looking down. And it finally hit me. I said, “I didn’t want to lose.” I said, “There was nothing to lose on my way up.” Now, all of a sudden there’s something to lose when you’re up there and you’re looking down."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:29)",
+    "text": "And that’s where he was."
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:25:32)",
+    "text": "And that’s where Cus was. Cus was at the end of his rope. He accomplished two world champs, all this stuff, everything. And he did it right. Now all of a sudden it wasn’t about moving forward, it was about not falling down. Holy cow. I was like, “I got it, Cus. I got it. I got it. You didn’t want to fall down. Oh my God. You didn’t want to fall.” And this was his last chance. You don’t give up on life. This was his last chance to live forever. To make everything he did worthwhile. To have the youngest heavy… it wasn’t just heavyweight champ. You’ve got to remember he was the youngest heavyweight champ ever."
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "",
+    "timestamp": "(01:26:20)",
+    "text": "And to have that, it was okay to die now. And how’s loyalty to someone named Teddy Atlas going to get in the way of that? That’s a tidal wave that there ain’t no wall that’s been made high enough to stop that tidal wave. And now I’ll stop myself. Yeah, there is, but it would have to be an awful big one. And you know what? Who are we to say that we could ever build that wall that big? Who is any of us? Who am I to say?"
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:54)",
+    "text": "Do you think, if you were to put yourself in the shoes of Cus D’Amato, can you see yourself having the big enough wall where you would choose loyalty?"
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:27:07)",
+    "text": "Now, if I answer the way I feel then I’m making myself John Wayne again."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:13)",
+    "text": "You don’t have to answer then. I think loyalty is important."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:27:18)",
+    "text": "No matter what a man says, it’s what he does in the end that he intended to do all along. I didn’t make that up, Cus did. And when this all went down, those words came freaking echoing into my freaking ears. I didn’t want them. Cotton doesn’t help. And they freaking kept coming into my ears. And what do you think? Still an immature kid at the time. I was young. Still an immature kid at the time. What the freak do you think my response was? You were full of…"
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:54)",
+    "text": "Yeah, shit."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:27:56)",
+    "text": "But I got past that."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:58)",
+    "text": "Do you forgive Cus? Have you found forgiveness?"
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:28:03)",
+    "text": "Listen, I forgive him because he gave me more than he took away from me. What kind of man am I if I can’t at least acknowledge that and be grateful for that? He gave me more than he took from me, and I’m grateful for that. I’m also grateful for what I gave him, that I did give him something, and at that point in his life. A place to still have test tubes and chemistry experiments. A laboratory where he could still create a great fighter. And I helped give them that. I was part of that lab and making sure that lab was there and just that there was the existence of test tubes in the place, because you can’t freaking do experiments without test tubes."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:07)",
+    "text": "Now you’re the scientist with the test tubes."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:29:10)",
+    "text": "Yeah, I guess so. And I just hope that… what I said earlier is really my thread through this whole thing. When you say, “Could you forgive Cus?” I’m still trying to forgive myself. And if I can have hope that I can forgive myself, I think that hope has to start with the power to forgive someone else. How can I ever forgive myself for all my failings and figure it out if I can’t start and practice it by forgiving someone else for some shortcomings? And for me, that’s the only sense of sometimes a very hard thing to make sense of. That’s my North Star, that’s my compass. Cus used to make me laugh. Me and him did everything together. And we’d get lost in the city, we get lost in the Bronx, and he’d get all frustrated. And he said, “Atlas, you’re a great trainer but you turn you around, you spin you around and you’re lost.” And I said, “Me or we?” Because I was the only one who would argue with him, and it was really funny sometimes. And I said, “We or me? We or?” He goes, “[inaudible 01:30:46].” “Cus, you’re lost. I’m lost. What are you talking about?”"
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "",
+    "timestamp": "(01:30:52)",
+    "text": "And then all of a sudden Cus couldn’t give in. He just couldn’t admit. He couldn’t give in. You know what he said to me? All of a sudden he goes, “When I was in the Army, if I had a compass I could get out of the woods.” I said, “We’re not in the woods, we’re not in the Army. We don’t have a compass. Cus! Cus!” “Just don’t argue with me!”"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "",
+    "timestamp": "(01:31:13)",
+    "text": "One time we’re driving. I want to get back to Catskill. We just finished at the Bronx. It’s been a long day visiting the Murderers Inc. houses and everything else that he took me through for the 1,800th time. And he would fall asleep. He was getting older and he would just fall asleep in the car. So what do you think? I went a little faster, because before he went to sleep he said, “Don’t speed.” I don’t consider myself… I try to be an honest guy and I try to be a freaking…"
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:31:51)",
+    "text": "Was it five or six guys?"
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:31:52)",
+    "text": "What did I figure earlier? Try to do less submitting, really, in all phases. Try to submit a little less. Try to lie a little less today. A little less. Try to get stronger, try to get a little better. So here we are and we’re driving. And all of a sudden he’s asleep. What did I do? 80? 75? Probably. Probably did. Whatever. And all of a sudden he wakes up. “You were speeding.” I lied. “No, I wasn’t.” ” Don’t lie.” “I’m not lying.” “You lied again. You were speeding.” Now, come on. This guy, he’s unbelievable. So I got to freaking… he’s David Copperfield, I want to know the trick. I want to know how he made this thing disappear."
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "",
+    "timestamp": "(01:32:52)",
+    "text": "So I said, “What are you talking? How do you know?” He goes, “Because I timed you. I looked at the post number.” And I’m like, “What?” “I looked at the post number on the side of the road where we were,” whatever mile. And I never knew they even existed. I look and I said, “Yeah, there’s little numbers.”"
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:12)",
+    "text": "He started timing and then he fell asleep."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:33:13)",
+    "text": "Yeah, he timed it. And he looked. He goes, “We couldn’t have got from here to there in that amount of time unless you were going 75 miles an hour.” And I’m like, “All right, I’m impressed. Don’t try to get the mileage, the mile per hour part right. It’s enough that you got me. That’s enough. Yeah.” I said, “And I’m not going to do that no more.” And he helped me in crazy ways where there would be times where you wanted to be whatever, convenient, weak, submit. And then all of a sudden, in my mind, Cus was there with the stopwatch. And I’d be like, “No,” where I was about to say yes to whatever that particular situation was."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:34:16)",
+    "text": "Somebody hit their phone. Hello? Hello? Yes. Doing great. Thank you."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:34:30)",
+    "text": "Just for the record, never had a phone call like this. It’s hotel security. The question he asked me is, “Are you okay, sir?” Are you okay? Are we okay?"
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:34:39)",
+    "text": "I think so. I think so. So far."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:34:43)",
+    "text": "Yeah."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:34:44)",
+    "text": "I can only go so far. It’s kind of like that old joke where the guy jumps off the Empire State Building. He’s falling down and he’s going 80th floor, 70th floor, 60th floor, 50th. And he gets past the 50th floor and they’re looking at him out the window and he goes, “How am I doing?” They’re like, “So far so good.” I don’t know where it’s going to end."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:07)",
+    "text": "Mike Tyson is considered by many to be one of the great boxers, one of the greatest boxers of all time, heavyweight boxers. What do you think, on the positive side, made him great?"
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:35:18)",
+    "text": "I don’t know if he was ever great. I know he was sensational. I know he was the greatest mix of maybe speed and power ever. I know he was one of the greatest punchers from either side of the plate, left or right. There’s been great punchers with just the right hand, like Earnie Shavers and Deontay Wilder and Max Baer. I don’t know if there’s ever been anyone who could punch as good as he did on either side with either hand, other than Joe Louis and a few others. I don’t know if there’s ever been such a combination of speed and power to that pure level that he had, and it was a pure level."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "",
+    "timestamp": "(01:35:58)",
+    "text": "I don’t know if there was ever as good a fighter as Tyson was, where maybe one night he was great where he wasn’t tested but he might’ve been ready to be tested. That one night against Michael Spinks when he took him apart in 90 seconds, I think I saw a great fighter that night. I don’t think you can be great unless you have all the requirements of being great."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:22)",
+    "text": "What does it take to be a great fighter? Truly great."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:36:32)",
+    "text": "To not rely on someone else’s weakness to be strong. To be strong on your own. Too often he relied on other people’s weakness, whether it’s by being intimidated or whether it was because his talent was so much greater than theirs that it was like putting a monster truck in there with a Volkswagen, and the Volkswagen was going to get crushed. No matter how much horsepower the Volkswagen might’ve had under the hood and you put under the hood, it was going to get crushed. The monster truck was not going to allow it to be a contest."
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "",
+    "timestamp": "(01:37:07)",
+    "text": "And to be able to find a way when your talent wasn’t enough. He didn’t find a way when his talent wasn’t enough. And I’m not making statements if I’m not ready to put some evidence. Like if we were in a courtroom, exhibit A: when he fought Buster Douglas, Buster Douglas matched his will and didn’t get intimidated. Stood up to him. He didn’t do what most people did. He didn’t submit even a little bit. Not that night. He had in the past, but that night he didn’t."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "",
+    "timestamp": "(01:37:48)",
+    "text": "Why? Because Buster had a secret weapon that night, his mother. Buster’s mother had died a few months previous. He loved his mother very much. Buster had always had talent. Big heavyweight, talented, could punch, technically solid. He was all those things, always was, but he quit in fights. He did less than he should’ve done. He never lived up to his ability. He gave in. He submitted. He wasn’t strong enough. He never had a reason to be strong enough. When his mother died, he had a reason. Nothing could hurt him as much as his mother dying hurt him, Mike Tyson included."
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "",
+    "timestamp": "(01:38:27)",
+    "text": "That night Mike Tyson could not hurt him as much as his mother had hurt him by dying. That night he had a reason to be strong, for his mother, and he was strong. He was everything he was supposed to be and more. And he stood up to Mike, and Mike, for the first time maybe ever, was in a fight where he had to overcome something, where he had to be more than talented, more than a puncher, more than a guy with scintillating speed. And he wasn’t. And then that night got followed by another night with Holyfield. Holyfield…"
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:39:00)",
+    "text": "… night got followed by another night with Holyfield. Holyfield wasn’t as talented as him, as big, as a much puncher, but Holyfield had the character. He was strong in ways that Tyson wasn’t strong. He was strong in a way where he could find a way. He was willing to find a way. He’s willing to go to the cliff, to truly die before he submitted. A lot of stuff is just words, “They’re going to have to carry me out on the shield,” yeah, sure. Okay. Yeah, until it comes time to be carried out on the shield. Sometimes there’s people that actually mean it."
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:45)",
+    "text": "You think Mike didn’t have that?"
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:39:47)",
+    "text": "Well, all right. Let’s just say arbitrarily, I don’t have his record in front of me. Let’s say he was 55 and five, I know he had about five losses. All right, let’s say he was 55 and five, a lot of knockouts. I have a saying, a fight’s not a fight until there’s something to overcome, until then it’s just an athletic exhibition. Contest. Yeah. Who’s a better athlete? Who’s got more quick twitch fibers? Who’s more developed? Who’s a better this? Who’s more developed in those physical areas? But a fight is not a fight until there’s something to overcome. Okay. So, if you go by my definition, not Webster’s, my definition, which I think means something, Mike Tyson was only in five fights in his life."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "",
+    "timestamp": "(01:40:41)",
+    "text": "The five fights where there was something to overcome and he didn’t overcome it. Now, I know people hate me for this, including Tyson. I understand, hate me. Oh, you’re a hater, because you weren’t with him, you didn’t make the money because this, because of that, because you got betrayed. I think I’m better than that. I hope I’m better than that. I believe I’m better than that. I’m not a hater. I’ve broadcast fights for 25 years on ESPN, where there was some people in the corner I did not like, and if they did a good job, this guy’s doing a great job. And then, there were guys that I liked and I had friendship, he messed up, and we weren’t friends no more. Friendship got to be tested. Remember that? So, we weren’t friends no more, but why did I do that? Because it was my job. It was more important for me… When it’s all over with, the only thing you’re left with is… We’re going to be dust, all of us, right?"
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "",
+    "timestamp": "(01:41:46)",
+    "text": "The only thing we’re left with is what carries on, our reputation, legacy, whatever that is. But our reputation, that’s all we’re left with. And that’s all our kids are left with. I want it to be as good as it can be. I’ve always had ability, I’ve done a lot of things wrong, and I’ve had a lot of lackings, but the one strength I’ve had, if I had a strength, is to understand somehow, through osmosis, I guess, to learn the lesson that was important is not what’s in front of you for those five seconds, for that moment in life, it’s what’s left behind you when those five seconds are gone. Whatever it is that you’re dealing with, whatever that moment is, whatever… That moment, what you do in that moment, the action of that moment is going to stay with you and be you. It’s going to become you."
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "",
+    "timestamp": "(01:43:05)",
+    "text": "What you face for that moment, it’s gone. It’s gone in the air, in an instant. It’s gone, it’s done. Whether you stand up there and you get shot in the head, and the guy freaking blows your brains out, or you stand up or you’re fighting a guy who’s a scary guy to fight, but you fight him and you beat him or he beats you up. But how you represented yourself in that moment is all that matters. That’s going to live. What happened don’t matter. It don’t matter that you got shot in the head. I know that sounds absurd, but if you believe that it was important to stand up and take the chance to get shot in the freaking head, rather than to live like an empty vessel, you know what? That’s all that freaking matters. And somehow that got freaking wrapped into this freaking head of mine, that’s what matters. That’s all that matters."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "",
+    "timestamp": "(01:44:17)",
+    "text": "You know how many times I went, and there were things, whether it was with this one, with Tyson, with that… I didn’t want to be there, I was scared to death, but I was more scared-"
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:31)",
+    "text": "Living with regret."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:44:32)",
+    "text": "… how I would’ve felt. I don’t want to be in solitary confinement the rest of my life, with that freaking guy in the cell next to me called regret. I don’t freaking want to be next to that guy. If I want to freaking go down that road, I’ll watch Papillon. And I’ll get my fill from that. But I don’t want to freaking live it. I’m afraid of what my children would think of me if I fail in those areas. Why? Because that’s forever. When I’m closing my eyes for the last time, I don’t want to have that fear. I don’t want to have that fear. Whether I’m going down there or whether I’m going up there. I laugh because I was around guys years ago that used to, when we’d talk about that in jest, and I would get a kick out of this one guy who’d been around the block a few times, when he’d say, “Teddy, I ain’t worried about that, I got friends in both places.”"
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:45:40)",
+    "text": "That’s a good line."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:45:41)",
+    "text": "And I thought it was good. Listen, Mike Tyson, you want me to say he was a great fighter, then you want me to betray what I really… You know what I mean? You want me to do that? I ain’t doing it for… Listen, I could do it to be a bigger Teddy Atlas, and I know it would work for me. I know it’d do great promotional work for me. I know it would make me more popular in certain areas. I know it, I’m not that dumb. Not that dumb. But I also know what else it would do to me, and I don’t want it to do that to me. I think he was a great talent, I think maybe the night with Michael Spinks, maybe the night with Mike, maybe he could have been that fighter. But he didn’t never really get tested, but he might’ve been ready no matter what, I have to be tested that night."
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "",
+    "timestamp": "(01:46:32)",
+    "text": "That’s how good he was. That’s how, even though it was a guy who used to be a light heavyweight, I get it. But it was still a guy who beat Larry Holmes, who still had something left, Michael Spinks. And a great puncher. And an Olympic gold medalist. And a special fighter, one of the great light heavyweights of all time. You know what Mike Tyson was? He was a meteor. He was a meteor that struck across, and not too many meteors… And we still talk about him. And unlike Haley’s comet, he came back, and he’s walking around. And he has become greater after his career, more loved, more beloved, more awed, and he’s been forgiven. He found the fountain of forgiveness. I don’t know… I wish I could find that."
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "",
+    "timestamp": "(01:47:19)",
+    "text": "Where he has been forgotten for all his shortcomings, all the things that he may have done, may not have done, we don’t know, only him and God know. But he’s been forgiven of all that, and he’s been not only forgiven, he’s rised above it and above that, and been brought above that. He’s been brought to the pyramids of the greatest athletes in the world. In every way. In every way. As a person, as a fighter, as a historian, as a figure, as a celebrity-"
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:48:05)",
+    "text": "Even a philosopher."
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:48:06)",
+    "text": "Everything. So, I will take it back. All right, all you guys out there, you forgive me, he’s the greatest of all time, if you encapsulate all that. If you encapsulate everything I just tried to describe and explain, if you put that all… He’s the greatest of all time, yeah, he is. But he still might be 0-5. In a record of 55 fights he might, in Teddy Atlas’s book, again, I got friends in both places, so it’s was okay. Wherever I go I’ll have company, somebody there will like me, despite me saying this. He might be 0-5 because of five fights where there was something to overcome, which really defines a fight. He didn’t find a way."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:48:55)",
+    "text": "Let me ask Teddy Atlas to introspect on the human nature here, as part of the complexities of your feelings on this whole thing is that you know to some degree that if you were coaching Mike Tyson, he could be truly great throughout-"
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:49:13)",
+    "text": "I know… I’m going to cut you right off, because you asked a million-dollar question, I wish you didn’t, but you did. You did. Because that’s why-"
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:49:21)",
+    "text": "When do I get paid?"
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:49:22)",
+    "text": "That’s why you get paid. I get it, you took the words out of my mouth. That’s why you are where you are. And that’s why I’m here."
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:49:33)",
+    "text": "The humility."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:49:34)",
+    "text": "I’m going to, again, full disclosure, it’s important, right? I’m going to cheat, I’m going to take some of Cus’ wisdom. All right. A little bit of mine. Cus told somebody that if Teddy Atlas got his way, he might’ve been a better person, but we would’ve risked him not being a great fighter. Now, I believe, and I thought Cus did, and I think he did up to that point in his life, that part of your strength of character made you a great fighter, and truly a great fighter. And part of that battle to be a better person, that fight if you will, to be a better person, to overcome the [inaudible 01:50:22] to be a better person, part of that fire you have to go through to be a better person, I really truly bought into it, and I’m in for life."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "",
+    "timestamp": "(01:50:34)",
+    "text": "That is really the only way to be a great fighter. And I don’t think that’s what Cus meant, I think he meant that… Cus knew more than I did of what was about to come and what would come and what the world was. How people would try to steal him, how people would take him, how people would steal his guy. The last thing he had, really, the thing that he lived for. Because he lived to have another heavyweight champ, the greatest fighter ever, in Cus’ mind. He could be. And I believe that Cus knew that he could put forward a guy that had the ability to be the greatest fighter ever, without fully completing the mission of what it takes to really be great, but that he wouldn’t be around to have to witness it."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "",
+    "timestamp": "(01:51:38)",
+    "text": "And that he wouldn’t… Oh man, this is awful. He’s willing to concede that he might be dead in order to have eternal life, in order to have greatness. And which, Cus does have greatness, and part of that greatness is attached to Tyson. And he deserves it. He deserves it, Cus was a great man. And I wouldn’t be here, partly, without him."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:52:07)",
+    "text": "But that was part of the calculation."
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:52:08)",
+    "text": "I know that’s deep, and I know that’s… Oh God, I hate myself right now. But Cus, he knew he was getting out free. He knew he was going to not have to be there. He was getting off easy. Oh, Teddy, how do you say someone’s going to be dead, they’re getting off easy? I’ll say it again in case you didn’t hear me, all right? He was going to get off easy, and not have to face where he came up short, because he did his job. Because he put forward the greatest fighter of all time, and you guys screwed it up."
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "",
+    "timestamp": "(01:52:48)",
+    "text": "And he knew that that might happen, but you guys screwed it up. And whatever, that’s your fault. That’s on… I’ll tell you, Tyson will be mad at this, but that’s on Tyson. How can you say that Teddy? He loved me. I’m not saying he didn’t love you, but he loved some other stuff too. And I don’t know if Tyson could ever come to grip’s light with that, and it’s not his job to. But it’s my job not to hide from it. I know Cus in dimensions that other people just only think they know."
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:53:23)",
+    "text": "Did Cus know? Did Cus know this about himself? Did he reflect? Did he introspect?"
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:53:30)",
+    "text": "Well, he sent a message to me. Cus sent a guide to me… My wife was pregnant, we were living in an apartment in Catskill on [inaudible 01:53:38] road. We went through all this, and I was getting ready to move to Staten Island, and we still were there for a little while before we did, after all this went down. He sent a guy to me, to the house, secret, whatever you want to call it… My wife, me. So, I listened to him. Cus said, if you leave… I’m a messenger, whatever. If you leave… This was in the aftermath of the gun, the whole thing. You got to remember, Tyson was a ward of the state. He was put in Cus’ custody. Cus was looking to adopt him, for obvious reasons, so he had control. And he loved him."
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "",
+    "timestamp": "(01:54:28)",
+    "text": "How dare I say anything less? I won’t. But it made sense too. But he was a ward of the state still. Do you know what that means? There’s rules. It means the state’s still overlooking it. If he ain’t living the right life… You got to remember, he came out of a jail. So, reform school. But if he ain’t living the life, he could be taken away from Cus. What’s not living the right life? Well, he wasn’t in school no more, they didn’t know about it. He had some things that were going on, we won’t get into that right now, in school and different things, whatever. And he had his trainer put a gun to his head. That ain’t so good. If a report came back to them that that happened, he would’ve been taken away from Cus. That couldn’t happen. Nobody knows this. I talk about it a little bit, but never, probably… Because why would I?"
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "",
+    "timestamp": "(01:55:28)",
+    "text": "I don’t know. Why am I doing it now? I don’t know, because… I don’t know. Because I am-"
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:55:33)",
+    "text": "[inaudible 01:55:33]."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:55:33)",
+    "text": "… because it’s now. Because it’s now, maybe. Maybe because it’s now, I don’t know. So, he sent this man, that obviously we both knew, and he said, here’s the deal, Teddy. No talk about this, wants it to disappear, basically, you leave and he will give you 5%… His word. Can you imagine? He will give you 5% of Tyson’s earnings for the rest of his career. But I don’t regret it one bit because it wouldn’t have happened anyway. See, that’s where I could be honest with my… People say, oh, standup guy, because I told him to shove it where the… In that place. And tell Cus to shove it in that freaking place. I was mad. Teddy, don’t get angry… Don’t get angry? Are you out of your… Are you serious? Get out of here. Tell them to go shove it over… And my wife was like, huh? And then, people are like, [inaudible 01:56:37], why didn’t you take the deal? It wasn’t a deal, it was an escape clause for Cus. It was an insurance policy, that this kid wouldn’t be taken away from him."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "",
+    "timestamp": "(01:56:52)",
+    "text": "And thank God he wasn’t. I wasn’t going to go and say nothing, they didn’t have to worry about it. Cus forgot who I was? Cus forgot why he went to court for me? Because of those characteristics that he said he loved, and he noticed, and that he admired. I didn’t lose those characters, he forgot that that was me, he forgot who he was talking to. He didn’t have to do that. How about, that’s why I told him to shove it up his… Not because of the other insult. And then, when people said to me, oh, you were stand up… Because it was around a little bit. It was around in the circles. And then, when people… Oh, stand up Teddy, he didn’t care about the money. I said, stand up Teddy? What are you talking about?"
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "",
+    "timestamp": "(01:57:39)",
+    "text": "How about just realistic, Teddy? How about I live in a real world, that I was never going to get that money? So, I’m standing up to something that I knew never existed. So, I ain’t stand up, not in that way. I am in other ways maybe, but don’t put a medal on my chest for that, because that never existed. It was never meant to exist. But he didn’t even understand. That was the one thing that really disappointed me in Cus. I was like Cus, you really allowed this to get to you. Where you’ve allowed it to really fog up your thinking, to the point where you’re smarter than that, you’re better than that. That you would actually think you got to freaking offer me freaking pieces of silver. You really think that? That’s what you… Freak you. All that you told me, that you love me, and that I was the young master, and all this… And you think you were going to buy me? And that was going to keep me quiet? How about I would keep quiet because I would always keep quiet?"
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:58:52)",
+    "text": "So, he thought maybe you might betray him?"
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:58:56)",
+    "text": "Isn’t that interesting? Yeah. And why did he think that? No, no really?"
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:59:03)",
+    "text": "Fear."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(01:59:04)",
+    "text": "Yeah. But yeah, fear is at the essence of everything, it’s connected with everything. Fear of losing what he was going to lose. But it was more than fear, it was him not believing in the things that he told me he believed in. He didn’t even know that. He believed in me because I was a standup guy. Because I didn’t sell myself. Because I didn’t freaking turn evidence. I didn’t make a deal. I didn’t do… And that’s why he went to court, and that’s why he stood up for me. And I appreciate it. And that was what he lived by. And those were the blocks of being a man. So much for those blocks."
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:59:47)",
+    "text": "Well, it’s like you said, loyalty requires… He would’ve had to take a risk on losing immortality that he would achieve by creating a great heavyweight champion-"
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:00:02)",
+    "text": "And that’s the only way you… 100%. But the only way you ever find out if somebody is really that-"
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:07)",
+    "text": "It’s hard. It’s hard."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:00:08)",
+    "text": "…it’s the test. And it was Cus."
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:10)",
+    "text": "This is Shakespearean, this story."
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:00:15)",
+    "text": "Cus told me, Cus said, “And the test come in different forms.”"
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:18)",
+    "text": "Yeah."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:00:19)",
+    "text": "I said, all right, Cus."
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:20)",
+    "text": "This was his test."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:00:23)",
+    "text": "And some people pass this test because they’re able to pass that test, because it’s not really a test. Not for them. Because it doesn’t speak to their weakness. But it’s the test that speaks to the weakness, that’s the one. So, this one, I get it, I get what it spoke to, Cus. And you know what? At the end of the day, I forgive you, and I feel bad for you. I feel bad that you were put in that position after you lived your life that way, and that you taught that and you preached that from the mountaintops, that you had to be… That you had to be… I’m not going to use the word. But that you had to fail yourself, and that you had to somehow know that before you died."
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "",
+    "timestamp": "(02:01:22)",
+    "text": "I just pray that you didn’t know that. And you still don’t know that. Because you were great, you were great. And you’ve given me something to aspire towards. To try to be less weak. Try to be better. And try to be as good as you wanted to be. I wish I can someday. More importantly, I wish I could make my father just feel good up there."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:02:18)",
+    "text": "You’re a grandfather now."
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:02:20)",
+    "text": "Yeah, four grandchildren."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:02:23)",
+    "text": "If you can give them advice on how to live a life they can be proud of…"
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:02:33)",
+    "text": "Just do everything you can, to the best of your ability, every day, to like yourself. To give yourself a reason, to actually say, I’d like to be friends with that guy."
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:02:57)",
+    "text": "Is loyalty one of the reasons? One of the things to aspire to?"
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:03:06)",
+    "text": "Loyalty is your chance to have a fulfilled life. Loyalty is your chance to have strength, to have all the things you need to have a good life. To be a good parent, be a good husband, be a good grandfather, hopefully be a good role model. Loyalty is… If you could find something to drink, to take into your body, to make you prepared for life, to be all the things that you want to be, to be strong enough to be those things, loyalty would be the thing you would drink. And when I say loyal, I mean unequivocally. I mean unconditionally. Not conveniently, obviously you know that. If you could be loyal, you could be a good person. You could be a person that you would actually like to be around. Because you could be a person you could rely on. And I think that’s one of the greatest assets that a human being can have."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:04:32)",
+    "text": "And what do you do when you’re betrayed? How do you overcome that?"
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:04:38)",
+    "text": "You think of what you learned from it. Use it as a roadmap to remember, and to think back of how you got there. And how you got to the place where you got betrayed, and how that person got to that place. Try to remember that in your own journey."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:04)",
+    "text": "Has it, for you, made you cynical? How do you take the leap of trust towards people again and again after that?"
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:05:14)",
+    "text": "Just by remembering that I’m still trying to forgive myself for the things that I came up short with. And if I haven’t figured that out yet, it’s probably okay to say they didn’t figure it out yet, they didn’t figure it out. And if I couldn’t figure it out and I’m still trying to figure it out, maybe I could get over that initial stabbing of, what it feels like. It does feel like a stabbing. That you feel when you’re betrayed initially, and that you could only think of anger, revenge, hatred. I know those things. I’m not proud of that, but I felt all those things. And I still feel them sometimes. And then I go back and say, hey, you’re still working at forgiving yourself for some things, try to remember that kid. Memory’s an important thing. Forgetfulness is pretty important too. And I’m trying to remember why we forget. Why do we forget? Because it wasn’t something you felt proud of."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:06:38)",
+    "text": "Do you think about your death? Are you afraid of it?"
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:06:46)",
+    "text": "It’s funny you asked that. I never used to think about it. I know people in both places."
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:06:59)",
+    "text": "I know, you’ve got it covered. You’re going to be all right."
+  },
+  {
+    "start": 666,
+    "end": 667,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:07:03)",
+    "text": "Don’t forget that."
+  },
+  {
+    "start": 668,
+    "end": 669,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:07:04)",
+    "text": "Yeah."
+  },
+  {
+    "start": 670,
+    "end": 671,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:07:05)",
+    "text": "I know people in both places."
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:07:05)",
+    "text": "Yeah. Both neighborhoods."
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:07:24)",
+    "text": "I’ve been given credit for being brave in certain spots in life, I hope I can be brave when it comes time to leave life. I hope I can be. And that’s just, that’s real and honest as you can be about it. I hope I can be. So far, so good. When I’ve had to be certain things that I was scared to freaking death, I found a way to beat them, for the most part. And so, I figured, when that day comes, I’ll figure that out too."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:12)",
+    "text": "It’s going to be another test, maybe the last one. Teddy, it’s a huge honor to talk to you."
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:08:19)",
+    "text": "It’s my pleasure."
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:20)",
+    "text": "Thank you for being the human you are, for being honest. Honest about the full range of human nature. And thank you for talking today."
+  },
+  {
+    "start": 682,
+    "end": 683,
+    "speaker": "Teddy Atlas",
+    "timestamp": "(02:08:29)",
+    "text": "Thank you. Thank you for having me, and thanks for listening."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:35)",
+    "text": "Thanks for listening to this conversation with Teddy Atlas. To support this podcast, please check out our sponsors in the description. And now, let me leave you with some words from Muhammad Ali. “I hated every minute of training, but I said, don’t quit, suffer now and live the rest of your life as a champion.” Thank you for listening, and hope to see you next time."
+  }
+]

@@ -1,0 +1,2872 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:00)",
+    "text": "The following is a conversation with Jeff Bezos, founder of Amazon and Blue Origin. This is his first time doing a conversation of this kind and of this length. And as he told me, it felt like we could have easily talked for many more hours, and I’m sure we will. This is the Lex Fridman Podcast. And now, dear friends, here’s Jeff Bezos."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "",
+    "timestamp": "(00:00:24)",
+    "text": "You spent a lot of your childhood with your grandfather on a ranch here in Texas."
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:00:29)",
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:30)",
+    "text": "And I heard you had a lot of work to do around the ranch. So, what’s the coolest job you remember doing there?"
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:00:35)",
+    "text": "Wow. Coolest?"
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:37)",
+    "text": "Most interesting? Most memorable?"
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:00:39)",
+    "text": "Most memorable?"
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:39)",
+    "text": "Most impactful?"
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:00:41)",
+    "text": "It’s a real working ranch, and I spent all my summers on that ranch from age four to 16. And my grandfather was really taking me and in the early summers, he was letting me pretend to help on the ranch, because of course, a four-year-old is a burden, not a help in real life. He was really just watching me and taking care of me. And he was doing that because my mom was so young. She had me when she was 17, and so he was sort of giving her a break. And my grandmother and my grandfather would take me for these summers."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "",
+    "timestamp": "(00:01:15)",
+    "text": "But as I got a little older, I actually was helpful on the ranch and I loved it. My grandfather had a huge influence on me, a huge factor in my life. I did all the jobs you would do on a ranch. I’ve fixed windmills, and laid fences, and pipelines, and done all the things that any rancher would do, vaccinated the animals, everything. But after my grandmother died, I was about 12 and I kept coming to the ranch, so then it was just him and me, just the two of us. And he was completely addicted to the soap opera, Days of Our Lives. And we would go back to the ranch house every day around 1:00 PM or so to watch Days of Our Lives. Like sands through an hourglass, so are the Days of Our Lives."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:07)",
+    "text": "Just the image of that, the two of you sitting there watching a soap opera, two ranchers."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:02:13)",
+    "text": "He had these big crazy dogs. It was really a very formative experience for me. But the key thing about it for me, the great gift I got from it was that my grandfather was so resourceful. He did everything himself. He made his own veterinary tools. He would make needles to suture the cattle up with. He would find a little piece of wire and heat it up and pound it thin and drill a hole in it and sharpen it. So, you learn different things on a ranch than you would learn growing up in a city."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:43)",
+    "text": "So, self-reliance?"
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:02:44)",
+    "text": "Yeah, figuring out that you can solve problems with enough persistence and ingenuity. And my grandfather bought a D6 bulldozer, which is a big bulldozer, and he got it for like $5,000 because it was completely broken down. It was like a 1955 Caterpillar D6 bulldozer. New it would’ve cost, I don’t know, more than $100,000. And we spent an entire summer repairing that bulldozer. And we’d use mail order to buy big gears for the transmission, and they’d show up, they’d be too heavy to move, so we’d have to build a crane. Just that problem-solving mentality. He had it so powerfully. He did all of his own… He didn’t pick up the phone and call somebody, he would figure it out on his own. Doing his own veterinary work."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:39)",
+    "text": "But just the image of the two of you fixing a D6 bulldozer and then going in for a little break at 1:00 PM to watch soap operas."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:03:47)",
+    "text": "Days of Our Lives. Laying on the floor, that’s how he watched TV. He was a really, really remarkable guy."
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:52)",
+    "text": "That’s how I imagine Clint Eastwood also in all those westerns, when he’s not doing what he’s doing, he’s just watching soap operas. All right. I read that you fell in love with the idea of space and space exploration when you were five, watching Neil Armstrong walking on the moon. So, let me ask you to look back at the historical context and impact of that. So, the space race from 1957 to 1969 between the Soviet Union and the US was, in many ways, epic. It was a rapid sequence of dramatic events. First satellite to space, first human to space, first spacewalk, first uncrewed landing on the moon. Then, some failures, explosions, deaths on both sides actually. And then, the first human walking on the moon. What are some of the more inspiring moments or insights you take away from that time, those few years at just 12 years?"
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:04:51)",
+    "text": "Well, I mean there’s so much inspiring there. One of the great things to take away from that, one of the great von Braun quotes is, “I have come to use the word impossible with great caution.” And so, that’s kind of the big story of Apollo is that going to the moon was literally an analogy that people used for something that’s impossible. “Oh, yeah, you’ll do that when men walk on the moon.” And of course, it finally happened. So, I think it was pulled forward in time because of the space race."
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "",
+    "timestamp": "(00:05:31)",
+    "text": "I think with the geopolitical implications and how much resource was put into it. At the peak, that program was spending 2% or 3% of GDP on the Apollo program. So, much resource. I think it was pulled forward in time. We kind of did it ahead of when we, quote, unquote, should have done it. And so, in that way, it’s also a technical marvel. I mean it’s truly incredible. It’s the 20th century version of building the pyramids or something. It’s an achievement that because it was pulled forward in time and because it did something that had previously been thought impossible, it rightly deserves its place in the pantheon of great human achievements."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:17)",
+    "text": "And of course, you named the rockets that Blue Origin is working on after some of the folks involved."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:06:24)",
+    "text": "Yeah."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:24)",
+    "text": "I don’t understand why I didn’t say New Gagarin. Is that-"
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:06:27)",
+    "text": "There’s an American bias in the naming. I apologize-"
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:30)",
+    "text": "That’s very strange."
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:06:31)",
+    "text": "… Lex."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:31)",
+    "text": "Was just asking for a friend, clarifying."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:06:33)",
+    "text": "I’m a big fan of Gagarin’s though. And in fact, I think his first words in space I think are incredible. He purportedly said, “My God, it’s blue.” And that really drives home. No one had seen the Earth from space. No one knew that we were on this blue planet. No one knew what it looked like from out there, and Gagarin was the first person to see it."
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:01)",
+    "text": "One of the things I think about is how dangerous those early days were for Gagarin, for Glenn, for everybody involved. How big of a risk they were all taking."
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:07:11)",
+    "text": "They were taking huge risks. I’m not sure what the Soviets thought about Gagarin’s flight, but I think that the Americans thought that the Alan Shepard flight, the flight that New Shepherd is named after, the First American in space, he went on his suborbital flight, they thought he had about a 75% chance of success. So, that’s a pretty big risk, a 25% risk."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:36)",
+    "text": "It’s kind of interesting that Alan Shepard is not quite as famous as John Glenn. So, for people who don’t know, Alan Shepard is the first astronaut-"
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:07:44)",
+    "text": "The first American in space."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:46)",
+    "text": "American in suborbital flight."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:07:48)",
+    "text": "Correct."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:48)",
+    "text": "And then, the first orbital flight is-"
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:07:51)",
+    "text": "John Glenn is the first American to orbit the Earth. By the way, I have the most charming, sweet, incredible letter from John Glenn, which I have framed and hanging on my office wall."
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:04)",
+    "text": "What did he say?"
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:08:04)",
+    "text": "Where he tells me how grateful he is that we have named New Glenn after him. And he sent me that letter about a week before he died. And it’s really an incredible… It’s also a very funny letter. He’s writing and he says, “This is a letter about New Glenn from the original Glenn.” And he’s got a great sense of humor and he’s very happy about it and grateful. It’s very sweet."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:30)",
+    "text": "Does he say, “P.S. Don’t mess this up,” or is that-"
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:08:34)",
+    "text": "No, he doesn’t."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:35)",
+    "text": "“Make me look good.”"
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:08:35)",
+    "text": "He doesn’t do that. But John, wherever you are, we’ve got you covered."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:39)",
+    "text": "Good. So, back to maybe the big picture of space. When you look up at the stars and think big, what do you hope is the future of humanity, hundreds, thousands of years from now out in space?"
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:08:54)",
+    "text": "I would love to see a trillion humans living in the solar system. If we had a trillion humans, we would have, at any given time, 1,000 Mozarts and 1,000 Einsteins. That our solar system would be full of life and intelligence and energy. And we can easily support a civilization that large with all of the resources in the solar system."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:21)",
+    "text": "So, what do you think that looks like? Giant space stations?"
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:09:24)",
+    "text": "Yeah, the only way to get to that vision is with giant space stations. The planetary surfaces are just way too small. So, I mean, unless you turn them into giant space stations or something. But yeah, we will take materials from the moon and from near-Earth objects and from the asteroid belt and so on, and we’ll build giant O’Neill style colonies and people will live in those. They have a lot of advantages over planetary surfaces. You can spin them to get normal Earth gravity. You can put them where you want them. I think most people are going to want to live near Earth, not necessarily in Earth orbit, but near Earth vicinity orbits. And so, they can move relatively quickly back and forth between their station and Earth. I think a lot of people, especially in the early stages, are not going to want to give up Earth altogether."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:24)",
+    "text": "They go to earth for vacation?"
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:10:26)",
+    "text": "Yeah, same way that you might go to Yellowstone National Park for vacation, people will… And people will get to choose where they live on Earth or whether they live in space, but they’ll be able to use much more energy and much more material resource in space than they would be able to use on Earth."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:45)",
+    "text": "One of the interesting ideas you had is to move the heavy industry away from Earth. So, people sometimes have this idea that somehow space exploration is in conflict with the celebration of the planet Earth, that we should focus on preserving Earth. And basically, your idea is that space travel and space exploration is a way to preserve Earth."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:11:06)",
+    "text": "Exactly. We’ve sent robotic probes to all the planets, we know that this is the good one."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:17)",
+    "text": "Not to play favorites or anything, but…"
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:11:19)",
+    "text": "Earth really is the good planet. It’s amazing. The ecosystem we have here, all of the life and the lush plant life and the water resources, everything. This planet is really extraordinary. And of course, we evolved on this planet, so of course it’s perfect for us, but it’s also perfect for all the advanced life forms on this planet, all the animals and so on. And so, this is a gem. We do need to take care of it. And as we enter the Anthropocene, as we humans have gotten so sophisticated and large and impactful, as we stride across this planet, that is going to… We want to use a lot of energy. We want to use a lot of energy per capita. We’ve gotten amazing things. We don’t want to go backwards."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "",
+    "timestamp": "(00:12:10)",
+    "text": "If you think about the good old days, they’re mostly an illusion. In almost every way, life is better for almost everyone today than it was say 50 years ago or 100 years ago. We live better lives by and large than our grandparents did, and their grandparents did, and so on. And you can see that in global illiteracy rates, global poverty rates, global infant mortality rates. Almost any metric you choose, we’re better off than we used to be. And we get antibiotics and all kinds of lifesaving medical care, and so on, and so on. And there’s one thing that is moving backwards, and it’s the natural world."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "",
+    "timestamp": "(00:12:54)",
+    "text": "So, it is a fact that 500 years ago, pre-industrial age, the natural world was pristine. It was incredible. And we have traded some of that pristine beauty for all of these other gifts that we have as an advanced society. And we can have both, but to do that, we have to go to space. And the most fundamental measure is energy usage per capita. You do want to continue to use more and more energy, it is going to make your life better in so many ways, but that’s not compatible ultimately with living on a finite planet. And so, we have to go out into the solar system. And really, you could argue about when you have to do that, but you can’t credibly argue about whether you have to do that."
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:49)",
+    "text": "Eventually we have to do that."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:13:51)",
+    "text": "Exactly."
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:52)",
+    "text": "Well, you don’t often talk about it, but let me ask you on that topic about the Blue Ring and the Orbital Reef space infrastructure projects. What’s your vision for these?"
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:14:03)",
+    "text": "So, Blue Ring is a very interesting spacecraft that is designed to take up to 3,000 kilograms of payload up to geosynchronous orbit or in lunar vicinity. It has two different kinds of propulsion. It has chemical propulsion and it has electric propulsion. And so, you can use Blue Ring in a couple of different ways. You can slowly move, let’s say up to geosynchronous orbit using electric propulsion. That might take 100 days or 150 days, depending on how much mass you’re carrying. And reserve your chemical propulsion, so that you can change orbits quickly in geosynchronous orbit. Or you can use the chemical propulsion first to quickly get up to geosynchronous and then use your electrical propulsion to slowly change your geosynchronous orbit."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "",
+    "timestamp": "(00:14:55)",
+    "text": "Blue Ring has a couple of interesting features. It provides a lot of services to these payloads. So, it could be one large payload or it can be a number of small payloads, and it provides thermal management, it provides electric power, it provides compute, provides communications. And so, when you design a payload for Blue Ring, you don’t have to figure out all of those things on your own. So, kind of radiation tolerant compute is a complicated thing to do. And so, we have an unusually large amount of radiation tolerant compute on board Blue Ring, and your payload can just use that when it needs to. So, it’s sort of all these services… It’s like a set of APIs. It’s a little bit like Amazon Web Services, but-"
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:51)",
+    "text": "For space?"
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:15:52)",
+    "text": "… for space payloads that need to move about in Earth vicinity or lunar vicinity."
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:57)",
+    "text": "AWSS space. So, compute and space. So, you get a giant chemical rocket to get a payload out to orbit. And then, you have these admins that show up, this Blue Ring thing that manages various things like compute?"
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:16:13)",
+    "text": "Exactly. And it can also provide transportation and move you around to different orbits."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:19)",
+    "text": "Including humans, do you think?"
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:16:21)",
+    "text": "No, Blue Ring is not designed to move humans around. It’s designed to move payloads around. So, we’re also building a lunar lander, which is of course designed to land humans on the surface of the moon."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:34)",
+    "text": "I’m going to ask you about that, but let me ask you to just step back to the old days. You were at Princeton with aspirations to be a theoretical physicist."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:16:45)",
+    "text": "Yeah."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:47)",
+    "text": "What attracted you to physics and why did you change your mind and not become… Why are you not Jeff Bezos, the famous theoretical physicist?"
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:16:57)",
+    "text": "So, I loved physics and I studied physics and computer science, and I was proceeding along the physics path. I was planning to major in physics, and I wanted to be a theoretical physicist. And the computer science was sort of something I was doing for fun. I really loved it and I was very good at the programming and doing those things, and I enjoyed all my computer science classes immensely. But I really was determined to be a theoretical physicist. That’s why I went to Princeton in the first place. It was definitely… And then, I realized I was going to be a mediocre theoretical physicist. And there were a few people in my classes, like in quantum mechanics and so on, who they could effortlessly do things that were so difficult for me. And I realized there are 1,000 ways to be smart."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "",
+    "timestamp": "(00:17:52)",
+    "text": "Theoretical physics is not one of those fields where only the top few percent actually move the state-of-the-art forward. It’s one of those things where your brain has to be wired in a certain way. And there was a guy named… One of these people who convinced me, he didn’t mean to convince me, but just by observing him, he convinced me that I should not try to be a theoretical physicist. His name was Yosanta. And Yosanta was from Sri Lanka, and he was one of the most brilliant people I’d ever met. My friend Joe and I were working on a very difficult partial differential equations problem set one night. And there was one problem that we worked on for three hours and we made no headway whatsoever. And we looked up at each other at the same time and we said, “Yosanta.”"
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "",
+    "timestamp": "(00:18:49)",
+    "text": "So, we went to Yosanta’s dorm room and he was there. He was almost always there. And we said, “Yosanta, we’re having trouble solving this partial differential equation. Would you mind taking a look?” And he said, “Of course.” By the way, he was the most humble, most kind person. And so, he looked at our problem and he stared at it for just a few seconds, maybe 10 seconds, and he said, “cosine.” And I said, “What do you mean, Yosanta? What do you mean cosine?” He said, “That’s the answer.” And I said, “No, no, no, come on.” And he said, “Let me show you.” And he took out some paper and he wrote down three pages of equations, everything canceled out, and the answer was cosine."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "",
+    "timestamp": "(00:19:30)",
+    "text": "And I said, “Yosanta, did you do that in your head?” And he said, “Oh, no. That would be impossible. A few years ago I solved a similar problem and I could map this problem onto that problem, and then it was immediately obvious that the answer was cosine.” You have an experience like that, you realize maybe being a theoretical physicist isn’t what the universe wants you to be. And so, I switched to computer science and that worked out really well for me. I enjoy it. I still enjoy it today."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:07)",
+    "text": "Yeah, there’s a particular kind of intuition you need to be a great physicist, and applied to physics."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:20:12)",
+    "text": "I think the mathematical skill required today is so high. You have to be a world-class mathematician to be a successful theoretical physicist today. And you probably need other skills too, intuition, lateral thinking and so on. But without just top-notch math skills, you’re unlikely to be successful."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:39)",
+    "text": "And visualization skill, you have to be able to really do these kinds of thought experiments if you want truly great creativity. Actually Walter Isaacson writes about you and puts you on the same level as Einstein and-"
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:20:53)",
+    "text": "Well, that’s very kind. I’m an inventor. If you want to boil down what I am, I’m really an inventor. And I look at things and I can come up with atypical solutions. And then, I can create 100 such atypical solutions for something, 99 of them may not survive scrutiny, but one of those 100 is like, “Hmm, maybe that might work.” And then, you can keep going from there. So, that kind of lateral thinking, that kind of inventiveness in a high-dimensionality space where the search space is very large, that’s where my inventive skills come… I self-identify as an inventor more than anything else."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:43)",
+    "text": "Yeah. And he describes in all kinds of different ways, Walter Isaacson does, that creativity combined with childlike wander that you’ve maintained still to this day, all of that combined together. If you were to study your own brain, introspect, how do you think? What’s your thinking process like? We’ll talk about the writing process of putting it down on paper, which is quite rigorous and famous at Amazon. But when you sit down, maybe alone, maybe with others, and thinking through this high-dimensional space and looking for creative solutions, creative paths forward, is there something you could say about that process?"
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:22:26)",
+    "text": "It’s such a good question, and I honestly don’t know how it works. If I did, I would try to explain it. I know it involves lots of wandering, so when I sit down to work on a problem, I know I don’t know where I’m going. So, to go in a straight line… To be efficient… Efficiency and invention are sort of at odds, because real invention, Not incremental improvement… Incremental improvement is so important in every endeavor, in everything you do, you have to work hard on also just making things a little bit better. But I’m talking about real invention, real lateral thinking that requires wandering, and you have to give yourself permission to wander."
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "",
+    "timestamp": "(00:23:11)",
+    "text": "I think a lot of people, and they feel like wandering is inefficient. And when I sit down at a meeting, I don’t know how long the meeting is going to take if we’re trying to solve a problem, because if I did, then I’d know there’s some kind of straight line that we’re drawing to the solution. The reality is we may have to wander for a long time. And I do like group invention. I think there’s really nothing more fun than sitting at a whiteboard with a group of smart people and spit balling and coming up with new ideas and objections to those ideas, and then solutions to the objections and going back and forth. So, sometimes you wake up with an idea in the middle of the night and sometimes you sit down with a group of people and go back and forth, and both things are really pleasurable."
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:14)",
+    "text": "And when you wander, I think one key thing is to notice a good idea. And maybe to notice the kernel of a good idea. I’ll maybe pull at that string. Because I don’t think good ideas come fully-formed."
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:24:31)",
+    "text": "100% right. In fact, when I come up with what I think is a good idea and it survives the first level of scrutiny that I do in my own head, and I’m ready to tell somebody else about the idea, I will often say, “Look, it is going to be really easy for you to find objections to this idea, but work with me.”"
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:53)",
+    "text": "There’s something there."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:24:54)",
+    "text": "There’s something there. And that is intuition, because it’s really easy to kill new ideas in the beginning because there’s so many easy objections to them. So, you need to kind of forewarn people and say, “Look, I know it’s going to take a lot of work to get this to a fully-formed idea. Let’s get started on that. It’ll be fun.”"
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:17)",
+    "text": "So, you got that ability to say cosine in you somewhere after all, maybe not on math, but-"
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:25:23)",
+    "text": "In a different domain."
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:24)",
+    "text": "Yeah."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:25:25)",
+    "text": "There are 1,000 ways to be smart, by the way, and that is a really… When I go around and I meet people, I’m always looking for the way that they’re smart. And you find that’s one of the things that makes the world so interesting and fun is that it’s not like IQ is a single dimension. There are people who are smart in such unique ways."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:53)",
+    "text": "Yeah, you just gave me a good response when somebody calls me an idiot on the internet. “You know, there’s 1,000 ways to be smart, sir.”"
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:26:01)",
+    "text": "Well, they might tell you, “Yeah, but there are a million to be ways to be dumb.”"
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:04)",
+    "text": "Yeah, right. I feel like that’s a Mark Twain quote. Okay. All right. You gave me an amazing tour of Blue Origin Rocket Factory and Launch Complex in the historic Cape Canaveral. That’s where New Glenn, the big rocket we talked about, is being built and will launch. Can you explain what the New Glenn rocket is and tell me some interesting technical aspects of how it works?"
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:26:29)",
+    "text": "Sure. New Glenn is a very large heavy-lift launch vehicle. It’ll take about 45 metric tons to LEO, very large class. It’s about half the thrust, a little more than half the thrust of the Saturn V rocket. So, it’s about 3.9 million pounds of thrust on liftoff. The booster has seven BE-4 engines. Each engine generates a little more than 550,000 pounds of thrust. The engines are fueled by liquified natural gas, LNG as the fuel, and LOX as the oxidizer. The cycle is an ox-riched stage combustion cycle. It’s a cycle that was really pioneered by the Russians. It’s a very good cycle. And that engine is also going to power the first stage of the Vulcan rocket, which is the United Launch Alliance rocket. Then the second stage of New Glenn is powered by two BE-3U engines, which is a upper-stage variant of our New Shepard liquid hydrogen engine."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "",
+    "timestamp": "(00:27:44)",
+    "text": "So, the BE-3U has 160,000 pounds of thrust, so two of those, 320,000 pounds of thrust. And hydrogen is a very good propellant for upper stages because it has very high ISP. It’s not a great propellant in my view for booster stages, because the stages then get physically so large. Hydrogen has very high ISP, but liquid hydrogen is not dense at all. So, to store liquid hydrogen, if you need to store many thousands of pounds of liquid hydrogen, your liquid hydrogen tank gets very large. So, you get more benefit from the higher ISP, the specific impulse, you get more benefit from the higher specific impulse on the second stage. And that stage carries less propellant, so you don’t get such geometrically-gigantic tanks. The Delta IV is an example of a vehicle that is all hydrogen. The booster stage is also hydrogen, and I think that it’s a very effective vehicle, but it never was very cost-effective. So, it’s operationally very capable but not very cost-effective."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:56)",
+    "text": "So, size is also costly?"
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:28:58)",
+    "text": "Size is costly. So, it’s interesting. Rockets love to be big. Everything works better."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:05)",
+    "text": "What do you mean by that? You’ve told me that before. It sounds epic, but what does it mean?"
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:29:10)",
+    "text": "I mean, when you look at the physics of rocket engines, and also when you look at parasitic mass… Let’s say you have an avionic system, so you have a guidance and control system, that is going to be about the same mass and size for a giant rocket as it is going to be for a tiny rocket. And so, that’s just parasitic mass that is very consequential if you’re building a very small rocket, but is trivial if you’re building a very large rocket. So, you have the parasitic mass thing. And then if you look at, for example, rocket engines have turbo pumps. They have to pressurize the fuel in the oxidizer up to a very high pressure level in order to inject it into the thrust chamber where it burns. And those pumps, all rotating machines, in fact, get more efficient as they get larger. So, really tiny turbo pumps are very challenging to manufacture, and any kind of gaps between the housing, for example, and the rotating impeller that pressurizes the fuel, there has to be some gap there. You can’t have those parts scraping against one another, and those gaps drive inefficiencies. And so, if you have a very large turbo pump, those gaps in percentage terms end up being very small. And so, there’s a bunch of things that you end up loving about having a large rocket and that you end up hating for a small rocket. But there’s a giant exception to this rule, and it is manufacturing. So, manufacturing large structures is very, very challenging. It’s a pain in the butt. And so, if you’re making a small rocket engine, you can move all the pieces by hand, you could assemble it on a table, one person can do it. You don’t need cranes and heavy lift operations and tooling and so on and so on. When you start building big objects, infrastructure, civil infrastructure, just like the launchpad and all this we went and visited, I took you to the launchpad. And you can see it’s so monumental."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:27)",
+    "text": "Yeah, it is."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:31:28)",
+    "text": "And so, just these things become major undertakings, both from an engineering point of view, but also from a construction and cost point of view."
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:37)",
+    "text": "And even the foundation of the launchpad. I mean, this is Florida, isn’t it swamp land? How deep do you have to go?"
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:31:44)",
+    "text": "At Cape Canaveral, in fact, most launch pads are on beaches somewhere on the ocean side because you want to launch over water for safety reasons. Yes, you have to drive pilings, dozens and dozens and dozens of pilings, 50, 100, 150 feet deep to get enough structural integrity for these very large… Yes, these turn into major civil engineering projects."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:15)",
+    "text": "I just have to say everything about that factory is pretty badass. You said tooling, the bigger it gets, the more epic it is."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:32:22)",
+    "text": "It does make it epic. It’s fun to look at. It’s extraordinary."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:26)",
+    "text": "It’s humbling also because humans are so small compared to it."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:32:29)",
+    "text": "We are building these enormous machines that are harnessing enormous amounts of chemical power in very, very compact packages. It’s truly extraordinary."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:44)",
+    "text": "But then, there’s all the different components and the materials involved. Is there something interesting that you can describe about the materials that comprise the rocket? So, it has to be as light as possible, I guess, whilst withstanding the heat and the harsh conditions?"
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:33:03)",
+    "text": "Yeah-"
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:00)",
+    "text": "Whilst withstanding the heat and the harsh conditions?"
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:33:03)",
+    "text": "Yeah, I play a little game sometimes with other rocket people that I run into where say, “What are the things that would amaze the 1960s engineers? What’s changed?” Because surprisingly, some of rocketry’s greatest hits have not changed. They would recognize immediately a lot of what we do today and it’s exactly what they pioneered back in the ’60s. But a few things have changed. The use of carbon composites is very different today. We can build very sophisticated … You saw our carbon tape laying machine that builds the giant fairings and we can build these incredibly light, very stiff fairing structures out of carbon composite material that they could not have dreamed of. The efficiency, the structural efficiency of that material is so high compared to any metallic material you might use or anything else. So that’s one."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "",
+    "timestamp": "(00:34:12)",
+    "text": "Aluminum-lithium and the ability to friction stir weld aluminum-lithium. Do you remember the friction stir welding that I showed you?"
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:20)",
+    "text": "Yes. It’s incredible."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:34:21)",
+    "text": "This is a remarkable technology that’s invented decades ago, but has become very practical over just the last couple of decades. And instead of using heat to weld two pieces of metal together, it literally stirs the two pieces. There’s a pin that rotates at a certain rate and you put that pin between the two plates of metal that you want to weld together and then you move it at a very precise speed. And instead of heating the material, it heats it a little bit because of friction, but not very much, you can literally immediately after welding with stir friction welding, you can touch the material and it’s just barely warm. It literally stirs the molecules together. It’s quite extraordinary."
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:06)",
+    "text": "Relatively low temperature and I guess high temperatures, that makes it a weak point."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:35:11)",
+    "text": "Exactly. So …"
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:13)",
+    "text": "Amazing."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:35:13)",
+    "text": "… with traditional welding techniques, you whatever the underlying strength characteristics of the material are, you end up with weak regions where you weld. And with friction stir welding, the welds are just as strong as the bulk material. So it really allows you … Let’s say you’re building a tank that you’re going to pressurize a large liquid natural gas tank for our booster stage, for example, if you are welding that with traditional methods, you have to size those weld lands, the thickness of those pieces with that knockdown for whatever damage you’re doing with the weld and that’s going to add a lot of weight to that tank."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:54)",
+    "text": "Even just looking at the fairings, the result of that, the complex shape that it takes and what it’s supposed to do is incredible because some people don’t know, it’s on top of the rock, it’s going to fall apart. That’s its task, but it has to stay strong sometimes and then disappear when it needs to …"
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:36:14)",
+    "text": "That’s right."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:15)",
+    "text": "… which is a very difficult task."
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:36:17)",
+    "text": "Yes. When you need something that needs to have 100% integrity until it needs to have 0% integrity, it needs to stay attached until it’s ready to go away, and then when it goes away, it has to go away completely. You use explosive charges for that and so it’s a very robust way of separating structure when you need to."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:40)",
+    "text": "Exploding."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:36:41)",
+    "text": "Yeah, little tiny bits of explosive material and it will sever the whole connection."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:49)",
+    "text": "So if you want to go from 100% structural integrity to zero as fast as possible is explosives."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:36:58)",
+    "text": "Use explosives."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:59)",
+    "text": "The entirety of this thing is so badass. Okay, so we’re back to the two stages. So the first stage is reusable."
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:37:06)",
+    "text": "Yeah. Second stage is expendable. Second stage is liquid hydrogen, liquid oxygen. So we get take advantage of the higher specific impulse. The first stage lands down range on a landing platform in the ocean, comes back for maintenance and get ready to do the next mission."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:27)",
+    "text": "There’s a million questions, but also is there a path towards reusability for the second stage?"
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:37:32)",
+    "text": "There is and we know how to do that. Right now, we’re going to work on manufacturing that second stage to make it as inexpensive as possible, two paths for a second stage, make it reusable or work really hard to make it inexpensive, so you can afford to expend it. And that trade is actually not obvious which one is better."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:00)",
+    "text": "Even in terms of cost, like time, cost-"
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:38:01)",
+    "text": "Even in terms of … And I’m talking about cost. Space, getting into orbit is a solved problem. We solved it back in the ’50s and ’60s."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:11)",
+    "text": "You’re making it sound easy."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:38:13)",
+    "text": "The only interesting problem is dramatically reducing the cost of access to orbit, which is, if you can do that, you open up a bunch of new endeavors that lots of start-up companies everybody else can do. One of our missions is to be part of this industry and lower the cost to orbit, so that there can be a renaissance, a golden age of people doing all kinds of interesting things in space."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:47)",
+    "text": "I like how you said getting to orbit is a solved problem. It’s just the only interesting thing is reducing the cost. You know how you can describe every single problem facing human civilization that way? The physicists would say, “Everything is a solved problem. We’ve solved everything. The rest is just,” what did Rutherford said, “that it’s just stamp collecting. It’s just the details.” Some of the greatest innovations and inventions and brilliance is in that cost reduction stage, right? And you’ve had a long career of cost reduction."
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:39:18)",
+    "text": "For sure. What does cost reduction really mean? It means inventing a better way."
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:24)",
+    "text": "Yeah, exactly."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:39:25)",
+    "text": "Right? And when you invent a better way, you make the whole world richer. So whatever it was, I don’t know how many thousands of years ago, somebody invented the plow. And when they invented the plow, they made the whole world richer because they made farming less expensive. And so it is a big deal to invent better ways. That’s how the world gets richer."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:48)",
+    "text": "So what are some of the biggest challenges on the manufacturing side, on the engineering side that you’re facing in working to get to the first launch of New Glenn?"
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:40:01)",
+    "text": "The first launch is one thing and we’ll do that in 2024, coming up in this coming year. The real thing that’s the bigger challenge is making sure that our factory is efficiently manufacturing at rate. So rate production, so consider if you want to launch New Glenn 24 times a year, you need to manufacture a upper stage since they’re expendable, twice a month. You need to do one every two weeks. So you need to have all of your manufacturing facilities and processes and inspection techniques and acceptance tests and everything operating at rate. And rate manufacturing is at least as difficult as designing the vehicle in the first place and the same thing. So every upper stage has two BE-3U engines."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "",
+    "timestamp": "(00:41:03)",
+    "text": "So those engines, if you’re going to launch the vehicle twice a month, you need four engines a month. So you need an engine every week. That engine needs to be being produced at rate and there’s all of the things that you need to do that, all the right machine tools, all the right fixtures, the right people, process, etcetera. So it’s one thing to build a first article, right? To launch New Glenn for the first time, you need to produce a first article, but that’s not the hard part. The hard part is everything that’s going on behind the scenes to build a factory that can produce New Glenns at rate."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:47)",
+    "text": "So the first one is produced in a way that enables the production of the second and third and the fourth and the fifth and sixth-"
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:41:53)",
+    "text": "You could think of the first article as pushing, it pushes all of the rate manufacturing technology along. In other words, it’s the test article in a way that’s testing out your manufacturing technologies."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:13)",
+    "text": "The manufacturing is the big challenge."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:42:15)",
+    "text": "Yes. I don’t want to make it sound like any of it is easy. The people who are designing the engines and all this, all of this is hard for sure, but the challenge right now is driving really hard to get to is to get to rate manufacturing and to do that in an efficient way, again back to our cost point. If you get to rate manufacturing in an inefficient way, you haven’t really solved the cost problem and maybe you haven’t really moved the state of the art forward. All this has to be about moving this state of the art forward. There are easier businesses to do. I always tell people, “Look, if you are trying to make money, start a salty snack food company or something.”"
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:56)",
+    "text": "I’m going to write that idea down."
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:43:01)",
+    "text": "Make the Lex Fridman Potato Chips."
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:04)",
+    "text": "Right. Don’t say it. People are going to steal it. But yeah, it’s hard."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:43:10)",
+    "text": "Do you see what I’m saying? There’s nothing easy about this business, but it’s its own reward. It’s fascinating, it’s worthwhile, it’s meaningful. I don’t want to pick on salty snack food companies, but I think it’s less meaningful. At the end of the day, you’re not going to have accomplished something amazing …"
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:33)",
+    "text": "Yeah, there’s-"
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:43:33)",
+    "text": "… even if you do make a lot of money on it."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:35)",
+    "text": "Yeah, there’s something fundamentally different about the “business of space exploration.”"
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:43:41)",
+    "text": "Yeah, for sure."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:42)",
+    "text": "It’s a grand project of humanity."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:43:44)",
+    "text": "Yes, it’s one of humanity’s grand challenges, and especially as you look at going to the moon and going to Mars and building giant O’Neill colonies and unlocking all the things. I won’t live long enough to see the fruits of this, but the fruits of this come from building a road to space, getting the infrastructure. I’ll give you an analogy. When I started Amazon, I didn’t have to develop a payment system. It already existed. It was called the credit card. I didn’t have to develop a transportation system to deliver the packages. It already existed. It was called the Postal Service and Royal Mail and Deutsche Post and so on. So all this heavy lifting infrastructure was already in place and I could stand on its shoulders. And that’s why, when you look at the internet …"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "",
+    "timestamp": "(00:44:40)",
+    "text": "And by the way, another giant piece of infrastructure that was around in the early, I’m taking you back to 1994, people were using dial-up modems and it was piggybacking on top of the long distance phone network. That’s how the internet … That’s how people were accessing servers and so on. And again, if that hadn’t existed, it would’ve been hundreds of billions of CapEx to put that out there. No startup company could have done that. And so the problem you see, if you look at the dynamism in the internet space over the last 20 years, it’s because you see two kids in a dorm room could start an internet company that could be successful and do amazing things because they didn’t have to build heavy infrastructure. It was already there. And that’s what I want to do. I take my Amazon winnings and use that to build heavy infrastructure so that the next generation, the generation that’s my children and their children, those generations can then use that heavy infrastructure, then there’ll be space entrepreneurs who start in their dorm room. That will be a marker of success when you can have a really valuable space company started in a dorm room, then we know that we’ve built enough infrastructure so that ingenuity and imagination can really be unleashed. I find that very exciting."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:11)",
+    "text": "They will, of course, as kids do, take all of this hard infrastructure ability for granted."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:46:16)",
+    "text": "Of course."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:18)",
+    "text": "That entrepreneurial spirit."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:46:19)",
+    "text": "That’s an inventor’s greatest dream, is that their inventions are so successful that they are one day taken for granted. Nobody thinks of Amazon as an invention anymore. Nobody thinks of customer reviews as an invention. We pioneered customer reviews, but now they’re so commonplace. Same thing with one-click shopping and so on, but that’s a compliment. You invent something that’s so used, so beneficially used by so many people that they take it for granted."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:49)",
+    "text": "I don’t know about nobody. Every time I use Amazon, I’m still amazed, “How does this work, the logistics, the Wazuh?”"
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:46:55)",
+    "text": "Well, that proves you’re a very curious explorer."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:57)",
+    "text": "All right, all right, back to rocket. Timeline, you said 2024. As it stands now, are both the first test launch and the launch of ESCAPADE explorers to Mars still possible in 2024?"
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:11)",
+    "text": "In 2024?"
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:12)",
+    "text": "Yeah."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:13)",
+    "text": "Yeah, I think so. For sure, the first launch and then we’ll see if ESCAPADE goes on that or not. I think that the first launch for sure and I hope ESCAPADE too."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:23)",
+    "text": "Hope-"
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:24)",
+    "text": "Well, I just don’t know which mission it’s actually going to be slated on. So we also have other things that might go on that first mission."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:31)",
+    "text": "Oh, I got it. But you’re optimistic that the launches will still-"
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:35)",
+    "text": "Oh, the first launch. I’m very optimistic that the first launch of New Glenn will be in 2024 and I’m just not 100% certain what payload will be on that first launch."
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:44)",
+    "text": "Are you nervous about it?"
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:46)",
+    "text": "Are you kidding? I’m extremely nervous about it."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:51)",
+    "text": "Oh, man."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:47:52)",
+    "text": "100%. Every launch I go to, for New Shepherd, for other vehicles too, I’m always nervous for these launches. But yes, for sure, a first launch, to have no nervous about that would be some sign of derangement, I think so."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:09)",
+    "text": "Well, I got to visit the launch, man. It’s pretty … I mean, it’s epic."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:48:14)",
+    "text": "We have done a tremendous amount of ground testing, a tremendous amount of simulation. So a lot of the problems that we might find in flight have been resolved, but there are some problems you can only find in flight. So cross your fingers. I guarantee you you’ll have fun watching it no matter what happens."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:37)",
+    "text": "100%. When the thing is fully assembled, it comes up-"
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:48:41)",
+    "text": "Yeah, the transporter erector."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:44)",
+    "text": "It’s the erector, yeah."
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:48:45)",
+    "text": "Just the transporter erector for a rocket of this scale is extraordinary."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:49)",
+    "text": "That’s an incredible machine."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:48:50)",
+    "text": "The vehicle travels out horizontally and then comes up and-"
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:57)",
+    "text": "Over a few hours?"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:48:58)",
+    "text": "Yeah, it’s a beautiful thing to watch."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:00)",
+    "text": "Speaking of which, if that makes you nervous, I don’t know if you remember, but you were aboard New Shepard on its first crewed flight. How was that experience? Were you terrified then?"
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:49:20)",
+    "text": "Strangely, I wasn’t."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:22)",
+    "text": "When you ride the rocket, wasn’t nerve wracking? Okay."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:49:24)",
+    "text": "It’s true. I’ve watched other people riding the rocket and I’m more nervous than when I was inside the rocket myself. It was a difficult conversation to have with my mother when I told her I was going to go on the first one. And not only was I going to go, but I was going to bring my brother too. This is a tough conversation to have with a mom."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:44)",
+    "text": "There’s a long pause when you told her."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:49:47)",
+    "text": "She’s like, “Both of you?” It was an incredible experience and we were laughing inside the capsule and we’re not nervous. The people on the ground were very nervous for us. It was actually one of the most emotionally powerful parts of the experience happened even before the flight. At 4:30 in the morning, brother and I are getting ready to go to the launch site and Lauren is going to take us there in her helicopter and we’re getting ready to leave. And we go outside, outside the ranch house there in West Texas where the launch facility is and all of our family, my kids and my brother’s kids and our parents and close friends are assembled there and they’re saying goodbye to us, but they’re saying, “Maybe they think they’re saying goodbye to us forever,” and we might not have felt that way, but it was obvious from their faces how nervous they were that they felt that way. And it was powerful because it allowed us to see … It was almost like a attending year old memorial service or something like you could feel how loved you were in that moment and it was really amazing."
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:12)",
+    "text": "Yeah, and there’s just a epic nature to it too."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:51:17)",
+    "text": "The ascent, the floating in zero gravity. I’ll tell you something very interesting, zero gravity feels very natural. I don’t know if it’s because it’s like return to the womb or-"
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:31)",
+    "text": "You just confirmed you’re an alien, but that’s all. I think that’s what you just said."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:51:36)",
+    "text": "It feels so natural to be in zero G. It was really interesting. And then what people talk about the overview effect and seeing Earth from space, I had that feeling very powerfully. I think everyone did. You see how fragile the Earth is. If you’re not an environmentalist, it will make you one. The great Jim Lovell quote, he looked back at the Earth from space and he said he realized, “You don’t go to heaven when you die. You go to heaven when you’re born.” That’s the feeling that people get when they’re in space. You see all this blackness, all this nothingness and there’s one gem of life and it’s Earth."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:15)",
+    "text": "It is a gem. You’ve talked a lot about decision making throughout your time with Amazon. What was that decision like to be the first to ride New Shepard? Just before you talk to your mom, the pros and cons? Actually, as one human being, as a leader of a company on all fronts, what was that decision making like?"
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:52:43)",
+    "text": "I decided that … First of all, I knew the vehicle extremely well. I know the team who built it. I know the vehicle. I’m very comfortable with the escape system. We put as much effort into the escape system on that vehicle as we put into all the rest of the vehicle combined. It’s one of the hardest pieces of engineering in the entire New Shepard architecture."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:10)",
+    "text": "Can you actually describe what do you mean by escape system? What’s involved?"
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:53:13)",
+    "text": "We have a solid rocket motor in the base of the crew capsule, so that if anything goes wrong on ascent, while the main rocket engine is firing, we can ignite this solid rocket motor in the base of the crew capsule and escape from the booster. It’s a very challenging system to build, design, validate, test, all of these things. It is the reason that I am comfortable letting anyone go on New Shepard. So the booster is as safe and reliable as we can make it, but we are harnessing … Whenever you’re talking about rocket engines, I don’t care what rocket engine you’re talking about, you’re harnessing such vast power in such a small compact geometric space. The power density is so enormous that it is impossible to ever be sure that nothing will go wrong."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "",
+    "timestamp": "(00:54:18)",
+    "text": "And so the only way to improve safety is to have an escape system. And historically, human-rated rockets have had escape systems. Only the space shuttle did not, but Apollo had one. All of the previous Gemini, etcetera, they all had escape systems. And we have on New Shepard an unusual escape … Most escape systems are towers. We have a pusher escape system. So the solid rocket motor is actually embedded in the base of the crew capsule and it pushes and it’s reusable in the sense that, if we don’t use it, so if we have a nominal mission, we land with it. The tower systems have to be ejected at a certain point in the mission and so they get wasted even in a nominal mission."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "",
+    "timestamp": "(00:55:09)",
+    "text": "And so again, costs really matters on these things, so we figured out how to have the escape system be a reusable. In the event that it’s not used, it can reuse it and have it be a pusher system. It’s a very sophisticated thing. So I knew these things. You asked me about my decision to go and so I know the vehicle very well, I know the people who designed it, I have great trust in them and in the engineering that we did. And I thought to myself, “Look, if I am not ready to go, then I wouldn’t want anyone to go.” A tourism vehicle has to be designed, in my view, to be as safe as one can make it. You can’t make it perfectly safe. It’s impossible, but you have … People will do things. People take risk. They climb mountains, they skydive, they do deep underwater scuba diving and so on. People are okay taking risk. You can’t eliminate the risk, but it is something, because it’s a tourism vehicle, you have to do your utmost to eliminate those risks."
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "",
+    "timestamp": "(00:56:16)",
+    "text": "And I felt very good about the system. I think it’s one of the reasons I was so calm inside and maybe others weren’t as calm. They didn’t know as much about it as I did."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:26)",
+    "text": "Who was in charge of engaging the escape system? Did you have-"
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:56:28)",
+    "text": "It’s automated. The escape system is …"
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:31)",
+    "text": "Okay. I was visualizing-"
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:56:33)",
+    "text": "… completely automated. Automated is better because it can react so much faster."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:38)",
+    "text": "Okay. So yeah, for tourism rockets, safety is a huge, huge, huge priority for space exploration also, but a delta less."
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:56:46)",
+    "text": "Yes. I think if you’re doing … There are human activities where we tolerate more risk if you’re saving somebody’s life, if you are engaging in real exploration. These are things where I personally think we would accept more risk in part because you have to."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:09)",
+    "text": "Is there a part of you that’s frustrated by the rate of progress in Blue Origin?"
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:57:15)",
+    "text": "Blue Origin needs to be much faster. And it’s one of the reasons that I left my role as the CEO of Amazon a couple of years ago, “I wanted to come in and Blue Origin needs me right now.” And so I had always … When I was the CEO of Amazon, my point of view on this is, “If I’m the CEO of a publicly traded company, it’s going to get my full attention.” And it’s just how I think about things. It was very important to me. I felt I had an obligation to all the stakeholders at Amazon to do that. And so having turned the CEO, I’m still the executive chair there, but I turned the CEO role over, and the primary reason I did that is that I could spend time on Blue Origin, adding some energy, some sense of urgency, “We need to move much faster and we’re going to.”"
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:14)",
+    "text": "What are the ways to speed it up? You’ve talked a lot of different ways at Amazon removing barriers for progress or distributing, making everybody autonomous and self-reliant, all those kinds of things. Is that apply at Blue Origin or is-"
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(00:58:37)",
+    "text": "It does apply. I’m leading this directly. We’re going to become the world’s most decisive company across any industry. And so at Amazon, for ever since the beginning, I said, “We’re going to become the world’s most customer-obsessed company.” And no matter the industry, one day, people are going to come to Amazon from the healthcare industry and want to know, “How are you so customer-obsessed? How do you not just pay lip service that, but actually do that?” All different industries should come want to study us to see how we accomplish that. And the analogous thing at Blue Origin and will help us move faster is we’re going to become the world’s most decisive company. We’re going to get really good at taking appropriate technology risk and making those decisions quickly, being bold on those things and having the right culture that supports that."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "",
+    "timestamp": "(00:59:40)",
+    "text": "You need people to be ambitious, technically ambitious, “If there are five ways to do something, we’ll study them, but let’s study them very quickly and make a decision.” We can always change our mind. Changing your mind, I talk about one-way doors and two-way doors, most decisions are two-way doors."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:03)",
+    "text": "Can you explain that because I love that metaphor?"
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:00:06)",
+    "text": "If you make the wrong decision, if it’s a two-way door decision, you pick a door, you walk out and you spend a little time there. It turns out to be the wrong decision, you can come back in and pick another door. Some decisions are so consequential and so important and so hard to reverse that they really are one-way door decisions. You go in that door, you’re not coming back. And those decisions have to be made very deliberately, very carefully. If you can think of yet another way to analyze the decision, you should slow down and do that. So when I was CEO of Amazon, I often found myself in the position of being the chief slow down officer because somebody would be bringing me a one-way door decision and I would say, “Okay, I can think of three more ways to analyze that. So let’s go do that because we are not going to be able to reverse this one easily. Maybe you can reverse it if it’s going to be very costly and very time-consuming. We really have to get this one right from the beginning.”"
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "",
+    "timestamp": "(01:01:10)",
+    "text": "And what happens, unfortunately, in companies, what can happen, is that you have a one-size-fits-all decision-making process where you end up using the heavyweight process on all decisions …"
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:28)",
+    "text": "For everything, yeah."
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:01:29)",
+    "text": "… Including the lightweight ones, the two-way door decisions. Two-way door decisions should mostly be made by single individuals or by very small teams deep in the organization. And one-way door decisions are the irreversible ones. Those are the ones that should be elevated up to the senior-most executives who should slow them down and make sure that the right thing is being done."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:55)",
+    "text": "Yeah, part of the skill here is to know the difference between one-way and two-way. I think you mentioned …"
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:01:55)",
+    "text": "Yes."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:01)",
+    "text": "I think you mentioned Amazon Prime, the decision to create Amazon Prime as a one-way door. It’s unclear if it is or not, but it probably is and it’s a really big risk to go there."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:02:14)",
+    "text": "There are a bunch of decisions like that are … Changing the decision is going to be very, very complicated. Some of them are technical decisions too because some technical decisions are like quick-drying cement. Once you make them, it gets really hard. Choosing which propellants to use in a vehicle, selecting LNG for the booster stage and selecting hydrogen for the upper stage, that has turned out to be a very good decision. But if you changed your mind, that would be a very big setback. Do you see what I’m saying?"
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:51)",
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:02:52)",
+    "text": "So that’s the kind of decision you scrutinize very, very carefully. Other things just aren’t like that. Most decisions are not that way. Most decisions should be made by single individuals and done quickly in the full understanding that you can always change your mind."
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:03:11)",
+    "text": "One of the things I really liked, perhaps it’s not a two-way door decisions, is, “I disagree and commit,” phrase. So somebody brings up an idea to you, if it’s a two-way door, you state that you don’t understand enough to agree, but you still back them. I’d love for you to explain that-"
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:03:35)",
+    "text": "Well, yes, disagree and commit is a really important principle that saves a lot of arguing. So-"
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:03:39)",
+    "text": "Yeah, I’m going to use that in my personal life, “I disagree, but commit.”"
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:03:44)",
+    "text": "It’s very common in any endeavor in life, in business and anybody where you have teammates, you have a teammate and the two of you disagree. At some point, you have to make a decision. And in companies, we tend to organize hierarchically. Whoever’s the more senior person ultimately gets to make the decision. So ultimately, the CEO gets to make that decision. And the CEO may not always make the decision that they agree with. So I would be the one who would disagree and commit. One of my direct reports would very much want to do something in a particular way. I would think it was a bad idea. I would explain my point of view. They would say, ” Jeff, I think you’re wrong and here’s why,” and we would go back and forth."
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "",
+    "timestamp": "(01:04:35)",
+    "text": "And I would often say, “You know what? I don’t think you’re right, but I’m going to gamble with you and you’re closer to the ground truth than I am. I’d known you for 20 years. You have great judgment. I don’t know that I’m right either. Not really, not for sure. All these decisions are complicated. Let’s do it your way.” But at least then you’ve made a decision and I’m agreeing to commit to that decision. So I’m not going to be second guessing it. I’m not going to be sniping at it. I’m not going to be saying, “I told you so.” I’m going to try actively to help make sure it works. That’s a really important teammate behavior."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "",
+    "timestamp": "(01:05:18)",
+    "text": "There’s so many ways that dispute resolution is a really interesting thing on teams. And there are so many ways when two people disagree about something, even … I’m assuming the case for everybody is well-intentioned. They just have a very different opinion about what the right decision is. And in our society and inside companies, we have a bunch of mechanisms that we use to resolve these kinds of disputes. A lot of them are, I think, really bad. So an example of a really bad way of coming to agreement is compromise. So compromise, we’re in a room here and I could say, “Lex, how tall do you think this ceiling is?”"
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:06:00)",
+    "text": "I’m here and I could say, “Lex, how tall do you think this ceiling is?” And you’d be like, “I don’t know, Jeff, maybe 12 feet tall.” And I would say, “I think it’s 11 feet tall.” And then we’d say, “You know what? Let’s just call it 11 and a half feet.” That’s compromise, instead of. The right thing to do is to get a tape measure or figure out some way of actually measuring, but think getting that tape measure and figure out how to get it to the top of the ceiling and all these things, that requires energy. Compromise, the advantage of compromise as a resolution mechanism is that it’s low energy, but it doesn’t lead to truth. And so in things like the height of the ceiling where truth is a noble thing, you shouldn’t allow compromise to be used when you can know the truth."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "",
+    "timestamp": "(01:06:51)",
+    "text": "Another really bad resolution mechanism that happens all the time is just who’s more stubborn? This is also, let’s say two executives who disagree and they just have a war of attrition, and whichever one gets exhausted first capitulates to the other one. Again, you haven’t arrived at truth and this is very demoralizing. So this is where escalation, I try to ask people on my team and say, “Never get to a point where you are resolving something by who gets exhausted first. Escalate that.” I’ll help you make the decision because that’s so de-energized and such a terrible, lousy way to make a decision."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:40)",
+    "text": "Do you want to get to the resolution as quickly as possible because that ultimately leads to high velocity of decision?"
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:07:45)",
+    "text": "Yes, and you want to try to get as close to truth as possible. Exhausting the other person is not truth seeking."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:53)",
+    "text": "Yes."
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:07:54)",
+    "text": "And compromise is not truth seeking. And there are a lot of cases where no one knows the real truth and that’s where disagree and commit can come in, but escalation is better than war of attrition. Escalate to your boss and say, “Hey, we can’t agree on this. We like each other. We’re respectful of each other, but we strongly disagree with each other. We need you to make a decision here so we can move forward.” But decisiveness, moving forward quickly on decisions, as quickly as you responsibly can is how you increase velocity. Most of what slows things down is taking too long to make decisions at all scale levels. So it has to be part of the culture to get high velocity. Amazon has a million and a half people and the company is still fast. We’re still decisive, we’re still quick, and that’s because the culture supports that."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:53)",
+    "text": "At every scale in a distributed way-"
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:08:53)",
+    "text": "Yes."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:56)",
+    "text": "Try to maximize the velocity of decisions."
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:08:58)",
+    "text": "Exactly."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:59)",
+    "text": "You’ve mentioned the lunar program. Let me ask you about that. There’s a lot going on there and you haven’t really talked about it much. So in addition to the Artemis program with NASA, Blue is doing its own lander program. Can you describe it? There’s a sexy picture on Instagram with one of them. Is it the MK1, I guess?"
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:09:20)",
+    "text": "Yeah, The Mark 1. The picture here is me with Bill Nelson, the NASA Administrator."
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:26)",
+    "text": "Just to clarify, the lander is the sexy thing about the [inaudible 01:09:29]. I really want to clarify that."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:09:32)",
+    "text": "I know it’s not me. I know it was either the lander or Bill."
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:34)",
+    "text": "Okay. I love Bill, but-"
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:09:37)",
+    "text": "Thank you for clarifying."
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:37)",
+    "text": "Okay."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:09:40)",
+    "text": "Yes, the Mark 1 lander is designed to take 3,000 kilograms to the surface of the moon and to cargo expendable cargo. It’s an expendable lander. Lands on the moon, stays there, take 3,000 kilograms to the surface. It can be launched on a single New Glenn flight, which is very important. So it’s a relatively simple architecture, just like the human landing system lander, they’re called the Mark 2. Mark 1 is also fueled with liquid hydrogen, which is for high energy emissions like landing on the surface of the moon. The high specific impulsive hydrogen is a very big advantage."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "",
+    "timestamp": "(01:10:24)",
+    "text": "The disadvantage of hydrogen has always been that since it’s such a deep cryogen, it’s not storable. So it’s constantly boiling off and you’re losing propellant because it’s boiling off. And so what we’re doing as part of our lunar program is developing solar-powered cryo coolers that can actually make hydrogen a storable propellant for deep space. And that’s a real game-changer. It’s a game-changer for any high energy mission. So to the moon, but to the outer planets, to Mars, everywhere."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:00)",
+    "text": "So the idea with both Mark 1 and Mark 2 is the New Glenn can carry it from the surface of earth to the surface of the moon?"
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:11:12)",
+    "text": "Exactly. So the Mark 1 is expendable. The lunar lander we’re developing for NASA, the Mark 2 lander, that’s part of the Artemis program. They call it the Sustaining Lander Program. So that lander is designed to be reusable. It can land on the surface of the moon in a single stage configuration and then take off. So if you look at the Apollo program, the lunar lander and Apollo was really two stages. It would land on the surface and then it would leave the descent stage on the surface of the moon and only the ascent stage would go back up into lunar orbit where it would rendezvous with the command module."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "",
+    "timestamp": "(01:11:56)",
+    "text": "Here, what we’re doing is we have a single stage lunar lander that carries down enough propellant so that it can bring the whole thing back up so that it can be reused over and over. And the point of doing that, of course, is to reduce cost so that you can make lunar missions more affordable over time, which is that’s one of NASA’s big objectives because this time… The whole point of Artemis is go back to the moon, but this time to stay. So back in the Apollo program, we went to the moon six times and then ended the program and it really was too expensive to continue."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:35)",
+    "text": "And so there’s a few questions there, but one is how do you stay on the moon? What ideas do you have about sustaining life where a few folks can stay there for prolonged periods of time?"
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:12:51)",
+    "text": "Well, one of the things we’re working on is using lunar resources like lunar regolith to manufacture commodities and even solar cells on the surface of the moon. We’ve already built a solar cell that is completely made from lunar regolith stimulant, and this solar cell is only about 7% power efficient. So it’s very inefficient compared to the more advanced solar cells that we make here on earth. But if you can figure out how to make a practical solar cell factory that you can land on the surface of the moon and then the raw material for those solar cells is simply lunar regolith, then you can just continue to churn out solar cells on the surface of the moon, have lots of power on the surface of the moon. That will make it easier for people to live on the moon."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "",
+    "timestamp": "(01:13:51)",
+    "text": "Similarly, we’re working on extracting oxygen from lunar regolith. So lunar regolith by weight has a lot of oxygen in it. It’s bound very tightly as oxides with other elements. And so you have to separate the oxygen, which is very energy intensive. So that also could work together with the solar cells. And then ultimately, we may be able to find practical quantities of ice in the permanently shadowed craters on the poles of the moon. And we know there is ice water or water ice in those craters, and we know that we can break that down with electrolysis into hydrogen and oxygen. And then you’d not only have oxygen, but you’d also have a very good high efficiency propellant fuel in hydrogen."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "",
+    "timestamp": "(01:14:57)",
+    "text": "So there’s a lot we can do to make the moon more sustainable over time, but the very first step, the gate that all of that has to go through is we need to be able to land cargo and humans on the surface of the moon at an acceptable cost."
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:16)",
+    "text": "To fast-forward a little bit, is there any chance Jeff Bezos steps foot on the moon and on Mars, one or the other or both?"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:15:27)",
+    "text": "It’s very unlikely. I think it’s probably something that gets done by future generations by the time it gets to me. I think in my lifetime that’s probably going to be done by professional astronauts, sadly. I would love to sign up for that mission. So don’t count me out yet, Lex. Give me a finding shot here maybe, but I think if we are placing reasonable bets on such a thing, in my lifetime, that will continue to be done by professional astronauts."
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:59)",
+    "text": "So these are risky, difficult missions?"
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:16:02)",
+    "text": "And probably missions that require a lot of training. You are going there for a very specific purpose to do something. We’re going to be able to do a lot on the moon too with automation. So in terms of setting up these factories and doing all that, we are sophisticated enough now with automation that we probably don’t need humans to tend those factories and machines. So there’s a lot that’s going to be done in both modes."
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:28)",
+    "text": "So I have to ask the bigger picture question about the two companies pushing humanity forward out towards the stars, Blue Origin and SpaceX. Are you competitors, collaborators? Which and to what degree?"
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:16:44)",
+    "text": "Well, I would say just like the internet is big and there are lots of winners at all scale levels, there are half a dozen giant companies that the internet has made, but there are a bunch of medium-sized companies and a bunch of small companies, all successful, all with profit streams, all driving great customer experiences. That’s what we want to see in space, that kind of dynamism. And space is big. There’s room for a bunch of winners and it’s going to happen at all skill levels. And so SpaceX is going to be successful for sure. I want Blue Origin to be successful, and I hope there are another five companies right behind us."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:25)",
+    "text": "But I spoke to Elon a few times recently about you, about Blue Origin, and he was very positive about you as a person and very supportive of all the efforts you’ve been leading at Blue. What’s your thoughts? You worked with a lot of leaders at Amazon at Blue. What’s your thoughts about Elon as a human being and a leader?"
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:17:46)",
+    "text": "Well, I don’t really know Elon very well. I know his public persona, but I also know you can’t know anyone by their public persona. It’s impossible. You may think you do, but I guarantee you don’t. So I don’t really know. You know Elon way better than I do, Lex, but in terms of judging by the results, he must be a very capable leader. There’s no way you could have Tesla and SpaceX without being a capable leader. It’s impossible."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:22)",
+    "text": "Yeah, I hope you guys hang out sometimes, shake hands and sort of have a kind of friendship that would inspire just the entirety of humanity, because what you’re doing is one of the big grand challenges ahead for humanity."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:18:40)",
+    "text": "Well, I agree with you and I think in a lot of these endeavors we’re very like-minded. So I’m not saying we’re identical, but I think we’re very like-minded. And so I love that idea."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:56)",
+    "text": "All right, going back to sexy pictures on your Instagram, there’s a video of you from the early days of Amazon, giving a tour of your, “Offices.” I think your dad is holding the camera."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:19:10)",
+    "text": "He is. Yeah, I know, right? Yes. This is what? The giant orange extension cord."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:12)",
+    "text": "And you’re explaining the genius of the extension cord and how this is a desk and the CRT monitor, and that’s where all the magic happened. I forget what your dad said, but this is the center of it all. So what was it like? What was going through your mind at that time? You left a good job in New York and took this leap. Were you excited? Were you scared?"
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:19:37)",
+    "text": "So excited and scared, anxious. Thought the odds of success were low. Told all of our early investors that I thought there was a 30% chance of success by which I just mean getting your money back, not what actually happened. Because that’s the truth. Every startup company is unlikely to work. It’s helpful to be in reality about that, but that doesn’t mean you can’t be optimistic. So you have to have this duality in your head. On the one hand, you know what the baseline statistics say about startup companies, and the other hand, you have to ignore all of that and just be 100% sure it’s going to work, and you’re doing both things at the same time. You’re holding that contradiction in your head."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "",
+    "timestamp": "(01:20:24)",
+    "text": "But it was so exciting. From 1994 when the company was founded to 1995 when we opened our doors, all the way until today, I find Amazon so exciting. And that doesn’t mean… It’s full of pain, full of problems. It’s like there’s so many things that need to be resolved and worked and made better and et cetera. But on balance, it’s so fun. It’s such a privilege. It’s been such a joy. I feel so grateful that I’ve been part of that journey. It’s just been incredible."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:21:04)",
+    "text": "So in some sense, you don’t want a single day of comfort. You’ve written about this many times. We’ll talk about your writing, which I would highly recommend people read and just the letters to shareholders. So explaining the idea of day one thinking, I think you first wrote about in 97 letters to shareholders. Then you also in a way wrote it about, sad to say, is your last letter to shareholders as CEO. And you said that, “Day two is stasis followed by irrelevance, followed by excruciating painful decline, followed by death.” And that is why it’s always day one. Can you explain this day one thing? This is a really powerful way to describe the beginning and the journey of Amazon."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:21:56)",
+    "text": "It’s really a very simple, and I think age-old idea about renewal and rebirth and every day is day one. Every day you are deciding what you’re going to do and you are not trapped by what you were or who you were or any self-consistency. Self-consistency even can be a trap. And so day one thinking is we start fresh every day and we get to make new decisions every day about invention, about customers, about how we’re going to operate. Even as deeply as what our principles are, we can go back to that. It turns out we don’t change those very often, but we change them occasionally."
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "",
+    "timestamp": "(01:22:49)",
+    "text": "And when we work on programs at Amazon, we often make a list of tenants. And the tenants are… They’re not principles, they’re a little more tactical than principles, but it’s the main ideas that we want this program to embody, whatever those are. And one of the things that we do is we put, “These are the tenets for this program and parentheses.” We always put, “Unless you know a better way.” And that idea, “Unless you know a better way,” is so important because you never want to get trapped by dogma. You never want to get trapped by history. It doesn’t mean you discard history or ignore it. There’s so much value in what has worked in the past, but you can’t be blindly following what you’ve done. And that’s the heart of day one, is you’re always starting afresh."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:51)",
+    "text": "And to the question of how to fend off day two, you said, “Such a question can’t have a simple answer,” as you’re saying. “There will be many elements, multiple paths, and many traps. I don’t know the whole answer, but I may know bits of it. Here’s a starter pack of essentials, maybe others come to mind. For day one, defense, customer obsession, a skeptical view of proxies, the eager adoption of external trends and high velocity decision-making.”"
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "",
+    "timestamp": "(01:24:19)",
+    "text": "So we talked about high velocity decision-making, that’s more difficult than it sounds. So maybe you can pick one that stands out to you as you can comment on. Eager adoption of external trends, high velocity decision-making, skeptical view of proxies. How do you fight off day two?"
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:24:36)",
+    "text": "Well, I’ll talk about… Because I think it’s the one that is maybe in some ways the hardest to understand, is the skeptical view of proxies. One of the things that happens in business, probably anything where you have an ongoing program and something is underway for a number of years, is you develop certain things that you’re managing to. The typical case would be a metric, and that metric isn’t the real underlying thing. And so maybe the metric is efficiency metric around customer contacts per unit sold or something like. If you sell a million units, how many customer contacts do you get or how many returns do you get? And so on and so on."
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "",
+    "timestamp": "(01:25:30)",
+    "text": "And so what happens is a little bit of a kind of inertia sets in where somebody a long time ago invented that metric and they invented that metric, they decided, “We need to watch for customer returns per unit sold as an important metric.” But they had a reason why they chose that metric, the person who invented that metric and decided it was worth watching. And then fast-forward five years, that metric is the proxy."
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:02)",
+    "text": "The proxy for truth, I guess."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:26:04)",
+    "text": "The proxy for truth. Let’s say in this case it’s a proxy for customer happiness, but that metric is not actually customer happiness. It’s a proxy for customer happiness. The person who invented the metric understood that connection. Five years later, a kind of inertia can set in and you forget the truth behind why you were watching that metric in the first place. And the world shifts a little and now that proxy isn’t as valuable as it used to be or it’s missing something. And you have to be on alert for that. You have to know, “Okay, I don’t really care about this metric. I care about customer happiness and this metric is worth putting energy into and following and improving and scrutinizing, only in so much as it actually affects customer happiness.”"
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "",
+    "timestamp": "(01:27:03)",
+    "text": "And so you’ve got to constantly be on guard and it’s very, very common. This is a nuanced problem. It’s very common, especially in large companies, that they’re managing to metrics that they don’t really understand. They don’t really know why they exist, and the world may have shifted out from under them a little and the metrics are no longer as relevant as they were when somebody 10 years earlier invented the metric."
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:29)",
+    "text": "That is a nuance, but that’s a big problem. Right?"
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:27:33)",
+    "text": "It’s a huge problem."
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:34)",
+    "text": "There’s something so compelling to have a nice metric to try to optimize."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:27:38)",
+    "text": "Yes. And by the way, you do need metrics."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:41)",
+    "text": "Yes, you do."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:27:41)",
+    "text": "You can’t ignore them. Want them, but you just have to be constantly on guard. This is a way to slip into day two thinking would be to manage your business to metrics that you don’t really understand and you’re not really sure why they were invented in the first place, and you’re not sure they’re still as relevant as they used to be."
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:03)",
+    "text": "What does it take to be the guy or gal who brings up the point that this proxy might be outdated? I guess what does it take to have a culture that enables that in the meeting? Because that’s a very uncomfortable thing to bring up at a meeting. “We all showed up here, it’s a Friday.”"
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:28:21)",
+    "text": "You have just asked a million-dollar question. So if I generalize what you’re asking, you are talking in general about truth-telling and we humans are not really truth-seeking animals. We are social animals."
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:42)",
+    "text": "Yeah, we are."
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:28:44)",
+    "text": "And take you back in time 10,000 years and you’re in a small village. If you go along to get along, you can survive. You can procreate. If you’re the village truth-teller, you might get clubbed to death in the middle of the night. Truths are often… They don’t want to be heard because important truths can be uncomfortable, they can be awkward, they can be exhausting."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:12)",
+    "text": "Impolite and all that kind of stuff."
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:29:14)",
+    "text": "Yes, challenging. They can make people defensive even if that’s not the intent. But any high performing organization, whether it’s a sports team, a business, a political organization, an activist group, I don’t care what it is, any high performing organization has to have mechanisms and a culture that supports truth-telling. One of the things you have to do is you have to talk about that. You have to talk about the fact that it takes energy to do that. You have to talk to people, you have to remind people, “It’s okay that it’s uncomfortable.” Literally tell people, “It’s not what we’re designed to do as humans.” It’s kind of a side effect. We can do that, but it’s not how we survive. We mostly survive by being social animals and being cordial and cooperative, and that’s really important."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "",
+    "timestamp": "(01:30:10)",
+    "text": "And so science is all about truth-telling. It’s actually a very formal mechanism for trying to tell the truth. And even in science, you find that it’s hard to tell the truth. Even you’re supposed to have hypothesis and test it and find data and reject the hypothesis and so on, it’s not easy."
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:36)",
+    "text": "But even in science, there’s like the senior scientists and the junior scientists."
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:30:36)",
+    "text": "Correct."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:41)",
+    "text": "And then there’s a hierarchy of humans where somehow seniority matters in the scientific process, which it should not."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:30:49)",
+    "text": "Yes, and that’s true inside companies too. And so you want to set up your culture so that the most junior person can overrule the most senior person if they have data. And that really is about trying to… There are little things you can do. So for example, in every meeting that I attend, I always speak last. And I know from experience that if I speak first, even very strong-willed, highly intelligent, high judgment participants in that meeting will wonder, “Well, if Jeff thinks that, I came in this meeting thinking one thing, but maybe I’m not right.” And so you can do little things like if you’re the most senior person in the room, go last, let everybody else go first. In fact, ideally, let’s try to have the most junior person go first and the second and try to go in order of seniority so that you can hear everyone’s opinion in an unfiltered way. Because we really do, we actually literally change our opinions. If somebody who you really respect says something, it makes you change your mind a little."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:17)",
+    "text": "So you’re saying implicitly or explicitly, give permission for people to have a strong opinion, as long as it’s backed by data."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:32:27)",
+    "text": "Yes, and sometimes it can even… By the way, a lot of our most powerful truths turn out to be hunches, they turn out to be based on anecdotes, they’re intuition based. And sometimes you don’t even have strong data, but you may know the person well enough to trust their judgment. You may feel yourself leaning in. It may resonate with a set of anecdotes you have, and then you may be able to say, “Something about that feels right. Let’s go collect some data on that. Let’s try to see if we can actually know whether it’s right. But for now, let’s not disregard it. It feels right.”"
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "",
+    "timestamp": "(01:33:06)",
+    "text": "You can also fight inherent bias. There’s an optimism bias. If there are two interpretations of a new set of data and one of them is happy and one of them is unhappy, it’s a little dangerous to jump to the conclusion that the happy interpretation is right. You may want to compensate for that human bias of trying to find the silver lining and say, “Look, that might be good, but I’m going to go with it’s bad for now until we’re sure.”"
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:36)",
+    "text": "So speaking of happiness bias, data collection and anecdotes, you have to… How’s that for a transition? You have to tell me the story of the call you made, the customer service call you made to demonstrate a point about wait times?"
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:33:57)",
+    "text": "Yeah. This is very early in the history of Amazon."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:34:00)",
+    "text": "Yes."
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:34:00)",
+    "text": "And we were going over a weekly business review and a set of documents, and I have a saying, which is when the data and the anecdotes disagree, the anecdotes are usually right. And it doesn’t mean you just slavishly go follow the anecdotes then. It means you go examine the data because it’s usually not that the data is being miscollected, it’s usually that you’re not measuring the right thing. And so of you have a bunch of customers complaining about something and at the same time, your metrics look like they shouldn’t be complaining, you should doubt the metrics."
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "",
+    "timestamp": "(01:34:43)",
+    "text": "And an early example of this was we had metrics that showed that our customers were waiting, I think less than, I don’t know, 60 seconds when they called a 1-800 number to get phone customer service. The wait time was supposed to be less than 60 seconds, but we had a lot of complaints that it was longer than that. And anecdotally it seemed longer than that. I would call customer service myself. And so one day we’re in a meeting, we’re going through the WBR, the weekly business review, and we get to this metric in the deck, and the guy who leads customer service is defending the metric. And I said, “Okay, let’s call.” Picked up the phone, and I dialed the 1-800 number and called customer service, and we just waited in silence."
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:39)",
+    "text": "What did it turn out to be?"
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:35:40)",
+    "text": "Oh, it was really long, more than 10 minutes, I think."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:42)",
+    "text": "Oh, wow."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:35:43)",
+    "text": "It was many minutes. And so it dramatically made the point that something was wrong with the data collection. We weren’t measuring the right thing, and that set off a whole chain of events where we started measuring it right. And that’s an example, by the way, of truth-telling is like that’s an uncomfortable thing to do, but you have to seek truth even when it’s uncomfortable, and you have to get people’s attention and they have to buy into it, and they have to get energized around really fixing things."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:16)",
+    "text": "So that speaks to the obsession with the customer experience. So one of the defining aspects of your approach to Amazon is just being obsessed with making customers happy. I think companies sometimes say that, but Amazon is really obsessed with that. I think there’s something really profound to that, which is seeing the world through the eyes of the customer, like the customer experience, the human being that’s using the product, that’s enjoying the product, the subtle little things that make up their experience. How do you optimize those?"
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:36:55)",
+    "text": "This is another really good and deep question because there are big things that are really important to manage, and then there are small things. Internally into Amazon, we call them paper cuts. So we’re always working on the big things, if you ask me. And most of the energy goes into the big things, as it should, and you can identify the big things. And I would encourage anybody, if anybody listening to this is an entrepreneur, has a small business, whatever, think about the things that are not going to change over 10 years. And those are probably the big things."
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "",
+    "timestamp": "(01:37:38)",
+    "text": "So I know in our retail business at Amazon, 10 years from now, customers are still going to want low prices. I know they’re still going to want fast delivery, and I just know they’re still going to want big selection. So it’s impossible to imagine a scenario where 10 years from now where a customer says, “I love Amazon, I just wish the prices were a little higher,” or, “I love Amazon, I just wish you delivered a little more slowly.” So when you identify the big things you can tell they’re worth putting energy into because they’re stable in time."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "",
+    "timestamp": "(01:38:10)",
+    "text": "Okay, but you’re asking about something a little different, which is in every customer experience, there are those big things. And by the way, it’s astonishingly hard to focus even on just the big things. So even though they’re obvious, they’re really hard to focus on. But in addition to that, there are all these little tiny customer experience deficiencies, and we call those paper cuts. We make long lists of them. And then we have dedicated teams that go fix paper cuts because the teams working on the big issues never get to the paper cuts. They never work their way down the list to get to… They’re working on big things, as they should and as you want them to. And so you need special teams who are charged with fixing…"
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:39:00)",
+    "text": "Special teams who are charged with fixing paper cuts."
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:04)",
+    "text": "Where would you put on the paper cut spectrum the Buy now with the 1-Click button? Which is, I think, pretty genius. So to me, okay, my interaction with things I love on the internet, there’s things I do a lot. I, maybe representing a regular human, I would love for those things to be frictionless. For example, booking airline tickets, just saying. But it’s buying a thing with one click, making that experience frictionless, intuitive, all aspects of that, that just fundamentally makes my life better, not just in terms of efficiency, in terms of some kind of-"
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:39:49)",
+    "text": "Cognitive load."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:50)",
+    "text": "… Yeah, cognitive load and inner peace and happiness. Because, first of all, buying stuff is a pleasant experience. Having enough money to buy a thing and then buying it is a pleasant experience. And having pain around that is somehow just you’re ruining a beautiful experience. And I guess all I’m saying as a person who loves good ideas, is that a paper cut, a solution to a paper cut?"
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:40:17)",
+    "text": "Yes. So that particular thing is probably a solution to a number of paper cuts. So if you go back and look at our order pipeline and how people shopped on Amazon before we invented 1-Click shopping, there was more friction. There was a whole series of paper cuts and that invention eliminated a bunch of paper cuts. And I think you’re absolutely right by the way, that when you come up with something like 1-Click shopping, again, this is so ingrained in people now, I’m impressed that you even notice it. Most people-"
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:40:54)",
+    "text": "Every time I click the button, I just-"
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:40:54)",
+    "text": "… most people never notice."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:40:55)",
+    "text": "… just a surge of happiness."
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:41:00)",
+    "text": "There is in the perfect invention for the perfect moment in the perfect context, there is real beauty. It is actual beauty and it feels good. It’s emotional. It’s emotional for the inventor, it’s emotional for the team that builds it. It’s emotional for the customer. It’s a big deal and you can feel those things."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:23)",
+    "text": "But to keep coming up with that idea, with those kinds of ideas, I guess is the day one thinking effort."
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:41:29)",
+    "text": "Yeah, and you need a big group of people who feel that kind of satisfaction with creating that kind of beauty."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:38)",
+    "text": "There’s a lot of books written about you. There’s a book Invent & Wander where Walter Isaacson does an intro. It’s mostly collective writings of yours. I’ve read that. I also recommend people check out the Founders Podcast that covers you a lot and it does different analysis of different business advice you’ve given over the years. I bring all that up because I mentioned that you said that books are an antidote for short attention spans. And I forget how it was phrased, but that when you were thinking about the Kindle that you were thinking about how technology changes us."
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:42:20)",
+    "text": "Changes us. We co-evolve with our tools. So we invent new tools and then our tools change us."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:42:30)",
+    "text": "Which is fascinating to think about."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:42:32)",
+    "text": "It goes in a circle"
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:42:33)",
+    "text": "And there’s some aspect, even just inside business, where you don’t just make the customer happy, but you also have to think about where is this going to take humanity if you zoom out a bit?"
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:42:45)",
+    "text": "A hundred percent and you can feel your brain. Brains are plastic and you can feel your brain getting reprogrammed. I remember the first time this happened to me was when Tetris who’d first came on the scene. Anybody who’s been a game player has this experience where you close your eyes to lay down to go to sleep and you see all the little blocks moving and you’re kind of rotating them in your mind and you can just tell as you walk around the world that you have rewired your brain to play Tetris. But that happens with everything. I think we still have yet to see the full repercussions of this, I fear, but I think one of the things that we’ve done online and largely because of social media is we have trained our brains to be really good at processing super short form content."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "",
+    "timestamp": "(01:43:52)",
+    "text": "Your podcast flies in the face of this. You do these long format things."
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:43:59)",
+    "text": "Books do too."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:44:00)",
+    "text": "And reading books is a long format thing and if something is convenient, we do more of it. We carry around in our pocket a phone, and one of the things that phone does for the most part is it is an attention shortening device because most of the things we do on our phone shorten our attention spans. And I’m not even going to say we know for sure that that’s bad, but I do think it’s happening. That’s one of the ways we’re co-evolving with that tool. But I think it’s important to spend some of your time and some of your life doing long attention span things."
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:41)",
+    "text": "Yeah, I think you’ve spoken about the value in your own life of focus, of singular focus on a thing for prolonged periods of time, and that’s certainly what books do and that’s certainly what that piece of technology does. But I bring all that up to ask you about another piece of technology, AI, that has the potential to have various trajectories to have an impact on human civilization. How do you think AI will change us?"
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:45:14)",
+    "text": "If you’re talking about generative AI, large language models, things like ChatGPT, and its soon successors, these are incredibly powerful technologies. To believe otherwise is to bury your head in the sand, soon to be even more powerful. It’s interesting to me that large language models in their current form are not inventions, they’re discoveries. The telescope was an invention, but looking through it at Jupiter, knowing that it had moons, was a discovery. My God, it has moons. And that’s what Galileo did. And so this is closer on that spectrum of invention. We know exactly what happens with a 787, it’s an engineered object. We designed it. We know how it behaves. We don’t want any surprises. Large language models are much more like discoveries. We’re constantly getting surprised by their capabilities. They’re not really engineered objects."
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "speaker": "",
+    "timestamp": "(01:46:35)",
+    "text": "Then you have this debate about whether they’re going to be good for humanity or bad for humanity. Even specialized AI could be very bad for humanity. Just regular machine learning models can make certain weapons of war, that could be incredibly destructive and very powerful. And they’re not general AIs. They could just be very smart weapons. And so we have to think about all of those things. I’m very optimistic about this. So even in the face of all this uncertainty, my own view is that these powerful tools are much more likely to help us and save us even than they are to on balance hurt us and destroy us. I think we humans have a lot of ways of we can make ourselves go extinct. These things may help us not do that, so they may actually save us. So the people who are overly concerned, in my view, overly, it is a valid debate. I think that they may be missing part of the equation, which is how helpful they could be in making sure we don’t destroy ourselves."
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "speaker": "",
+    "timestamp": "(01:48:07)",
+    "text": "I don’t know if you saw the movie Oppenheimer, but to me, first of all, I loved the movie and I thought the best part of the movie is this bureaucrat played by Robert Downey Jr, who some of the people I’ve talked to think that’s the most boring part of the movie. I thought it was the most fascinating because what’s going on here is you realize we have invented these awesome, destructive, powerful technologies called nuclear weapons and they’re managed and we humans, we’re not really capable of wielding those weapons. And that’s what he represented in that movie is here’s this guy, he wrongly thinks… he’s being so petty. He thinks that Oppenheimer said something bad to Einstein about him. They didn’t talk about him at all as you find out in the final scene of the movie. And yet he’s spent his career trying to be vengeful and petty."
+  },
+  {
+    "start": 666,
+    "end": 667,
+    "speaker": "",
+    "timestamp": "(01:49:19)",
+    "text": "And that’s the problem. We as a species are not really sophisticated enough and mature enough to handle these technologies. And by the way, before you get to general AI and the possibility of AI having agency and there’s a lot of things would have to happen, but there’s so much benefit that’s going to come from these technologies in the meantime, even before there are general AI in terms of better medicines and better tools to develop more technologies and so on. So I think it’s an incredible moment to be alive and to witness the transformations that are going to happen. How quickly will happen, no one knows. But over the next 10 years and 20 years, I think we’re going to see really remarkable advances. And I personally am very excited about it."
+  },
+  {
+    "start": 668,
+    "end": 669,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:50:12)",
+    "text": "First of all, really interesting to say that it’s discoveries, that it’s true that we don’t know the limits of what’s possible with the current language models."
+  },
+  {
+    "start": 670,
+    "end": 671,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:50:24)",
+    "text": "We don’t."
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:50:24)",
+    "text": "And it could be a few tricks and hacks here and there that open doors to hold entire new possibilities."
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:50:33)",
+    "text": "We do know that humans are doing something different from these models, in part because we’re so power efficient. The human brain does remarkable things and it does it on about 20 watts of power. And the AI techniques we use today use many kilowatts of power to do equivalent tasks. So there’s something interesting about the way the human brain does this. And also we don’t need as much data. So self-driving cars, they have to drive billions and billions of miles to try to learn how to drive. And your average 16-year-old figures it out with many fewer miles. So there are still some tricks, I think, that we have yet to learn. I don’t think we’ve learned the last trick. I don’t think it’s just a question of scaling things up. But what’s interesting is that just scaling things up, and I put just in quotes because it’s actually hard to scale things up, but just scaling things up also appears to pay huge dividends."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:51:40)",
+    "text": "Yeah. And there’s some more nuanced aspect about human beings that’s interesting if it’s able to accomplish like being truly original and novel. Large language models, being able to come up with some truly new ideas. That’s one. And the other one is truth. It seems that large language models are very good at sounding like they’re saying a true thing, but they don’t require or often have a grounding in a mathematical truth, basically is a very good bullshitter. So if there’s not enough data in the training data about a particular topic, it’s just going to concoct accurate sounding narratives, which is a very fascinating problem to try to solve, how do you get language models to infer what is true or not to introspect?"
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:52:41)",
+    "text": "Yeah, they need to be taught to say, “I don’t know,” more often and I know several humans who could be taught that as well."
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:52:50)",
+    "text": "Sure. And then the other stuff, because you’re still a bit involved in the Amazon side with the AI things, the other open question is what kind of products are created from this?"
+  },
+  {
+    "start": 682,
+    "end": 683,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:53:01)",
+    "text": "Oh, so many. We have Alexa and Echo and Alexa has hundreds of millions of installed base inputs. And so there’s Alexa everywhere. And guess what? Alexa is about to get a lot smarter. And so from a product point of view, that’s super exciting."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:53:27)",
+    "text": "There’s so many opportunities there,"
+  },
+  {
+    "start": 686,
+    "end": 687,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:53:30)",
+    "text": "So many opportunities. Shopping assistant, all that stuff is amazing. And AWS, we’re building Titan, which is our foundational model. We’re also building Bedrock, which are corporate clients at AWS. Our enterprise clients, they want to be able to use these powerful models with their own corporate data without accidentally contributing their corporate data to that model. And so those are the tools we’re building for them with Bedrock. So there’s tremendous opportunity here."
+  },
+  {
+    "start": 688,
+    "end": 689,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:03)",
+    "text": "Yeah, the security, the privacy, all those things are fascinating. Because so much value can be gained by training on private data, but you want to keep this secure. It’s a fascinating technical problem."
+  },
+  {
+    "start": 690,
+    "end": 691,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:54:13)",
+    "text": "Yes. This is a very challenging technical problem and it’s one that we’re making progress on and dedicated to solving for our customers."
+  },
+  {
+    "start": 692,
+    "end": 693,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:21)",
+    "text": "Do you think there will be a day when humans and robots, maybe Alexa, have a romantic relationship like in the movie Her?"
+  },
+  {
+    "start": 694,
+    "end": 695,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:54:29)",
+    "text": "Well, I think if you look at the-"
+  },
+  {
+    "start": 696,
+    "end": 697,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:31)",
+    "text": "Just brainstorming products here."
+  },
+  {
+    "start": 698,
+    "end": 699,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:54:32)",
+    "text": "… if you look at the spectrum of human variety and what people like, sexual variety, there are people who like everything. So the answer to your question has to be yes."
+  },
+  {
+    "start": 700,
+    "end": 701,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:43)",
+    "text": "Okay. I guess I’m asking when-"
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:54:45)",
+    "text": "I don’t know how widespread that will be."
+  },
+  {
+    "start": 704,
+    "end": 705,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:45)",
+    "text": "… All right."
+  },
+  {
+    "start": 706,
+    "end": 707,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:54:48)",
+    "text": "But it will happen."
+  },
+  {
+    "start": 708,
+    "end": 709,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:49)",
+    "text": "I was just asking when for a friend, but it’s all right. Moving on. Next question. What’s a perfectly productive day in the life of Jeff Bezos? You’re one of the most productive humans in the world."
+  },
+  {
+    "start": 710,
+    "end": 711,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:55:03)",
+    "text": "Well, first of all, I get up in the morning and I putter. I have a coffee."
+  },
+  {
+    "start": 712,
+    "end": 713,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:55:09)",
+    "text": "Can you define putter?"
+  },
+  {
+    "start": 714,
+    "end": 715,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:55:11)",
+    "text": "I slowly move around. I’m not as productive as you might think I am. Because I do believe in wandering and I read my phone for a while. I read newspapers for a while. I chat with Laura and I drink my first coffee. So I move pretty slowly in the first couple of hours. I get up early just naturally, and then I exercise most days. Most days it’s not that hard for me. Some days it’s really hard and I do it anyway, I don’t want to, and it’s painful. And I’m like, “Why am I here?” And I don’t want to do any of this."
+  },
+  {
+    "start": 716,
+    "end": 717,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:55:52)",
+    "text": "“Why am I here at the gym?”"
+  },
+  {
+    "start": 718,
+    "end": 719,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:55:53)",
+    "text": "“Why am I here at the gym? Why don’t I do something else?” It’s not always easy."
+  },
+  {
+    "start": 720,
+    "end": 721,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:55:59)",
+    "text": "What’s your social motivation in those moments?"
+  },
+  {
+    "start": 722,
+    "end": 723,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:56:02)",
+    "text": "I know that I’ll feel better later if I do it. And so the real source of motivation, I can tell the days when I skip it, I’m not quite as alert. I don’t feel as good. And then there’s harder motivations. It’s longer term, you want to be healthy as you age. You want health span. Ideally, you want to be healthy and moving around when you’re 80 years old. And so there’s a lot of… But that kind of motivation is so far in the future, it can be very hard to work in the second. So thinking about the fact I’ll feel better in about four hours if I do it now, I’ll have more energy for the rest of my day and so on and so on."
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:56:42)",
+    "text": "What’s your exercise routine, just to linger on that? How much you curl? What are we talking about here? That’s all I do at the gym so I just…"
+  },
+  {
+    "start": 726,
+    "end": 727,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:56:52)",
+    "text": "My routine on a good day, I do about half an hour of cardio and I do about forty-five minutes of weightlifting, resistance training of some kind, mostly weights. I have a trainer who I love who pushes me, which is really helpful. He’ll say, “Jeff, can we go up on that weight a little bit?”"
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "speaker": "",
+    "timestamp": "(01:57:18)",
+    "text": "And I’ll think about it and I’ll be like, “No, I don’t think so.”"
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "speaker": "",
+    "timestamp": "(01:57:23)",
+    "text": "And he’ll look at me and say, “Yeah, I think you can.” And of course he’s right."
+  },
+  {
+    "start": 732,
+    "end": 733,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:57:31)",
+    "text": "Yeah, of course. Of course."
+  },
+  {
+    "start": 734,
+    "end": 735,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:57:32)",
+    "text": "So it’s helpful to have somebody push you a little bit."
+  },
+  {
+    "start": 736,
+    "end": 737,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:57:34)",
+    "text": "But almost every day, you do that?"
+  },
+  {
+    "start": 738,
+    "end": 739,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:57:37)",
+    "text": "Almost every day, I do a little bit of cardio and a little bit of weightlifting and I’d rotate. I do a pulling day and a pushing day and a leg day. It’s all pretty standard stuff."
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:57:48)",
+    "text": "So puttering, coffee, gym-"
+  },
+  {
+    "start": 742,
+    "end": 743,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:57:49)",
+    "text": "Puttering, coffee, gym, and then work."
+  },
+  {
+    "start": 744,
+    "end": 745,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:57:53)",
+    "text": "… work. But what’s work look like? What do the productive hours look like for you?"
+  },
+  {
+    "start": 746,
+    "end": 747,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:57:59)",
+    "text": "So a couple years ago, I left as the CEO of Amazon, and I have never worked harder in my life. I am working so hard and I’m mostly enjoying it, but there are also some very painful days. Most of my time is spent on Blue Origin and I’m so deeply involved here now for the last couple of years. And in the big, I love it, and the small, there’s all the frustrations that come along with everything. We’re trying to get to rate manufacturing as we talked about. That’s super important. We’ll get there. We just hired a new CEO, a guy I’ve known for close to 15 years now, a guy named Dave Limp who I love. He’s amazing. So we’re super lucky to have Dave, and you’re going to see us move faster there."
+  },
+  {
+    "start": 748,
+    "end": 749,
+    "speaker": "",
+    "timestamp": "(01:58:46)",
+    "text": "So my day of work, reading documents, having meetings, sometimes in person, sometimes over Zoom, depends on where I am. It’s all about the technology, it’s about the organization. I have architecture and technology meetings almost every day on various subsystems inside the vehicle, inside the engines. It’s super fun for me. My favorite part of it is the technology. My least favorite part of it is building organizations and so on. That’s important, but it’s also my least favorite part. So that’s why they call it work. You don’t always get to do what you want to do."
+  },
+  {
+    "start": 750,
+    "end": 751,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:59:31)",
+    "text": "How do you achieve time where you can focus and truly think through problems?"
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(01:59:36)",
+    "text": "I do little thinking retreats. So this is not the only way, I can do that all day long. I’m very good at focusing. I don’t keep to a strict schedule. My meetings often go longer than I planned for them to because I believe in wandering. My perfect meeting starts with a crisp document. So the document should be written with such clarity that it’s like angels singing from on high. I like a crisp document and a messy meeting. And so the meeting is about asking questions that nobody knows the answer to and trying to wander your way to a solution. And when that happens just right, it makes all the other meetings worthwhile. It feels good. It has a kind of beauty to it. It has an aesthetic beauty to it, and you get real breakthroughs in meetings like that."
+  },
+  {
+    "start": 754,
+    "end": 755,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:37)",
+    "text": "Can you actually describe the crisp document? This is one of the legendary aspects of Amazon, of the way you approach meetings is this, the six-page memo. Maybe first describe the process of running a meeting with memos."
+  },
+  {
+    "start": 756,
+    "end": 757,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:00:51)",
+    "text": "Meetings at Amazon and Blue Origin are unusual. When new people come in, like a new executive joins, they’re a little taken aback sometimes because the typical meeting, we’ll start with a six-page narratively structured memo and we do study hall. For 30 minutes, we sit there silently together in the meeting and read."
+  },
+  {
+    "start": 758,
+    "end": 759,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:51)",
+    "text": "I love this."
+  },
+  {
+    "start": 760,
+    "end": 761,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:01:17)",
+    "text": "Take notes in the margins. And then we discuss. And the reason, by the way, we do study, you could say, I would like everybody to read these memos in advance, but the problem is people don’t have time to do that. And they end up coming to the meeting having only skimmed the memo or maybe not read it at all, and they’re trying to catch up. And they’re also bluffing like they were in college having pretended to do the reading."
+  },
+  {
+    "start": 762,
+    "end": 763,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:01:42)",
+    "text": "Yeah. Exactly."
+  },
+  {
+    "start": 764,
+    "end": 765,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:01:43)",
+    "text": "It’s better just to carve out the time for people."
+  },
+  {
+    "start": 766,
+    "end": 767,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:01:47)",
+    "text": "Yeah. And do it together."
+  },
+  {
+    "start": 768,
+    "end": 769,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:01:47)",
+    "text": "So now we’re all on the same page, we’ve all read the memo, and now we can have a really elevated discussion. And this is so much better from having a slideshow presentation, a PowerPoint presentation of some kind, where that has so many difficulties. But one of the problems is PowerPoint is really designed to persuade. It’s kind of a sales tool. And internally, the last thing you want to do is sell. Again, you’re truth seeking. You’re trying to find truth. And the other problem with PowerPoint is it’s easy for the author and hard for the audience. And a memo is the opposite. It’s hard to write a six-page memo. A good six-page memo might take two weeks to write. You have to write it, you have to rewrite it, you have to edit it, you have to talk to people about it. They have to poke holes in it for you. You write it again, it might take two weeks. So the author, it’s really a very difficult job, but for the audience it’s much better."
+  },
+  {
+    "start": 770,
+    "end": 771,
+    "speaker": "",
+    "timestamp": "(02:02:45)",
+    "text": "So you can read a half hour, and there are little problems with PowerPoint presentations too. Senior executives interrupt with questions halfway through the presentation. That question’s going to be answered on the next slide, but you never got there. If you read the whole memo in advance… I often write lots of questions that I have in the margins of these memos, and then I go cross them all out because by the time I get to the end of the memo, they’ve been answered. That’s why I save all that time."
+  },
+  {
+    "start": 772,
+    "end": 773,
+    "speaker": "",
+    "timestamp": "(02:03:11)",
+    "text": "You also get, if the person who’s preparing the memo, we talked earlier about group think and the fact that I go last in meetings and that you don’t want your ideas to pollute the meeting prematurely, the author of the memos has got to be very vulnerable. They’ve got to put all their thoughts out there and they’ve got to go first. But that’s great because it makes them really good. And you get to see their real ideas and you’re not trompling on them accidentally in a big PowerPoint presentation meeting."
+  },
+  {
+    "start": 774,
+    "end": 775,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:03:50)",
+    "text": "What’s that feel like when you’ve authored a thing and then you’re sitting there and everybody’s reading your thing?"
+  },
+  {
+    "start": 776,
+    "end": 777,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:03:54)",
+    "text": "I think it’s mostly terrifying."
+  },
+  {
+    "start": 778,
+    "end": 779,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:03:57)",
+    "text": "Yeah. But maybe in a good way? Like a purifying?"
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:04:02)",
+    "text": "I think it’s terrifying in a productive way, but I think it’s emotionally, a very nerve-racking experience."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:04:13)",
+    "text": "Is there a art, science to the writing of this six-page memo or just writing in general to you?"
+  },
+  {
+    "start": 784,
+    "end": 785,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:04:20)",
+    "text": "It’s really got to be a real memo. So it means paragraphs have topic sentences. It’s verbs and nouns. That’s the other problem with PowerPoint presentations, they’re often just bullet points. And you can hide a lot of sloppy thinking behind bullet points. When you have to write in complete sentences with narrative structure, it’s really hard to hide sloppy thinking. So it forces the author to be at their best, and so they’re somebody’s really their best thinking. And then you don’t have to spend a lot of time trying to tease that thinking out of the person, and you’ve got it from the very beginning. So it really saves you time in the long run."
+  },
+  {
+    "start": 786,
+    "end": 787,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:03)",
+    "text": "So that part is crisp, and then the rest is messy. Crisp document, messy meeting."
+  },
+  {
+    "start": 788,
+    "end": 789,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:05:07)",
+    "text": "Yeah, so you don’t want to pretend that the discussion should be crisp. Most meetings, you’re trying to solve a really hard problem. There’s a different kind of meeting, which we call weekly business reviews or business reviews that may be weekly or monthly or daily, whatever they are. But these business review meetings, that’s usually for incremental improvement. And you’re looking at a series of metrics, every time it’s the same metrics. Those meetings can be very efficient. They can start on time and end on time."
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:35)",
+    "text": "So we’re about to run out of time, which is a good time to ask about the 10,000-Year Clock."
+  },
+  {
+    "start": 792,
+    "end": 793,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:05:43)",
+    "text": "It’s funny."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:44)",
+    "text": "Yes, that’s what I’m known for, is the humor. Okay. Can you explain what the 10,000-Year Clock is?"
+  },
+  {
+    "start": 796,
+    "end": 797,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:05:53)",
+    "text": "Is? 10,000-Year Clock is a physical clock of monumental scale. It’s about 500 feet tall. It’s inside a mountain in west Texas at a chamber that’s about 12 feet in diameter and 500 feet tall. 10,000-Year Clock is an idea conceived by a brilliant guy named Danny Hillis way back in the ’80s. The idea is to build a clock as a symbol for long-term thinking. And you can kind of just very conceptually think of the 10,000-Year Clock as it ticks once a year, it chimes once every a hundred years, and the cuckoo comes out once every a thousand years. So it just sort of slows everything down. And it’s a completely mechanical clock. It is designed to last 10,000 years with no human intervention. So the material choices and everything else. It’s in a remote location, both to protect it, but also so that visitors have to make a pilgrimage."
+  },
+  {
+    "start": 798,
+    "end": 799,
+    "speaker": "",
+    "timestamp": "(02:06:57)",
+    "text": "The idea is that over time, and this will take hundreds of years, but over time, it will take on the patina of age, and then it will become a symbol for long-term thinking that will actually hopefully get humans to extend their thinking horizons. And in my view, that’s really important as we have become, as a species, as a civilization, more powerful. We’re really affecting the planet now. We’re really affecting each other. We have weapons of mass destruction. We have all kinds of things where we can really hurt ourselves and the problems we create can be so large. The unintended consequences of some of our actions like climate change, putting carbon in the atmosphere is a perfect example. That’s an unintended consequence of the Industrial Revolution, got a lot of benefits from it, but we’ve also got this side effect that is very detrimental."
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "speaker": "",
+    "timestamp": "(02:07:56)",
+    "text": "We need to start training ourselves to think longer term. Long-term thinking is a giant lever. You can literally solve problems if you think long-term, that are impossible to solve if you think short-term. And we aren’t really good at thinking long-term. Five years is a tough timeframe for most institutions to think past. And we probably need to stretch that to 10 years and 15 years and 20 years and 25 years, and we’d do a better job for our children or our grandchildren if we could stretch those thinking horizons. And so the clock, in a way, it’s an art project, it’s a symbol. And if it ever has any power to influence people to think longer term, that won’t happen for hundreds of years, but we are going to build it now and let it accrue the patina of age."
+  },
+  {
+    "start": 802,
+    "end": 803,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:52)",
+    "text": "Do you think humans will be here when the clock runs out here on earth?"
+  },
+  {
+    "start": 804,
+    "end": 805,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:08:56)",
+    "text": "I think so. But the United States won’t exist. Whole civilizations rise and fall. 10,000 years is so long. No nation state has ever survived for anywhere close to 10,000 years."
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:09:12)",
+    "text": "And the increasing rate of progress makes that even fantastic."
+  },
+  {
+    "start": 808,
+    "end": 809,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:09:15)",
+    "text": "Even less likely so. Do I think humans will be here? Yes. How will we have changed ourselves and what will we be and so on and so on? I don’t know, but I think we’ll be here."
+  },
+  {
+    "start": 810,
+    "end": 811,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:09:25)",
+    "text": "On that grand scale, a human life feels tiny. Do you ponder your own mortality? Are you afraid of death?"
+  },
+  {
+    "start": 812,
+    "end": 813,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:09:32)",
+    "text": "No. I used to be afraid of death. I did. I remember as a young person being very scared of mortality, didn’t want to think about it, and so on. And as I’ve gotten older, I’m 59 now, as I’ve gotten older, somehow that fear has sort of gone away. I would like to stay alive for as long as possible, but I’m really more focused on health span. I want to be healthy. I want that square wave. I want to be healthy, healthy, healthy, and then gone. I don’t want the long decay. And I’m curious. I want to see how things turn out. I’d like to be here. I love my family and my close friends, and I’m curious about them, and I want to see. So I have a lot of reasons to stay around, but mortality doesn’t have that effect on me that it did maybe when I was in my twenties."
+  },
+  {
+    "start": 814,
+    "end": 815,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:10:38)",
+    "text": "Well, Jeff, thank you for creating Amazon, one of the most incredible companies in history, and thank you for trying your best to make humans a multi-planetary species, expanding out into our solar system, maybe beyond, to meet the aliens out there. And thank you for talking today."
+  },
+  {
+    "start": 816,
+    "end": 817,
+    "speaker": "Jeff Bezos",
+    "timestamp": "(02:10:55)",
+    "text": "Lex, thank you for doing your part to lengthen our attention spans. Appreciate that very much."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:11:04)",
+    "text": "I’m doing my best. Thanks for listening to this conversation with Jeff Bezos. To support this podcast, please check out our sponsors in the description. And now let me leave you with some words from Jeff Bezos himself. Be stubborn on vision, but flexible on the details. Thank you for listening and hope to see you next time."
+  }
+]

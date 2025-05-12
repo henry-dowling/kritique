@@ -1,0 +1,3495 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:00:00)",
+    "text": "I am standing on the edge of the cliff the entire night, and if I mess something up, mess it up, what even is a mistake? But if I do a little clunker or whatever it is, it’s like, so what? I wouldn’t have played half the stuff that I’m playing if I wasn’t constantly standing on the edge of the cliff, like wild."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:22)",
+    "text": "Why stand at the edge of the cliff?"
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:00:24)",
+    "text": "Because at the edge of the cliff is all possibilities."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:30)",
+    "text": "The following is a conversation with Tal Wilkenfeld, a singer-songwriter, bassist, guitarist, and a true musician who has recorded and performed with many legendary artists, including Jeff Beck, Prince, Eric Clapton, Incubus, Herbie Hancock, Mick Jagger, Jackson Brown, Rod Stewart, David Gilmore, Pharrell, Hans Zimmer, and many, many more."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "",
+    "timestamp": "(00:00:54)",
+    "text": "This was a fun and fascinating conversation. This is the Lex Fridman podcast. To support it, please check out our sponsors in the description. And now, dear, dear friends, here’s Tal Wilkenfeld."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "",
+    "timestamp": "(00:01:08)",
+    "text": "There’s a legendary video of you playing with Jeff Beck. We’re actually watching it in the background now. So for people who don’t know, Jeff is one of the greatest guitarists ever. So you’re playing with him at the 2007 Crossroads Festival, and people should definitely watch that video. You were killing it on the bass. Look at that face. Were you scared? What was that experience like? Were you nervous? You don’t look nervous. Confident?"
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:01:37)",
+    "text": "Yeah, I wasn’t nervous. I think that you can get an adrenaline rush before a stage, which is natural, but I think as soon as you bring fear to a bandstand, you’re limiting yourself. You’re walling yourself off from everyone else. If you’re afraid, what is there to be afraid of? You must be afraid of making a mistake, and therefore you’re coming at it as a perfectionist and you can’t come at music that way, or it’s not going to be as expansive and vulnerable and true."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "",
+    "timestamp": "(00:02:10)",
+    "text": "So no, I was excited and passionate and having the best time. And also the fact that he gave me this solo, the context of this performance is that this was a guitar festival. It’s one of the biggest guitar festivals in the world because it’s Eric Clapton’s festival, and there’s 400 guitarists that are all playing solos all night. And we were towards the end of the night, and I could tell Jeff got a kick out of, I’m not going to solo on one of my most well-known songs, Cause We’ve Ended as Lovers. Well, Stevie Wonder wrote it, but people know Jeff for that song and his solo on it. It’s like, “I’m going to give it to my bass player.” And he did, and like-"
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:02)",
+    "text": "You took it."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:03:03)",
+    "text": "The fact that he’s bowing, he didn’t have to do that."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:03)",
+    "text": "But you really stepped up there."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:03:14)",
+    "text": "It just shows what a generous musician he is, and that’s evident in his playing across the board. He is a generous, loving, open musician. He’s not there for himself. He’s there for the music. And he thought, “Well, this would be the perfect musical thing to do.” And it kind of all started when I went to audition for him, which was an interesting experience because I got food poisoning on the plane."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "",
+    "timestamp": "(00:03:46)",
+    "text": "And so literally when the plane landed, I went straight into an ambulance into a hospital overnight. The manager picked me up and I showed up at Jeff’s door, which was a three-hour drive through windy country roads, and he answered the door, and he is like, “Okay, you’re ready to play?” So we went upstairs and started rattling off the set. And when it came to this song, Cause We’ve Ended as Lovers, he just said solo, and he loved it and kept the solo in it. So that’s how, there was no bass solo before I was playing in his band. So this whole thing was kind of new."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:24)",
+    "text": "So even with food poisoning, you could step up?"
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:04:27)",
+    "text": "Yeah."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:28)",
+    "text": "That’s just like what? Instinct?"
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:04:30)",
+    "text": "It’s just being able to differentiate from the body and from expression, music."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:37)",
+    "text": "It’s interesting. You said fear walls you off from the other musicians, and what are you afraid of? You’re afraid of making a mistake. Beethoven said, “To play a wrong note is insignificant. To play without passion is inexcusable.” Do you think the old man had a point?"
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:04:54)",
+    "text": "Yeah. Different styles of music invite varying degrees of, I would say, uncertainty or unsafety in the way that people might perceive it. So for instance, the tour that I was just on playing Allman Brothers songs, I am standing on the edge of the cliff the entire night, and if I mess something up, mess it up, what even is a mistake? But if I do a little clunker or whatever it is, it’s like, so what? I wouldn’t have played half the stuff that I’m playing if I wasn’t constantly standing on the edge of the cliff, like wild."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "",
+    "timestamp": "(00:05:38)",
+    "text": "And so I don’t care about those few little things. I care about the overall expression. And then there’s other gigs that, for instance, if I got called for a pop or a country session or a show. In those environments, they may want you to play safe, just play the part and play it with a great groove and time and great dynamics and don’t really veer away from the part and stuff. And I’ve done plenty of those gigs too. It’s just a different hat you put on."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:14)",
+    "text": "What do you get from the veering? From the veering off the beaten path? You just love it? Or is that going to make the performance better? Why stand at the edge of the cliff?"
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:06:28)",
+    "text": "Because at the edge of the cliff is all possibilities and unknown. You don’t know what’s coming. And I love being there in the unknown. Otherwise, it’s just like, “Well, why are we doing this? Am I just like a clown on stage showing you my skills or what I’ve studied in my bedroom?” It’s like, no, I want to be pure expression happening right now and responding in real time to everything that’s happening. And anytime I’m not doing that, it’s like it’s a waste of everybody’s time."
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:06)",
+    "text": "Have you ever messed it up real bad?"
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:07:09)",
+    "text": "Messed what up?"
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:11)",
+    "text": "I mean, all comedians bomb. You’re a big fan of comedy."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:07:13)",
+    "text": "Yeah."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:14)",
+    "text": "Have you ever bombed on stage?"
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:07:16)",
+    "text": "Probably. I think it’s all about recovery. And the more times that you fall off the cliff, the quicker you know how to recover and the varying ways that you can recover to the point in which it’s concealed so much that maybe a listener might not even know that you’re recovering."
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:38)",
+    "text": "And eventually you learn to fly, if we take that metaphor all the way, off the cliff. [inaudible 00:07:44]"
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:07:43)",
+    "text": "Remember one time when I was really young. Well, not really young, but when I was 21 or-"
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:44)",
+    "text": "What is age anyway?"
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:07:52)",
+    "text": "22? Yeah, exactly. But when I was first playing with Jeff Beck and we played at what I consider the best, the coolest jazz festival, it’s Montreux Jazz. And Miles played there, everyone played there, and they have the best speaker system ever. I was excited for months, and the drummer, Vinny was practicing for eight hours in the bus on the way there, and everyone was on fire on stage. And I remember playing a note, just one note that I really didn’t like. And I let it go in the moment on stage, but as soon as I got off-stage, I was really sad."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "",
+    "timestamp": "(00:08:37)",
+    "text": "And so I sat on this road case, everyone was out celebrating. I sat this road case, look with a sad face, boo-hoo. And then Claude Nobs, the owner of the whole festival, came out to me. He’s like, “Tal, what’s wrong?” And I’m like, “I played a bad note.” I was such a child. And he said all this wise stuff that Miles Davis had imparted to him and it fully cheered me up. He’s like, “Is there anything that would make you feel better?” And I was like, “Caviar?” The dude came back 10 minutes later with this huge thing."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:18)",
+    "text": "Oh wow."
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:09:18)",
+    "text": "It was a joke. It was a joke, but he actually brought me caviar. But anyway, that’s the one time that I remember being sad about a performance. Now I’m just like, “Okay, whatever. It’s done.”"
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:30)",
+    "text": "Was it a physical slip of the fingers or did you intend to play that note?"
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:09:35)",
+    "text": "That I can’t remember. I can’t remember if it was just a bad choice that sounded like a clanger, why it happened. It was so long ago, but I don’t get depressed about that anymore."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:48)",
+    "text": "That’d be funny if that was your biggest and only regret in life is that note, and that haunted you in your dreams."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:09:53)",
+    "text": "And then I’m on my deathbed and everyone’s just bringing me caviar because the one-"
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:59)",
+    "text": "Joke went way too far. You talked about confidence somewhere. I don’t remember where. So I want to ask you about how much confidence it takes to be up there. You said something that Anthony Jackson told you as encouragement, line that I really like. That quote, “On your worst day, you’re still a bad motherfucker.”"
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:10:17)",
+    "text": "That’s actually a Steve Gadd quote. And Steve used to tell that to Anthony because Anthony used to get real depressed if he did a wrong thing or not perfect thing. And Steve Gadd used to say this to Anthony Jackson. And then Anthony was my first bass mentor or just mentor in general."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:36)",
+    "text": "For people don’t know, he’s a legendary bassist."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:10:37)",
+    "text": "He’s a legendary bassist. And I started playing the bass when I was 17 and I moved to New York and I met Anthony and he started mentoring me bit in a very not typical way. He would just sit in his car with me for hours and talk music."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:55)",
+    "text": "You guys just listen to music and analyze it?"
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:10:57)",
+    "text": "Exactly. And that was the best form of learning, I think. Just like, “Well, what do you perceive here?” And, “Well, I heard this” and just discussing that."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:08)",
+    "text": "Jazz usually?"
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:11:09)",
+    "text": "No, all styles of music. And yeah, he told me that story about on your worst day because yeah, even then when I was 18, 19, I’d get sad sometimes about performances. “I could have done this.” I don’t do that anymore, thankfully. Or I’d be miserable."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:29)",
+    "text": "So you always kind of feel pretty good?"
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:11:31)",
+    "text": "Yeah. Yeah, now I do. Now it’s just I sense the body feeling fatigued, especially if it’s a very long show. The ones I just did with three hour shows and we did one to three hour sound checks. So that’s a lot of physical activity every day. So I just feel the body being tired, fatigued, the ears are fatigued. That’s about it. I don’t really reflect on the show much."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:59)",
+    "text": "You’re almost like from a third person perspective, feel the body get tired and just accept it."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:12:05)",
+    "text": "Yeah, I don’t want to identify with it then I’m tired, but I’m not tired."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:09)",
+    "text": "It’s very Zen."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:12:10)",
+    "text": "I’m usually energized."
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:12)",
+    "text": "It’s like with the food poisoning, the mind is still capable of creative genius, even if the body is gone."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:12:18)",
+    "text": "Yeah."
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:19)",
+    "text": "Something like that? So no self-critical component to the way you see your performances anymore?"
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:12:30)",
+    "text": "There is critique, but not in the way that it would diminish my sense of self. It’s different. I can just kind of look at something and be like, “Okay, well actually next time I’ll do this choice and this choice, maybe. Maybe this would serve the song better. Maybe this would help the groove feel more like this.” But it’s not like, “I suck because I did this and I’m a loser.”"
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:58)",
+    "text": "Do you think that’s bad? Even when I asked that question, I had a self-critical thought that, “Why’d you ask that question? That’s the wrong question.” I always have the self-critical engine running. Is it necessarily a bad thing?"
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:13:12)",
+    "text": "It depends. If it’s affecting you negatively."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:14)",
+    "text": "What is negative anyway?"
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:13:15)",
+    "text": "Well, if it brings your frequency down and you feel less joyful inside and less, you don’t feel like complete, you feel less than, less worthy of something, than you could call that bad if you aspire to not feel that way."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:35)",
+    "text": "Yeah, I aspire to not feel that way in the big picture, but in the little picture, a little pain is good."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:13:41)",
+    "text": "That’s fair."
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:43)",
+    "text": "So confidence. You seem like in this performance, you seem confident. You seem to be truly walking the bad motherfucker way of life."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:13:55)",
+    "text": "A word that I prefer over confidence is trust. Because I think with confidence is almost like is a belief assigned to it that I am this thing."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:55)",
+    "text": "Ego."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:14:08)",
+    "text": "That you believe in. Whereas trust is just simply knowing that you can get up there and handle whatever is going to come your way. And it’s more of an open feeling where it’s like, “Yeah, I could do this. Sure.” But not like, “I’m a bad motherfucker.” You know what I mean? There’s a huge difference because I’ve shared the stage with people who have a lot of confidence and it can be like a brick wall, just like fear is a brick wall."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:40)",
+    "text": "So the brick wall is a bad thing. The thing you have with Jeff here on stage-"
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:14:44)",
+    "text": "Is not a brick wall."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:45)",
+    "text": "There’s no wall, just chemistry."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:14:46)",
+    "text": "Yeah."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:47)",
+    "text": "How can you explain that chemistry the two of you had?"
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:14:49)",
+    "text": "Trust and lack of fear. Yeah, and also I will say that each individual has developed likes and dislikes over their lifetime. And that can be like in this case, we’re just talking aesthetic likes and dislikes. So in this particular case, obviously our likes and dislikes are very much aligned such that the things I do to complement him, he enjoys and vice versa. But it could be two very trusting open musicians on stage that don’t have walls up, but their choices are very different. And one person likes heavy metal and the other person likes classical. So it’s got to be both."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:33)",
+    "text": "So you guys were good at yes and-sing each other musically?"
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:15:37)",
+    "text": "Definitely."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:37)",
+    "text": "Is that where you’re most at peace in a meditative way? It’s on stage?"
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:15:46)",
+    "text": "It used to be that it would only be on stage. It started with that. That was almost like my way into flow state and meditation was playing music. And then back in the day when I’d kind of crash after shows, I wanted to change that. I wanted to always feel like I’m in flow state."
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:09)",
+    "text": "Have you succeeded?"
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:16:10)",
+    "text": "I’ve gotten a lot better. I’m still obviously on the journey, but yes."
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:17)",
+    "text": "So you meditate? I think you said somewhere that you meditate before shows or just in general?"
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:16:21)",
+    "text": "I meditate every day. When I’m on tour with my band, I ask that we all meditate together for at least 20 minutes. And I don’t dictate which type of meditation. I don’t put on a guided meditation. Everyone has their own thing they want to do. Maybe someone might be praying in their head, it doesn’t matter. It’s just the idea that we all put our phones down and we all are in one room connecting energetically, spiritually, and just letting our lives go for a second. And then we walk straight on the stage and it’s always really connected. And there were a couple gigs where we ran out of time for that, and I could tell. There was a major difference in the performance."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:07)",
+    "text": "So it both connects you and centers you, all of those things."
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:17:11)",
+    "text": "But then when I’m home, I love to meditate and I’ve tried various styles of meditation and studied various types of things. So I don’t do just one thing. I kind of customize it depending on where I’m at in my life."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:30)",
+    "text": "You and the world lost Jeff Beck a year ago. You told me you really miss him. How’s the pain of losing Jeff change you? Maybe deepen your sense of the world?"
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:17:43)",
+    "text": "It’s hard to accept that we won’t create something musically again in this lifetime. But in terms of the grief, grief was easier for me because I went through a major grief period in 2016 and 17, and that was the first time I’d really gone through the process of grief in a non-family situation with friends and mentors and people that I’d created with, which is different. It’s a different kind of connection. When my grandparents died, it’s like there was nothing left unsaid. And I was at peace with what was happening."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "",
+    "timestamp": "(00:18:40)",
+    "text": "With this, when Prince died out of the blue in mid 2016, and then Leonard Cohen died in November, that just tore me to shreds because Leonard Cohen was not just someone that profoundly inspired me musically and lyrically, but spiritually, we had a very deep connection. And that was the basis of a lot of our conversation was spirituality. And so at that time, I felt like a piece of me went missing. And that was a very long process where I just stayed in my place and didn’t want to play a note of music. I kind of wanted to just get rid of all my stuff. So I had a friend come over and he’s like, “You should just, why don’t you come to the Comedy Store?” I’m like, “Comedy Store? What am I going to go to some store and buy clown suits? What are you talking about? What’s a Comedy Store?” He’s like, “No, no, no. The Comedy Store, the place where comedians go.”"
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "",
+    "timestamp": "(00:19:54)",
+    "text": "I’m like, “Okay, well, I’ve never seen standup. I’ve seen Seinfeld on TV. That’s the extent of my standup experience.” So he took me to the Comedy Store and every single one of those comedians embraced me like I was family. It didn’t even take a day. I was part of the family and I made 25 best friends, and I ended up throwing all my stuff in storage and finding a little room to stay in where I rented my gear out and my rent paying was me loaning the gear. I didn’t want any responsibilities, financial, I just wanted to be completely free so that I could just process it and not feel like I had to commit to anything work-wise or creatively. I just wanted to unplug."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "",
+    "timestamp": "(00:20:50)",
+    "text": "And so this was a fun and very different way to unplug, because previously I may have just gone to a monastery and spent weeks at a monastery or months, but in this case I was like, “You know what? This is a different kind of experience. I’m going to just hang out with comedians and stay in this room.”"
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:21:09)",
+    "text": "With no responsibility, really."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:21:11)",
+    "text": "Other than to really deeply connect with this grief that I’m experiencing. I’m not going to negate it. I’m going to really fully connect to it. And I did, and it was tough. And then more people in 2017 were leaving. Gregg Allman, Tom Petty. I mean, these are people, I worked with all these people and had great connections with them, and they were all going, and the world was mourning the loss of these people because of everything that they’d given to the world. They’d changed the world’s lives, not just mine because I knew them personally. And so that was also complicated. And why, for me, it was interesting to be grieving the loss of these musicians with comedians."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "",
+    "timestamp": "(00:22:04)",
+    "text": "And I learned a lot. It changed my life. I learned to laugh at absolutely anything, everything. I mean, my grandpa had a really great sense of humor too. My grandpa was a Holocaust survivor, and he could just laugh at anything. And so I already kind of have that in me. But being around all these comedians just kind of exaggerated that for me, and that really changed things for me for the better. So then when Jeff Beck died, it was like, “Okay, I’ve got these tools. I know what this is and I’m going to go through it again, and I’m going to be on tour with Incubus in two days.”"
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "",
+    "timestamp": "(00:22:45)",
+    "text": "So Mike Dirnt from Green Day, he called me up and he said, “Hey, I know you’re going through a lot.” And I said, “I don’t even know what I’m going to play. I really want a vintage jazz bass for this, and I only have a seventies one that I don’t really think is appropriate. I really need a sixties one, blah, blah, blah.” And Mike’s like, “I’m going to hook you up.” He showed up to my place the next day with a truckload of old P basses and jazz basses and brought them all into my studio, and I’m playing them."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "",
+    "timestamp": "(00:23:16)",
+    "text": "And then I pull one out of the case and it’s Olympic White, just like Jeff Beck and I play it. And not only did I get goosebumps and started crying, but I looked over at Mike and same thing was happening, and he’s like, “I guess Jeff might be happy about this.” And he’s like, “Well, I didn’t want to let this one go. I was just trying to cheer you up a bit and maybe loan it to you for the tour, but if you really want it’s yours.” And I was like, “Oh my God, this is… Mike Dirnt is the nicest guy ever.”"
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "",
+    "timestamp": "(00:23:59)",
+    "text": "So that happened. So that bass’ name is Jeff, and it’s a white jazz bass, and I played it on the Incubus tour. But yeah, I do feel like I’m more equipped to handle grief now."
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:11)",
+    "text": "Tell me about the Comedy Store a little bit more. Do you think comedians and musicians in some deep fundamental way are made from the same cloth? Are they spiritually connected somehow?"
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:24:25)",
+    "text": "I think everyone’s connected spiritually in the same way. So I think personality wise, comedians and musicians are quite different, actually."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:38)",
+    "text": "In what way?"
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:24:40)",
+    "text": "Well, you’d have to subdivide even musicians into different categories too, because the thing that I appreciate about comedians is that you go to a restaurant with them and all the observational humor of, they’ll notice everything and make you laugh about it, which a really great songwriter does the same thing too. And my favorite lyricists, like Leonard Cohen, Bob Dylan, Paul Simon, Warren Zevon, they add comedy into their lyric. And so those types of people I would liken to hanging out with a comedian."
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "",
+    "timestamp": "(00:25:16)",
+    "text": "It’s very different from say somebody that is an instrumental guitarist or something like that, that they’re more focused on, whether it’s a kinesthetic thing or a physical thing or whatever it is. They’re not quite doing the observational thing in the same way. So I just appreciate, my favorite thing to do is go on and laugh, especially because I can tend to be pretty analytical and be in my head. So anything that just kind of lets me be in my heart and just enjoy life is great."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:54)",
+    "text": "I think there’s a photo of you with Dave Chappelle on stage. What was that about?"
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:25:58)",
+    "text": "So right after Leonard Cohen passed away, the Comedy Store threw me a birthday party. It was this crazy lineup, and it was like I’d play a song with my band, and then Jackson Brown sat in and sang a song, and then Dave Chappelle came up and said some jokes. It was one of my favorite nights ever."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:59)",
+    "text": "Yeah."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:26:23)",
+    "text": "Yeah. It was cool. It was a very healing birthday party."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:27)",
+    "text": "Yeah, there’s something magical about that place."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:26:29)",
+    "text": "Yeah."
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:30)",
+    "text": "It’s really special."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:26:31)",
+    "text": "Yeah. Well, the Mothership has some magic to it too. It’s really cool. It’s different. Totally different vibe, but super awesome."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:40)",
+    "text": "You said that Leonard Cohen is a songwriting inspiration of yours. I saw you perform his song Chelsea Hotel, brilliantly on the internet. It’s about, for people who don’t know his love affair with Janet Joplin. How does that song make you feel?"
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:27:01)",
+    "text": "Great. I love that song."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:03)",
+    "text": "Which aspect? Musically, the melancholy feeling, the hopeful feeling, the cocky feeling? All of it, every single line has a different feeling to it, really."
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:27:16)",
+    "text": "Yeah. But as a whole piece, I appreciate it so much. I actually lived at the Chelsea Hotel, and when Leonard and I first met, that was one of the first things we talked about was that I lived there, where all that stuff went down before they tore it apart. And yeah, it is just a beautiful song."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:44)",
+    "text": "What makes me sad, the way it ends. “I don’t mean to suggest that I loved you the best. I can’t keep track of each fallen robin. I remember you well in the Chelsea Hotel. That’s all, I don’t even think of you that often.” That line, ” I don’t even think of you that often” always breaks my heart for some reason."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:00)",
+    "text": "… I don’t even think of you that often, always breaks my heart for some reason. How ephemeral, how short lasting certain love affairs can be. Just kind of like, huh."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:28:14)",
+    "text": "Yeah."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:14)",
+    "text": "Do you think he meant it? I always think he’s trying to convince himself of it."
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:28:19)",
+    "text": "It could be both, or either. That’s the beautiful thing about poetry and lyric, is that it’s supposed to be open."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:27)",
+    "text": "Yeah. I wonder if it’s also open to him, depending on the day."
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:28:30)",
+    "text": "Definitely. The thing that he taught me, or his advice to me was when you’re writing a song, look at it the next morning, just first thing, and read it. And then take a walk, smoke a joint, read it again. Go have a fight with your daughter, come back, read it again. Get drunk, read it again. Wait a week, read it again. Just so that from every state and every position, the wider the lens is going to be from an audience perspective. You want things to mean multiple things."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:12)",
+    "text": "There’s one line I read somewhere, that he regrets putting in the song, so I’ve got to ask you about it. It’s pretty edgy. It’s about, “Giving me head on the unmade bed.” You think that’s a good line, or a bad line?"
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:29:27)",
+    "text": "I think it’s an amazing line. It’s one of the best lines in the song."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:30)",
+    "text": "Yeah, right?"
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:29:30)",
+    "text": "When he put that song out, obviously he didn’t regret it, or he wouldn’t have put that lyric in the song. I think what happened was that eventually word got out, either from him or from somebody else, that the song was about Janis Joplin. And so at that point, he regretted the indiscretion. It wasn’t that he regretted how great the line was, it was just the privacy factor. But then again, Leonard’s known for rewriting his lyrics. In his live shows, you’ll see a bunch of songs where it’s like new lyrics. And he didn’t do it because he didn’t like the old lyrics, he just did it because he could, because he’s Leonard. And it’s like, why not have fun with words the way musicians have fun improvising solos on stage? And he could have changed that line in Chelsea Hotel after, in retrospect, and he never did."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:26)",
+    "text": "“I remember you well in the Chelsea Hotel. You were talking so brave and so sweet. Giving me head on the unmade bed, while the limousines wait in the street.”"
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:30:35)",
+    "text": "It’s so powerful."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:36)",
+    "text": "It’s a powerful line. It just kind of shocks you."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:30:39)",
+    "text": "Well, that’s what’s so great about it. Yeah."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:42)",
+    "text": "But also heartbreaking, because it doesn’t last. Especially actually, to me it adds more meaning once you know it was Janis Joplin. It’s like, okay, these two stars collided for a time."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:30:54)",
+    "text": "Yeah, but why is it heartbreaking? It could also be just beautiful that they had a little fling."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:00)",
+    "text": "Yeah, everything is beautiful."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:31:02)",
+    "text": "Thank you."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:03)",
+    "text": "Even the dark stuff. What’s not beautiful? Everything is beautiful, if you look long enough and deeply enough. What were we saying? Oh, what do you think about Hallelujah? What do you think about the different songs of his, and why’d you choose Chelsea Hotel to perform?"
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:31:22)",
+    "text": "Because I lived there, and it meant something to me to sing that song. And actually when I put that song out on YouTube, that’s when he sent me an email. He’s like, “Hey, do you want to come over?”"
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:37)",
+    "text": "Nice. This is how you guys connected?"
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:31:39)",
+    "text": "No, we met in a rehearsal studio. I ended up watching their whole rehearsal, and sitting there next to Roshi, his 105-year-old monk, which was really great. I remember when I was shaking his hand, it was just me and Roshi on the couch watching Leonard with this band. And we are shaking hands, and he grips my hand like this, doesn’t let it go. And he looked in my eyes, he said, “Where are you?” And I said, “In the handshake.” He says, “Yes.”"
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:13)",
+    "text": "Wow. You passed the test."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:32:15)",
+    "text": "Passed the Roshi test. And then what’s funny was that the next thing that happened about five minutes later, was Leonard Cohen got down on his knees and opened up a jar, I’m not kidding you, of caviar. This is not a callback."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:28)",
+    "text": "Well, it is in a way. In a deep, fundamental way."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:32:32)",
+    "text": "I know, I know. He started feeding the monk caviar, and that healed my Montreux Jazz Festival sadness forever. The end."
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:41)",
+    "text": "Do you think there’s a kind of weird, there’s a sense of humor to it all somehow? Why does that happen? Why does that happen? Why stuff like that happens, or that the Jeff Bass speaks to you?"
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:32:57)",
+    "text": "Why do we need to know?"
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:59)",
+    "text": "You believe in that stuff?"
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:32:59)",
+    "text": "In what stuff?"
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:01)",
+    "text": "That there’s a rhyme to the whole thing, somehow? There’s a frequency to which magical things of that nature can happen?"
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:33:19)",
+    "text": "I’m divided about that answer. Because I think just things are flowing, I don’t think anything’s planned out."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:32)",
+    "text": "Like through time, it’s like an orchestra playing of different experiences and circumstances that are somehow connected."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:33:40)",
+    "text": "I think everything’s connected, so yes."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:43)",
+    "text": "But predetermined means-"
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:33:45)",
+    "text": "I don’t believe in the predetermined stuff necessarily, which is different from whatever your previous karma is. And karma is a whole other conversation, I don’t mean karma as in good karma, bad karma. Just karma meaning the collection of things you’ve acquired over this lifetime or other lifetimes. Just whatever that is, is going to influence your future."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:13)",
+    "text": "Well, you had a really interesting trajectory through life. Maybe I just read it that way, because I’ve had a lot of stuff happen to me that’s lucky, feels lucky. And sometimes I’ll wonder, huh, this is weird. It does feel like the universe just kind of throws stuff at you with a chuckle. I don’t know. Not you, the proverbial you. One."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:34:37)",
+    "text": "One, yeah."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:40)",
+    "text": "You said you sometimes watch classic movies to inspire your songwriting, and you mentioned watching Taxi Driver. I love that movie. And I think you mentioned that you wrote a love song based on that movie. So Travis Bickle, for people who don’t know, is a taxi driver and he’s deeply lonely. What do you think about that kind of loneliness?"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:02)",
+    "text": "I think that loneliness is a product of feeling separate from the world, and separate from others. And that the less you experience that separation, the less you’ll feel lonely."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:20)",
+    "text": "How often have you felt lonely in this way, separated from the rest of the world?"
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:25)",
+    "text": "It’s less and less every single year. Because I work very hard at it."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:34)",
+    "text": "Feeling like a part of the world?"
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:37)",
+    "text": "Yeah, just meditating and studying scriptures."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:40)",
+    "text": "Don’t you think that, isn’t there a fundamental loneliness to the human experience?"
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:45)",
+    "text": "In what sense?"
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:46)",
+    "text": "That all the struggles, all the suffering you experience is really experienced by you alone?"
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:51)",
+    "text": "Is it?"
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:53)",
+    "text": "Maybe at the very bottom, it’s not."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:35:55)",
+    "text": "It’s kind of all the same stuff."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:57)",
+    "text": "You didn’t feel alone in 2016, 2017?"
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:36:02)",
+    "text": "I felt like I lost a piece of myself that I had given to somebody else. And I feel like people feel that in romantic exchanges, whether it’s long-term, short-term. You give a piece of yourself, and then if that person dies or you break up with that person, you feel like you’ve lost that piece of yourself. Which I feel like is a very different experience than if you just are opening yourself. Rather than giving a piece of yourself, you’re just opening yourself to somebody or something."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:39)",
+    "text": "So opening is fundamentally not a lonely experience."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:36:43)",
+    "text": "No, it’s a loving experience."
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:45)",
+    "text": "And then losing a piece of yourself can be."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:36:50)",
+    "text": "Yeah. Because you can’t lose a piece of yourself, if you are the same self as every other self."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:57)",
+    "text": "Right, right. If you see yourself as together with everybody, then there’s no losing."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:37:01)",
+    "text": "Yeah."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:02)",
+    "text": "Yeah, yeah. It’s a beautiful way to look at it. You said that there’s something healing about being in an empty hotel room, with no attachments except your suitcase. A lot of people will talk about hotel rooms being a fundamentally lonely experience, but you’re saying it’s healing."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:37:23)",
+    "text": "It’s healing. Yeah. Because I just get to sit there, and not worry about all this stuff, these meaningless attachments. I’ve got my suitcase with my necessities, or my three suitcases sometimes. And I can just sit there and meditate, and just be with myself, and it’s so awesome. And usually you plan your touring for, you get the business aspect of things taken care of in advance, so you can just really be flowing day to day on a tour. And it’s a great feeling. It’s funny because this last tour that I did, we didn’t have hotels every night. We had hotels maybe once a week. And I hadn’t done that before. Usually I’m frequently in hotels. I didn’t get that space that I’m really used to getting."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:18)",
+    "text": "You missed them."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:38:20)",
+    "text": "I very much missed it, and had to be very creative. And I ended up going into the back lounge when everyone was asleep, and meditating back there, or before everyone woke up. And I actually joined, there was an online meditation retreat that was happening. It was 12 hours a day of silent meditations that happens once a year, and I love this particular group of people. And they knew I was on tour, so they’re like, “Just join when you can.” And so I was on the tour doing the meditation retreat at the same time. It was so fun. It was so fun. Because I was in the back lounge, the bus is moving around like this, my laptop, the Zoom is like… and I’m just sitting meditating. It was like, yeah, this is the shit."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:12)",
+    "text": "It’s silence, so they’re all connected to Zoom and just doing silent 12 hours a day?"
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:39:16)",
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:16)",
+    "text": "That’s cool."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:39:17)",
+    "text": "These particular retreats that I started doing, it’s not straight silent. There are silent sits every hour for 50 minutes, and then there’s some talks. And these people that I’ve been working with are really cool, because they’re integrating spiral dynamics into Zen, and it’s like the coolest combination."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:43)",
+    "text": "What’s spiral dynamics?"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:39:45)",
+    "text": "Like Ken Wilber? Do you know Ken Wilber, Integral Theory?"
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:49)",
+    "text": "Yes. Can you explain a little bit? I vaguely know of him because of this notion that everything is one, everything is integrated, that every field has truths and falsehoods, and we should integrate the truths."
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:40:07)",
+    "text": "Yeah. It’s hard to explain how it applies to this type of meditation, because it’s in the guided parts of the meditation that this whole holonic theory is brought in, about transcending and including every aspect of your being. Because he talks about levels of development in consciousness, and how this applies to every single, religion or non-religion, that there are these levels of development, that go all the way up to enlightenment. No matter what you start off with. It could be Christianity, Buddhism, Vedanta, it doesn’t matter, anything."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "",
+    "timestamp": "(00:40:57)",
+    "text": "I like it when everything and everyone is taken into account. It doesn’t matter where you’re coming from, that there is a way to be self-realized, self-actualized. There are self-actualized beings from all walks of life with very, very different paths. There’s no one path. In this particular retreat I do, there’s a lot of silent sits, and then there’s some guided meditations. But I’ve tried a lot of different avenues, and they’re all great. I wouldn’t just say, just try this one thing. I’ve studied the Upanishads with Vedanta teachers, and gone through those texts for months and months, and stayed at monasteries. And how they break it down makes total sense to my mind and heart. And more importantly than my mind, my inner knowing, it resonates."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:49)",
+    "text": "Inner knowing."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:41:50)",
+    "text": "Yeah, because your mind is the thinking tool. It’s not you, you’re not your mind, you’re not your thoughts, you’re not your body. It’s like, just the you, that knowing that you have. When something resonates there, that’s usually when you go with something."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:12)",
+    "text": "What was living in a monastery like?"
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:14)",
+    "text": "It’s the best."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:15)",
+    "text": "What are we talking about?"
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:17)",
+    "text": "It’s just an empty room, with a tiny single bed, and a sheet and a pillow, and that’s it."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:22)",
+    "text": "That’s it?"
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:23)",
+    "text": "You have to eat the same thing as everyone."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:25)",
+    "text": "What’s the food like? What is it?"
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:27)",
+    "text": "Very plain, cheap, basic food. Which is funny for someone like me, because I’m pretty particular about my diet."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:36)",
+    "text": "Yeah, you brought over like 20 different ingredients."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:41)",
+    "text": "Yeah."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:43)",
+    "text": "What was the day in the life of Tal in a monastery?"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:42:48)",
+    "text": "You wake up at 5:00 a.m. to the bell, and you go and meditate constantly until bedtime. Other than two meals."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:00)",
+    "text": "How are you sitting? Are you in a group? Is there other people there, and you’re just sitting there?"
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:43:06)",
+    "text": "Well, if you’re talking about the Zen monastery, because I stayed in Zen monastery, and I did a thing with the guy I was telling you about, the integral Zen thing where he uses Ken Wilber’s work in combination with Zen. That’s a little bit different, because he does talks, we talk about things. That’s very separate from the Vedanta monasteries I’ve stayed at, which there’s very little meditation in terms of sitting silently. Instead, we are meditating on the scriptures, like the Upanishads, and we’re diving into that."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:46)",
+    "text": "What were the differences, the takeaways from the experiences? The two different, the integral one and the meditating on the scriptures?"
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:43:56)",
+    "text": "They’re both incredibly, have been incredibly helpful to me. Because the Vedanta, anytime I go into my head about something, the answer is there, based on this knowledge. And with the Zen monastery, it’s like you just got to put your butt in the seat, and sit and wait. And maybe something will happen, maybe it won’t, but just keep sitting. And it’s very disciplined, and you go through a lot. Your body’s purging a lot. There’s a lot, and you don’t necessarily have the answers as to what is happening. And so I think for somebody like me, I need both. I need to be in a place where there’s complete uncertainty, but complete discipline, and just doing the regimented thing. And then there’s the me that feels very satisfied from an analytical standpoint, understanding what’s happening, what is the gross, and the subtle body? I want to understand these things about what it is to be a human. I like them both."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:15)",
+    "text": "Understand what it means to be a human, so having that patience and just sitting with yourself helps you do that?"
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:45:22)",
+    "text": "Yes. More so the analysis part."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:26)",
+    "text": "Oh, so the analysis, the actual… okay, got it."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:45:29)",
+    "text": "But sitting with yourself, there’s no better education of facing every demon. And it’s all going to come out, and it’s not going to be pretty. But then there’s things that happen on the other side of it that are so profound."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:45)",
+    "text": "Have you met most of your demons?"
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:45:48)",
+    "text": "I’ve met the demons that have come out."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:50)",
+    "text": "Oh, there may be more?"
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:45:51)",
+    "text": "Who knows? Yeah."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:53)",
+    "text": "Okay. Well, to be continued. Since I think I heard you say that you wrote a love song after Taxi Driver, what kind of love songs do you write more of? You’re a songwriter first, for people who don’t know. They might think you’re primarily a bassist."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:46:14)",
+    "text": "But they’re wrong."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:16)",
+    "text": "Do you write mostly broken heart ones, or hopeful love songs? In love songs, about to be in love songs, soon to fall in love songs?"
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:46:27)",
+    "text": "Well, the last album I put out is pretty self- explanatory as to what that is."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:31)",
+    "text": "A lot of pain in that one?"
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:46:34)",
+    "text": "There was, yeah. Some of it was storytelling, and some of it was real experience, and it’s always a combination of things. I serve the song. Sometimes you use your own life experience to tell a song, and sometimes you may watch a movie, and part of that script merges with your own experience, and that tells the right story for the point you’re trying to make in the song. It varies from song to song in terms of how autobiographical it is."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:14)",
+    "text": "Yeah. I always think at the end of the Taxi Driver, when… what’s her name, Betsy? Because Travis becomes a hero, she tries to get with him, and he rejects her. That was powerful."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:47:28)",
+    "text": "My favorite love songs are the ones where you’re not sure it’s about romantic love, or love of God, or love of life, or just pure love. I was thinking George Harrison writes songs like that, What is Life? Or Bob Dylan’s song that George Harrison covered, If Not for You?"
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:54)",
+    "text": "Yeah, just grateful. Grateful for his love. Yeah."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:47:57)",
+    "text": "Right, right. That’s kind of like what I’m experiencing now, and so who knows what’ll end up coming out."
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:05)",
+    "text": "So you’ve been writing this kind of-"
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:48:07)",
+    "text": "Yeah, I’ve been writing."
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:09)",
+    "text": "A little bit?"
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:48:10)",
+    "text": "I don’t have an intention of putting something out in any particular timeframe, but I’m just writing and letting things flow. And yeah, there’s a bunch of Leonard Cohen songs too where you’re like, there’s so many ways to interpret this song. There’s so many ways. I just love songs that aren’t so specifically about one thing."
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:39)",
+    "text": "I really love the song to play it, to listen to it, Wonderful Tonight by Eric Clapton. And I thought it was pretty straightforward. And then I had a conversation with Eric Weinstein, who’s a mutual friend of ours, and he told me it’s not about what I thought it’s about."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:48:54)",
+    "text": "Oh yeah, what did he say?"
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:57)",
+    "text": "It’s a more complicated story. It’s actually a man… Wonderful Tonight is a story about a man being just finding his wife beautiful, and appreciating it throughout. But he said it was actually a man missing his wife, he’s imagining. That she’s lost, because of the decisions he’s made in his life, so it’s pain. He had a long, beautiful Eric Weinstein-like explanation of why."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:49:28)",
+    "text": "I love those."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:29)",
+    "text": "Have you and Eric played music?"
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:49:32)",
+    "text": "No. We’ve just hung out and had very long conversations about everything."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:37)",
+    "text": "He’s a bit of a musician, you know?"
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:49:38)",
+    "text": "Yeah."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:39)",
+    "text": "Okay. You picked up the guitar when you were 14, let’s go back. And one interesting thing that just jumped out at me is you said you learned how to practice in your head, because you only had 30 minutes. Your parents would only let you practice for 30 minutes. I read somewhere that Coltrane did the same. Not the practice part, but he was able to play instruments in his head as a way to think through different lines, different musical thoughts, that kind of stuff. Maybe, can you tell the story of that?"
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:50:14)",
+    "text": "Yeah. I just grew up in an environment that was focused on academia. And I fell in love with guitar, and really just wanted the focus to be that. My limit was 30 minutes a day for, I don’t even remember how many times a week. Might’ve been every day, five days a week, whatever."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:50:36)",
+    "text": "So your parents didn’t want you to play more than that?"
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:50:39)",
+    "text": "No. And so, I just learned how to visualize the fretboard in my head, and I’d practice all day in my head. It’s kind of like, you know The Queen’s Gambit, the TV show with Anya Taylor-Joy, and she just on the ceiling? I used to do that with the fretboard, and just practice. And I actually recommend it to every musician. Because if you’re just practicing here, you don’t know what is more dominant necessarily, is it this or is it your motor skills? If you just take that away and do it here, you know you’ve got it. I’m glad that that happened and that I learned how to do that."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "",
+    "timestamp": "(00:51:24)",
+    "text": "And in terms of learning fast, because I had to try to absorb a lot of information in a short amount of time when I did have the instrument, I kind of would do things in bursts. Even in that half an hour, I would just play for a couple minutes, and then I’d stop for a minute. And then I’d do it again, and I noticed there was a huge difference between the first time and the second time. Whereas if I just kept repeating stuff, it would be much slower."
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:56)",
+    "text": "What did you do in that minute?"
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:51:59)",
+    "text": "Just hang out."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:00)",
+    "text": "Just integrate?"
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:52:01)",
+    "text": "Yeah. It’s like my brain was telling me, just chill out for a sec. That’s enough information. Let me take a second to integrate that. That’s at least what it felt like to me. And the most hilarious thing happened a couple months ago. I know you’re friends with Andrew Huberman. He put out some clip, which was a part of one of his podcasts, about learning. And he said that there was some research done on learning fast, and that if you practice something for a minute or so, and then you let your brain rest for 30 seconds or a minute, that in that 30 seconds or a minute, your brain does the repetition 20 to 30 times faster, and in reverse. And I was like, whoa, that’s so cool. Because that’s what I used to do when I was a kid, now there’s science that proves that. Which is really cool for musicians to know that that’s a good way to practice efficiently. Because some musicians, they’re practicing for six, seven, eight hours a day. I’ve never done that. I’ve never practiced more than an hour a day, even now. That’s my technique, and it works."
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:17)",
+    "text": "Are you also practicing in your head sometimes?"
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:53:20)",
+    "text": "Now, I’m not practicing as much. I’m more always writing songs in my head, so that’s why I like silence. That’s why I love being in the empty hotel room and being alone. Songs come to me while I’m showering, or walking around, doing the dishes. Or occasionally when I’m hanging out with friends, or comedians, and people will just say shit. And I’ll be like, that’s a cool line. Just jot it down on my phone."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:46)",
+    "text": "So it’s not always musical, it’s sometimes lyrical."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:53:48)",
+    "text": "It’s more lyrical than musical now. Because for me it’s like, well, there’s so much music in the world. If I’m going to write a song, I want the song to be about something interesting. And so, yeah, the words matter to me."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:07)",
+    "text": "Yeah. And the right word has so much power. It’s crazy, like we said with Leonard Cohen. And then they’re often simple, the really powerful ones are simple."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:54:18)",
+    "text": "And when you mentioned Hallelujah, he wrote like 80 verses to Hallelujah before he narrowed it down to four. And it took him like 15, 20 years to write that song. Some writers will do that, and then other writers just vomit it out and it’s beautiful. I’ve heard that Bob Dylan or Joni Mitchell, they’re fast writers. It just kind of comes out."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:41)",
+    "text": "That makes me feel so good to know Leonard Cohen wrote so many verses of that. That was so deliberately crafted, extensively rigorously crafted."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:54:53)",
+    "text": "He just would spend months and years, constantly refining, refining."
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:55:00)",
+    "text": "Do you have songs like that for yourself, where you refine for many years?"
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:55:03)",
+    "text": "Yeah, it’s song dependent. Some just flow out and it’s like, oh, there it is. Everything’s there. And then other songs, it’s like, you might have started it with music, and there’s some words that come out. And then trying to fill in the rest of the words, sometimes it can be like a square peg in a round hole, and other times it’s like, oh no, I can… it depends. Sometimes it becomes like a math problem, and hopefully it doesn’t. Because you just want to say what’s right for the song. And usually when you write it all together, like the lyric, and the melody, and the chords and everything’s developing at once, at least for the first draft, that’s very, very helpful. Sondheim used to write like that. He wouldn’t move on until… he would just go this way. Whereas for me it’s just like, I’ll just go with what seems to be coming naturally, and I’ll just let it be what it is. And then you come back and you say okay, well, what-"
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:56:00)",
+    "text": "Truly, and I’ll just let it be what it is. And then you come back and you say, okay, well what do I have to do to this now? What’s needed?"
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:07)",
+    "text": "Just to linger on the learning process, what would you recommend for young musicians on how to get good? What are the different paths a person can take to understand it deeply enough to create something special?"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:56:26)",
+    "text": "I think first and foremost, understanding why you are playing music. If it’s because you have something that you’re trying to express or that you’re just in love with expression itself, with art itself, those are great reasons to start this journey."
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:47)",
+    "text": "The why should be-"
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:56:49)",
+    "text": "I think the why is really important because it’s a jagged lifestyle and there’s a lot in it. And so if you don’t have your purpose, if you’re not centered in your purpose, then all that jagged lifestyle is probably going to get to you."
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:06)",
+    "text": "Jagged."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:57:06)",
+    "text": "It’s jagged."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:07)",
+    "text": "Interesting word."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:57:08)",
+    "text": "Yeah, it’s jagged. It’s all over the place. It’s uncertain. It’s one thing one moment, and a completely different thing another moment. You never know what’s going to happen. And if you thrive on variety, which I love variety, then it’s perfect. But also every human being needs a certain amount of certainty and structure, and so the certainty can come from your inner knowing knowing that you’re doing exactly what you want to be doing and knowing what your purpose is in doing it in this expression. Otherwise, you’re just kind of like a leaf blowing in the wind."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:48)",
+    "text": "In the early days touring, just playing clubs seems like tough."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:57:52)",
+    "text": "Yeah."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:53)",
+    "text": "It’s a lot."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:57:54)",
+    "text": "Yeah, it’s a lot of the physical labor aspect of it is really hard. Playing on stage to two people, or 2000, or 20,000, that doesn’t make a difference. I mean, it makes a difference to the ticket sales, which informs what level of luxury you might have on the road or not. But other than that, it’s just people there listening to music. The music doesn’t change."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:19)",
+    "text": "Does it make it tough when it’s two people versus 200?"
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:58:21)",
+    "text": "No."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:23)",
+    "text": "So even if nobody recognizes whatever the thing you’re doing."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:58:26)",
+    "text": "No, because the idea is to be having a great conversation on stage."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:33)",
+    "text": "The audience can come and go."
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:58:35)",
+    "text": "Yeah. I always, there’s certain points in shows where I am just like, I consciously am like, oh yes, there’s an audience over there. So wrapped up in whatever’s happening on stage."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:49)",
+    "text": "You forget yourself."
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:58:50)",
+    "text": "Or maybe I’m remembering myself."
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:52)",
+    "text": "Oh, damn. Call back, somehow feels like one. Okay. You think every instrument is its own journey. You play guitar, you play bass, you sing, just the mastery of an instrument, or let’s avoid the word mastery, the understanding of an instrument is its own thing, or are they somehow physical manifestations of the same thing?"
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(00:59:19)",
+    "text": "It’s both. Every instrument has its strengths, beauty, limitations, range, possible range that can be extended to some degree or another depending on who you are, like trumpet or something. Certain people can hit higher notes than others, blah, blah, blah. But that being said, we’re all playing the same 12 or 24, however you divide the octave, that many notes. We’re all playing the same notes. So in that sense, it’s all the same thing. It’s just music or better yet it’s just art or expression. But yeah, every instrument has, you’ve got to go through the physical aspects of it, the motor skills and all of that, and hopefully you get through that really quickly so you can get to the expression quickly because if you get stuck in just that first phase, that’d be really boring."
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:19)",
+    "text": "But that’s a pretty long phase. The technical skill required to really play an instrument."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:00:27)",
+    "text": "For some people it’s a long thing, and some people it’s short. It very much varies. It might have to do with how you learn and getting to know your strengths in learning. More oral, or is it more… What’s your strength and playing off of those strengths. So for me, like I was saying earlier, it was just an intuitive thing that I knew. I can feel when my brain is full that it needs processing time. And so I listened to that. I don’t push past it, even if it’s one minute and I do something, I’m like, okay. Silence. And then I come back and I trust that it’s going to be there and it is there. So just trusting yourself I think is really important. Trusting that you know better than anybody else is going to know you."
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "",
+    "timestamp": "(01:01:23)",
+    "text": "So that’s the kind of thing with teachers that can be either really, really helpful and great or really not great. I’m primarily self-taught. I’ve had amazing mentors of all walks of life, and I think I’m unbelievably blessed that my mentors are some of my favorite musicians on Earth, whether it’s Leonard Cohen or Jeff Beck or Wayne Shorter, whoever these people are, they are my favorite musicians. So not everyone has that opportunity, but what the opportunity that we have now that I didn’t have when I was starting is that everything’s on YouTube. Every interview with every genius. You don’t need to necessarily have these people in person now. I mean, and then I’ll say to that, yes and no. I agree with myself, and then I don’t agree with myself. And the reason is I do believe that there is something that happens when you’re in person with a master in some cases, that there is something transferred that is not intellectual, it’s not spoken, it’s something else that happens, that can happen, that I’ve experienced, and I really value that."
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:47)",
+    "text": "And I think that applies to specific disciplines and also generally. I’ve been around Olympic gold medalists just to hang out with them for several days, and there’s something about greatness. There’s a way about them that permeates the space around them. You kind of learn something from it, even if you don’t practice that particular discipline, there’s something to it if you’re able to see it. I also like what you said about the playing stuff in your head, that it forces you to not be lost in the physical learning of the instrument. I think that’s one of the things I probably regret a little bit. So I play both piano and guitar, and I’ve become quite, over the years, technically proficient at the instruments."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:03:43)",
+    "text": "I’ve seen."
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:03:43)",
+    "text": "But I think my mind is underdeveloped because of that, meaning I can’t really… I can feel the music when it’s created, but I can’t create out of the feeling. I haven’t practiced projecting the feeling onto the music. You know what I mean? I’m not like a musician. It’s a different muscle that I think is if you really want to create beautiful things, you have to, the creation happens here, not with your hands."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:17)",
+    "text": "I think it’s more here."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:18)",
+    "text": "Or whichever it is, some part of the body, but it’s not with your fingers."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:21)",
+    "text": "Yeah, because I think the fingers is more of this."
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:22)",
+    "text": "Sure."
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:24)",
+    "text": "And then…"
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:25)",
+    "text": "Yes, it is here."
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:27)",
+    "text": "Yeah."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:27)",
+    "text": "Right. And it’s just nice that you said that because it’s really good advice if you want to create."
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:34)",
+    "text": "Yeah, slowing down is really great too."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:38)",
+    "text": "What do you mean slowing down?"
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:04:40)",
+    "text": "Slowing everything down? It could be, I can play something really fast, but I may want to practice it like…"
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:05:09)",
+    "text": "Go slow as possible."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:05:12)",
+    "text": "All these micro movements that are happening that if you just go, you can’t pay as close attention to the exact tone that you’re pulling from each note. And there’s a lot to pay attention to how my fingers are touching the string here. I can change my tone a million ways just by the direction of this finger, and same with how this lands and how hard I’m attacking the string and with what intention am I hitting the string emotionally, physically, and so even if you can go, play that so slow, see how locked into a pocket you can be, see how you… Feel every aspect of that because then when it gets sped up, it’s still there with you."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:07)",
+    "text": "That is brilliant."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:06:08)",
+    "text": "It’s like the transcended and included thing that Ken Wilbert talks about."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:14)",
+    "text": "I guess that’s what meditation can do for you is to really listen, to observe every aspect of your body, the breath and all this. Here you’re observing every element, every super detailed element, of playing a single note."
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:06:26)",
+    "text": "Yeah."
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:27)",
+    "text": "It’s cool that if you speed it up, it’s still there with you."
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:06:30)",
+    "text": "It is, Yeah it is. Because there are certain people, it’s like they play really fast, but I don’t hear the fullness of tone always. And it’s like, well, it’s probably because maybe they didn’t slow it down and really sit with each note and let it resonate through their whole being. It’s spiritual. It’s like a spiritual expression. It’s not a sport. A lot of people treat music like a sport."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:04)",
+    "text": "Since starting to learn more like Stevie Ray Vaughan versus Jimi Hendrix. I would spend quite a long time on single notes of just bending, just listening to what you can do with bends, spending. Just thinking people like B.B King and all these blues musicians spend a career just making a single note cry. There’s an art form to that."
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:07:28)",
+    "text": "Yeah."
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:29)",
+    "text": "And I think you putting it, taking it really slow, which I never really thought of, is really good idea. Really slow it down."
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:07:39)",
+    "text": "It’s the same with sitting with your own emotions. It’s like when emotions are overwhelming to us, we get real busy or we move real fast because we don’t want to feel our feelings. Those are the moments to slow yourself down."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:57)",
+    "text": "And observe it, anger, jealousy, loneliness."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:01)",
+    "text": "And just be with it. Be cool with it. Love it. Love the anger."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:06)",
+    "text": "It’s all beautiful. Can you educate me on the difference between bass."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:13)",
+    "text": "Bass and bass? Okay, well, one is a fish."
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:16)",
+    "text": "At least I pronounced it correctly. That’s good. It’s all about the bass."
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:20)",
+    "text": "Can you pronounce my name?"
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:22)",
+    "text": "Tal."
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:23)",
+    "text": "Wow. Most people say Tal or tall. You said-"
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:29)",
+    "text": "Tall, who says tall?"
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:31)",
+    "text": "So many people."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:32)",
+    "text": "In the south, maybe tall."
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:34)",
+    "text": "I don’t know. But the fact that you said my name right."
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:34)",
+    "text": "Oh, honey tall."
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:36)",
+    "text": "You get extra points."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:37)",
+    "text": "Tal. I didn’t know this was a game. Am I winning?"
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:41)",
+    "text": "Yep."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:41)",
+    "text": "I like winning. How do you play the bass? What’s the difference between finger style and slap?"
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:48)",
+    "text": "Slap is like this finger styles like this."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:50)",
+    "text": "Have you ever played bass with a pick?"
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:52)",
+    "text": "Yeah, sometimes"
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:54)",
+    "text": "I’m not accusing you of anything."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:55)",
+    "text": "No accusation taken."
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:57)",
+    "text": "I don’t know if these are sensitive topics."
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:08:59)",
+    "text": "That would be pretty hilarious if I was sensitive about bass techniques, but not about love."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:05)",
+    "text": "It just looks so cool to slap it, and I don’t understand what that’s about. That thumb thing that…"
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:09:11)",
+    "text": "Yeah, I slapped less, a lot less. Almost never actually. It has a very distinctive sound and does a very distinctive thing to a song that is not something I hear needed very often in music today, but in certain styles, like funk, it sounds awesome and it makes sense. It was something that was a bit overused at one point. For instance, my mentor Anthony Jackson, he refused to slap. He actually said, if you want me to slap, I’ll leave this gig. So I’m not like that."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:56)",
+    "text": "See, that’s why I said sensitive. See, I was reading into it."
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:09:59)",
+    "text": "Because he’s sensitive about it. I’m not sensitive."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:00)",
+    "text": "I was feeling the spiritual energy of the sensitivity of the topic."
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:10:03)",
+    "text": "Anthony Jackson."
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:04)",
+    "text": "Anthony Jackson."
+  },
+  {
+    "start": 666,
+    "end": 667,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:10:04)",
+    "text": "And then I’m playing electric bass, so generally speaking, you don’t particularly want to hear electric bass on straight-ahead Jazz anyway, you want to hear an upright bass. But if I was to play jazz on electric bass, I might even palm mute instead of going like, I might go to very. Anything to make the notes shorter and less resonant and fade away because the upright does that naturally. And I have a different bass, like a hollow body harmony that sounds closer to an upright that I’ll use. In on my song Under the Sun, that I put out, that was on a harmony bass. And it has an upright acoustic kind of tone to it, but with more sustain."
+  },
+  {
+    "start": 668,
+    "end": 669,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:58)",
+    "text": "And is Jazz fusion the style where you have an electric bass? Can you educate me?"
+  },
+  {
+    "start": 670,
+    "end": 671,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:11:06)",
+    "text": "Again, you can have both. You can have both. You can have either on anything. There’s no real rules, now."
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:14)",
+    "text": "I’ve heard you say something interesting, which is, well, a lot of things you say is interesting."
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:11:17)",
+    "text": "Just one thing."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:20)",
+    "text": "Just one. That-"
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:11:23)",
+    "text": "And it’s what time you’re leaving."
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:27)",
+    "text": "What time was that again?"
+  },
+  {
+    "start": 682,
+    "end": 683,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:11:29)",
+    "text": "Three minutes."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:30)",
+    "text": "That it’s maybe easier sometimes to define a musical genre by the don’ts than the do’s, the don’ts, than the do’s. What are the don’ts of jazz and rock? What are the don’ts of jazz fusion? What are the don’ts? At any domain of life, what are the don’ts?"
+  },
+  {
+    "start": 686,
+    "end": 687,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:11:50)",
+    "text": "The don’ts is just to please leave your fear at the door and your do’s is to be open to anything and open your ears, respond to what’s happening now. I think that quote you’re talking about might have been more about an individual musician’s unique sound, because everyone has their sound. If they’ve developed their voice and they’ve listened to their own aesthetic preferences, of which everyone is slightly different, everyone has slightly different likes and dislikes, then you’ll have a unique sound on your instrument. And your unique sound is defined more by the choices you make rather than… I mean, it’s equally as defined by the choices you make and the choices you don’t make. I mean, it’s the flip side of the same coin, really?"
+  },
+  {
+    "start": 688,
+    "end": 689,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:46)",
+    "text": "Yeah. There’s certain musicians you can just tell. It’s them just, you hear a few notes and you’re like, okay, it’s them. Tone, sometimes it’s tone. Sometimes it’s the way they play a rhythm."
+  },
+  {
+    "start": 690,
+    "end": 691,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:12:56)",
+    "text": "Yeah, the quote you’re talking about might have even had to do with someone’s real limitations on an instrument that then that would define their sound as the things that they actually can’t do versus what you’re choosing to do versus not choosing to do. Which is that flip side of the same coin thing,"
+  },
+  {
+    "start": 692,
+    "end": 693,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:14)",
+    "text": "How many fingers you play with, because it seems like a lot of the greatest musicians aren’t technically perfect. The imperfections is the thing that makes them unique and where a lot of the creativity comes from. I mean, Hendrix had a lot of those things. The way he put a thumb over the top."
+  },
+  {
+    "start": 694,
+    "end": 695,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:13:34)",
+    "text": "Well, his hands were huge. There was no other place for the thumb to go. And it was great that he could reach the E string and that was an advantage."
+  },
+  {
+    "start": 696,
+    "end": 697,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:43)",
+    "text": "And he was a lefty playing a right-handed guitar, flipped, I guess. That’s weird. That probably doesn’t have much of an effect. Maybe a spiritual one. I don’t know."
+  },
+  {
+    "start": 698,
+    "end": 699,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:13:55)",
+    "text": "Actually, flipping and guitar is different. It does bring out something different in you because I’ve done it, flipped it. It’s like, oh wow. Yeah, it really, it’s really different. I remember talking about osteopath about, because there’s so much weight on this shoulder while I’m playing all the time, and they were saying, well, just after shows, just literally just turn it upside down and do the exact same thing in the opposite way. It’ll even out your body. And I was like, that’s good advice."
+  },
+  {
+    "start": 700,
+    "end": 701,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:24)",
+    "text": "Have you actually tried it? Okay. All right, I’ll write that down. All right. Well, do you know a guy named Davie504?"
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:14:36)",
+    "text": "I’ve heard of him."
+  },
+  {
+    "start": 704,
+    "end": 705,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:37)",
+    "text": "I’ve recently learned of him. He’s a YouTuber and a bass player. He’s amazing."
+  },
+  {
+    "start": 706,
+    "end": 707,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:14:42)",
+    "text": "Cool."
+  },
+  {
+    "start": 708,
+    "end": 709,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:42)",
+    "text": "He combines memes and also just these brilliant bass compositions and says slap like a lot. He’s big into slapping. He’s the one that made me realize this is a thing. And he also said that you’re one of the best, if not the best, bassists in the world. There was a bunch of his fans that wrote in and he analyzed the Jeff Beck thing that we watched at Crossroads is one of the greatest solos ever, bass solos ever. So shout out to him. What does that make you feel like you’re the greatest of all time?"
+  },
+  {
+    "start": 710,
+    "end": 711,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:15:13)",
+    "text": "Chocolate cookies."
+  },
+  {
+    "start": 712,
+    "end": 713,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:14)",
+    "text": "Chocolate. Is that your favorite?"
+  },
+  {
+    "start": 714,
+    "end": 715,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:15:15)",
+    "text": "I like macadamia nut. If you really want to get into it, with white chocolate."
+  },
+  {
+    "start": 716,
+    "end": 717,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:21)",
+    "text": "Yeah, that’s a rare one for people to say is the favorite."
+  },
+  {
+    "start": 718,
+    "end": 719,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:15:24)",
+    "text": "Chocolate chip is just so easy. You can kind of get them anywhere."
+  },
+  {
+    "start": 720,
+    "end": 721,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:27)",
+    "text": "Yeah. Last thing you want to be is easy in this world. You don’t want to be easy. You said that I love Rock and Roll quote, “I love folk. I love jazz. I love Indian classical music. I really love all kinds of music as long as it’s authentic and from the heart.” So when you play rock versus jazz, you play all kinds of music. What’s the difference technically, musically, spiritually for you?"
+  },
+  {
+    "start": 722,
+    "end": 723,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:15:49)",
+    "text": "Well, there’s no spiritual difference."
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:54)",
+    "text": "Okay. All right. Cross that off the list,"
+  },
+  {
+    "start": 726,
+    "end": 727,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:15:56)",
+    "text": "Well, musically, yeah, it’s like what was saying earlier, it’s like each genre has its language of what makes it that genre. And that would be a good thing to say. It’s defined by the do’s and don’ts, but because it’s like… I’m trying to think. Basically I put the song first and I think of the song as the melody, the lyrics, and then the harmony and obviously the groove."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:34)",
+    "text": "So the song goes before the genre in a sense. Each song is like its own thing."
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:16:39)",
+    "text": "They’re both things that are held in my mind. It’s like, okay, genre and then song, which is comprised of those basic elements. And I tend to kind of prioritize lyric because somebody is trying to express something over music. And so the lyric is very, very important. And so then the choices come from there. It’s like, okay, within the genre of X this is the typical language. And then how do I best serve this lyric? And then where else can I pull from that might not be in these two bags that would put a little twist on it. So those are all the kinds of things I might be thinking about."
+  },
+  {
+    "start": 732,
+    "end": 733,
+    "speaker": "",
+    "timestamp": "(01:17:34)",
+    "text": "But I don’t like twists for the sake of twists either. I like twists because I want to hear something that might be fresh. But when someone does something just to be hip, it’s annoying to me. I think you can hear the difference. It’s like when people, they write in odd time signatures or they write all these riffs just because they can, just because they have the chops to do it or they know how to play in 11/16 and whatever. But if it’s not actually creating a piece of music that’s going to move somebody, then why are you doing it? And so I think a lot of the questions I’m asking myself when I’m approaching a song or mainly philosophical and aesthetic."
+  },
+  {
+    "start": 734,
+    "end": 735,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:27)",
+    "text": "So you like to stand on the edge of the cliff, not for the thrill of it, but because where you find something new potentially."
+  },
+  {
+    "start": 736,
+    "end": 737,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:18:34)",
+    "text": "And it’s thrilling."
+  },
+  {
+    "start": 738,
+    "end": 739,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:36)",
+    "text": "But you’re not doing it just for the thrill."
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:18:37)",
+    "text": "I’m not doing it for the thrill. It just happens to be thrilling."
+  },
+  {
+    "start": 742,
+    "end": 743,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:41)",
+    "text": "All right."
+  },
+  {
+    "start": 744,
+    "end": 745,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:18:42)",
+    "text": "Because you can always reel it back in."
+  },
+  {
+    "start": 746,
+    "end": 747,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:45)",
+    "text": "Can you though?"
+  },
+  {
+    "start": 748,
+    "end": 749,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:18:46)",
+    "text": "Yeah. You can do a totally disciplined, I can go into a session and… Okay, my favorite thing about going into a session with musicians that I adore is that we don’t hear the demo because if you hear a demo, you’re hearing what the producer or songwriter have already imagined that every instrument is playing. And then it’s like well, I’ve already heard what you want. Now my mind, part of my mind, is focused on what I already know you want and what the destination is going to be. Why did you bring me in here? I want to not hear it. I just want you to sit at a piano and sing the song, I want to hear the chords and the lyric or sit with an acoustic guitar, play it, and then let’s all go in the room."
+  },
+  {
+    "start": 750,
+    "end": 751,
+    "speaker": "",
+    "timestamp": "(01:19:29)",
+    "text": "And then take one, I would say 80% of the time, take one has the most gold and there might be a mistake or two or someone forgot to go to the B section and you might want to punch that in so that you’re hitting the right chord. But all the magic is in that take. And then sometimes it happens where it’s like you go, it’s like we’re rehearsing and take 1, 2, 3, 4, 5, and then you’re thinking about it too much and then you go and you have a dinner and you come back and the next take one after dinner is the one. It’s usually after there’s some sort of a break, but obviously there’s exceptions to that rule. Sometimes it’s take two, or three."
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:20:10)",
+    "text": "Yeah. You said that this is something that surprised you about recording with Prince is that he would just, so much of it would be take one. So quick, it would just move so quickly."
+  },
+  {
+    "start": 754,
+    "end": 755,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:20:21)",
+    "text": "Yeah. Well, with that particular album that we made together, it’s called Welcome to America. He called me up and asked me, he said, I want to make a band with you. I’m really inspired by what you’re doing with Jeff Beck. I want to make a trio. Do you like the drum rolls of Jack DeJohnette, was like his first question to me. I’m like, well, yeah, who doesn’t. Who doesn’t like Jack DeJohnette, one of the greatest of all time?"
+  },
+  {
+    "start": 756,
+    "end": 757,
+    "speaker": "",
+    "timestamp": "(01:20:44)",
+    "text": "And he’s like, well, sounds like, because we had a discussion about drumming, sounds like you’re particular about drummers. So why don’t you find us the drummer and I’ll trust you to find the drummer. You can audition some people. Send me some recordings, maybe your two favorites, and I’ll pick out of the two or something. So I did that. Went on a journey, found a couple of guys. He picked the one. We went in and he basically just would be like okay, so the A section’s going to go like this, and then the B section, I think we’re going to go to G, and then the bridge, I might go to B flat, but maybe I’ll hold off and da, da, da. Okay, let’s go 1, 2, 3, 4. And then we recorded it to tape. There was no punch. He did not want me to punch anything."
+  },
+  {
+    "start": 758,
+    "end": 759,
+    "speaker": "",
+    "timestamp": "(01:21:34)",
+    "text": "There was one song called Same Page, Different Book. And he talked through it just like he did. And then he had me soloing between each phrase like little fills. I didn’t know that that was going to come up. And he loved that. He loved to have me on the edge of my seat falling off the cliff. That was my first real falling off a cliff moment from somebody else holding me at the edge of the cliff. You know what I mean? Now I just do it on my own because it’s so fun and it makes sense. It’s the best thing for the music."
+  },
+  {
+    "start": 760,
+    "end": 761,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:13)",
+    "text": "When you say punch the tape is that when you actually record it."
+  },
+  {
+    "start": 762,
+    "end": 763,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:22:17)",
+    "text": "If you record to tape and there’s say you hit a bum note to punch in means to fix that note, re-record over that one little area and punch that note in. He didn’t want that. He’s like, all my favorite records, just whatever happened happened. That’s that moment in time. Let’s make a new moment in time. It’s great. Nobody makes records like that anymore. Everyone wants to edit and edit and re-record and this and that. And unfortunately with a lot of music, and I’m not saying all music, there’s plenty of great music coming out, but there’s the danger of it being flat because every little imperfection is digitally removed."
+  },
+  {
+    "start": 764,
+    "end": 765,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:05)",
+    "text": "Well, that’s one of the promising things about AI is because it can be so perfect that the thing we’ll actually come back to and value about music is the imperfections that humans can create."
+  },
+  {
+    "start": 766,
+    "end": 767,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:23:16)",
+    "text": "Yeah."
+  },
+  {
+    "start": 768,
+    "end": 769,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:17)",
+    "text": "There’ll be a greater valuation of imperfections."
+  },
+  {
+    "start": 770,
+    "end": 771,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:23:20)",
+    "text": "Yeah. I mean you can program imperfections too."
+  },
+  {
+    "start": 772,
+    "end": 773,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:24)",
+    "text": "Yeah, sure. That’s also very sad. But then you get closer and closer to what it means to be human, and maybe there’ll be AIs among us. And they’ll be human, flawed, like the rest of us. Mortal and silly at times."
+  },
+  {
+    "start": 774,
+    "end": 775,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:23:42)",
+    "text": "Another big sigh."
+  },
+  {
+    "start": 776,
+    "end": 777,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:46)",
+    "text": "Is it fair to say that you’re very melodic on bass? You make the bass sing more than people normally do?"
+  },
+  {
+    "start": 778,
+    "end": 779,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:23:55)",
+    "text": "Is that a compliment?"
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:56)",
+    "text": "Yes, I think so."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:23:57)",
+    "text": "Thank you."
+  },
+  {
+    "start": 784,
+    "end": 785,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:59)",
+    "text": "Moving on to the next question. By way of understanding-"
+  },
+  {
+    "start": 786,
+    "end": 787,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:00)",
+    "text": "The next question is, by way of understanding, it’s just there’s something about the way you play bass that just pulls you in the way when you listen to somebody play a guitar, like a guitar solo."
+  },
+  {
+    "start": 788,
+    "end": 789,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:24:13)",
+    "text": "The thing I love about Jeff Beck is that he played the guitar like a singer, and I think the way that Wayne Shorter played his saxophone. It’s like a singer. And I think everyone, every musician, aspires to just sound like a singer."
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:29)",
+    "text": "You make it sing. Let me ask you about… Just come back to Hendrix, because you said that you had three CDs, Jimi Hendrix, Herbie Hancock and Rage Against the Machine. First of all, a great combination. I’m a big Rage fan."
+  },
+  {
+    "start": 792,
+    "end": 793,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:24:42)",
+    "text": "It’s so funny, because when I listen to some of the music that I create, my solo music, I’m like, “I could see how this is a combination of Herbie Hancock, Rage Against the Machine and Jimi Hendrix.” I hear the influences. It’s funny."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:58)",
+    "text": "Just from your musician perspective, what’s interesting to you about… What really stands out to you about Hendrix? I just would love to hear a real, professional musician’s opinion of Hendrix."
+  },
+  {
+    "start": 796,
+    "end": 797,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:25:13)",
+    "text": "I love that he is two voices combined into one voice. So it’s like there is his voice on the guitar, there is his singing voice, and there is the combination of the two that make one voice. And of course the third element is songwriting. And all of this have this beautiful chemistry, and all work geniusly, perfectly together, and there’s nothing like it. And he always beat himself up about being a singer, and he didn’t like his voice, but my favorite singers are the singers that don’t sound like singers."
+  },
+  {
+    "start": 798,
+    "end": 799,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:58)",
+    "text": "Bob Dylan."
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:25:59)",
+    "text": "Bob Dylan."
+  },
+  {
+    "start": 802,
+    "end": 803,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:00)",
+    "text": "You said you like Bob Dylan."
+  },
+  {
+    "start": 804,
+    "end": 805,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:26:01)",
+    "text": "Love Bob Dylan."
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:03)",
+    "text": "You love his voice too?"
+  },
+  {
+    "start": 808,
+    "end": 809,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:26:04)",
+    "text": "I love his voice."
+  },
+  {
+    "start": 810,
+    "end": 811,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:06)",
+    "text": "Can you explain your love affair with Bob Dylan’s voice?"
+  },
+  {
+    "start": 812,
+    "end": 813,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:26:12)",
+    "text": "He’s expressing his lyrics. It’s just pure expression, exactly what he means. I feel everything that he’s saying with 100% authenticity. That’s what I want to hear from a singer. I don’t care how many runs you can do and blah blah blah. I want to believe what you’re saying."
+  },
+  {
+    "start": 814,
+    "end": 815,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:33)",
+    "text": "Leonard Cohen is that."
+  },
+  {
+    "start": 816,
+    "end": 817,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:26:34)",
+    "text": "Mm-hmm. There’s countless, like Neil Young. I mean, there’s so many musicians. I love Elliott Smith for that reason."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:44)",
+    "text": "Let me ask you about mentorship. You said teachers and mentors. You had mentors. What’s a good mentor for you, harsh or supportive?"
+  },
+  {
+    "start": 820,
+    "end": 821,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:26:54)",
+    "text": "Supportive."
+  },
+  {
+    "start": 822,
+    "end": 823,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:26:55)",
+    "text": "Supportive. You seen Whiplash, the movie? So that guy, somebody screaming at you, kicking you off the cliff?"
+  },
+  {
+    "start": 824,
+    "end": 825,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:27:03)",
+    "text": "Not necessary. I feel like anybody that’s truly passionate about something that they want to be great at or a master of or this and that, they’ve already got that person inside their own head. You don’t need somebody else to do that for you. I think you need love, acceptance, guidance, support, time, advice if you ask for it, just a space, just a nice, open space."
+  },
+  {
+    "start": 826,
+    "end": 827,
+    "speaker": "",
+    "timestamp": "(01:27:32)",
+    "text": "All my mentors were just that for me. They didn’t tell me to do anything. They don’t care, because they’re not… Why do they need to be invested in where I’m going? Only I know where I’m going. So for some mentor to come and be like, “This is what you need to be doing, and practice…” It’s like, but why? What if that’s not my path? That might be your path. So I’m not really… Again, otherwise it feels like a sport, like who can run the fastest race. And it’s like, well, okay, I get that for sport maybe it makes sense to have someone a bit more hardcore. But still, I would say athletes have the same mentality. They’ve got that in them already too. So I think more of a strategic approach to mentorship works really well, and mainly just having an open space and just being available to someone."
+  },
+  {
+    "start": 828,
+    "end": 829,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:28)",
+    "text": "And show that they see the special in you, and they give you the room to develop that special whatever."
+  },
+  {
+    "start": 830,
+    "end": 831,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:28:35)",
+    "text": "Exactly, because if you do have that harsh critic inside you, it is nice to have somebody that isn’t your family, or someone that’s not obligated any way, that just sees your talent and they’re like, “Yeah, I dig what you’re doing. Keep doing it.”"
+  },
+  {
+    "start": 832,
+    "end": 833,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:51)",
+    "text": "Yeah. It’s funny that that’s not always easy to come by."
+  },
+  {
+    "start": 834,
+    "end": 835,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:28:56)",
+    "text": "Do you have any mentors?"
+  },
+  {
+    "start": 836,
+    "end": 837,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:28:58)",
+    "text": "I’ve had a few recently, but for most of my life people didn’t really… I’m very much like that too. Somebody to pat me on the back and see something in you of value. Yeah, I didn’t really have that."
+  },
+  {
+    "start": 838,
+    "end": 839,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:29:16)",
+    "text": "Do you wish you did?"
+  },
+  {
+    "start": 840,
+    "end": 841,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:17)",
+    "text": "Yeah, yeah. But maybe the wishing that I did is the thing that made me who I am, not having it, the longing for that. Maybe that’s the thing that helped me develop a constant sense of longing, which I think is a way of… Because I have that engine in me, it really allows me to deeply appreciate every single moment, everything that’s given to me, so just eternal gratitude. You never know which are the bad parts and the good parts. If you remove one thing, the whole thing might collapse. I suppose I’m grateful for the whole thing. That one note you screwed up so many years ago, that might’ve been essential."
+  },
+  {
+    "start": 842,
+    "end": 843,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:11)",
+    "text": "You do jujitsu."
+  },
+  {
+    "start": 844,
+    "end": 845,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:13)",
+    "text": "Yes. Do you? Are you-"
+  },
+  {
+    "start": 846,
+    "end": 847,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:15)",
+    "text": "My dad does. My dad’s super into it. I love my dad. He’s the coolest. But no, I don’t do it. He’s a blue belt right now."
+  },
+  {
+    "start": 848,
+    "end": 849,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:27)",
+    "text": "Nice, nice. You ever been on the mat with him?"
+  },
+  {
+    "start": 850,
+    "end": 851,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:30)",
+    "text": "Not yet, but I plan on it."
+  },
+  {
+    "start": 852,
+    "end": 853,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:32)",
+    "text": "Should do it."
+  },
+  {
+    "start": 854,
+    "end": 855,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:33)",
+    "text": "What belt are you?"
+  },
+  {
+    "start": 856,
+    "end": 857,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:35)",
+    "text": "Black belt."
+  },
+  {
+    "start": 858,
+    "end": 859,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:35)",
+    "text": "Sick. Do you want to go?"
+  },
+  {
+    "start": 860,
+    "end": 861,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:38)",
+    "text": "Right. You got the shit-talking part of jujitsu down. [inaudible 01:30:41] do the technique."
+  },
+  {
+    "start": 862,
+    "end": 863,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:30:44)",
+    "text": "But for that, for instance, do you need a harsh mentor or teacher or-"
+  },
+  {
+    "start": 864,
+    "end": 865,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:53)",
+    "text": "Yeah, but you said it really beautifully. To me, I agree, there’s a difference between sport and art. They overlap for sure, but there’s something about sport where perfection is actually… Perfection is really the thing you really want to get to, the technical perfection. With art, it feels like technical perfection is almost a way to get lost on the path to wherever, something unique. But yeah, with sport, I definitely am one of the kind of athletes that loves to have a dictatorial coach, somebody that helps me really push myself to the limit."
+  },
+  {
+    "start": 866,
+    "end": 867,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:31:38)",
+    "text": "But you are the one that’s dictating how hard you’re getting pushed, in a way. You’re choosing your mentor. That Whiplash video is like… He didn’t ask for that."
+  },
+  {
+    "start": 868,
+    "end": 869,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:31:48)",
+    "text": "[inaudible 01:31:48] he might’ve."
+  },
+  {
+    "start": 870,
+    "end": 871,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:31:49)",
+    "text": "Well, maybe. Maybe subconsciously. It’s a movie."
+  },
+  {
+    "start": 872,
+    "end": 873,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:31:56)",
+    "text": "Next you’re going to tell me they’re just actors. But yeah, how do we choose things? You don’t always choose, but you maybe subconsciously choose. And some of some of the great Olympic athletes I’ve interacted with, their parents for many years would force them to go to practice until they discovered the beauty of the thing that they were doing, and then they loved it. So at which point does something that looks like abuse become a gift? It’s weird. It’s all very weird. But for you, support and space to discover the thing, the voice, the music within you."
+  },
+  {
+    "start": 874,
+    "end": 875,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:32:40)",
+    "text": "Yeah, it’s my personal choice, because I’m very familiar with the inner critic, and I can bring her out at any point. I don’t need help with that."
+  },
+  {
+    "start": 876,
+    "end": 877,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:48)",
+    "text": "So you do have… She’s on call."
+  },
+  {
+    "start": 878,
+    "end": 879,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:32:50)",
+    "text": "She was on overdrive. That’s why now I had to work on that so much."
+  },
+  {
+    "start": 880,
+    "end": 881,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:57)",
+    "text": "Yeah, you have a really happy way about you right now."
+  },
+  {
+    "start": 882,
+    "end": 883,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:33:00)",
+    "text": "Thanks."
+  },
+  {
+    "start": 884,
+    "end": 885,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:00)",
+    "text": "You’re very Zen. Can I ask you about Bruce Springsteen?"
+  },
+  {
+    "start": 886,
+    "end": 887,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:33:05)",
+    "text": "Yeah, sure."
+  },
+  {
+    "start": 888,
+    "end": 889,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:05)",
+    "text": "A lot of songs of his I listen to make me feel this melancholy feeling. Not just Bruce Springsteen, but Bruce does a lot. What is that about songs that arouse a sad feeling or a longing feeling or a feeling? What is that? What is that about us humans on the receiving end of the music?"
+  },
+  {
+    "start": 890,
+    "end": 891,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:33:30)",
+    "text": "Frequencies. Each frequency does elicit a different kind of emotional response. That is real, scientific-"
+  },
+  {
+    "start": 892,
+    "end": 893,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:40)",
+    "text": "You mean on the physics aspect of it?"
+  },
+  {
+    "start": 894,
+    "end": 895,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:33:41)",
+    "text": "Yeah, yeah, the physical level. So there is that, combined with the right kind of lyric and the right kind of melody of the right kind of chord will elicit a very particular kind of emotion. And it is scientific. It can be analyzed. I don’t particularly want to analyze it, because I don’t want to approach things with that in advance. I don’t want it to inform where I’m going. I like the feeling to lead me naturally to where I’m writing. But yeah, there’s a real chemical element to that."
+  },
+  {
+    "start": 896,
+    "end": 897,
+    "speaker": "",
+    "timestamp": "(01:34:19)",
+    "text": "And then also, like I was saying, the lyric, what it means to you, which… Poetry is supposed to mean something to everybody different. It’s not supposed to mean one thing. You can’t analyze and be like, “This is what this poet meant.” And like we were talking about with Leonard earlier, it’s like the broader you can leave a lyric, the better. You can appeal to people in so many different ways. And even to the songwriter. I’ll sing some of my songs from five years ago and I’ll be like, “I didn’t even think that it could have meant that, but I guess it does. That’s funny.” I’ll just giggle onstage suddenly, because a lyric will hit me differently, from a different, new experience or something."
+  },
+  {
+    "start": 898,
+    "end": 899,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:05)",
+    "text": "Have you ever cried listening to a song?"
+  },
+  {
+    "start": 900,
+    "end": 901,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:35:07)",
+    "text": "Of course. Weep like a baby in a bathtub."
+  },
+  {
+    "start": 902,
+    "end": 903,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:12)",
+    "text": "Which? Who’s the regular go-to, then?"
+  },
+  {
+    "start": 904,
+    "end": 905,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:35:17)",
+    "text": "Leonard."
+  },
+  {
+    "start": 906,
+    "end": 907,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:17)",
+    "text": "Leonard?"
+  },
+  {
+    "start": 908,
+    "end": 909,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:35:18)",
+    "text": "Leonard."
+  },
+  {
+    "start": 910,
+    "end": 911,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:19)",
+    "text": "Yeah. Hallelujah is a song that consistently makes me feel something."
+  },
+  {
+    "start": 912,
+    "end": 913,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:35:25)",
+    "text": "It’s holy. His work is holy. And if you were in his presence… I guess there was a lot to that being."
+  },
+  {
+    "start": 914,
+    "end": 915,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:40)",
+    "text": "What advice would you give to young folks on how to have a life they can be proud of?"
+  },
+  {
+    "start": 916,
+    "end": 917,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:35:47)",
+    "text": "Just tackle the demons as early as possible, whether it’s through your art or through meditation or through whatever it means, diaries, whatever it is. Just walk towards the things that are scary, because if you don’t, they’ll just expand. They become bigger if you avoid… If you avoid the demons, they become bigger."
+  },
+  {
+    "start": 918,
+    "end": 919,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:15)",
+    "text": "What does that mean for you today? Are you still missing Jeff?"
+  },
+  {
+    "start": 920,
+    "end": 921,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:36:19)",
+    "text": "I’ll always miss Jeff, but I don’t feel like a piece of me is missing. And same with Leonard. It’s that I did give them a piece of myself, and maybe they gave me a piece of them that I hold with me and I cherish, but it doesn’t feel like I’m less than, or they’re less than, or anything’s less than. You learn to appreciate the impermanence of everything in life, impermanence of everything except for… Consciousness, I guess you could say, is the only thing that is permanent. So everything else, you learn to appreciate that impermanence, because the limited amount of time in this particular body, it’s enticing, gives you a time limit, which is cool. I like that."
+  },
+  {
+    "start": 922,
+    "end": 923,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:25)",
+    "text": "So you’ve come to accept your own?"
+  },
+  {
+    "start": 924,
+    "end": 925,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:37:27)",
+    "text": "Yeah. It’s cool that I’m like, “Okay, I’ve got this amount…” Maybe this amount of time. Who knows?"
+  },
+  {
+    "start": 926,
+    "end": 927,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:32)",
+    "text": "It could end today."
+  },
+  {
+    "start": 928,
+    "end": 929,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:37:33)",
+    "text": "Yeah, if I died today, I’d be really happy with my life. It’s not like I’m like, “Oh, I missed out on this and that.”"
+  },
+  {
+    "start": 930,
+    "end": 931,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:41)",
+    "text": "So you really want to make sure that every day could be your last day and you’re happy with that."
+  },
+  {
+    "start": 932,
+    "end": 933,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:37:46)",
+    "text": "I’ve always lived that way. Yeah. I felt this way since I was in my early 20s. I’d be like, “Yeah, I could die today. Sure.” I don’t want to die. I have no reason to die. But if I did, I know that I put my everything, all my effort and all my passion and all my love, into whatever I’ve already done. So if my time’s up, then my time’s up."
+  },
+  {
+    "start": 934,
+    "end": 935,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:10)",
+    "text": "What role does love play in this whole thing, in the human condition?"
+  },
+  {
+    "start": 936,
+    "end": 937,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:38:14)",
+    "text": "Well, love is everything. I mean, if you define love… If you’re talking about love as in romantic love or paternal or maternal love, or if you’re talking about love as in an Eastern tradition, like Vedanta for instance, love is consciousness, love is everything."
+  },
+  {
+    "start": 938,
+    "end": 939,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:36)",
+    "text": "That’s the only permanent thing."
+  },
+  {
+    "start": 940,
+    "end": 941,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:38:38)",
+    "text": "Yeah. Or if you were to come from a Zen or like a Buddhist perspective, they would say nothingness. Emptiness is, versus fullness."
+  },
+  {
+    "start": 942,
+    "end": 943,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:49)",
+    "text": "Well those guys are really obsessed with the whole suffering thing and letting go of it."
+  },
+  {
+    "start": 944,
+    "end": 945,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:38:55)",
+    "text": "Yeah."
+  },
+  {
+    "start": 946,
+    "end": 947,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:59)",
+    "text": "Well, I was wondering if you would do me the honor of playing a song."
+  },
+  {
+    "start": 948,
+    "end": 949,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:39:07)",
+    "text": "Do you want a suffering song or a suffering song?"
+  },
+  {
+    "start": 950,
+    "end": 951,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:11)",
+    "text": "I think I would love a suffering song."
+  },
+  {
+    "start": 952,
+    "end": 953,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:39:12)",
+    "text": "Cool. Do you want a sound check and make sure I’m not-"
+  },
+  {
+    "start": 954,
+    "end": 955,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:23)",
+    "text": "Sound check. One, two. Yeah, it sounds really good."
+  },
+  {
+    "start": 956,
+    "end": 957,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:39:29)",
+    "text": "This one too? All right, count me off."
+  },
+  {
+    "start": 958,
+    "end": 959,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:31)",
+    "text": "Yeah. I don’t know how to count somebody off. Where do I start? At nine? Or three? Two, one."
+  },
+  {
+    "start": 960,
+    "end": 961,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:39:31)",
+    "text": "Yeah, you got it. One, two."
+  },
+  {
+    "start": 962,
+    "end": 963,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:31)",
+    "text": "One, two."
+  },
+  {
+    "start": 964,
+    "end": 965,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:39:31)",
+    "text": "(singing)"
+  },
+  {
+    "start": 966,
+    "end": 967,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:08)",
+    "text": "You’re amazing. That was amazing, Tal. Thank you so much."
+  },
+  {
+    "start": 968,
+    "end": 969,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:44:18)",
+    "text": "[inaudible 01:44:18]"
+  },
+  {
+    "start": 970,
+    "end": 971,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:20)",
+    "text": "Try turning it to 11."
+  },
+  {
+    "start": 972,
+    "end": 973,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:44:21)",
+    "text": "It’s quite loud. Can you see it from the headphones? [inaudible 01:44:27]"
+  },
+  {
+    "start": 974,
+    "end": 975,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:28)",
+    "text": "Can you play something?"
+  },
+  {
+    "start": 976,
+    "end": 977,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:44:29)",
+    "text": "No."
+  },
+  {
+    "start": 978,
+    "end": 979,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:29)",
+    "text": "No."
+  },
+  {
+    "start": 980,
+    "end": 981,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:44:41)",
+    "text": "Such a professional."
+  },
+  {
+    "start": 982,
+    "end": 983,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:46)",
+    "text": "I should produce your next record."
+  },
+  {
+    "start": 984,
+    "end": 985,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:44:46)",
+    "text": "Please."
+  },
+  {
+    "start": 986,
+    "end": 987,
+    "speaker": "",
+    "timestamp": "(01:44:46)",
+    "text": "(singing)"
+  },
+  {
+    "start": 988,
+    "end": 989,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:49:12)",
+    "text": "Well, there’s nowhere else I’d rather be right now. Tal, thank you for this. Thank you for the private concert. You’re amazing. You really are amazing. And it was a pleasure to meet you and really a pleasure to talk to you today."
+  },
+  {
+    "start": 990,
+    "end": 991,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:49:27)",
+    "text": "Do I get a private concert now of you playing chess with yourself?"
+  },
+  {
+    "start": 992,
+    "end": 993,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:49:32)",
+    "text": "We’re out of time, so we got to go."
+  },
+  {
+    "start": 994,
+    "end": 995,
+    "speaker": "Tal Wilkenfeld",
+    "timestamp": "(01:49:35)",
+    "text": "[inaudible 01:49:35]"
+  },
+  {
+    "start": 996,
+    "end": 997,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:49:36)",
+    "text": "Thanks for listening to this conversation with Tall Wilkenfeld. To support this podcast, please check out our sponsors in the description. And now, let me leave you with some words from Maya Angelou. “Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.” Thank you for listening, and hope to see you next time."
+  }
+]

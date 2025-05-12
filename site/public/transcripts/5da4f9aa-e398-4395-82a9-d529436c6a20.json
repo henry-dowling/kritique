@@ -1,0 +1,1829 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:00)",
+    "text": "The following is a conversation with Jeffrey Wasserstrom, a historian of modern China. This is the Lex Fridman Podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Jeffrey Wasserstrom."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:17)",
+    "text": "You’ve compared Xi Jinping and Mao Zedong in the past. What are the parallels between the two leaders, and where do they differ? Xi Jinping, of course, is the current leader of China for the past 12 years, and Mao Zedong was the communist leader of China from 1949 to 1976. So what are the commonalities, what are the differences?"
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:00:38)",
+    "text": "So the biggest commonality of them is that they’re both the subject of personality cults, and that Mao was the center of a very intensely felt one from 1949 to 1976. And when he died, there was tremendous outpouring of grief, even among people who had objectively suffered enormously because of his policies. Xi Jinping is the first leader in China since him who has had a sustained personality cult of the kind where if you walk into a bookstore in China, the first thing you see are books by him, collections of his speeches. And when Mao was alive, you might’ve thought that’s sort of what happened with Communist Party leaders in China. But after Mao’s death, there was such an effort to not have that kind of personality cult that there was a tendency to not publish the speeches of a leader until they were done being in power."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "",
+    "timestamp": "(00:01:32)",
+    "text": "I was first in China in 1986, and you could go for days without being intensely aware of who was in charge of the party. You would know, but his face wasn’t everywhere, the newspaper wasn’t dominated with stories about him, and quotations from his words and things like that. So with Xi Jinping, you’ve had a throwback to that period in Communist Party rule, which seemed as though it might be a part of the past."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "",
+    "timestamp": "(00:01:59)",
+    "text": "So that’s a key commonality, and a key difference is that Mao really reveled in chaos, in turning things upside down in a sense that he talked about class struggle, which came out of Marxism, but he also really, his favorite work of Chinese popular fiction was the Monkey King about this legendary figure who is this Monkey King who could turn the heavens upside down. So he reveled in disorder and thought disorder was a way to improve things."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "",
+    "timestamp": "(00:02:32)",
+    "text": "Xi Jinping is very orderly, is very concerned with kind of stability and predictability. So you can see them as very, very different that way. And Mao also liked to stir things up like that, people on the streets clamoring. So Xi Jinping, even though he has a personality cult, it’s not manifesting itself. He doesn’t like the idea of people on the streets in anything that can’t be controlled. So there are a lot of ways that they’re similar, a lot of ways they’re different."
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "",
+    "timestamp": "(00:03:02)",
+    "text": "They’re also different, and this fits with this orderliness that Xi Jinping talks positively about Confucius and Confucian traditions in China. And Confucian traditions are based on kind of stable hierarchies for the most part, and sort of clear categories of superior and inferior, whereas Mao like things to be turned upside down. He thought of Confucianism as a feudal way of thought that it held China back. So you can come up with things that they’re similar and you can come up with things where they’re really opposites. But they both clearly did want to see China under rule by the Communist Party, and that’s been a continuity, and that connects them to the leaders in between them too as well."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:45)",
+    "text": "So there’s some degree, as you said, that Xi Jinping espouses the ideas of Communism and the ideas of Confucianism. So let’s go all the way back. You wrote that in order to understand the China of today, we have to study its past. So the China of today celebrates ideas of Confucius, a Chinese philosopher who lived 2,500 years ago. Can you tell me about the ideas of Confucius?"
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:04:11)",
+    "text": "First of all, we don’t know that much about the historic Confucius. He’s around the same time as figures like Socrates. And like with Socrates, we get a lot of what we know about him or think we know about him from what his followers said and things that were attributed to him and dialogues that were written afterwards. So you can have a lot of fun with these sort of Axial Age thinkers and what they had in common."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "",
+    "timestamp": "(00:04:39)",
+    "text": "Another thing that connects these Axial Age thinkers is they were trying to kind of make a case for why they should be able to educate the next generation, the elite, and sort of had a way of promising that they had philosophical ideas that helped decide how you should run a polity. Confucius lived in a time when there were these warring kingdoms in a territory that later became China. But what he said was that there had been this period of great order in the past that the lines between inferior and superior were clear, and there was a kind of synergy between superior and inferior that kept everything ticking along really nicely. He thought that hierarchical relationships were a good thing, and that the trick was that both sides in a hierarchical relationship owed something to the other. So the father and son relationship was a key one. The father deserved respect from the son, but owed the son care and benevolence, and things would be fine as long as both sides in a relationship held up their end."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "",
+    "timestamp": "(00:05:49)",
+    "text": "And he had a whole series of these relationships. The husband to the wife was, again, an unequal one of the husband being superior to the wife, but him owing the wife care and her owing him deference. And he had the same notion that then the emperor to the ministers were… These were all parallels, and there were no egalitarian relationships in Confucianism."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "",
+    "timestamp": "(00:06:14)",
+    "text": "Even something that in the West we often think of as a kind of quintessentially egalitarian relationship between brothers. In the Chinese tradition of Confucianism, there was only older brother and younger brother. Brotherhood was not an egalitarian relationship. It was one where the older brother took care of the younger brother and the younger brother showed respect for the older brother."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:40)",
+    "text": "So stable hierarchy was at the core of everything in society. It permeated everything including politics."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:06:46)",
+    "text": "Yeah. And there was even a sense that it connected the natural world to the supernatural world. So the emperor was to heaven this kind of non-personified deity like the emperor was to the minister. So all of this had these relationships. So the emperor was the son of heaven."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "",
+    "timestamp": "(00:07:08)",
+    "text": "And for Confucius, he said, so we should study the texts, we should study how the sages of old behaved, that society was becoming corrupted and was going away from that sort of purity of the sages when the relationships were all in order. So Confucianism was a kind of conservative or even backward looking. It wasn’t arguing for progress, it was arguing for reclaiming a pure golden age in the past. So it was also a kind of conservative. So in all kinds of ways, it’s irreconcilable to many things about Marxism and communism, which is all about struggle and all about actually a progressive view of history moving from one stage to the next."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:55)",
+    "text": "So that’s the interesting thing about Xi Jinping and the China of today is there is that tension of Confucianism and communism where communism, Marxism is supposed to let go of history. And Confucianism, there’s a real veneration of history that’s happening in China of today. So they’re able to wear both hats and balance it."
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:08:15)",
+    "text": "Yeah. You could say that in many points in the 20th century, there was a kind of struggle between different competing political groups over which part of the Chinese past to connect with. Was it to the Confucian tradition or to the kind of rebellious Monkey King tradition, which was what Mao connected to."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "",
+    "timestamp": "(00:08:38)",
+    "text": "Xi Jinping and before him to some extent, Hu Jintao, we saw this a little bit, the Olympics, it was more of this kind of mix it all together view. Anything that suggested greatness in the past could be something that could be fused together. So Xi Jinping says that Mao is one of his heroes or one of the people he looks to as a model, but so is Confucius. And there’s really… they had so little in common, but they both, in his mind and the minds of others, suggest a kind of power and greatness of the Chinese past."
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:15)",
+    "text": "Yeah. So this platonic notion of greatness, and that you could say that’s a thread that connects for Xi Jinping the great history, multi-thousand year history of China."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:09:30)",
+    "text": "Yeah. And it involves smoothing out all kinds of internal contradictions. You had the first emperor of China jumping forward a bit in 221 BC. He is anti-scholars, he burns books, and he doesn’t venerate these kind of rituals and things. So he was very much against the things that Confucius stood for. And Mao in a sense of having to choose between Confucius and the first emperor, he said, “Well, maybe the first emperor had the right idea. Scholars can be a pain.” So he said, “If you have to choose between Confucianism and that.”"
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "",
+    "timestamp": "(00:10:09)",
+    "text": "But Xi Jinping I think continually is kind of not choosing. And if he wants to say, “Well, look at the Great Wall, look at this wonderful… In fact that was a symbol of kind of strength and domination related to the first emperor.” Who by the way, didn’t build anything like the Great Wall you see today. He built walls, and they were fine, they were good, but the Great Wall itself didn’t come into being until many centuries later. But still, this idea of anything that suggests a kind of greatness is something that as a, in many ways, a nationalist above all else, Xi Jinping is a supporter of the party and single-party rule. That’s something he clearly believes in, and he’s a nationalist, he wants to see China be great and acknowledge this great on the world stage."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:00)",
+    "text": "Boy, so many contradictions always with Stalin, he was a communist but also a nationalist, right? That contradiction, it also permeates through Mao and all the way to Xi Jinping. But if you can linger on Confucius for a little bit, you write that one of the most famous statements of Confucianism is the belief that, quote, “People are pretty much alike at birth, but become differentiated via learning.” So this sets the tradition that China places a high value on education and on meritocracy. Can you speak to this Confucius’s idea of education, and how much does it permeate to the China of today?"
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:11:44)",
+    "text": "Sure. So there’s an optimism to this, there’s an optimism in the sense of a ability that people can be good. And when exposed to exemplary figures from the past, they’ll want to be like those exemplary figures. So it was a form of education through kind of emulation of models and study of past figures and past texts that were exemplary. And it did have this idea, a relatively positive view of human nature and the sort of changeability of humans through education."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "",
+    "timestamp": "(00:12:21)",
+    "text": "And I think that shows through in all kinds of things, even the fact that while there were lots of killings by the Chinese Communist Party and other groups, there was often an idea that people could be remolded potentially. And China was one of the few places where they didn’t kill the last emperor. The last emperor, the idea was that he could become… anybody could be kind of turned into a citizen of this or a subject of this, a good member of this polity through the kind of education, often it was a very kind of forceful form of education, but I think that’s a carryover from the Confucian times."
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "",
+    "timestamp": "(00:13:09)",
+    "text": "And over time, this Confucian idea led to the creation of one of the early great civil service exams, an idea that bureaucracy should be run, not by people who were born into the right families, but ones who had shown their ability to master these fairly intensive kind of exams. And the exams were things that could make or break your career, a bit like at some points in the American past, passing a bar exam, a really intensive thing could set you on the road to a good career. In China, you had the civil service exam tradition."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "",
+    "timestamp": "(00:13:46)",
+    "text": "So I think this kind of emphasis on education and on valuing of scholarly pursuits, but then Chinese leaders throughout history, including up to Mao and Xi Jinping, have also found scholars to be tremendously difficult to control. So there’s an ambivalence to it or a contradiction again there."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:10)",
+    "text": "But to which degree, this idea of meritocracy that’s inherent to the notion that we all start at the same line, there’s a meritocratic view of human nature there? Or if you work hard and you learn things, you will succeed. And so the reverse, if you haven’t succeeded, that means you didn’t work hard, and therefore do not deserve the spoils of the success. Does that carry over to the China of today?"
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:14:43)",
+    "text": "There’s such a challenge in all these forms of meritocracy because you had the civil service exams, but the question was if you had a really good tutor, if you could afford a really good tutor, you had a better chance of passing the exams."
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "",
+    "timestamp": "(00:14:56)",
+    "text": "One thing that happened there was families would pull together resources to try to help the brightest in their group to be able to become part of the officialdom. And this kind of pooling together resources to help as a family was an important part of that structure. But there was always a tension of that, so what if you don’t succeed?"
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "",
+    "timestamp": "(00:15:25)",
+    "text": "Some of the leaders of rebellions against emperors were failed examination candidates. You had this issue, and then it became something, well, the system was out of whack, and it needed a new leader."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "",
+    "timestamp": "(00:15:42)",
+    "text": "And also there was something built in that was not so much Confucius himself, but one of his main interpreters, early interpreters, Mencius, had this idea, which can be seen as a crude justification for a rebellion or for a kind of democracy to say that even though the emperor rules at the will of heaven, if he doesn’t act like a true emperor, if he’s not morally upstanding, then heaven will remove its mandate to him. And then there’s no obligation to show deference for a ruler who’s not behaving like a true ruler. And there it sort of justifies rebellion. And the idea is that if the rebellion isn’t justified, then heaven will stop the ruler from being killed. But if heaven has removed his support, then the rebellion will succeed, and then a new ruler will be justified in taking power. So it’s an interesting sense that the universe in this Confucian view has a kind of moral dimension to it, but it also, it’s when things actually happen that you see where the side of morality is."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:03)",
+    "text": "Okay, so it’s meritocracy with an asterisk. It does seem to be the case, maybe you can speak to that, that in the Chinese education system, there seems to be a high value for excellence. Hopefully I’m not generalizing too much, but from the things I’ve seen, there are certain cultures, certain peoples that it’s just part of the value system of the culture that you need to be a really good student. Is that the case with the China of today?"
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:17:32)",
+    "text": "There’s been a lot of emphasis on education and sort of working really hard and excelling at some subjects and having… There isn’t the civil service exam, but there is the Gaokao, an exam that really can determine where you get what kind of institution you get into."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "",
+    "timestamp": "(00:17:53)",
+    "text": "And I think getting back to this idea of meritocracy, which is strong in a lot of tradition. It also a kind of… what it opens you up to is when there is a sense of unfairness on who’s getting ahead and how the spoils are being divided, this leads to a kind of outrage. And some of the biggest protests in China have been about this sense of nepotism, which really seems to subvert this whole idea of kind of meritocracy."
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "",
+    "timestamp": "(00:18:31)",
+    "text": "And the 1989 protests of Tiananmen, even though kind of in the Western press particularly was discussed as a movement for democracy, but a lot of the first posters that went up that got students really angry were criticisms of corruption within the Communist Party and nepotism, and the sense that people, despite all the talk… I mean, despite the fact that most people seem to be having to study really hard to pass these exams to get good positions in universities, that some of them were being handed out via the kind of back door. And that led to a kind of outrage. I mean, that’s true in many places, but I think it gives a special anger against nepotism because of that, the way in which so much emphasis is put on kind of the standard exam way of getting ahead."
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:21)",
+    "text": "I hope it’s okay if we jump around through history a bit and find the threads that connect everything. Since you mentioned Tiananmen Square, you have studied a lot of student protests throughout Chinese history, throughout history in general, what happened in Tiananmen Square?"
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:19:38)",
+    "text": "So in 1989, this massive movement took place, the story of it’s largely suppressed within China and largely misunderstood in other places in part because it happened around the same time that communism was unraveling and ending in the former Soviet Bloc. So I think it’s often conflated with what was going on there. And so I think one of the key things to know about the protests in 1989 was that they were an effort to get the Communist Party in China to do a better job of living up to its own stated ideals, and to try to support the trend within the party toward a kind of liberalizing and opening up form that had taken shape after Mao’s death. And in a sense, the student generation of ’89, and I was there in ’86 when there were some sort of warm-up protests, there was a kind of frustration with what they felt was a half-assed version of what they were talking about, that the government was saying, the party was saying, we believe in reforming and opening up, we need to liberalize, we need to give people more control of their fate. And the students felt that this was being done more effectively in the economic realm than in the political realm, and that there were a lot of sort of partial gestures that suggested the party needed to be pressed to really, really move in that direction."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "",
+    "timestamp": "(00:21:17)",
+    "text": "And it’ll seem like a very trivial thing, but I found it fascinating in ’86 when I was there in Shanghai in late ’86, and students protested, and this was the first time that students had been really on the streets in significant numbers since the Culture Revolution or at least since ’76."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "",
+    "timestamp": "(00:21:37)",
+    "text": "And the students were inspired by calls for democracy and discussion of democracy by this physicist, Fang Lizhi, who was a kind of often thought a Chinese Sakharov. He was a liberalizing intellectual."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "",
+    "timestamp": "(00:21:53)",
+    "text": "But one of the things that students in Shanghai, where some of the most intense protests that year took place, were frustrated about was a rock concert of all things that Jan and Dean, the American surf rock band, which was kind of like the Beach Boys, only not as big, and they were touring China. It was the first time in Shanghai that there’d been a rock concert. And the students were really excited about this because this fit in with what they thought the Communist Party was moving toward, was letting them be more part of the world. And for them, that meant being more in step with pop culture around the world. And at the concert, some students got up to dance because that’s what they knew you were supposed to do at a rock concert, and the security guards made them sit down. And for the students in Shanghai, this would’ve symbolized what was a feint toward openness that really didn’t have follow-through; we’re going to give you rock concerts, but not let you dance."
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "",
+    "timestamp": "(00:22:49)",
+    "text": "And so the protests went on for a little while in ’86, and posters went up. The officials at universities said, “Now this is out of hand. We had chaos on the streets during the Culture Revolution. We can’t go back to that.” And nobody wanted to go back to that. So there were posters I saw that said, this is new Red Guardism. And the students didn’t want to be associated with that. So it wound down pretty quickly, and they thought, we’re not like the Red Guards. We don’t want to make chaos. We also are not fervent loyalists of anybody in power. The Red Guards had been passionate about Mao. The analogy partly sort of scared them, and also it meant that the government was really serious about dealing with them."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "",
+    "timestamp": "(00:23:36)",
+    "text": "So then in 1989, the protest restart, and there are a variety of reasons why they can restart. The space for them… Students are thinking about doing something in 1989. It’s a very resonant year, 200th anniversary of the French Revolution. People are thinking about that. But more importantly, it’s the 70th anniversary of the biggest student movement in Chinese history, the May Fourth Movement of 1919."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "",
+    "timestamp": "(00:24:04)",
+    "text": "And the May Fourth Movement had helped lay the groundwork for the Chinese Communist Party. Some member leading founders of it had been student activists then, it was an anti-imperialist movement, but it was also a movement against bad government. And so the students thought the anniversary of that movement was always marked, commemorated in China, and people took the history seriously. People were reminded of what students did in the past, and so there were a lot of reasons why people were itching to do something."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "",
+    "timestamp": "(00:24:39)",
+    "text": "And then a leader, Hu Yaobang, who was associated with the more kind of reformist, more liberalizing group within the Chinese Communist Party, he had been stripped of a very high office, demoted after partly taking a fairly light stance toward the ’86, ’87 protests. And so he was still a member of the government, but he was not as high up in power. He had been very high up. He had been sort of Deng Xiaoping’s potential successor, and he dies unexpectedly. And there has to be a funeral for him because he dies still as an official. And the students take advantage of the opening of there having to be commemorations of his death. And they put up posters that basically say the wrong people are dying. Hu Yaobang was younger than some of the more conservative members. They said, “So some people are dying too young, some people don’t seem like they’re ever going to die.”"
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "",
+    "timestamp": "(00:25:40)",
+    "text": "So they begin these sorts of protests. This is in April of ’89. And the government tries to sort of get the protest to stop quickly, and they use the sort of same technique of they issue an editorial in People’s Daily that says, “This is creating chaos,” which is a code term for take us back to the Culture Revolution. And this time the students say, “No, we’re just trying to show our patriotism. We believe that there’s too much corruption and nepotism. There’s not enough support for the more liberalizing wing within the party.” And so they keep up the protests."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "",
+    "timestamp": "(00:26:18)",
+    "text": "And there’s a lot of frustration at this point. There are also economic frustrations at this point. The economy is improving because of the reforms, but it seems that people with good government connections are getting rich too easily. And so there’s sort of a sense of unfairness. The students are also really frustrated by the kind of macro-managing of their private lives on campuses."
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "",
+    "timestamp": "(00:26:42)",
+    "text": "So the protests at Tiananmen Square and in plazas all around the country and other cities as well become this mix of things. It’s an anti-corruption movement, it’s a call for more democracy movement, it’s a call for more freedom of speech movement, but it’s also a kind of… has some counterculture elements that are like, there are rock concerts on the square, the most popular rock musician, Cui Jian, comes to the square and is celebrated when he’s there. There’s a sense of kind of a variety of things rolled into one."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "",
+    "timestamp": "(00:27:17)",
+    "text": "And I brought up how it sort of gets conflated with the movements to overthrow communism in the Eastern Bloc. It was actually, in many ways, I think more like something that happened in the Eastern Bloc 20 years earlier. It was more like Prague Spring and other 1968 protests in the Communist Bloc, which was about moving toward socialism with a human face, more like trying to get the parties empowered to reform rather than necessarily doing away with them."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "",
+    "timestamp": "(00:27:46)",
+    "text": "So there was a kind of disjuncture, happened at the same time as moves to end communism. But of course, so there was a possibility when all the protesters were on the square. It seemed that for a time that this might be seen as an acceptable kind of movement to just have a kind of course correction. But then there’s also an internal struggle within the Communist Party leadership. And clearly the people who are more political conservatives, even if they believe in economic reform, are clearly getting the upper hand. And this is not going to be tolerated. And the students stay on the square when signals are given to try to get them out. Students from around the country are pouring in to Beijing to join this movement. They don’t want to end the movement when they’ve just arrived. So it’s actually one thing that keeps it going is new participants are coming from the provinces. And even if some moderates want to leave the square, people want to stay."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "",
+    "timestamp": "(00:28:47)",
+    "text": "And then workers start joining in the movement as well and form a independent labor union. And that really, the Chinese Communist Party, to a certain extent, they might put up with student protesters, but they know from past experience that sometimes student protests lead to members of other social classes joining them because they look up to students as sort of potential intellectual leaders of the country. And admiration for scholars is part of this that people turn out when students protest, something very different from the American case where there’s a kind of often suspicious of student activists being necessarily on the same side as everybody else."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "",
+    "timestamp": "(00:29:31)",
+    "text": "But in China, there had been, from the history of the 20th century, a sense of students as potentially a vanguard. So once there are labor activists joining the movement, then troops are called in. And there’s a massacre near Tiananmen Square on the middle of the night of June 3rd and early on June 4th. And the army just moves in and begins behaving very much like an army of occupation, which is something that People’s Liberation Army is supposed to be the one that saves China from foreign aggression, and they’re acting like an invading force."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:12)",
+    "text": "So this is where famously the tanks roll in."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:30:14)",
+    "text": "The tanks roll in, and I think also you have that famous image of the man standing in front of the tank. That’s a banned image within China. And I really think the reason why it’s so considered so toxic by the regime is because it just shows the People’s Liberation Army looking like an invading force, not like a stabilizing force."
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:36)",
+    "text": "Can we talk about that, who’s now called the Tank Man, the man that stood in front of the row of tanks? This was on June 5th in Tiananmen Square. What do we know about him? What do you think about him, the symbolism?"
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:30:51)",
+    "text": "It’s an amazing symbol. He’s on this boulevard near the square with this long line of tanks, and it’s unquestionably this act of incredible bravery. And there’s some interesting things about…"
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:31:00)",
+    "text": "… act of incredible bravery. And there’s some interesting things about it, some that are forgotten. One is that in the end he climbs up on the tank and the tank swerves. It doesn’t run him over. And the Chinese Communist Party initially showed video of this and said, “Look, the Western press is talking about how vicious we were, but look at the restraint. Look at this. He wasn’t mowed down.” And they tried this whole story with Tiananmen initially of saying, “Look, the students were out of control. Everybody should remember what happened during the Cultural Revolution, and the army showed restraint.” And there were a small number of soldiers who were actually burned alive in their tanks during… Once the massacre began, people got outraged and they attacked the soldiers. But by selective use of footage, the Communist Party could say, “Look. Actually look at this. The heroes, the martyrs, were these soldiers.”"
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "",
+    "timestamp": "(00:31:58)",
+    "text": "And they try, for the first months after it, to try to get this narrative to stick. They talk about Tiananmen a lot. They talk about these things. They show images of the tank man. The problem with it is that lots and lots of people around Beijing had seen what happened and knew that in fact, there’d first been the firing on unarmed civilians with automatic weapons. And there had been many, many people, some students, but a lot of ordinary Beijing residents and workers, who were just mowed down. So lots of people knew somebody who had been killed. So that story just didn’t work."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "",
+    "timestamp": "(00:32:35)",
+    "text": "And then I think the claim had to be made to try to suppress discussion of the event and particularly to repress that visual imagery that was that image of the man in front of the line of tanks. Whatever the tanks did to him or not, the main takeaway from it would be this idea that there were lines of tanks in a city. The image was of the government as having lost the mandate to rule, and they really didn’t want to have that image out there in the world."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:14)",
+    "text": "Yeah. We’re watching the video now. He’s got, what, grocery bags in his hands? It’s such a symbolic, “I’ve had enough,” that kind of statement."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:33:28)",
+    "text": "Yeah, and it’s probably not a student. It’s often described as a student, but he probably was a worker. And it is a powerful, powerful image of bravery. And I brought up the 1968 parallel for Eastern and Central Europe. There was actually a very powerful photograph of a man baring his chest in front of a tank in Bratislava during what we think of as Prague Spring. That was a famous image of bravery against tanks. And in 1968 in Czechoslovakia, then still Czechoslovakia, the tanks that rolled in were Soviet tanks sent down there. But that was an image… What was so powerful in that was saying, “We’re not going to put up with this invasion.”"
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "",
+    "timestamp": "(00:34:18)",
+    "text": "Again, I think you have the People’s Liberation Army looking like an invading force, and that’s what the Chinese Communist Party in a sense can’t deal with now. Even though sometimes they could tell a story about 1989, and they do tell a version of this, and some people believe this, I think, is that in 1989, China went one route of not having the Communist Party dramatically change or relinquish control, and the Soviet Union and the former Soviet states went another. And you could say, “Well, look.” And after 1989, the Chinese economy boomed. Life got better for people in China. Life got really terrible for a lot of people in the former Soviet blocs. “Actually, maybe this was the right way to go.” And you can make that kind of argument, but if you show the tanks and the man in front of the tanks, you just have a different kind of image of heroism."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:17)",
+    "text": "It’s one of my favorite photographs or snapshots ever taken, videos ever taken, so I apologize if we linger on it. Sometimes you don’t understand the symbolic power of an image until afterwards, and perhaps that’s what the Chinese government didn’t quite understand. They lost information more than [inaudible 00:35:39]. So I have to ask, what do you think was going through that man’s head? Was it a heroic statement? Was it a purely primal guttural, “I’ve had enough”?"
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:35:50)",
+    "text": "It’s so interesting to just speculate, and we just don’t know, because he was never able to be interviewed afterwards. But I think your emphasis on patriotism is really important, because one of the students’ main demands was, then I think it might have been the thing that would have gotten them to leave the square, would’ve been to say, “We want this to be acknowledged as a patriotic, that our goals are patriotic.” We’re not here to take China back into the Cultural Revolution. We’re here to express our love for the country if it goes in the right way. So will you admit that?”"
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "",
+    "timestamp": "(00:36:23)",
+    "text": "And you mentioned about the power of the image, and I do think the Chinese Communist Party learned something, has taken to heart the power of the image after that, because we saw this when there were protests in Hong Kong. The government on the mainland really wanted to tell a story there of crowds out of control. And initially in 2014, and again initially in 2019, there were very orderly crowds, and it had trouble with that story. So they tried very hard to ban images of peaceful protests until there were some incidents, as there almost always are, of violence by crowds, and then they would show those images over and over again."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "",
+    "timestamp": "(00:37:09)",
+    "text": "They also worked very hard, when Hong Kong protests began in the 2010s, to try very hard to avoid any use of soldiers to repress them. It was all the police. And they tried very hard and managed to success because the Western press was often saying, “Will this be another Tiananmen? Will there be a massacre, or will there be soldiers on the streets?” The movements in Hong Kong were suppressed without the use of shooting to kill on the streets. They were shooting to wound. There was bean-bag shot. There were rubber bullets. There was enormous amounts of tear gas. There was even tear gas let fly inside subway stations in 2019."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "",
+    "timestamp": "(00:37:54)",
+    "text": "And all these things are really brutalizing, but they don’t make the kind of images that sear in the mind the way something like the Tiananmen tank man image or the image of a Vietnamese woman being burned by napalm, a young woman, that became another of the iconic images during Vietnam War. Those images really can have an extraordinary power, and I think the Chinese Communist Party is now aware of that. There are very few photographs allowed of the Xinjiang extra-legal detention camps. There is an awareness of how much power a photograph of a certain type can have."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:42)",
+    "text": "So nobody knows what happened to the tank man?"
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:38:46)",
+    "text": "No."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:46)",
+    "text": "What do you think happened to the tank man?"
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:38:48)",
+    "text": "I assume he was killed."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:49)",
+    "text": "Killed."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:38:50)",
+    "text": "I assume he was just disappeared. It’s interesting because very often, figures are made an example of in one way or another. I mean, Liu Xiaobo was imprisoned and not allowed to get enough medical care, so you can talk about him having died earlier than he should have. But there’s been relatively few for political crimes recently, sentencing to death and things like that. It’s much more just remove them, imprison them. But the tank man, there was never a trial, even a trial that was one that you knew what the result would be, which there was for Liu Xiaobo and others. Not even a hidden trial, but simply disappeared."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "",
+    "timestamp": "(00:39:40)",
+    "text": "And there’s been somebody who’s like another figure like this who’s disappeared. A couple of years ago in Beijing, there was a lone man who put up a banner on a bridge, Sitong bridge in Beijing. And it was extraordinary. It had denunciations of the direction Xi Jinping was taking the country. It was denunciation of Covid policies, but also a dictatorial rule. And the banner, somehow he managed to have it up and get it long enough to be filmed and to draw attention and the film to circulate. Again, another image of the power of images. And he’s disappeared, and there hasn’t been a show trial or even a secret trial, and again, we don’t know if he’s still alive, but these are cases where I think the Chinese Communist Party really doesn’t want a competing story out there. They don’t want somebody to be able to answer what he was thinking."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:37)",
+    "text": "How much censorship is there in modern-day China by the Chinese government?"
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:40:43)",
+    "text": "There’s a lot of censorship. One of my favorite books about Chinese censorship, Margaret Roberts, where she talks about there are three different ways that the government can control the stories. And she says there’s fear, which is this direct censorship thing, like banning things. But there’s also friction. She has three Fs, fear, friction, and flooding, and she says they’re all important, and I think this is true not just of China, but in other settings too."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "",
+    "timestamp": "(00:41:12)",
+    "text": "So what friction means is you just make it harder for people to get answers or get information that you don’t want them to get. Even though you know that some people will get it, you just make it that the easiest way, the first answer you’ll get through a search. So a lot of tech-savvy or globally minded, tapped-in Chinese people will use a VPN to jump over the firewall. But it’s work. The internet moves slower. You have to keep updating your VPN. So you just create friction so that, okay, some people will find this out. And then flooding. You just fill the airwaves and the media with versions of the stories that you want the people to believe. So all those exist and in operation, and I think the fear is the easiest side to say what’s blocked."
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "",
+    "timestamp": "(00:42:06)",
+    "text": "So I’m always interested in things that you would expect to be censored that aren’t censored. You can read all sorts of things in China about totalitarianism. You can read Hannah Arendt’s book on totalitarianism. You’re not supposed to be able to read that in a somewhat totalitarian state or a dictatorial state of anything, but it’s not specifically about China. And so censorship is most restrictive when it’s things that are actually about China. Things about leaders of the Chinese Communist Party, there’s intense kind of censorship of that, and certain events in that way. But something through allegory, something through imagining a place that looks a lot like a Communist Party-ruled state so that people are going to read it…"
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "",
+    "timestamp": "(00:43:06)",
+    "text": "There were things that were banned up until the very last period of Gorbachev’s rule, things banned in the Soviet Union, that are available in Chinese bookstores. You can buy 1984 in a Chinese bookstore. You’ve been able to since 1985. Again, it’s not about China. And actually, for some people within China in the mid-1980s, where they focused on the part of 1984 that’s the two minutes of hate, these rituals of denunciation of people, for some people in China, it seemed like it was about their past, not about their present."
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "",
+    "timestamp": "(00:43:41)",
+    "text": "And then by the ’90s, 1984 is a very bleak culture of scarcity, a place where people just aren’t having fun. Some people would read 1984 and say, “Look, this is the world we’re living in. It’s a Big Brother state.” But others said, “Well, that has some similarities to us, but he wasn’t talking about a country like ours. Look, we’ve got supermarkets. We’ve got McDonald’s. We’ve got fast trains. We’re living so much better in some ways than our grandparents did, and this isn’t like that bleak world he was imagining.”"
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:17)",
+    "text": "Yeah. You’ve actually spoken about and described China’s more akin to the dystopian world of Brave New World than 1984, which is really interesting to think about. I think about that a lot. I’ve recently, over the past couple of years, reread Brave New World a couple of times, and also 1984. It does seem that the 21st Century might be more defined to the degree it is dystopian, any of the nations are, by Brave New World than by 1984."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:44:48)",
+    "text": "There are mixed elements. I think there are moments when it can seem more one than the other, and there can be parts of the same country that seem more one than the other, I think. And if we just think about control through distraction and playing to your sense of pleasure… One thing that people forget sometimes, or don’t know, is that Aldous Huxley, who wrote Brave New World, taught Eric Blair, who became George Orwell, when he was a student at Eden. And they were rivals."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "",
+    "timestamp": "(00:45:21)",
+    "text": "And in fact, in 1949, Orwell sent his former teacher a copy in 1984 and said, “Look, I’ve written this.” Basically, it’s almost a little Oedipal. “I’ve written this book that displaces yours.” He didn’t say that. He just said, “I want you to have this.” But he had criticized Brave New World in reviews, having imagined a world of capitalism run wild like before, realizing the totalitarian threats of the middle of the 20th century. But Huxley wrote Orwell a letter in October of 1949, same month the Communist Party took control in China, not that he mentions China, and he just said, “It’s a great book and everything, but I think the dictators of the future will find less arduous ways to keep control over the population,” basically saying, “More like what was in my book than in yours.”"
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:17)",
+    "text": "I have to say, I think Huxley might be really on to something there. Truly a visionary. Although to give points to Orwell, I do think as far as just a philosophical work of fiction, 1984 is a better book, because Brave New World does not quite construct the philosophical message thoroughly because 1984 contains many very clearly, very poetically defined elements of a totalitarian regime."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:46:49)",
+    "text": "Oh, and the dissection of language is so amazing."
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:49)",
+    "text": "Language."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:46:52)",
+    "text": "No, I think you’ve got a point there, and I went back and reread Brave New World, and it’s fascinating but it’s very messy."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:00)",
+    "text": "Yeah."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:47:00)",
+    "text": "I think there’s a clarity to Orwell’s 1984. There’s a clarity to Margaret Atwood’s Handmaid’s Tale, similarly, the construction of the elements, and she was a big fan of both 1984 and Brave New World, so there’s a way they go forward. It’s not exactly a sequel, but Huxley did write something called Brave New World Revisited in the ’50s."
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:27)",
+    "text": "Yes, he did. Right. That’s in"
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:47:31)",
+    "text": "And he mentions China there. He says that in Mao’s China, they’re combining the two things of this. And I’m really fascinated by that, because they published in China, on the Chinese mainland. It was published in Taiwan and Hong Kong too. It’s called the Dystopian Trilogy, and it’s a box set where you have Zamyatin’s We, who then inspired both Orwell and Huxley to some extent. That’s one book. And then there’s Animal Farm and 1984 is the second book. And then the third volume is Huxley’s Brave New World and Brave New World Revisited. And it was published in complex characters. You can buy it in Hong Kong. But I compared it to the book you can buy on the mainland, and it’s all the same except the parts in Brave New World Revisited that refer to China are scalpeled out."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "",
+    "timestamp": "(00:48:28)",
+    "text": "And this, I think, shows the subtlety of the censorship system. You can buy these books and you can read about them, but the parts that really show you how to connect the dots, that gets taken out. I think with China I was feeling it was definitely moving more toward Brave New World, except Tibet and Xinjiang being more the crude boot-on-the-face, 1984 style of control. But then during the Covid lockdowns, when people were being so intensely monitored and controlled, even places like Shanghai that had seemed much more the Brave New World style had their Orwellian moment. So now, I think there are more 1984, more Brave New World parts of the country, and there are also more Brave New World, more 1984 moments."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:23)",
+    "text": "I see why it could give a sense, after you’ve thoroughly internalized the fear, that you have complete freedom of speech, just don’t mention the government. So you can talk about totalitarianism. You can talk about the darkest aspects of human nature. You can even talk about the government in a metaphorical, poetic way that’s not directly linkable, but the moment you mention the government, it’s like a dumb keyword search."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:49:56)",
+    "text": "Yeah. And I think it’s one of these really good examples of how China’s distinctive, but it’s not unique. You have other settings where you have these no-go zones that you learn, and one example is in Singapore. So the National University of Singapore has a world-class history department, but no Singapore historian in it, nobody who focuses on the history of Singapore. Because it’s incredibly wide-ranging what you can do, analyze, but when you’re actually talking about the family that’s been most powerful in Singapore, then it gets to be touchy."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "",
+    "timestamp": "(00:50:36)",
+    "text": "In Thailand, which I’ve been working on recently, you have this lèse-majesté laws that make it very, very dangerous to say certain kinds of things about the King. And so in all of these settings, you have to figure out ways to work around. And there’s a way in which you can say at the foreign correspondence clubs in different parts of Asia… You can have an event that’s about the country one over that you can say basically anything you want, but when it gets to the things in the place where you are, it’s touchy."
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "",
+    "timestamp": "(00:51:17)",
+    "text": "I should give credit for that insight. Shibani Mahtani co-wrote a very good book on Hong Kong Among The Braves. She was talking about that, that in Singapore at the Foreign Correspondence Club, you could have an event on Hong Kong that could say all kinds of things that you couldn’t say at the Hong Kong Foreign Correspondence Club. But at the same time, when I saw her in Singapore, she said there was a Singapore political refugee in Hong Kong who was giving a talk at the Hong Kong Foreign Correspondence Club saying kinds of things that he couldn’t say in Singapore."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "",
+    "timestamp": "(00:51:51)",
+    "text": "And in Thailand, I gave a talk at the Foreign Correspondence Club, and then I went to hear a talk there because I was just curious about the culture in this foreign correspondence club, and there was somebody talking about human rights abuses in different parts of Southeast Asia saying things very directly and then said, “And there are things going on in Thailand that we’re not going to talk about.” Self-censorship can be a very powerful thing."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:19)",
+    "text": "One of the things I learned about all of this, which is interesting, I want to learn more, is about the human psychology, the ability of the individual mind, to compartmentalize things. It does seem like you could not live in a state of fear as long as you don’t mention a particular topic. My intuition would be about the human mind. If there’s anything you’re afraid of talking about, that fear will permeate through everything else. You would not be able to do great science, great exploration, great technology."
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "",
+    "timestamp": "(00:52:51)",
+    "text": "And that idea, I think, underpins the whole idea of freedom of speech in the United States. You don’t want to censor any, even dangerous, speech, because that will permeate everything else. You won’t be able to have great scientists. You won’t be able to have great journalists. You won’t be able to have… I don’t know. I’m obviously biased towards America, and I think you do need to have that full-on freedom of speech. But this is an interesting case study, and that’s actually something that you speak about, that Mao, if he were alive today and visited China, would be quite surprised. And you give the Nanjing bookstores an example. Can you just speak to this? If Mao visited China, let’s go with that thought experiment, what would he recognize? What would he be surprised by?"
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:53:38)",
+    "text": "So I wrote about imagining a revivified Mao going [inaudible 00:53:44] pondering this really cool Nanjing bookstore in the early 2000s and just being amazed at what you could read there and what books were for sale. And I thought about how he’d be like, “What’s going on? Is the Communist Party not in control?” He talked about how art and politics needed to in some ways go together, and you’ve got all these kind of things. He also would have been shocked by all… There were all these books about how to start your own cafe and bar and celebrating entrepreneurship, how to get into Harvard. All of these things just wouldn’t compute from his time."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "",
+    "timestamp": "(00:54:23)",
+    "text": "Although I said, it would actually maybe make him nostalgia for the time of his youth in the 1910s. He was a participant in the May 4th movement, which was a time of reading all over the world, looking for the best ideas circulating. So he might say, “Well, the teenage me would have really, really loved this.” So some of the coolest bookstores, the things that I just was amazed could exist in the early 2000s… So you can still buy copies in 1984 and you can still get some of these other things, but that was a time when more and more of those things were being translated fresh. I’m not sure you’d get permission to translate some of those things now. There’s more of a sense of caution."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "",
+    "timestamp": "(00:55:06)",
+    "text": "And when some of those bookstores would also then hold events that would talk about the kinds of ideas that then take them to the next level and talk about the applicability to the situation in China, some of those bookstores have closed or have had to become really shadows of what they were. And one of the best ones… Not the one I wrote about in Nanjing, but a similar one, a Shanghai one, which was literally an underground bookstore. It was in a metro station and it had really freewheeling discussions of liberal ideas in the early 2000s and early 2010s. But then it just got less and less space to operate under Xi Jinping when things started narrowing, and it then had to close in Shanghai."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "",
+    "timestamp": "(00:55:56)",
+    "text": "And it’s just been reopened in DC as JF Books, and it’s become in this really interesting cultural hub. And I’m really delighted; it’s where I’m going to hold the launch for my next book when it comes out in June, this book on the Milk Tea Alliance about struggles for change across East and Southeast Asia, including in places that are worried about the kind of rising influence of Beijing. And it seems just perfect to be holding it in the kind of place that can’t exist in Shanghai. So places like that, they stop being able to exist on the mainland, then they could still exist in Hong Kong, but now in Hong Kong, one of the coolest bookstores has had to close up. It just didn’t feel like it could continue operating and tightening control there, and it’s reopened in upstate New York."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:47)",
+    "text": "Wow."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:56:47)",
+    "text": "So you have this phenomenon of bookstores. There’s also a few bookstores called the Nowhere Bookstores that opened in Chiang Mai and Taipei and The Hague, and I heard one maybe is going to open in or is open in Japan too. My sometime collaborator, Amy Hawkins, who covers China for The Guardian, wrote a great piece late last year about this overseas bookstore phenomenon, carrying on the conversations that people thought they might be able to have in China and then couldn’t, and imagine someday being able to hold in China but maybe can’t."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:26)",
+    "text": "So first of all, boy, do I love America. And second of all, it makes me really sad, because there’s a very large number of incredible people in China, incredible minds, and maybe I’m romantic about this, but books is a catalyst for brilliant minds to flourish, and without that…"
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(00:57:48)",
+    "text": "So I guess maybe this is a good time to mention something that I do think about, and sometimes people will think because of censorship and that, there’s an idea of brainwashing within China, population control. And I periodically will get students from the mainland, and I have a lot of students from the mainland in my classes. I teach Chinese history, and I feel like, okay, now I’m contradicting the version of the past that’s been drumbeat into them. But I’ll still get students who are incredible free thinkers who have come through that system and it just doesn’t hold or there are limits to it. Some of them are people who just got curious by something."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "",
+    "timestamp": "(00:58:33)",
+    "text": "And it is a porous system. It’s more porous than in North Korea, things like that. So even if there’s that fear, friction and flooding which Roberts talks about that ends up keeping lots of people on the same page as the government, there’s still people who take the time to go over the firewall or get intrigued, or they see an image sent by a friend of theirs on social media, will share them something on WeChat that it doesn’t get picked up by the sensors, but they look at it carefully and they say, “Oh, well, wait a minute. That contradicts what the government’s official line is.” So there’s still ways in which that creativity and freedom of thinking persists."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:59:31)",
+    "text": "That’s really beautiful to hear. I mean, fundamentally, the human spirit is curious and wants to understand, and in some, especially the young people, as we mentioned, are suspicious of authority in the best kind of way, and so they’re always asking kinds of questions, but we always have the child, the young person inside us, always asking, “Maybe I’m being lied to in all these kinds of ways.” But still, it’s sad, because if you’re not deliberately doing that or if there’s not a spark of possibility that comes before you as just a regular citizen of China, you might never really ask, “Maybe there’s a whole different perspective on world history.”"
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "",
+    "timestamp": "(01:00:15)",
+    "text": "To be fair, I think the United States is often guilty of this very United States-centric view of history. Similar with Europe. Europe has a very Europe sense of history. I often enjoy talking to people from different backgrounds, from different parts of the world, talking to them about World War II, because it’s clear that you’ve read certain of the story a lot of times and not the other chapters of the story. The Western front in Europe and the Eastern front in Europe and then Japan and China’s role in World War II, and the history around that before and after World War II of China, is not often talked about in the United States. And I’m sure, if I could venture a guess, that the opposite is true in China. I certainly know the opposite was true in the Soviet Union and even in Europe that directly experienced, France, Great Britain, Germany, Italy. They all have very different ways of speaking and thinking and reading about World War II. And the same goes across all of history and all of culture."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "",
+    "timestamp": "(01:01:24)",
+    "text": "So yes, it’s always good to question the mainstream narrative in your country, and looking outside is just harder to do in China based on all the reasons you’ve mentioned. And if I can, I just want to give a shout-out. Thank you. I’ll look at her work. Margaret Roberts, the fear, the friction, and the flooding. Her ideas. I can already tell there’s a lot of brilliance here. Fear: this is the most traditional form involving overt threats and punishments for accessing and sharing such sensitive information. However, Roberts finds that fear-based censorship is used selectively, mainly targeting high-profile individuals such as-"
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:02:00)",
+    "text": "… ship was used selectively mainly targeting high profile individuals such as journalists or activists. For the average citizen, the risk of punishment is relatively low, and fear alone is not the main deterrent. She goes on to describe the friction and the flooding. The friction is a tax on information access, and flooding is less visible than fear of friction, but is a powerful tool for shaping the information environment. Flooding one scares me, more and more flooding one is the brave new world."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:02:32)",
+    "text": "Yeah, it is. And I think it’s a whole kind of, the world of short attention spans and social media, and how this all works. And Chinese Communist Party leaders… I brought up Singapore and Deng Xiaoping and some leaders were looking at that and they’re looking at… There are all kinds of things that it both… Going to Singapore can sometimes make you feel like you’re in this futuristic setting, in terms of a lot of things that eventually came to other parts of the world would be tried out there. And I think the seductiveness is that, some of these things are really… They both add to convenience at the same time they strip away. They’re collecting information about you, which can be also something that can make your life easier, at the same times it’s stripping you away of… We talk about the siloing of information and targeting of ads and targeting of news."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "",
+    "timestamp": "(01:03:36)",
+    "text": "So two things come to mind to mention. One is Christina Larson, a very bright journalist, friend of mine who’s now working on other things but was working in China, and she wrote about this in MIT technology review. She said, you need to think about China as having the best, as well as the worst internet experience in the world. And you think about it with… You think of the worst is easy. The great firewall, you try to search for what happened, you search for him with the tank man, you won’t get it. You search for information about Dalai Lama and you get all these lies about him, search for things about Xinjiang, and it makes it seem like it’s a place where people are happy rather than massive extra legal detention camps and where your life can be ruined by things you have no control over."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "",
+    "timestamp": "(01:04:23)",
+    "text": "But she said, on other ways when it comes to consumer playing to your pleasures and things, it was really advanced. A lot of things that then come out of the place are tried out there and in massive numbers. And I remember around the time that I had read that I was in Shanghai, and somebody was explaining it to me. They were talking about going out to eat. I said, oh, we’ve got such and such. And I said, oh, that’s like Yelp. He said, well, yeah, but Yelp just tells you the overall rating for a restaurant over time. We’ve got one that can tell you which part of the restaurant you want to sit in, because there’s a waiter that’s in a really bad mood and people have posted enough information to do this. Or what the best dish there is in the last week. Forget about these sort of sloth."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "",
+    "timestamp": "(01:05:11)",
+    "text": "And you had a lot of things that were like, smart city and control, you can learn things about ease of movement. And Singapore had some of these things tested too. You had way before you… You go into an underground parking lot now in the US, and you find out whether there are any empty spaces on a floor. That was something that was years before in Singapore. And you used money less often there because you had a transponder that would automatically pay for your parking and things. And it was something that can be very seductive. So the other line besides best and worst internet that I always like is, William Gibson who wrote one of the other important dystopian novels of the present, Neuromancer. He wrote a rare, for him, non-fiction piece about Singapore, where he referred to it as Disneyland with the death penalty. And there are times when-"
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:12)",
+    "text": "I shouldn’t laugh."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:06:14)",
+    "text": "But it is. It’s a powerful… He’s not welcomed in Singapore, let’s just say. But he talked about how when he wanted to try to… He went to Japan a lot in the 1980s at a time when Japan was a place where you got a sense of what the future might hold. So the dark side of this, the surveillance state at its worst, which we see in Xinjiang in places. And there, again, it may seem like I’m just obsessed with science fiction. And there it really is minority report. It’s this kind of like you do certain kinds of behaviors, and we’re seeing this other places too. We’re seeing versions of it in the US as well. Where it’s like, oh, we can tell from a pattern that you are the kind of person who might do X, so in Xinjiang when they were starting to round people up…"
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "",
+    "timestamp": "(01:07:07)",
+    "text": "There’s this great book by a Uyghur poet. He talks about how people were just starting to disappear off the streets and they were being accused of being radicalized and being potential terrorists. And the cues could be something like, somebody giving up smoking, or not drinking alcohol. Because that was seen as something that sometimes went along with becoming more devoted to Islam, and more devoted to something, a particular version of it. So he talked about how a group of the poets, or writers, when they get together, they would… Whether or not any of them drank, they would make sure there was a bottle of alcohol on their table, because it was simply a way of trying to stay ahead of this system of looking for these kind of clues. So you really have this dark side of, Xinjiang is this example. And Tibet also with incredible tight control. There’s more of that kind of push on personal life in other parts of China as well."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "",
+    "timestamp": "(01:08:14)",
+    "text": "But I think the question of whether we give up too much, and who can abuse what we do give up, is something that is being asked in the United States now, about big tech companies, as well. It’s asked about governments, but it’s also asked about big tech, and what you have as a trade- off. But I hadn’t thought about it till this conversation, which I can tell is why people find it stimulating to have these extended conversations. Because you have set lines, but then the conversation goes and you think in a different way. So what I used to always say about China after 1989 was, the Chinese Communist Party wanted to stay in power, and they realized that the Soviet Union, Soviet Bloc was falling apart. They knew that one reason why people, and this is the simple way of… One way I think you have to understand why communism fell in Eastern Europe, was partly about ideals and thirst for freedom and that, but also people knew that people… East Germans knew that West Germans were having more fun and getting better stuff."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "",
+    "timestamp": "(01:09:23)",
+    "text": "And when some East Berliners got over the wall, one of the first places they went to was this department store, to see if the images of better food and more choices were available there. And it was true. And I think this is as human as the desire for more freedom. So one of the things that the Chinese Communist Party, they never articulated it this way, but how can we try to get to a stage where we don’t have things like Tiananmen, again? Well, what if we try to make a deal with people? We’ll give them more choices in their daily life. We’ll give them better stuff, we’ll give them more choices at the store, we’ll give them more choices about what to read too, we’ll give them more choices in consumer goods and intellectuals, consumer goods they want or to watch the movies and read the books that other people like them around the world are reading."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "",
+    "timestamp": "(01:10:11)",
+    "text": "So we’ll give them more choices. We won’t open the floodgates completely, but we’ll give them more choices, but not give them more choices at the ballot box or in politics. And this was the new social compact. Allow us to keep ruling, and we’ll make sure that you’re living better than the last generation in terms of choices, and in terms of material goods. Now, one of the things that’s happening now is the Chinese Communist Party, the economy isn’t booming the way it was before. The sense of clearly, we’re living better materially than the generation before, it’s not as easy an argument to make when you have growth rates and things like that. But the Communist Party makes different kinds of arguments now about the rest of the world is in chaos and we’re stable. But the thing that I now am going to think about differently is, the argument was we’ll give you more choices, and you’ll have more of a private life, more of this. But now in the period we are globally, now there’s a new kind of suspicion about the degree of any kind of private choices."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "",
+    "timestamp": "(01:11:27)",
+    "text": "There was an idea that the post Tiananmen generation was promised to have a little bit more space away from the prying eyes of the state. And now globally we worry about the prying eyes of whether it’s the state, or whether it’s tech companies. It’s a different moment. What does it mean to say you have more choices?"
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:49)",
+    "text": "It’s almost like you have two knobs. One is 1984 and one is a brave new world. At first they turn up the brave new world more choices, and now they’re turning up the 1984… Keeping the choices, but turning up the 1984 with more surveillance. So the choices you make have to be more public. Do you have a sense that the thing we’ve been talking about, the increase in censorship, does that predate Xi Jinping? Is Xi Jinping a part of that increase in censorship? What is that dynamic? What role does Xi Jinping play in what China has gone through over the past, let’s say a decade and a half?"
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:12:28)",
+    "text": "That’s a really great question. I was actually just writing a review of two books. One is called, The Xi Jinping Effect, which was just a bunch of scholars and academic volume looking at, take this topic and that topic. How much as Xi Jinping as a person really affected it? And they come up with all kinds of answers. But there’s a book I really like. Emily Fang of NPR has a new book out called, Let Only Red Flowers Bloom."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "",
+    "timestamp": "(01:12:59)",
+    "text": "And what she talks about the changes in China as she was covering it from the mid-2010s on was… And I think this really is Xi Jinping’s, one of his [inaudible 01:13:11] on the country, is there’s a narrowing of spaces available for variations of ways of being Chinese within the country. And this goes against the grain of a pattern in the post Tiananmen period of allowing more space for civil society, but also allowing way Muslims felt that they didn’t have to choose between being their Muslim identity and their Chinese identity. But there’s more and more of a kind of… We see this in Xi Jinping becoming impatient with Hong Kong where there was a way of which, okay, this is a city that’s part of the PRC, but it really operates very differently. He seems to be uncomfortable with difference, I guess. He’s not alone and strongmaned this way, of wanting to impose a singular vision of what Chinese identity means, what loyalty to the status quo means. So there’s been a tightening of over all the borders."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "",
+    "timestamp": "(01:14:18)",
+    "text": "And even one thing Xi reported on was, inner Mongolia. It’s been seen as an unproblematic frontier area, and who cares if there was some revival of Mongolian language. But under Xi, there’s been a less patience with those kinds of difference. There’s been more of a resurgence of the patriarchy. All kinds of things have happened under him. But, how much is it just him? Or how much is it also a mood or group within the party? Some of these trends I think began before he took power in late 2012. I think really my own feeling going to China fairly often from the mid 1990s till about 2018 was that until 2008, the year of the Olympics, each trip it would feel like, oh, there’s just more space. There’s more breathing room for… It’s not becoming a liberal democracy. But I would notice things that felt like, I’m surprised that that happens. That there just felt… People felt less worried about what they were saying, and what they were doing. That trend line up until about 2008."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "",
+    "timestamp": "(01:15:40)",
+    "text": "But from the Olympics and then the financial crisis after that, the Chinese Communist Party felt I guess more… It’s still insecure, but it felt cockier in some ways. And you had like, okay, maybe we can start asserting more control over things. So I think that’s been stronger under Xi Jinping’s time and power. And Xi was already the designated successor. By 2008, he was in charge of security for the Olympics. And the Olympics was supposed to be a moment, possibly of more opening up, because when Seoul hosted the Olympics, South Korea became a less tightly controlled right wing dictatorship and moved toward democracy. And some people were hoping the Olympics might move China that way, and it went quite the opposite."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:33)",
+    "text": "You mentioned that we don’t know the degree to which this change has to do with Xi Jinping, or the party apparatus. And that question going back to Confucius of hierarchy and how does the power within this very strict one state work, what can we say, what do we know about the structure of this Communist party apparatus? How much internal power struggle is there? How much power does Xi Jinping actually have? Is there any insight we have into the system?"
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:17:08)",
+    "text": "James Palmer, who worked in Beijing as a journalist, and now is an editor at Foreign Policy, wrote an important piece a few years ago about just, we should really be straight about what a black box of the Chinese elite politics are. And really not try to pretend we know more than we do. We did used to have more of a sense of these ideological factions, but also partly about different views of how much tinkering there should be with the economy, and things like that. And they were also basic, partly based on personalities and personal ties, but we did have a sense you could map out these kinds of rival power bases and things. And we just have much less of a sense of that under Xi Jinping. It’s very hard to know other than this small group around him, how it works. We don’t have a major defector who says, yeah, this is how Xi Jinping… We have Xi Jinping self-presentation, and a lot of things that are then said about him."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "",
+    "timestamp": "(01:18:13)",
+    "text": "There were some false expectations about him that some people thought, he’s going to be a reformer, because his father was a liberalizing figure. That doesn’t work that way. And he does seem to care about orderliness. He does seem to care about certain things. He wants to present himself as a kind of scholarly figure in touch with China’s deep past. We know he’s a strong nationalist and a cultural nationalist as well as political nationalists. But beyond that, we don’t have that much of a sense of what makes him tick. We get little hints. There was a secret speech, that leaked out, that he talked about how the Soviet Union had collapsed, because the leadership didn’t pay enough attention to ideology. And he also said that none of them were manly enough to keep control. So I imagine if he and Putin never have a heart-to-heart conversation, one thing they’d find to agree on is this distaste for Gorbachev. This feeling that Gorbachev was… That was the wrong way to do things."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:21)",
+    "text": "Not manly enough?"
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:19:22)",
+    "text": "Yeah, not strong enough about really keeping control. And for Putin it would be that it led to the Soviet Union, to the loss of an empire. But for Xi Jinping, there is a bit of being haunted by what happened to the Soviet Union. And I’m not going to be the leader who sees the diminishment of this landmass that was, in a sense, rebuilt over time for Mao. And then Deng Xiaoping. You have the story, a very powerful story about the Chinese past, that the Chinese Communist party makes a lot out of. But the Chiang Kai-shek, the nationalist party was Mao’s great rival, also made a lot out of. And that has a partial basis, in fact was that from the middle of the 19th century to the middle of the 20th century, China, which had been the strong force in the world, got bullied, and nibbled away at by foreign powers. And it’s important to realize there are elements of that story that are very true."
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "",
+    "timestamp": "(01:20:25)",
+    "text": "And the answer they had is that, under my watch, that’s not going to happen. And the reason why my party deserves to rule is because it can reassert China’s place in the world. And both the Nationalist Party and the Communist Party predicated themselves on this nationalistic story of being in a position to prevent that from happening again."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:20:49)",
+    "text": "This is a bit of a tricky question, but is it safe for journalists, for folks who write excellent books about the topic to travel to China?"
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:21:02)",
+    "text": "I think there are all kinds of different things about safety or not. I think until recently, at least the people who were most vulnerable were people of Chinese descent. People originally from China who had gone abroad and coming back, or even people who were Chinese Americans who went there. There was a higher expectation that they should be on board. So you had early cases. My friend Melissa Chan was an early person kicked out when she was working for Al Jazeera, and reporting on Xinjiang. So that’s one kind of person who was vulnerable because of this expectation that they should be somehow more loyal."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "",
+    "timestamp": "(01:21:45)",
+    "text": "Another kind of person who was vulnerable, or this case more likely to be blocked from China. The Communist party is particularly concerned about people from outside of China who are amplifying the voices of people within China, or exiles from China who the government would like to silence. So the Dalai Lama… You had scholars who worked on Tibet and had connections to Dalai Lama where early people would have trouble going to the PRC. Then scholars who worked on Xinjiang, and were connected to Uyghurs. But there also were people who were personally connected to dissidents, or exiles who would amplify their voices, or translate their work, would promote them. That then it wasn’t about necessarily danger if you got in China, but you were more likely to be denied a visa if you were the kind of person who was doing that. So I wrote critical op-eds about the Chinese Communist Party. I published them in some high-profile places. I’ve written a lot about Tiananmen, wrote about human rights issues, all that."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "",
+    "timestamp": "(01:22:56)",
+    "text": "And I kept getting visas to go to China. I testified to a Congressional executive joint committee on China about the Tiananmen protests on the 25th anniversary of it. And some people said, oh, that’s the kind of thing that would lead to you not getting a visa. I got a visa right after that. Now I think it might be different. Now some of these expectations have been changed. There have been people who’ve been very surprisingly gotten in trouble. These two Canadians who were clearly, it was a kind of tit for tat, partly because of TechMaven’s relative being held in Canada. So it was kind of there. It was also not picking a fight with Americans, but there were certain kinds of things that you could map out what was the thing to do. And so I went in the 2010s having written forcefully about Tiananmen, and I didn’t feel dangerous."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "",
+    "timestamp": "(01:23:48)",
+    "text": "I felt there was an awareness in some cases of what… If I was giving a public talk, there was awareness of what it was. There was sometimes, you didn’t want to get your host who had brought you to a university in trouble by saying something that would get them in trouble. I think it was often that, you were more vulnerable if you were within China, or you were connected China in different ways. For me, it’s been confusing these last few years. I wrote one piece about this, about I’m not going to any part of the PRC for the time being. But I always thought that Hong Kong was a place that I’d be free to go, even if the things got difficult. I didn’t get a visa for the mainland. You didn’t need a visa for Hong Kong. With the Mainland, I had kept a distance from the dissidents that I was writing about. With Hong Kong, I felt that these rules kind of didn’t apply, and I was more connected to them. More friends with some of them."
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "",
+    "timestamp": "(01:24:50)",
+    "text": "And then with this crackdown that’s come on Hong Kong, and there are exiles from Hong Kong who have bounties on their heads. And so now I feel that, it’s not necessarily that anything would happen to me if I went to Hong Kong, but I feel I would be very closely watched. I wouldn’t want to meet with some of my friends there who aren’t the side profile. I don’t want to go to a place where I would feel that I was toxic in some way."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:17)",
+    "text": "Right. One, you’re walking on eggshells, and two, you can get others in trouble. That kind of dynamic is complicated. So it’s fascinating that Hong Kong is now part of that calculus. So I’ve gotten a chance to speak to a bunch of world leaders. Do you think it’s possible that I would be able to do an interview with Xi Jinping?"
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:25:37)",
+    "text": "If you do, I would be very pleased, because I could watch that interview, and get some insights about Xi, which have been very hard to get. It’s been really difficult. There’ve been very few discussions. He doesn’t give press conferences. There’s a variety of things. And this is different from some of his predecessors. Jiang Zemin famously was interviewed by Barbara Walters, and asked about Tiananmen, and he tried to make out that it wasn’t a big deal, the variety of things. But he had relatively spontaneous conversation. I was going to say he’s the only Chinese leader I’ve met, but I met him before he was a major, major leader. He was the party secretary, or mayor of Shanghai. It matters because the party secretary is the more important role. But anyway, he just met with a group of foreign scholars who were going over to Shanghai in ’88 for a conference on Shanghai history."
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "",
+    "timestamp": "(01:26:38)",
+    "text": "And just to show you the limits of anybody who thinks they can predict what’s going on in Chinese politics. Predictability is just very hard in general, in the world. But I think the consensus among us, and these were some of the most knowledgeable foreign scholars on China. Was this was somebody who really had probably topped out because he was meeting with us. He must not be heading anywhere up. And then after Tiananmen, he becomes the top leader in China. But he had a kind of, you could pick things out from being in a room. He liked to show off his cosmopolitanism. Xi Jinping talks, gives these speeches about all the foreign authors he likes and has read, but it’s all very scripted, at least in his own head too. It’s very carefully done to present a certain image of himself."
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "",
+    "timestamp": "(01:27:33)",
+    "text": "And we really don’t get many senses of what he’s like in unguarded moments, or has them. And sometimes we get the illusion of them. Like there was an image of him and Obama in their shirt sleeves at a Sunnylands meeting. And the photo would show them walking and talking, but there’s no translator in the image. And so you’re like, how are they talking? What language are they using? How is this? Or is it just a kind of… Of course there are exchanges with top leaders. And Trump will say they’re friends, or these kinds of things, where there’s a language of… Xi Jinping can talk about somebody, or some country being friend, but we don’t have a sense of what makes him tick as a person. So maybe you should ask him about Ernest Hemingway, and see if he really gets excited about him. Because in generic things, he talks about all these. You can feel him ticking things off about, oh yes, I’m glad to be in England, the country of Shakespeare and this. And he goes off these set things."
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "",
+    "timestamp": "(01:28:40)",
+    "text": "But Hemingway, there’s some sense that he had some special feeling, which fits in with some of the macho side that would be… Interestingly, he doesn’t mention Orwell as one of his favorite British authors as much. He says he likes Victor Hugo a lot. And that became a little tricky, because Do You Hear The People Sing from Les Miserables became one of the protest songs in Hong Kong. And how do you get in this position where you… And actually Victor Hugo is a rare Western author who’s had a pretty steadily positive image in China, even under periods of criticism of all Western authors are problematic. Because Victor Hugo famously wrote a statement denouncing the European destruction of the old summer Palace in Beijing in 1860, at the end of the second Opium war. He said, how can we claim to be civilized when we’ve destroyed one of the great creations of civilization? So that made him a long-term friend to the Chinese nation."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "",
+    "timestamp": "(01:29:53)",
+    "text": "Mark Twain has had a pretty good reputation, because he was a critic of American imperialism. But anyway, I think if you do get to talk to Xi Jinping, talk to him about Ernest Hemingway and Victor Hugo. And I’ll be curious to see if those were the ones who really resonated."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:11)",
+    "text": "One of the things, and it’s a strange thing that I’ve become aware of having spoken with world leaders. I’m distinctly aware that there’s a real possibility that the black box we mentioned, that the Communist party of China will listen to the words I’m saying now. And so I have to wonder how much that affects my possible tourist-like trip to China. Because there’s a difference between an influencer that does fun things, plays video games, and goes over to China, and somebody that actually covers China to some degree. Whether critical or supportive or nuanced or any kind of way, in a full spectrum of ideas you can have about China, including Chinese history. Whether that’s going to be seen carefully, analyzed carefully, and have repercussions when you travel. And because of the black box nature, and because it’s, for me, personally, just a culture that’s very different than anything I’m familiar with, it makes me a bit nervous."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:31:23)",
+    "text": "It’s certainly gotten harder for journalists to operate in China. There was a way in which now journalists will look back to the early two thousands, and it was really quite extraordinary what they could do. Well, you have a lot of listeners. I think there isn’t that tight a watching of what an academic writes about the Chinese Communist Party. But there are certain things that clearly are tightly policed. And one is, discussions at the private life of Chinese leaders, and their families, and issues of really following money trails for corruption and things like that. So there was the case of the Hong Kong booksellers who were kidnapped. And one of them is still in a Chinese prison, he would be a good example."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "",
+    "timestamp": "(01:32:19)",
+    "text": "There’s Gui Minhai, the kind of person who was vulnerable. He was born in China. He is a Swedish citizen and he was spirited out of Thailand into the Mainland. And the reason why he was on the radar of the Communist party was because the publishing house in Hong Kong that he was connected to was publishing works about the top tier of the Chinese Communist Party, and contradicting the vision of them as a certain kind of moral exemplars. And that’s different from writing things about China has a bad human rights record or something like that, in ways like I did. These were books that were-"
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:33:00)",
+    "text": "… ways like I did. These were books that were exposes, or some of them kind of gossipy and lightly sourced, some of them much more serious, but they were about something that the Communist party leadership wants to make a no-go zone. And I’ve thought sometimes that Xi Jinping seems to have Lei’s majesty envy, but I don’t think it’s general criticisms of the Chinese Communist Party as a authoritarian structure, or place that doesn’t deserve to rule in very general terms. I don’t think that’s something that they then pick you up at the border and say, “No, we can’t let that person in,” because people are let in. And it’s not rational. It’s not a rational process. There are people who’ve been denied visas. It seems pretty inexplicable. There are things that now I think the rules are changing very quickly, all over the world, for what’s safe to say and do."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:34:06)",
+    "text": "Well, either way, I do know that the Communist Party and likely Xi Jinping himself, watched my conversation with Prime Minister Modi. They responded to it. And I will definitely go to China and I hope to talk to Xi Jinping. It’s a fascinating, historic, ancient culture and is the major player on the world stage in the 21st century. And it would be fascinating to understand the mind of the leader of that great superpower. Speaking of leaders, what do we understand about the relationship between Xi Jinping, and our current President of the United States, Donald Trump? Is there really a human connection, something approximating a friendship as they’ve spoken about? Or is it just purely real politic maneuvering? World leaders playing a game of chess? Or is it a bit of both?"
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:35:06)",
+    "text": "There’s a degree to which I think there’s some confusion about a couple of things. One is when there’s a sense that Trump is uniquely tough on the Chinese Communist Party, he has periodically said things about praising Xi Jinping as a leader, even sort of having praising Xi Jinping’s strength and things. So I think for some ways, for the personality cult of Xi Jinping, some of this is useful, because the story that the Chinese Communist Party, they need to tell a story about why they deserve to keep ruling. And one of their stories is that because the world is a dangerous place, and there’s not enough respect for China. So when there’s very tough talk about China coming out of the White House, that’s useful. And then the other part is about Xi Jinping being just the right person to have at the helm."
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "",
+    "timestamp": "(01:36:06)",
+    "text": "And when there are discussions, when there’s praise for him and his showing toughness, that also works well. So I think the argument among, at least some China specialists, is to say the Chinese Communist Party likes predictability, and Xi Jinping seems to like predictability in particular. And Donald Trump clearly isn’t a predictable figure. So there might be a way in which this is unsettling. But I think the other part of it is the Chinese Communist Party wants under Xi Jinping, Xi Jinping wants to gain more allies around the world, to be seen with more respect around the world. And at the moment is in a position where he can present himself as an orderly, thoughtful gradualist figure. In some ways, I think as much as there’s tension between the two capitals, there’s a way that things are going in a way that benefits Xi Jinping, and can conceive it. That doesn’t explain what their personal relationship is, and how they actually see each other when they’re in the room together."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:25)",
+    "text": "And whether that matters or it’s a part of the calculus at all, because after all, they are leaders of superpowers. I think for Trump, it matters. Personal relationships matter, but of course we see a lot. We know a lot about Donald Trump, we know a lot about the White House. And actually, let me just say as a tangent for whatever you think about this particular White House, one of the things I really like is that every single member of the cabinet is willing to talk for many hours every single week, talk about what they think, how they see the world, explain Donald Trump’s approach. It doesn’t matter if you disagree with what they’re saying. Maybe you say they’re dishonest, maybe they’re misrepresenting, but there’s a lot of information. That’s something we don’t have with China. And as a fan of history, for me, and as a fan of deep political analysis of the world, it makes me sad, because it’s a very asymmetrical amount of information."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "",
+    "timestamp": "(01:38:35)",
+    "text": "But anyway, let me, if I can lay out this particular complexity we’re in now, this trade war between us and China. Now, you’re not an economist. In fact, you think deeply about the history of peoples and the history of China. You think about culture, you think about protests and the movements and so on. And there’s some degree to which this trade war is less about the economics. Now that layer is also very important and we could discuss it, but there’s also a deeply cultural standoff almost happening here, which would be interesting. So in April, as people know, Trump escalated a trade war with China using tariffs, raising them on Chinese imports to 145%. Xi Jinping then responded by raising tariffs on US goods to 125%, and suspending exports on certain rare earth minerals and magnets to the US. The Chinese government also indicated, it would limit the import of Hollywood films, and restricted certain American companies from operating in China."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "",
+    "timestamp": "(01:39:48)",
+    "text": "Now after that, Xi Jinping broke silence on April 11th, and again on April 14th, and since, basically saying that China is not backing down and positioned himself in China as the “responsible superpower,” that promotes, as you were saying, the promoter of the reasonable multilateral global trading framework in a stable global supply chain. He said “For over 70 years, China’s progress has been built on self-reliance and hard work, never on handoffs from others, and it remains unafraid of any unjust oppression. Also, he said there are no winners in a trade war and going against the world will only lead to self-isolation. This was all set as part of a tour of Southeast Asia, and he was calling on China and the European Union to defend international rules opposing unilateral bullying. At the same time, I saw that China’s escalating internal propaganda, including interestingly, it would be nice to talk to you about it, the use of the Mao Zedong 1953 speech during the Korean War where he says, “We will never yield.” My question is, with this standoff, who do you think will blink first? Where does this go?"
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:41:09)",
+    "text": "So I think one persistent, there’s a lot to unpack there, of a historian too. I think that the reference to being bullied by a foreign power is something that comes up periodically, and plays to this notion of a hundred years of national humiliation that’s been talked about by generations now of Chinese leaders, to talk about that period from the 1840s to the 1940s. There were a group of foreign powers who were involved in bullying China in one way or another, and you can selectively pick one or another. So there is a way in which this can be. And if Xi Jinping gives that kind of speech in Southeast Asia, he’s speaking to a place where there is knowledge of times of the past when the United States was an aggressive force there. It’s also a part of the world where there have been times when China has been that."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "",
+    "timestamp": "(01:42:11)",
+    "text": "So there is a way of positioning vis-a-vis other parts of the world, that is crucial part of this, that I think, I guess I’m circling around it, but there’s a tendency in discussions of US-China relations to think about it in terms of a bilateral discussion or dispute. Even though time and again, we realize that places other than the United States are key variables in these things. So the US and China being at odds in the Mao era, what changed things dramatically for that wasn’t so much even a change in… Yes, Nixon was the one who went to China, but what made it possible for Nixon to go to China was that the Sino-Soviet split happened, that actually it was tensions between China and the Soviet Union that altered equations for the United States and China."
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "",
+    "timestamp": "(01:43:14)",
+    "text": "I happened to be in China in 1999 when NATO bombs hit the Chinese embassy in Belgrade and three Chinese citizens died. And there was tremendous discontent about that, anger about that it within China. And there were some rare protests that the government allowed to happen, but students were worked up about it, and there were protests outside the American Embassy and the British Embassy. That happened. And then in 2001, there was a spy plane incident that happened. So there was a lot of discussion that the next decade was going to see US-China tensions being the major force in the world. 9/11 happened. It was a dramatic reset for the trajectory that the US and China were on, which these are two totally different things, the Sino-Soviet split and 9/11. But in both cases, no matter how careful you were at parsing what was likely to be the next five years for US-China relations get dramatically changed by something that happened that wasn’t the US and China. And in the current situation, the trade war, I know that it’ll be very important that China can try to increase sales of consumer products to Europe."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "",
+    "timestamp": "(01:44:34)",
+    "text": "This is something that Europe’s view about the United States is changing right now. These are all kinds of variables that are outside of simply Washington and Beijing as being the two actors. And sometimes, Beijing can’t control what’s happening outside, and sometimes Washington can’t. So I guess this is simply saying that when you’re watching and you’re trying to keep the eye on the ball, it matters a lot what India’s relationship to China and the United States is. So all of these are happening there. So I think that’s it, that it’s both tremendously important what’s going on between China and the United States, but it’s important to remember that they’re not the only players in this dynamic."
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:45:23)",
+    "text": "Also on top of this, how much cultural will is there to not surrender to bullying? How much of that is there? Like you said, the century of humiliation, both for Xi Jinping and the Chinese populace, like willingness to go through some short-term pain to not be humiliated?"
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:45:46)",
+    "text": "The story that’s been intensively told about the past is something that provides the possibility for this to matter a lot. That is something that, it’s so much a part of the legitimating story of the Chinese Communist Party. And then you have to look at, are there things that are happening that aid the Chinese Communist Party’s story? So the rise of what can seem like, or is anti-Chinese sentiment within the United States, can feed that propaganda story. So certainly during COVID, there was a way that if you’re the Chinese Communist Party and you’re saying, “We get a disproportionate amount of blame for whatever happens in the world,” then if there were things you could point to in the foreign media or from foreign governments, then that helps you. So I think there is a setup here where, certainly for Xi Jinping, I think the desire to not be seen weak is crucial."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:47:01)",
+    "text": "Sometimes I wonder how much of these leaders operate on pure ego, because politically and on a human level, they don’t want to come off as losers in a standoff, versus coming to a economic win-win for both nations. And I worry that there is a real pride here, that the center of Humiliation has deeply saturated the populace, the Communist Party, this idea where they’re just not going to back down. And that I think will cause tremendous pain in the short term for the United States, I think for China and the world, because it completely transforms the supply chain of everything. There is a global nature, there is a multilateral nature of all the economic partnerships that are formed throughout the 21st century. And this protectionist, nationalistic kind of ideology goes in the face of all of that, and it’s going to create a huge amount of pain for regular Americans. But also, I worry that this increases now decreases the chance of a global war or conflict of different kinds. Do you see a hopeful possibility for resolution, for de-escalation here?"
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:48:37)",
+    "text": "It’s a hard time to figure out what you can, to hopeful angles. I guess what’s hard to even balance these things out, so one of the things that I’ve thought about when you talk about rising chances of war, that often Taiwan comes to mind with China. And one of the things that I’ve thought of is that for Xi Jinping, that military action against Taiwan would be increased by a sense of desperation, a sense of losing popularity, or a sense of not having a good story to tell about why he and the party deserves to lead."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "",
+    "timestamp": "(01:49:24)",
+    "text": "So then there’s a way of playing to the nationalist sentiments of some part of the population. So then in a sense, it’s hopeful that I think in some ways right now, Xi Jinping is not looking desperate in the eyes of the world. If he can focus on potentially being seen more positively in other parts of the world by seeming like a force for stability, seen as somebody who’s supporting rather than challenging some elements of the global order, that might lessen the chances of a rash action toward Taiwan. That would be a kind of desperation move."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:50:11)",
+    "text": "The complicated thing here is that if he gives in, he can come off as the responsible person who cares about the world, or he can come off weak. If he doesn’t give in and even escalates the tariffs, although I think he said no more escalation on the China front, then he comes off strong, but also the equally unreasonable person who doesn’t care about the world, who only cares about his own ego, and maybe some aspect of the Communist Party maintaining power, because just like with Tiananmen Square and the tank man, you don’t know once you make the decision how the world will read that decision, what kind of things will become viral memes about the telling of that story. And of course, in part, I think Donald Trump’s reach is much wider, because he’s constantly out there. And I think there’s a more reserved, less messaging out of Beijing. So it’s a really chaotic environment in which to make strong decisions."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "",
+    "timestamp": "(01:51:23)",
+    "text": "But since you brought it up, we’ll talk about Hong Kong, but let’s talk about Taiwan and maybe there’s some parallels there. Given Xi Jinping’s emphasis on the great rejuvenation of the Chinese nation, and the unification with Taiwan being a crucial part of his vision for China, what do you think are the chances? And how willing is he to use force to annex, to forcibly gain control over Taiwan in the coming years?"
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(01:51:55)",
+    "text": "I’ll frame it in a way that I think does lead into talking about Hong Kong, because I think these are connected issues. In 1984, the year, not the book this time, that’s when a deal was struck basically, between London and Beijing over what would happen to Hong Kong. So Hong Kong Island became a British colony at the end of the first Opium war, the 1840s. And then Kowloon Peninsula near there became a British colony in 1860 after the second Opium war. But then there was a large amount of territory of what we now think of as Hong Kong, called the New Territories, that became under British control in 1898, but was not a colony. It was a 99-year lease."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "",
+    "timestamp": "(01:52:44)",
+    "text": "So 1997 was this kind of expiration date for the lease of this large amount of territory of what we now think of as Hong Kong. It’s a large amount of territory that the rest of Hong Kong, the Hong Kong Island and Kowloon, depend on for energy, water, and food. So it would’ve been very hard to just transfer those parts to the Peoples Republic of China. So a deal needed to be struck of what would happen in 1997. And the deal was about transferring sovereignty of all of Hong Kong, all these parts, to the People’s Republic of China. And I carefully say transfer sovereignty, not give it back to the People’s Republic of China, because it never belonged to the People’s Republic of China. It was part of the Qing Empire, which was a different country, a different state that then anyway, but this needed to be transferred."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "",
+    "timestamp": "(01:53:40)",
+    "text": "And the deal that was struck was that the London side wanted to do something to protect what was going to happen to the people there. And remember, this is not what usually happens to colonies. Colonies usually go from being part of an empire to being some degree of self-governed. And because of that, the Chinese representative of the UN insisted that Hong Kong was not a colony, and Macau was not a colony, because then they would have to be decolonized and go to independent. So anyway, there was an understanding that something would have to happen in 1997, and London wanted some protection for the people in Hong Kong, who they knew were living in a very different way than people lived under Communist party rule. There was a different kind of rule of law. There wasn’t democracy, but there was some degree of input in governance."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "",
+    "timestamp": "(01:54:35)",
+    "text": "The colonial authority and the power most powerful person in Hong Kong was appointed by London. After 1997, the most powerful person would probably have to be somebody who could work with Beijing. But in this negotiation, something was come up with, called One Country, Two Systems. And Hong Kong would become part of the People’s Republic of China in diplomatic terms. It wouldn’t have its own military, but it would have its own system for 50 years, was the idea, from 1997 until 2047. There was a tension from the beginning over what that other system, what was going to be the part that was going to be separate. And clearly, everybody agreed it would need to have a different economic system. It had capitalism, so people agreed on that. But there was tension from the start of, well, what about legal? What about political, cultural and other things?"
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "",
+    "timestamp": "(01:55:31)",
+    "text": "And things were written into this deal, which would be over time, Hong Kong, people would govern Hong Kong, but Beijing thought they would govern Hong Kong, but it would be a Hong Kong person who Beijing played a role in choosing. But the reason why Taiwan is relevant to all this is, in 1984, as they were discussing this, the Chinese Communist Party said, and will come up with this arrangement and people in Taiwan should pay attention to it, because it could provide a model for what could happen with them being absorbed into the people’s Republic of China. So the idea was Beijing said, “Hey, people in Taiwan, watch what happens to Hong Kong after 1997, and think about it as a model for what could happen with you,” saying, watch how smoothly it will go. Over time, people in Hong Kong started saying, well wait, Beijing keeps sort of nibbling away, chipping away at these things that make us separate, and especially after 2008."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "",
+    "timestamp": "(01:56:35)",
+    "text": "There were reasons why Beijing went especially light on Hong Kong early after 1997. Beijing wanted to WTO, they wanted to host the Olympics. A big move against Hong Kong then could have endangered those things. Also at that point, the PRC was heavily dependent on economics in Hong Kong, the Hong Kong economy. Also, just something because I’m a university person. In 1997 when Hong Kong became part of the People’s Republic of China, then Hong Kong universities were the only universities in the PRC that were considered totally world-class. Hong Kong University and Chinese University of Hong Kong were highly rated institutions. And at that point, Peking University, Beijing, Beida and Tsinghua were not yet considered world-class institutions, because they didn’t have the kind of academic freedom and humanities that was at that point needed to be higher ratings."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "",
+    "timestamp": "(01:57:35)",
+    "text": "Over time, that difference started to go away, because global ratings of universities stopped caring as much about academic freedom and things like that. And Beijing universities surpassed Hong Kong ones. So by the 2010s, when you started to have these protests in Hong Kong pushing back against what was called mainlandization, and clamping down, Hong Kong protesters in 2014 put up a banner. At the time when Beijing was holding the line against Hong Kong, people wanted to have real elections to choose the chief executive, rather than one where there were elections, but only people who Beijing approved of basically could run. Hong Kong activists put up a banner saying, “Hey, Taiwan, look at Hong Kong. Taiwan beware. Hong Kong’s today. It could be Taiwan’s tomorrow.” So basically spinning the one country, two systems argument, and saying, “Yeah, Taiwan. You should watch what happens here.”"
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "",
+    "timestamp": "(01:58:36)",
+    "text": "So one way to think of Chinese leaders since Mao is that Mao and those after him, wanted to make China bigger territorially than it had been, to try to reclaim land. Under Mao, Tibet, which had been not part of China, became part of the People’s Republic of China. Mao offered something a little bit like one country, two systems to it. Isabel Hilton, who writes wonderfully about Tibet, has talked about the parallels with the Hong Kong system. And some Hong Kong activists saw parallels as well. Tibet was supposed to go its own way as part of the people’s Republic of China in the 1950s. And then by 1959, the center got restless, tried to interfere more. Local people pushed back against it. And a workable, what seemed like it might work out somehow against all odds, explodes. And the Dalai Lama goes into exile. The Dalai Lama, who before that had thought maybe he and Mao could work together, that didn’t work."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "",
+    "timestamp": "(01:59:45)",
+    "text": "Hong Kong, a new version of the experiment happens, and it becomes clear in the 2010s that it’s not really workable, that the center is less patient, needs Hong Kong less. The Hong Kong people feel it’s more of a now or never period to push back. You could say that Deng Xiaoping oversaw the deal that got Hong Kong and Macau to become part of the People’s Republic of China. He could point to that, even though he died during 1997, but he had achieved that kind of deal. Xi Jinping could argue, you could argue, he finished the deal of making Hong Kong fully a part of the people’s Republic of China, doing away with this degree of difference. And you could say that that then is a stepping stone toward Taiwan. Or you could say that in the South China Sea Islands build up, might be enough for him to put his stamp on having been the kind of leader who expanded Beijing’s reach."
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "",
+    "timestamp": "(02:00:51)",
+    "text": "He probably wants both. Probably, to the extent, he would like Taiwan to become part of the People’s Republic of China, which it has never been. But the hope was, it could happen through a kind of more gradual absorption, and people in Taiwan being willing to think of that. And yet in part because of what’s happened to places like Hong Kong, there’s a fiercer, a stronger sense of Taiwan identity now than there was at an earlier point. And less parties that are more willing to try to negotiate some kind of tighter connection with the PRC, are often doing badly in elections there because of this mood."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:01:35)",
+    "text": "2047 is 50 years from the 1997 handover that you were talking about with Hong Kong. On top of that, 2049 is a hundred years from Mao taking power. It feels like at that moment, China could take Taiwan, because it does seem that there’s a kind of value for history in China, and they take these days very seriously. On the other hand, as you have studied, there is some tensions, and displeasure, and protests, some of the biggest in human history in Hong Kong. And so put all of that together, and so many possible trajectories of human history could happen here."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:02:17)",
+    "text": "Yeah, I’m particularly interested in youth movements. And one of the things, I think generation is such an important factor. And people know that generation’s important, but somehow, sometimes people think that if you divide people up into economic groups, you divide people up into a racial or ethnic class, that groups, that that somehow is more tangible. But I think with things like the Hong Kong protests, that there was a process of what was seen as mainlandization, of Beijing just moving to make the things that were really distinctive about Hong Kong less distinctive, and minimizing the differences. And this process sped up dramatically after the 2019 protests. And there was just partly with the distraction of COVID and the distraction of the world, there was this imposition of this national security law that basically did away with the differences."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "",
+    "timestamp": "(02:03:16)",
+    "text": "And you had some people in the city of an older generation saying, “Why couldn’t they have just been more patient?” “Why did these protests force the hand of the people in power?” But I think that age has a lot to do with it, that if there was this kind of gradual erosion or there was going to be this process of doing away with the things that made Hong Kong really special and that people loved passionately about it, including this freer press, or just freer associational life and things like that. If you were 17 in 2019, and people were saying by 2047 it will all be gone, or maybe it’ll even all be…"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:04:00)",
+    "text": "By 2047, it’ll all be gone, or maybe it’ll even all be gone in 10 years. Then you’re talking about living most of your life in a Hong Kong that isn’t the Hong Kong you really love. Whereas if you were 80, you were like, “Why can’t they be patient?” And people in between had all kinds of other things. This is one thing that leads to, often logically, there’s a rationality toward younger people being more militant about certain kinds of things. I think we see the same thing with climate change, with climate activism. You’re talking about whatever projection is of when things are going to get worse further down. The younger you are, the more of your life is going to live in that scenario. And there’s a logic for more of that impatience."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "",
+    "timestamp": "(02:04:48)",
+    "text": "There’s also a sense of frustration with an older generation not having done enough to resolve issues. These are things with Hong Kong, with climate change, with Thailand, the place that I’ve been working on lately. One of the slogans in 2020 when there was a push for democracy was let it end with this generation, which, again, expressed this sense of gradual solutions are fine, but we are carrying more of a burden of what we’re going to live with that. So with the 2019, also the protests, some of the things that were being chipped away at by Beijing in 2012, there was an effort to impose mainland style patriotic education, saying, well, who cares how civics is taught? But actually that has a lot to do with the larger political story. And the protesters that year, young people stood up and actually got the government to blink. The local authorities backed down on that bringing in mainland style education."
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "",
+    "timestamp": "(02:05:51)",
+    "text": "2014, the protest was to try to get full voting rights for the chief executive. The government didn’t blink on that. That was something where they held the line. It was a big, colorful, exciting protest, but in the end, it hit a dead end. 2019 there even bigger protests, and at first it seems like surprising what the issue was. The issue was an extradition law that would have people, potentially, who committed crimes in Hong Kong being tried for them if the mainland wanted them on the mainland. Now, the difference, they’re really different court systems. Hong Kong never had democracy under the British, but it did have a stronger rule of law and more independent courts. Courts that sometimes decided things that went the other way than what the government wanted."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "",
+    "timestamp": "(02:06:45)",
+    "text": "And the mainland doesn’t have that kind of court system. 98, 99% conviction rate. In Hong Kong if you’re arrested, even for before 2020, if you were arrested, even under a politically-related charge, you were out on bail and giving interviews with the press. On the mainland, that didn’t happen. So I think in 2019, even having lost the battle over voting, this idea that, okay, we’ve really got to take a last stand to defend the rule of law and a degree of separation of powers. That doesn’t sound like a clearly obvious thing for slogans, but it is something that I think we’ve realized in this country and in other countries as well, is something that can really be definitive about where things are going politically."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:07:37)",
+    "text": "Well, I should also say, I mean it’s more dramatic than it sounds with extradition because it gives power to mainland China to imprison political activists and then try them in a very different way. So it’s not just even a different system. It gives another lever, and a powerful one, to punish people that speak against China."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:08:02)",
+    "text": "And I mentioned the Hong Kong booksellers who were spirited over the border, and one of them was still in prison, for having published things in Hong Kong that it was supposed to be okay to publish in Hong Kong, but not on the mainland. And yet they ended up being charged. So yeah, there was a clear sense that if they didn’t protest, then would they be able to protest later?"
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:26)",
+    "text": "So this was one of maybe the biggest protests in history?"
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:08:31)",
+    "text": "Percentage-wise."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:31)",
+    "text": "Percentage-wise."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:08:33)",
+    "text": "Because the ways, why I make that claim, because there were a million to 2 million people in the biggest protests. And this is of 7.5 million people."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:08:33)",
+    "text": "Crazy."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:08:44)",
+    "text": "So if you think about what that means, it’s just enormous. I mean, yeah, there were some very daring protests around that period, the Hong Kong ones, and the year after that there were protests in other places. The protests in Belarus where again, it was taking big risks, but if people have a feeling that it’s a last moment. So yeah, these were giant and the protests kept growing. I think they kept growing in part, and this happens, why protests grow, it’s always hard to figure out. But in the case of Tiananmen and the case of Hong Kong 2019, if people feel that the protesters have the moral high ground in one way or another, and what tipped it that way in Hong Kong, I think, was really that the police were using really strong arm methods and the government was never apologizing or never saying, “We need to investigate that.” And I think what really kept the protests going was they became a referendum on the right to protest itself."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "",
+    "timestamp": "(02:09:54)",
+    "text": "What I think the government hoped, and what Beijing certainly hoped, was that some of the protesters would start doing militant actions, violent actions that would alienate the populace from the protests. And the protesters did do some of those things, but they tended to attack, the violence was often against property. And when there were occasionally violence against people, people within the movement would apologize or try to distance themselves from that. Meanwhile, the government was never apologizing or distancing itself from the police. And that created a dynamic where they had these enormous numbers of people who were previously on the fence about things turning up for these protests and leading to them being giant. And this was a city that sometimes had the misunderstood reputation as being one where people didn’t care that much about politics. They just focused on living a good life. But there was a sense that they wouldn’t have that possibility if you had a police, and the police used to be really highly respected in Hong Kong, but have lost that."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:11:01)",
+    "text": "Maybe you can speak to some of the dynamics of this. First of all, you were there in the early days, as I understand. How does the protest of this scale … explode as it did? It starts with small groups of students, of the youth. Maybe you can speak to, in general, from all the studying of youth protests, how does maybe anger, maybe ideological optimism, maybe the desire for revolution and for better times amongst a small group of students, how does that become a movement and how does that become a gigantic protest?"
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:11:46)",
+    "text": "So protests, one of the things that some of the most impressive books I’ve been reading about other places have been emphasizing is that protests are often preceded by other protests that may seem like dead ends, but actually provide people with the skills and scripts and repertoires to then carry out things on a larger scale after that. So you often, we get captivated by a moment that seems to come out of nowhere, but it often doesn’t. The ground has been laid by, it can be by an earlier generation that passes on the stories about it or it can be just a few years before."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "",
+    "timestamp": "(02:12:31)",
+    "text": "And sometimes a new generation will say, “Look at what they did. That was exciting, but we want to put our mark on things by [inaudible 02:12:39] generation.” So there were these 1986 protests that fizzled out that helped lay the groundwork for the 1989 ones. In Hong Kong, there were the 2012 and 2014 ones that laid the groundwork 2019. Some of the times, it was the same activists out on the streets again, but sometimes it was a younger generation said, “Yeah, okay, but that failed. So what can we do differently?” And we see this in cases in the US and we see it around the world, of the percolating of things that happen, sometimes in conversations that continue, that happen. And sometimes failures can seem like dead ends, but over a long period of time we see them as succeeding. And it can seem irrational to try to do something after the last three times people have tried to do it have failed. But then occasionally, history shows that the third time or the fifth time or the 20th time actually does succeed. There’s enough countervailing. In Eastern Europe, you would say in 1956, there was a rising, it was crushed. In ’68 they were rising, was crushed. Poland 1981, martial law imposed. In 1989, what were East German protesters thinking when they poured out onto the streets, and then it happened, but this time it wasn’t. So I think there’s a way in which social movements are fundamentally unpredictable and there are just times when, against all seeming odds, something that seemed like it would be there forever, just no longer is."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:14:28)",
+    "text": "And that’s the case you make for when the odds seem impossible, it’s still worthwhile?"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:14:39)",
+    "text": "It doesn’t mean that it will work, but I think history has enough examples of things that you thought. I mean, it explains why certain figures are so inspirational for generations of activists, that people read. There’s a reason why people talk about Václav Havel. Whereas if Václav Havel had died in 1988, people would’ve said, “Oh, maybe he was a great writer,” but his political project, he didn’t live to see come. But then he lives to ’89 and becomes against all expectations. So Rebecca Solnit, she’s got a new book, No Straight Road Takes You There: Essays for Uneven Terrain, and she’s talking about taking a longer view of some struggles that achieve things after the point when people might’ve imagined that they had run into dead ends. And she’s talking about keeping your eye on the gains that happen, even incrementally, and the ways in which the need to take a longer term perspective on some of these things."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "",
+    "timestamp": "(02:15:55)",
+    "text": "And I think it’s a strange thing because there’s also often an impatience in movements of people wanting immediate results. But as a historian, looking at situations, I’ve mentioned Eastern Europe and Central Europe, but Europe, Taiwan was a right-wing dictatorship under a version of martial law for decades. And at each stage, it would seem that people struggling to change it were on a quixotic, impossible mission, or South Korea was in a similar situation. And then in the late 1980s, you start to have those things unravel. And it’s partly because of a steady resistance. It’s partly because something in the world changes, but there’s often a combination of those things. So I’m interested in that whole, we know that what happened in Hong Kong in the short run didn’t work, and I don’t see a way in which the national security laws reversed or anything like that. But that doesn’t mean that it was a completely impossible effort, even though we know the result in that case was to have this failure."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:18)",
+    "text": "So the protests are generally worthwhile. I mean they do give, as I look at the description of the migratory routes ideas take, they do seed ideas in the minds of people and then they live with those ideas and they share those ideas. They deliberate through those ideas. They might travel to different places of the world and then those ideas return and rise up again and again and again. There’s two parts of the world that I think are fascinating … and unpredictable. So one is Iran, which the trajectory that place takes might have a complete transformative effect on the Middle East. Then the other one is China, where the protests, whether it’s in Taiwan or Hong Kong or maybe other influential parts of China, those ideas percolating up and up again might have a completely transformative effect on the world."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:18:21)",
+    "text": "So maybe this is another case where, so the Chinese Communist Party, leaders in the Chinese Communist Party, they do know about history and they care about history. And one history they know is the Chinese Communist Party was almost destroyed in 1927. I mean it was if you were taking odds on what are the chances that this ragtag group that’s being pursued by Chiang Kai-shek to try to determine, and yet over time, they somehow managed to ride it out and eventually come to power. There’s an awareness of the ways in which the seemingly impossible can happen. It doesn’t mean it will. I mean, this is why I think, and one of the really tragic or heartrending things is you can have situations in which movements that seem to be pursuing an impossible end result, they achieve that result. And then after another period, the country goes into another really difficult period or it seems that the successes are being rolled back."
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "",
+    "timestamp": "(02:19:34)",
+    "text": "And my new Milk Tea Alliance book that I’ve just written, I dedicate it to two people who’ve lived through a variety of these things. One is a Burmese activist who was involved in a failed uprising in 1988. He then was an exile who didn’t know whether he could ever see his brothers who he loves back in Burma. And then something magical changed. And in the 2010s, it seemed that there was a democratization that turned out to be a false dawn. He was able to go back and now he’s, again, when there’s been a coup and a crackdown, he’s now again cut off. And at one point, I was asking him about how he feels about this when he’s still trying to raise awareness globally about what’s happening in Myanmar. He said, “I feel helpless but not hopeless.” I think how does somebody maintain hope in that?"
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "",
+    "timestamp": "(02:20:31)",
+    "text": "And the other person I dedicated to Miklós Haraszti is a Hungarian friend of mine who was an activist before ’89 and saw this amazing thing happen was communism, a communist party rule ending. He was part of the process that came and he was friends with Havel, and Havel’s there and Poland’s changing and all of this exhilarating moment, but ends up being a critic of Orbán and following a tightening of controlling, a rolling back of many of the things that were victorious then. But this, the no straight road, that actually there’s something about, it can be disquieting when these unexpected things are blows to where you thought direction history was going. But history just shows you that history doesn’t have a direction. There isn’t a straight road."
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:21:31)",
+    "text": "Yeah. And there’s the idealism of youth can lead to things like the Russian Revolution. And then you get Stalin with [inaudible 02:21:41] and the purges and all of that entailed. So a successful protest and a successful revolution might have unintended consequences that far overshadow whatever ideals and dreams you had fighting for the working class, whatever it was in that particular case, that can cause immeasurable suffering. So there is no direction to history. There’s just some lessons we pick up along the way and we hopefully try to help humanity flourish and we barely know what we’re doing. And now we have nuclear weapons."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:22:20)",
+    "text": "And some of it is also, though, sometimes the people who I find really admirable, it’s not about trying to create totalistic change, but they focus on trying to do what they can for the things they believe in within constrained circumstances. And in Thailand, they’ve hit a roadblock now, again, over trying to bring about electoral change. A party that did really well was then disqualified. And some of the activists I know are focusing on local efforts to improve a neighborhood, to keep a neighborhood from suffering from a unthinking gentrification. They’re thinking small, they’re thinking sometimes about just what can we do to improve the life of people within certain, how can we build, how can we contribute to the kinds of social groups that might make some incremental improvement to being the world that we want to live in. People do that in all kinds of ways."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:23:28)",
+    "text": "What parallels can we draw between Taiwan and Hong Kong? What do you think are the people of Taiwan are thinking, looking at Hong Kong?"
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:23:38)",
+    "text": "Well, I think the way that things developed in Hong Kong have undermined the trust in any story coming out of Beijing. That there’s a place within Xi Jinping’s version, at least the People’s Republic of China, for a place where people live very different kinds of lives. And I think a lot of people in Taiwan think of them, feel they’re living a very different life than on the mainland. So in that way, I think Hong Kong was an important … example that way. And there were connections between, there was a Taiwan protest in 2014 before the big protest in Hong Kong by people who were young people who felt the government then was moving too much toward working together with Beijing. So they’ve been interconnected stories, and I think we sometimes miss how people within a region are looking at what other people in the region are doing and are taking clues from it about how to agitate for the things they care about, what the risks are, what the dangers are. But the autocrats within different parts per region are looking at each other too, as well as globally."
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:24:59)",
+    "text": "In part because there’s a great dependence in the United States on TSMC and in that way on Taiwan for different supply chains, for electronics, for semiconductors, for a lot of our economy, there’s been a lot of nervousness about Taiwan. What are the chances that there is some brewing military conflict over this question of Taiwan in the coming decades and how can we avoid it?"
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:25:27)",
+    "text": "It’s one of these really worrisome issues that there isn’t an easy, I think experts who tell you they know what X, Y, & Z about this is are deluding themselves probably. There’s so many variables."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:25:45)",
+    "text": "Maybe you could just elaborate the possible clues we have."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:25:50)",
+    "text": "So with talking to people in Taiwan and from Taiwan, there are a couple things that are clear. One is that daily life in Taiwan is not people waking up each morning living their life based on the fact that they’re in such a perilous predicament. That it’s life goes on and a lot of people feel very, very fortunate to be in Taiwan. There are many reasons why it seems like a great place to live, in many ways. But at the same time there is an awareness of things that increase precariousness. And there was a lot of concern with the invasion of Ukraine and watching how the response to that was, and there was a sense of it being analogous. There was a sense that Xi Jinping would be watching the response to Putin and seeing what he would do then."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "",
+    "timestamp": "(02:27:02)",
+    "text": "And so then there was a sense of relief, I think, when there was as unified a western, NATO, including the United States response. And then there’s a concern about the Trump presidency because of Ukraine. At the same time, there’re mixed signals. So I’m sure there are people there who are both saying, “Trump is going to be tough toward the Chinese Communist Party,” and others are going to say, “But if he’s not as supportive of Ukraine, what does that say for the defensive?” So they’re not the same situations, but all people have, in a sense, sometimes with unknowable situations, is to look at things that have any degree of parallel connections in other places."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:28:01)",
+    "text": "Do you think Xi Jinping knows what he’s going to do in the next five, 10 years with Taiwan? Or is it really, there’s a loose historical notion that Taiwan should be part of China. Would Xi Jinping and the Communist Party believe that?"
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:28:23)",
+    "text": "That loose idea was accepted. Chiang Kai-shek and Mao both thought that these two places were part of, somehow, destined to be the same. It was just, under that period, Chiang Kai-shek thought, how long until I take over the mainland and it all becomes the Republic of China? This is not now something that any leader in Taiwan is believing. There is a degree to which that remains a sense within the Chinese Communist Party leadership as a eventuality. I don’t think there’s a set plan, in part because I think it is also dependent on what the costs in various realms would be of doing that. I think it still does … I think it’s still, one scenario would be possibly a sense of becoming strong enough to not have to worry about consequences. I think another, I still think, to some extent more, would be a sense of weakness or precarity of maintaining power domestically and needing to do something to distract."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:29:41)",
+    "text": "And another complexity about this is it’s not always so clear, the line between no conflict and conflict. So there’s a lot of gray zone tactics of nonviolent pressure that China could exude. So you could do non-military violence, it could then escalate that to nonviolent military intimidation. And all of this has consequences for the United States because there’s a messaging thing going on here. And then of course that could then go to a full-on do-as-you’re-told actions that come at a high risk of a hot military conflict. So basically just don’t do military violence, but just full-on pressure, ordering Taiwan to do things. And there, it’s like the only way to respond is with violence. You’re completely trapped."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "",
+    "timestamp": "(02:30:37)",
+    "text": "You’re saying no, you have to say no with a military force behind it. Then what do you do? And every step in this, it’s such an unstable, non-linear, dynamical system where anything could just, unintended consequences can happen and it could just escalate in a matter of days, if not hours. And so this is where I think it’s really important to find mechanisms and tactics and strategies for de-escalation, which is why this trade war that’s happening, one of the nice things of being so connected by trade is it creates a disincentive for any of this posturing. Because I do agree with you. I think it will start, as these things often do, as a military, early steps posturing in order to maintain power internally. So China will just create military conflict, conflict of different kinds in order to distract. But then how does that escalate?"
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:31:55)",
+    "text": "As if all that wasn’t complicated enough, Taiwan isn’t just one place or one island. There are islands that are closer to mainland Xianmen and degrees of integration and anyway, but your comment about integration of trade and being a check on, there’s a Chinese writer who, fascinating guy, Han Han, who was a race car driver and a filmmaker and a bad boy novelist. Anyway, in his heyday, he was an interesting blogger who was testing the edges of things. And he had this blog post where he was talking about, this was in the early 2000s. He was talking about how China was building the massive Three Gorges Dam project, this [inaudible 02:32:53]. And he said, “Some people are saying building these dams, it could be so easy for the Americans to just bomb them and destroy our country, because it would be a massive flood.”"
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "",
+    "timestamp": "(02:33:10)",
+    "text": "And he said, “But that’s really silly. That’s a really silly argument because Americans know that down river from there, what would be flooded out was the place where their iPhones are built and they want their iPhones.” So this notion he is making through a humorous point, the way in which interconnectedness can be a check. And interconnectedness can be in all kinds of ways. The flows of people between places and having people from one place living in another, traveling to another, studying in another, that can actually be something that helps to stabilize the world. And I think that’s an important thing to keep in mind."
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:33:55)",
+    "text": "Since you mentioned the Long March and the unlikely coming to power with the Communist Party, let’s go back. We began comparing Xi Jinping and Mao. Let’s go back to Mao. How did Mao come to power?"
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:34:11)",
+    "text": "The road to Mao coming to power, we need to first say that China was under rule by emperors until 1911, overthrown by an upheaval that was partly by people who wanted to change China into a republic, but also some people who wanted to get rid of the last dynasty was a group of Manchu-ruling families. So they saw them as ethnic outsiders. So it was a strange combination of ethnic nationalists who wanted China back under the control of Han Chinese. Other people who thought the time for rule by emperors was over and wanted to establish a republic. And Sun Yat-sen became a provisional president of this newly formed Republic of China. But then-"
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:35:00)",
+    "text": "… President of this newly formed Republic of China. But then he got nudged out of power by a military strongman. And then there was a period where the country was really divided. Republic of China didn’t have a strong government, but there were then two groups. One rallied around Sun Yat-sen had founded something that became known as The Nationalist Party. And then, there was a small group of people who formed a communist party. Mao was one of them. These were intellectuals who were part of the May 4th movement of 1919. They were inspired by Marxist ideas, but they were also just inspired by the Russian Revolution. Russia was nearby. It seemed good to think with. It had a largely rural population, and somehow it seemed to be getting strong in the world. And there was this interest in how China could do that. And the newly formed Soviet Union did something very important."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "",
+    "timestamp": "(02:36:03)",
+    "text": "There were a group of foreign powers, including Tsarist Russia, that had gained big concessions out of China when, in 1900, The Boxer Uprising had taken place and then been crushed by a consortium of foreign powers who had gotten privileges and indemnities out of that. And the newly formed Soviet Union renounced those. Said that was the old order. That was imperialism. And so, Marx’s ideas were attractive to some Chinese thinkers, but Lenin was very attractive because of his combination of anti-imperialism and his notion of a vanguard party leading a country forward. So there was a small communist party, a bigger nationalist party. They were involved in these protests against warlords and against imperialists. And while Sun Yat-sen was alive, Sun Yat-sen got the two parties to work together because Sun Yat-sen wasn’t a Marxist. He didn’t believe in class struggle, but he admired Lenin and Leninism. And so, he said that actually The Communist Party and The Nationalist Party may have had different views of the path forward for China, but they agreed on who the enemies were and the enemies were the warlords who were keeping China weak and too willing to compromise with Japan, and foreign imperialism. So China needed to get rid of the warlords and become a stronger country, and then they could sort it out of what road to take. Sun Yat-sen dies in 1925, and his successor, Chiang Kai-shek, is initially keeps the alliance going with the Communist Party, but in 1927, he turns against the communists and tries to carry out a purge against The Communist Party members."
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:37:59)",
+    "text": "He’s the head of the nationalists?"
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:38:01)",
+    "text": "He’s the head of the nationalists. And he has some very different … He’s a kind of culturally more conservative figure. But what’s important in part about this is there are some members of the Chinese Communist Party who accept the basic ideas of Marxism, of revolution comes from the cities. But Mao has this idea that actually he loves this idea of peasant rebellions in China’s past is driving history forward. And he starts writing about how, well, maybe in China’s case actually the peasantry farmers can be a radical force. And so, The Communist Party’s on the run. It’s being pushed around, but the nationalists are trying to exterminate them. But eventually, and the nationalists and the Communists ally again after Japan invades China in the 1930s. They formed what’s called The Second United Front. But during this period, Mao is emerging as taking leadership in the Chinese Communist Party and his idea of a different kind of vision of communist revolution that has the revolutionary vanguard somehow being the peasantry."
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "",
+    "timestamp": "(02:39:21)",
+    "text": "After World War II, after the two parties have brokered a truce and sort of worked together against Japan, there’s a civil war between the nationalists and the communists. And against all odds, the Communist party wins. The Communist Party gets support from the Soviet Union. The Nationalists get support from the United States, even though neither of them are quite doing things the way that their backer would like them to. But there also is a way in which, and this is something I think the Communist Party leaders remember, there’s a feeling that the Nationalist Party doesn’t really believe its own rhetoric. That, in fact, all it cares about is having power, and that it’s internally corrupt. Chiang Kai-shek himself isn’t viewed as sort of personally corrupt, but family members, and there’s an idea that there’s just a small band of people that are benefiting. And there’s a kind of disgust with the Nationalists. The Nationalists end up in retreat in Taiwan. That’s why Taiwan then becomes the Republic of China."
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "",
+    "timestamp": "(02:40:32)",
+    "text": "There’s an uprising there that Chiang Kai-shek’s people, the Nationalists, repress. And there starts being from the late-nineteen forties on this long period of martial law on Taiwan. And there becomes then this period where the mainland’s under the control of a Leninist party, believes in one party rule, and believes that it was a very bad in Chinese history when China was unable to stand up to imperialists. Taiwan’s controlled by a Leninist party that believes in one-party rule, limits on participation, believes that it was a bad time when China was being bullied by imperialists. What distinguishes, Chiang Kai-shek has a personality cult, Mao has a personality cult. They have a lot in common, but one clear thing that makes them different is Chiang Kai-shek says that what’s wrong with the Communist Party is they’ve abandoned Chinese traditional values of Confucianism. And Mao says that on the nationalists, what’s really bad is they are still wedded to these traditional Chinese values of Confucianism."
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "",
+    "timestamp": "(02:41:47)",
+    "text": "So cycling back to where we began with Mao and Xi, you could actually say Xi Jinping in some ways is living out the dream that Chiang Kai-shek had of one- party rule and also kind of celebrating Confucianism."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:42:05)",
+    "text": "Yeah. There’s elements you’ve spoken about, the elements of Chiang Kai-shek and Mao that Xi Jinping kind of combines. You’ve also mentioned an interesting, if we had a hundred hours to talk about, there’s another interesting side effect, a similarity that you talk about where Xi Jinping’s wife is out there, a known entity, a part of his public image. And same was the case with Chiang Kai-shek."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:42:35)",
+    "text": "Yes. And both of them, they had high-profile wives who were celebrity figures and made a good impression globally and were more like kind of first ladies. But both Chiang Kai-shek and Xi Jinping oversaw a period of emphasizing more traditional patriarchal values in China. And one of the things I didn’t mention before, Xi Jinping has been very, in this idea of trying to do away with difference within PRC, he’s been pushing against any kinds of feminist movements."
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:43:16)",
+    "text": "So going back to Confucius."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:43:18)",
+    "text": "Yeah, yeah. In some ways. There are people who will argue for a less patriarchal Confucius, but it fits with that mode."
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:43:27)",
+    "text": "So now, that gets us close to Mao consolidating power."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:43:31)",
+    "text": "Then the story after 1949 with Mao is there were divisions within the Communist Party over sort of … Mao was impatient. He wanted to transform the country quickly. He had a utopian streak. He thought just as the peasantry could, you didn’t have to stick to the traditional pattern of moving slowly to socialism and then to communism. The Great Leap Forward was this disastrous policy of his that imagined China outdoing the West in a kind of quick industrialization move like this. And it just didn’t work. And all kinds of things were wrong. We’d need a whole other session to do The Great Leap Forward and the cultural revolution. But one of the simple ways to think about it is Mao made these disastrous moves and then was partially sidelined and then wanted to get back to power."
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "",
+    "timestamp": "(02:44:37)",
+    "text": "And there was this struggle between people who were more gradualist, more let’s try to work more kind of rationally, and the more utopian side with Mao. And both The Great Leap Forward and then later the cultural revolution were Mao’s efforts to do things dramatically, even at the risk of chaos, even at the risk of undoing a lot of the slow building of state building going on. Then there were other figures who were more concerned with incremental moves. And then, after Mao’s death, one of those figures, Deng Xiaoping ends up being the next long-term paramount leader."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:45:26)",
+    "text": "He led to decades of economic progress as economic reforms led to record-breaking growth for China and so on. But I got to linger on The Great Leap Forward a bit, enough to understand modern-day China. So as people know, as I’ll show, I’ll talk about in other episodes, The Great Leap Forward, this agricultural collectivization and rapid attempt to industrialize has killed 30 to 45 million people. It’s one of, if not the greatest, atrocities in human history. How could Mao be so catastrophically wrong on the policy of collectivization and be so unwilling to see the atrocity and the suffering he’s causing enough to change course?"
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:46:19)",
+    "text": "So with The Great Leap Forward, it has caused this incredible famine, just incredible devastation. One of the things that happened was getting very bad information. There was a sense that officials were afraid that if they gave bad news, if they admitted that they were failing to meet these giant targets that were being set, that would be seen as a political mistake. So it got to be a survival mechanism to pass on unrealistic reports on what was going. So some of it was a culture of fear around a great leader that led to not getting accurate information. So that was one part of the dynamic. Ego was a big part of it. There were all kinds of things that were unmoored."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "",
+    "timestamp": "(02:47:15)",
+    "text": "Early in the Chinese Communist Party history and power, there was the connection to the Soviet Union. Mao and Stalin had a connection. After Stalin’s death, Mao was haunted by the move toward de-Stalinization and the moves by Khrushchev, and thus laid the groundwork for the Sino-Soviet split. But there was also this kind of obsession with doing things differently that Mao had in that case as well. And you have factional struggles, you have all kinds of things that are happening simultaneously."
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:47:53)",
+    "text": "There’s something I learned about called Gray’s Law, which states any sufficiently advanced incompetence is indistinguishable from malice. So I would say when 30 to 45 million people die, it doesn’t really matter what the explanation is. That’s a longer discussion. But the interesting discussion that connects to everything we’ve been talking about is how is Mao seen in modern day China? What has Xi Jinping said about Mao?"
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:48:27)",
+    "text": "So before Xi Jinping, there was this kind of assessment of Mao as having been, in the early ’80s, of being 70% right, 30% wrong."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:48:41)",
+    "text": "I guess Mao’s own analysis of Stalin was that Stalin was 70% right and 30% wrong. And so, they apply the same kind of-"
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:48:50)",
+    "text": "Logic there. Yeah."
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:48:52)",
+    "text": "Mathematical analysis to Mao."
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:48:54)",
+    "text": "Yeah. But Xi Jinping has had a different way of talking about this, and he’s talked about the first 30 years of the People’s Republic of China and the second 30 years and says that we should not use the successes of one to criticize the other, that we need to see where we are today as benefiting from both those first 30 years and those second 30 years, which implicitly, or he sometimes talks about a new era, It suggests that in many ways he sees China as now in a post-reform era, we can think about a third stage. And there are people who write about it in that way."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "",
+    "timestamp": "(02:49:35)",
+    "text": "And so, there’s always been a way of trying to separate out the kind of Mao of the periods when things were not going horribly. And I think Xi Jinping would think that Mao having managed to fight the Korean War to a standstill, which is how the history of that period is described in the PRC. He said, “Look, you had so many different forces of the more developed world fighting on one side, and that war did not end in a defeat for North Korea and for the Chinese side.” So yeah, Xi Jinping, I think, wants to be seen as an inheritor of Mao, continuer of one side of the Mao legacy, but clearly circling back to where we began, not the Mao who liked to stir things up, not the Mao who believed in mobilizing youth on the streets, not the Mao who let things get out of control, but the Mao who was responsible for strengthening the nation."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:50:47)",
+    "text": "Can I ask you about the 1953 speech? Can you just watch it real quick? This particular speech is about, in 1953, at the end of the Korean War, saying China will not surrender. Well, let’s actually just listen to it."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Mao Zedong",
+    "timestamp": "(02:51:04)",
+    "text": "[foreign language 02:51:04]."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:51:03)",
+    "text": "The speech reads, “As to how long this war will last. We’re not the ones who can decide. It used to depend on President Truman. It will depend on President Eisenhower or whoever will become the next US president. It’s up to them. But no matter how long this war is going to last, we will never yield. We will fight until we completely triumph.” Yeah. So this is the version of Mao that you’re speaking to that it is still celebrated today. And from the Chinese perspective, I guess they could tell the story about that particular proxy war that they triumphed. What do you think about that speech, about these performances? I don’t know how much you’ve listened to Mao speeches."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:52:04)",
+    "text": "Well, he had a really difficult accent to make sense of, and native speakers of Chinese can have trouble with his speech. That one was less hard to follow than some of them."
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:52:21)",
+    "text": "What explains the accent?"
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:52:22)",
+    "text": "Well, he’s just from Hunan and he had a heavy accent. And this is another complicated side of Mao. He was both anti-intellectual and very intellectual. He liked to write poetry and to fashion himself as that, but he also liked to be seen as incredibly earthy and critical of intellectuals. And if he had an animus toward wanting to, even though he was intellectual, he had that anti-intellectualism. But no, I think what’s interesting about that speech in part is how, and even the depiction of Korean War as being the war against America and resist America and support Korea. I think it fit with his idea that it wasn’t just about China. It wasn’t about China working in self-interest, but siding with the underdog countries against the hegemonic ones. And that was another part of Mao’s desire to see China as representing the kind of third world and the countries that had felt the brunt of Western imperialism and Japanese imperialism, and trying to find one or another country’s imperialism to focus on. And that point, he was focusing on America, which is something that can have particular resonances now."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "",
+    "timestamp": "(02:54:10)",
+    "text": "Mao could alternate that certain points he thought there should be an alliance with, or he said that China should be able to work with Japan, because he said it at one point. He said, “Well, without Japanese imperialism, the Communist Party wouldn’t have risen because we wouldn’t have had this ability to unite the people.” We have seen in the post-Mao period, some leaders playing on sort of anti-Japanese sentiment because of the history of Japanese aggression. Or there can be anti-American sentiment because of the history of American roles in imperialism, or it can be played in a different way. The United States certainly tried that. The United States didn’t have formal colonies in Asia the way that Britain and France did and tried to present itself differently."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "",
+    "timestamp": "(02:55:06)",
+    "text": "But these things are also kind of in flux. And now we’re in this very unusual in flux period. At the beginning of the imposition of tariffs. There were leaders of China, Japan, and South Korea all together in photo ops, which was not something that, being on the same side. So I think this is also just a kind of broader lesson to not assume that configurations will always stay."
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:55:37)",
+    "text": "If you look out into the 21st century, what are some of the best possible things that could happen in the region and globally with China at the center of the world stage? What are the possible trajectories you could see culturally, economically, politically, in terms of partnerships and all this kind of stuff?"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:56:01)",
+    "text": "It’s such such a hard moment to be imagining these things. I’ve long wanted to see a return of China to this path toward a more … I wasn’t one of the people who imagined that there would be this convergence of China’s emergence into evolution into a liberal capitalist kind of country. But I’d love to see a return to that more kind of tolerance of diversity within China, variations within China, of more space for civil society. And it’s a hard time to even imagine that, because Hong Kong kind of represented that place that was somehow within. It was an amazing thing, I think looking backward, sorry, rather than forward. I think it’s really extraordinary how much leeway was given to Hong Kong for a period there. That was really special. No Communist Party-run country had ever had a city within it that had as free a press as Hong Kong had then, as much tolerance for protests."
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "",
+    "timestamp": "(02:57:17)",
+    "text": "I hope it can be seen by some, at least within Beijing, as a miscalculation too. The People’s Republic of China wanted soft power, and Hong Kong films were admired around the world, this industry. There was a way in which creativity flourished. I guess it would be just the hope for more spaces where that kind of creativity and openness where things can flourish. I’d love to think that there actually are a variety of things in Taiwan that if those could become broader norms, not that Taiwan’s perfect, it has its own internal problems, but there are many really attractive things about it right now. Different kinds of things that flourish. So maybe a setting in which Taiwan and in its post martial law, post-Leninist incarnation would be something that we could think of more."
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:58:28)",
+    "text": "Yeah, and you’re right, Taiwan and especially Hong Kong, it’s a truly special place, it’s a case study. It doesn’t make sense that that would happen, but it happened. History is full of wonderful things like this. And I guess can clarify, you think the protests of 2019, the protests in ’20, they’re mostly a failure? Is there still a possibility that Hong Kong rises and its way of life, its way of being, the democratic ideals, not necessarily full-on democracy or this kind of thing, but would actually in a sense permeate China, not the other way around?"
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(02:59:15)",
+    "text": "So that was a hope early on, and there were ways in which some parts of Hong Kong’s style even permeated across the border. I think it’s hard to see it now with how Hong Kong has changed, but I hesitate to, I mean, an awareness of the unpredictability of things. There’s no way to know what kind of thing there would be for Hong Kong later. I do think there are things about Hong Kong that even in the failure of the movement have had repercussions that are not all negative. I think the Hong Kong spirit, which is being kept alive in diaspora communities around the world, is really interesting. There are things that are spreading. I think Hong Kong represented a vision of a different way of being Chinese, a different notion of Chineseness. And I think that is something that exists."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "",
+    "timestamp": "(03:00:15)",
+    "text": "And there have been protesters in a lot of other parts of the world. I used to say from Minneapolis to Minsk, because in 2020 there were protests in the US and in Belarus where there were activists who were talking about the Hong Kong idea of sort of trying to focus on be water, more flexible protest tactics. And clearly in Thailand, there were people who looked at things to learn from Hong Kong, even in defeat. There’s a New Zealand-based China specialist, Geremie Barmé, who talks about the other China, which can exist within China, physical China, or elsewhere. Which is this equally attached to Chinese traditions, but thinking of those traditions as including not just Confucianism but Taoism, not just hierarchy, but also openness to cosmopolitanism. Not just nationalism, but cosmopolitanism."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "",
+    "timestamp": "(03:01:15)",
+    "text": "And I think there are some elements of that, that even in failure, the Hong Kong movements, the Hong Kong protests of the 2020s were a last flourishing of that. And we can see some elements of that in, we can think of Taiwan, elements of that is another China as well. I think not allowing the particular version of Chineseness that the Chinese Communist Party under Xi Jinping wants to make people think of as the essence of Chinese. China has multiple cultural strands, multiple traditions that people can tap into. And it’s something richer and more admirable, I think, than this narrowed down version."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Lex Fridman",
+    "timestamp": "(03:02:07)",
+    "text": "And I hope for a future where both Hong Kong and Beijing have bookstores that carry 1984, Brave New World, and all of your books. And I can’t wait to visit them and enjoy the intellectual flourishing of incredible people. What a beautiful world to live in. The Chinese people, all the people I’ve met, it’s just so great to interact with a totally different culture. You can feel the roots run deep through ancient history that are very different. And it’s amazing. It’s amazing that Earth produced Chinese people, Indian people, the Slavic people. There’s just all kinds of variants, and we’re all have our own weirdnesses and quirks and so on. Everybody has brilliant people. We all start shit with each other every once in a while. But I hope now that we have nuclear weapons, and I hope now that we have technology that connects us, we’ll actually collaborate more than we fight each other. And thank you for being one of the people that shows off the beauty of this particular peoples, of the entire region, really, of Southeast Asia. And it’s an honor to talk to you. Thank you so much."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Jeffrey Wasserstrom",
+    "timestamp": "(03:03:28)",
+    "text": "Thanks for having me on."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Lex Fridman",
+    "timestamp": "(03:03:31)",
+    "text": "Thanks for listening to this conversation with Jeffrey Wasserstrom. To support this podcast, please check out our sponsors in the description. And now let me leave you some words from Confucius. “When anger rises, think of the consequences.” Thank you for listening, and hope to see you next time."
+  }
+]

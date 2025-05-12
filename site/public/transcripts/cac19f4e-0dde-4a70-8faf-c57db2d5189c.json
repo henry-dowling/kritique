@@ -1,0 +1,2319 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:00:00)",
+    "text": "Whenever we start a new project, it has to have these ingredients of simultaneous complexity. It has to be novel in terms of the synthetic biology, material science, robotics, engineering, all of these elements that are discipline based or rooted must be novel. If you can combine novelty in synthetic biology with a novelty in robotics, with a novelty in material science, with a novelty in computational design, you are bound to create something novel."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:30)",
+    "text": "The following is a conversation with Neri Oxman, an engineer, scientist, designer, architect, artist, and one of the kindest, most thoughtful and brilliant human beings I’ve ever gotten to know. For a long time, she led the mediated matter group at MIT that did research and built incredible stuff at the intersection of computational design, digital fabrication, material science, and synthetic biology, doing so at all scales from the microscale to the building scale. Now she’s continuing this work at a very new company for now called Oxman, looking to revolutionize how humans design and build products working with nature, not against it."
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "",
+    "timestamp": "(00:01:13)",
+    "text": "On a personal note, let me say that Neri has for a long time been a friend and someone who in my darker moments, has always been there with a note of kindness and support. I am forever grateful to her. She’s a brilliant and a beautiful human being. Oh, and she also brought me a present, War and Peace by Tolstoy and Meditations by Marcus Aurelius. It doesn’t get better than that. This is the Lex Friedman podcast to support it. Please check out our sponsors in the description. And now, dear friends, here’s Neri Oxman. Let’s start with the universe. Do you ever think of the universe as a kind of machine that designs beautiful things at multiple scales?"
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:01:56)",
+    "text": "I do. And I think of nature in that way in general. In the context of design, specifically, I think of nature as everything that isn’t anthropomass, everything that is not produced by humankind, the birds and the rocks and everything in between, fungi, elephants, whales."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:19)",
+    "text": "Do you think there’s an intricate ways in which there’s a connection between humans and nature?"
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:02:24)",
+    "text": "Yes, and we’re looking for it. I think that let’s say from the beginning of mankind going back 200,000 years, the products that we have designed have separated us from nature. And it’s ironic that the things that we designed and produced as humankind, those are exactly the things that separated us. Before that we were totally and completely connected, and I want to return to that world."
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:54)",
+    "text": "But bring the tools of engineering and computation to it."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:02:57)",
+    "text": "Yes. Yes. I absolutely believe that there is so much to nature that we still have not leveraged, and we still have not understood and we still haven’t. And so much of our work is designed, but a lot of it is science is unveiling and finding new truths about the natural world that we were not aware before. Everybody talks about intelligence these days, but I like to think that nature has kind of wisdom that exists beyond intelligence or above intelligence, and it’s that wisdom that we’re trying to tap into through technology. If you think about humans versus nature, at least in the realm, at least in the context of definition of nature, is everything, but anthropomass."
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "",
+    "timestamp": "(00:03:49)",
+    "text": "And I’m using Ron Milo, who is an incredible professor from the Weizmann Institute who came up with this definition of Anthropo mass in 2020 when he identified that 2020 was the crossover year when anthropomass exceeded biomass on the planet. So all of the design goods that we have created and brought into the world now outweigh all of the biomass, including of course, all plastics and wearables, building cities, but also asphalt and concrete, all outweigh the scale of the biomass. And actually that was a moment. You know how in life there are moments that be a handful of moments that get you to course correct. And it was a Zoom conversation with Ron, and that was a moment for me when I realized that that imbalance, now we’ve superseded the biomass on the planet, here do we go from here?"
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "",
+    "timestamp": "(00:04:50)",
+    "text": "And you’ve heard the expression more phones than bones and the anthropomass and the anthropocene and the technosphere sort of outweighing the biosphere. But now we are really trying to look at is there a way in which all things technosphere are designed as if they’re part of the biosphere? Meaning if you could today grow instead of build everything and anything, if you could grow an iPhone, if you could grow a car, what would that world look like? Where the touring test for, I call this material ecology approach, but this notion that everything material, everything that you design in the physical universe can be read and written to as or thought of or perceived of as nature grown."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "",
+    "timestamp": "(00:05:46)",
+    "text": "That’s sort of the touring test for the company or at least that’s how I started. I thought, well grow everything. That’s sort of the slogan. Let’s grow everything. And if we grow everything, is there a world in which driving a car is better for nature than a world in which there are no cars? Is it possible that a world in which you build buildings in cities, that those buildings in cities actually augment and heal nature as opposed to their absence? Is there a world in which we now go back to that kind of synergy between nature and humans where you cannot separate between grown and made? And it doesn’t even matter."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:36)",
+    "text": "Is there a good term for the intersection between biomass and anthropomass, things that are grown?"
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:06:36)",
+    "text": "Yeah. So in 2005 I called this material ecology. I thought, what if all things materials would be considered part of the ecology and would have a positive impact on the ecology where we work together to help each other? All things nature, all things human. And again, you can say that that wisdom in nature exists in fungi. Many mushroom lovers always contest my thesis here saying, “Well, we have the mushroom network and we have the mother trees and they’re all connected, and why don’t we just simply hack into mushrooms?” Well, first of all, yes, they’re connected, but that network stops when there is a physical gap. That network does not necessarily enable the whales in the Dominican to connect with an olive tree in Israel to connect with a weeping willow in Montana."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "",
+    "timestamp": "(00:07:28)",
+    "text": "And that’s sort of a world that I’m dreaming about. What does it mean for nature to have access to the cloud? The kind of bandwidth that we’re talking about, sort of think Neuralink for nature. Since the first computer, and you know this by heart probably better than I do, but we’re both MIT lifers. We today have computational power that is one trillion times the power that we had in those times. We have 26.5 trillion times the bandwidth and 11.5 quintillion times the memory, which is incredible. So humankind since the first computer has approached and accessed such incredible bandwidth, and we’re asking, what if nature had that bandwidth? So beyond genes and evolution, if there was a way to augment nature and allow it access to the world of bits, what does nature look like now? And can nature make decisions for herself as opposed to being guided and guarded and abused by humankind?"
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:45)",
+    "text": "So nature has this inherent wisdom that you spoke to, but you’re also referring to augmenting that inherent wisdom with something like a large language model."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:08:56)",
+    "text": "Exactly."
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:56)",
+    "text": "So compress human knowledge, but also maintain whatever is that intricate wisdom that allows plants, bacteria, fungi to grow incredible things at arbitrary scales, adapting to whatever environment and just surviving and thriving no matter where, no matter how."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:09:14)",
+    "text": "Exactly. So I think of it as large molecule models and those large molecule models, of course, large language models are based on Google and search engines and so on and so forth. And we don’t have this data currently. And the part of our mission is to do just that, trying to quantify and understand the language that exists across all kingdoms of life, across all five kingdoms of life. And if we can understand that language, is there a way for us to first make sense of it, find logic in it, and then generate certain computational tools that empower nature to build better crops, to increase the level of biodiversity? In the company we’re constantly asking, what does nature want? What does nature want from a compute view?"
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:11)",
+    "text": "If it knew it, what could aid it in whatever the heck it’s wanting to do."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:10:16)",
+    "text": "So we keep coming back to this answer of nature wants to increase information, but decrease entropy. So find order, but constantly increase the information scale. And this is true for what our work also tries to do because we’re constantly trying to fight against the dimensional mismatch between things made and things grown. And as designers, we are educated to think in X, Y, and Z and that’s pretty much where architectural education ends and biological education begins."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "",
+    "timestamp": "(00:10:51)",
+    "text": "So in reducing that dimensional mismatch, we’re missing out on opportunities to create things made as if grown. But in the natural environment, we’re asking, can we provide nature with these extra dimensions? And again, I’m not sure what nature wants, but I’m curious as to what happens when you provide these tools to the natural environments. Obviously with responsibility, obviously with control, obviously with ethics and moral code, but is there a world in which nature can help fix itself using those tools?"
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:26)",
+    "text": "And by the way, we’re talking about a company called Oxman."
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:11:30)",
+    "text": "Yeah. Just a few words about the team."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:33)",
+    "text": "Yeah. What kind of humans work at a place like this? They’re trying to figure out what nature wants."
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:11:37)",
+    "text": "I think they’re first like you, they’re humanists first. They come from different disciplines and different disciplinary backgrounds. And just as an example, we have a brilliant designer who is just a mathematical genius and a computer scientist and a mechanical engineer who is trained as a synthetic biologist. And now we’re hiring a microbiologist and a chemist, architects of course, and designers, roboticist. So really it’s arc, two of each."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:13)",
+    "text": "And always dancing between this line of the artificial, the synthetic, and the real, what’s the term for it? And the natural"
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:12:21)",
+    "text": "Yeah, the built and the grown nature and culture, technology and biology, but we’re constantly seeking to ask how can we build, design and deploy products in three scales? The molecular scale, which I briefly hinted to. And there in the molecular scale we’re really looking to understand whether there’s a universal language to nature and what that language is. And then build a tool that I think and dream of it is the iPhone for nature. If nature had an iPhone, what would that iPhone look like?"
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:59)",
+    "text": "Does that mean creating an interface between nature and the computational tools we have?"
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:13:07)",
+    "text": "Exactly. It goes back to that 11.5 quintillion times the bandwidth that humans have now arrived at, and giving that to nature and seeing what happens there can animals actually use this interface to know that they need to run away from fire? Can plants use this interface to increase the rate of photosynthesis in the presence of a smoke cloud? Can they do this quote-unqoute “automatically” without a kind of a top-down brute force policy-based method that’s authored and deployed by humans? And so this work really relates to that interface with the natural world. And then there’s a second area in the company which focuses on growing products. And here we’re focusing on a single product that starts from CO2. It becomes a product. It’s consumed, it’s used, it’s worn by a human, and then it goes back to the soil and it grows an edible fruit plant."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:13)",
+    "text": "So we’re talking about from CO2 to fruit."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:14:13)",
+    "text": "Yeah. It starts from CO2 and it ends with something that you can literally eat. So the world’s first entirely biodegradable, biocompatible, bio renewable product."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:24)",
+    "text": "That’s grown."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:14:25)",
+    "text": "Yes, either using plant matter or using bacteria, but we are really looking at carbon recycling technologies that start with methane or wastewater and end with this wonderful reincarnation of a thing that doesn’t need to end up in a composting site, but can just be thrown into the ground and grow olive and find peace. And there’s a lot of textile based work out there that is focused on one single element in this long chain like, oh, let’s create leather out of mycelium, or let’s create textile out of cellulose, but then it stops there and you get to assembling the shoe or the wearable and you need a little bit of glue, and you need a little bit of this material and a little bit of that material to make it water resistant and then it’s over."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "",
+    "timestamp": "(00:15:16)",
+    "text": "That’s one thing that we’re trying to solve for is how to create a product that is materially, computationally, robotically, novel, and goes through all of these phases from the creation, from this carbon recycling technology to the product, to literally, how do you think about reinventing an industry that is focused on assembly and putting things together and using humans to do that? Can that happen just using robots and microbes? And that’s it."
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:48)",
+    "text": "And doing it end to end. I would love to see what this factory looks like."
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:15:54)",
+    "text": "And the factory is great too. I’m very, very excited. In October we’ll share first renditions of some of this work and in February we’ll invite you to the lab."
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:05)",
+    "text": "I’m there. I’ve already applied. I haven’t heard back. I don’t understand. Okay. Just before we get to number three, it’d be amazing to just talk about what it takes with robotic arms or in general, the whole process of how to build a life form stuff you’ve done in the past, maybe stuff you’re doing now, how to use bacteria, this kind of synthetic biology, how to grow stuff by leveraging bacteria? Is there examples from the past and explain?"
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:16:31)",
+    "text": "Yes. And just take a step back over the 10 years, the mediated matter group, which was my group at MIT, has sort of dedicated itself to bio-based design would be a suitcase word, but thinking about that synergy between nature and culture, biology and technology. And we attempted to build a suite of embodiments, let’s say that they ended up in amazing museums and amazing shows, and we wrote patents and papers on them, but they were still N of ones. Again, the challenge, as you say, was to grow them, and we classified them into fibers, cellular solids, biopolymers, pigments."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "",
+    "timestamp": "(00:17:13)",
+    "text": "And in each of the examples, although the material was different, sometimes we used fibers, sometimes we used silk with silkworms and honey with bees and or comb as the structural material, with vespers we used synthetically engineered bacteria to produce pigments, although the materials were different and the hero organisms were different, the philosophy was always the same. The approach was really an approach of computational templating. That templating allowed us to create templates for the natural environment where nature and technology could duet, could dance together to create these products."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "",
+    "timestamp": "(00:17:48)",
+    "text": "So just a few examples with silk pavilion, we’ve had a couple of pavilions made of silk, and the second one, which was the bigger one, which ended up at the Museum of Modern Art with my friend, an incredible mentor, Paul Antonelli, that pavilion was six meter tall and it was produced by silkworms. And there we had different types of templates. There were physical templates that were basically just these water soluble meshes upon which the silkworms were spinning and then there were environmental templates, which was a robot basically applying variation of environmental conditions such as heat and light to guide the movement of the silkworm."
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:18:29)",
+    "text": "You’re saying so many amazing things, and I’m trying not to interrupt you, but one of the things you’ve learned by observing, by doing science on these is that the environment defines the shape that they create or contributes or intricately plays with the shape they create. And that’s one of the ways you can get to guide their work is by defining that environment. By the way, you said hero organism, which is an epic term. That means whatever is the biological living system that’s doing the creation."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:19:01)",
+    "text": "And that’s what’s happening in pharma and biomaterials and by the way, precision ag and new food design technologies as people are betting on a hero organism, is sort of how I think of it. And the hero organism is sometimes it’s the palm oil or it’s the mycelium. There’s a lot of mushrooms around for good and bad, and it’s cellulose or it’s fake bananas or the workhorse E. Coli. But these hero organisms are being betted on as the… What’s the one answer that solves everything hitchhiker’s guide?"
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:38)",
+    "text": "42."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:19:40)",
+    "text": "42."
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:42)",
+    "text": "Yeah. These are sort of the 42s of the enchanted new universe. And back at MIT, we said, instead of betting on all of these organisms, let’s approach them as almost movement in a symphony and let’s kind of lean into what we can learn from each of these organisms in the context of building a project in an architectural scale. And those usually were pavilions."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "",
+    "timestamp": "(00:20:05)",
+    "text": "And then the computational templating is the way you guide the work of this. How many did you say? 17,000?"
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:20:15)",
+    "text": "17,532. So each of these silkworms threads are about one mile in distance, and they’re beautiful. And just thinking about the amount of material, it’s a bit like thinking about the length of capillary vessels that grow in your belly when you’re pregnant to feed that incredible new life form. Just nature is amazing. But back to the silkworms, I think I had three months to build this incredible pavilion, but we couldn’t figure out how. We were thinking of emulating the process of how a silkworm goes about building its incredible architecture. This cocoon over the period of 24 to 72 hours, and it builds a cocoon basically to protect itself."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "",
+    "timestamp": "(00:21:03)",
+    "text": "It’s a beautiful form of architecture, and it uses pretty much just two materials, two chemical compounds ceresin and fibrin. The ceresin is sort of the glue of the cocoon, the fibrin is the fiber based material of the cocoon and through fibers and glue. And that’s true for so many systems in nature, lots of fiber and glue. And that architecture allows them to metamorphosize. And in the process they vary the properties of that silk thread, so it’s stiffer or softer depending on where it is in the section of the cocoon. And so we were trying to emulate this robotically with a 3D printer that was six axis KUKA arm one of these baby KUKAs."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "",
+    "timestamp": "(00:21:46)",
+    "text": "And we’re trying to emulate that process computationally and build something very large when one of my students now, a brilliant industrial engineer, roboticist on my team, Marcus said, “Well, we were just playing with those silkworms and enjoying their presence when we realized that if they’re placed on a desk or a horizontal surface, they will go about creating their cocoon only the cocoon would be flat because they’re constantly looking for a vertical post in order to use that post as an anchor to spin the cocoon. But in the absence of that post on surfaces that are less than 21 millimeters and flat they will spin flat patches and we said, “Aha, let’s work with them to produce this dome as a set of flat patches.”"
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "",
+    "timestamp": "(00:22:42)",
+    "text": "And a silkworm mind you is quite an egocentric creature. And actually the furthest you go, you move forward in evolution by natural selection, the more egoism you find in creatures. So when you think about termites, their material sophistication is actually very primitive, but they have incredible ability to communicate and connect with each other. So if you think about entire all of nature, let’s say all of living systems as a matrix that runs across two axes one is material sophistication, which is terribly relevant for designers, and the other is communication. The termites ace on communication, but their material sophistication is crap."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "",
+    "timestamp": "(00:23:31)",
+    "text": "It’s just saliva and feces and some soil particles that are built to create these incredible termite mounds, the scale that when compared to human skyscrapers transcend all of buildable scales, at least in terms of what we have today in architectural practice just relative to the size of the termite. But when you look at the silkworm, the silkworm has zero connection and communication across silkworms. They were not designed to connect and communicate with each other. They’re sort of a human design species because the domesticated silk moth creates the cocoon."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "",
+    "timestamp": "(00:24:08)",
+    "text": "We then produce the silk of it and then it dies. So it has dysfunctional wings, it cannot fly. And that’s another problem that the sericulture industry has is, why did we in the first place, author this organism 4,000 years ago that is unable to fly and is just there to basically live to serve a human need, which is textiles? And so here we were fascinated by the computational kind of biology dimension of silkworms, but along the way… By the way, this is great. I never get to tell the full story. So great."
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:47)",
+    "text": "I’ve enjoyed this so much."
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:24:51)",
+    "text": "People say, “Oh, speak in [inaudible 00:24:54] paragraphs. They’re way too long.” And this is wonderful. This is like heaven."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:58)",
+    "text": "[inaudible 00:24:58] paragraphs. You’re dropping so many good lines. I love it for that."
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:25:02)",
+    "text": "But really those silkworms, yes, they’re not designed to be like humans. They’re not designed to connect, communicate, and build things that are bigger than themselves through connection and communication."
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:17)",
+    "text": "So what happens when you add 17,000 of them communicating effectively?"
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:25:17)",
+    "text": "That’s a really great question. What happens is that at some point, the templating strategies, and as you said correctly, there were geometrical, templating, material templating, environmental templating, chemical templating if you’re using pheromones to guide the movement of bees in the absence of a queen where you have a robotic queen."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:38)",
+    "text": "Robotic queen."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:25:39)",
+    "text": "But whenever you have these templating strategies, you have sort of control over nature, but the question is there a world in which we can move from templating, from providing these computational material and immaterial physical and molecular platforms that guide nature, almost guiding a product almost like a gardener to a problem or an opportunity of emergence where that biological organism assumes agency by virtue of accessing the robotic code and saying, now I own the code. I get to do what I want with this code. Let me show you what this pavilion may look like or this product may look like?"
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "",
+    "timestamp": "(00:26:18)",
+    "text": "And I think one of the exciting moments for us is when we realized that these robotic platforms that were designed initially as templates actually inspired, if I may, a kind of a collaboration and cooperation between silkworms that are not a swarm based organism. They’re not like the bees and the termites. They don’t work together and they don’t have social orders amongst them, the queen and the drones, et cetera. They’re all the same in a way. And here, what was so exciting for us is that these computational and fabrication technologies enable the silkworm to sort of hop from the branch in ecology of worms to the branch in ecology of maybe human-like intelligence where they could connect and communicate by virtue of feeling or rubbing against each other in an area that was hotter or colder."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "",
+    "timestamp": "(00:27:19)",
+    "text": "And so the product that we got at the end, the variation of density of fiber and the distribution of the fiber and the transparency, the product at the end seems like it was produced by a swarm silk community, but of course it wasn’t. It’s a bunch of biological agents working together to assemble this thing. That’s really, really fascinating to us. How can technology augment or enable a swarm like behavior and creatures that have not been designed to work as swarms?"
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:53)",
+    "text": "So how do you construct a computational template from which a certain kind of thing emerges? How can you predict what emerges, I suppose?"
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:28:05)",
+    "text": "So if you can predict it doesn’t count as emergence, actually."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:12)",
+    "text": "That’s a deeply poetic line."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:28:13)",
+    "text": "We can talk about it. It’s a bit exaggerated, doesn’t count. Speaking of emergence, an empowerment, because we’re constantly moving between those as if they’re equals on the team and one of them, Christopher shared with me a mathematically equation for what does it mean to empower nature and what does empowerment in nature look like? And that relates to emergence. And we can go back to emergence in a few moments, but I want to say it so that I know that I’ve learned it and if I’ve learned it I can use it later."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:54)",
+    "text": "And maybe you’ll figure something out as you say it also."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:28:57)",
+    "text": "Of course, Christopher is the master here, but really we were thinking again, what does nature want? Nature wants to increase the information dimension and reduce entropy. What do we want? We kind of want the same thing. We want more, but we want order. And this goes back to your conversation with Joscha about stochastic versus deterministic languages or processes. His definition or the definition he found was that an agent is empowered if the entropy of the distribution of all of its states it’s high while the entropy of the distribution of a single state given a choice, given an action is low. Meaning it’s that kind of duality between opportunity like starting like this and going like this, opening and closing. And this really, I think is analogous to human empowerment, given infinite wide array of choices. What is the choice that you make to enable, to empower, to provide you with the agency that you need?"
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:19)",
+    "text": "And how much does that making that choice actually control the trajectory of the system? That’s really nice. So this applies to all the kinds of systems you’re talking about."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:30:28)",
+    "text": "And the cool thing is it can apply to a human on an individual basis or a silkworm or a bee or a microbe that has agency or by virtue of a template, but it also applies to a community of organisms like the bees. And so we’ve done a lot of work sort of moving from, you’ve asked how to grow things. So we’ve grown things using co fabrication where we’re digitally fabricating with other organisms that live across the various kingdoms of life and those were silkworms and bees. And with bees, which we’ve sent to outer space and returned healthily and they were reproductive."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:15)",
+    "text": "Okay, you’re going to have to tell that story. You’re going to have to talk about the robotic queen and the pheromones. Come on."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:31:20)",
+    "text": "So we built what we called a synthetic apiary and the synthetic apiary was designed as an environment that was a perpetual spring environment for the bees of Massachusetts. They go on hibernation, of course, during the winter season, and then we lose 80% of them or more during that period. We’re thinking, okay, what if we created this environment where before you template, before you can design with, you have to design for? You have to create this space of mutualism space of sort of shared connection between you and the organism. And with bees it started as the synthetic apiary. And we have proven that curated environment where we designed the space with high levels of control of temperature, humidity, and light and we’ve proven that they were reproductive and alive. And we realized, wow, this environment that we created can help augment bees in the winter season in any city around the world where bees survive and thrive in the summer and spring seasons. And could this be a kind of new urban typology, an architectural typology of symbiosis, of mutualism between organisms and humans?"
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "",
+    "timestamp": "(00:32:37)",
+    "text": "By the way, the synthetic API was in a co-op nearby Somerville. We had robots. Our team schlepped there every day with our tools and machines and we made it happen. And the neighbors were very happy, and they got to get a ton of honey at the end of the winter. And those bees, of course, were released into the wild at the end of the winter alive and kicking. So then in order to actually experiment with the robotic queen and idea or concept, we had to prove obviously that we can create this space for bees. And then after that, we had this amazing opportunity to send the bees to space on Blue Shepherd Mission that is part of Blue Origin, and we of course said, “Yes, we’ll take a slot.”"
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "",
+    "timestamp": "(00:33:24)",
+    "text": "We said, “Okay, can we outdo NASA?” So NASA in 1982 had an experiment where they sent bees to outer space. The bees returned, they were not reproductive and some of them died. And we thought, “Well, is there a way in which we can create a life support system, almost like a small mini biolab of a queen and her retinue that would be sent in this Blue Origin New Shepherd mission in this one cell?” And so if the synthetic apiary was an architectural project, in this case, this second synthetic apiary was a product. It was so from an architectural controlled environment to a product scale controlled environment."
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "",
+    "timestamp": "(00:34:08)",
+    "text": "And this biolab, this life support system for bees, was designed to provide the bees with all the conditions that they needed. And we looked at that time at the Nasonov pheromone that the queen uses to guide the other bees, and we looked at pheromones that are associated with a bee, and thinking of those pheromones being released inside the capsule that goes to outer space. They returned back to the media lab roof and those bees were alive and kicking and reproductive, and they continued to create comb. It ended with a beautiful nature paper that the team and I published together. We gave them gold nanoparticles and silver nanoparticles because we were interested if bees recycle wax, it was known forever that-"
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:35:03)",
+    "text": "Bees recycle wax. It was known forever that bees do not recycle the wax. And by feeding them these gold nanoparticles, we were able to prove that the bees actually do recycle the wax. The reason I’m bringing this forward is because we don’t view ourselves as designers of consumable products and architectural environments only, but we love that moment where these technologies… And by the way, every one of these projects that we created involve the creation of a new technology, whether it be a glass printer or the spinning robot or the life support system for the bee colony. They all involved a technology that was associated with the project, and I never, ever, ever want to let that part go because I love technology so much."
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "",
+    "timestamp": "(00:35:54)",
+    "text": "But also another element of this is that always, these projects, if they’re great, they reveal new knowledge about, or new science about the topic that you’re investigating, be it silkworms or bees or glass. That’s why I say, I always tell my team it should be at MoMA and the cover of Nature or Science at the same time. We don’t separate between the art and the science, it’s one of the same."
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:21)",
+    "text": "So as you’re creating the art, you’re going to learn something about these organisms or something about these materials. Is there something that stands out to you about these hero organisms like bees, silkworms? You mentioned E. coli has its pros and cons, this bacteria. What have you learned, small or big, that’s interesting about these organisms?"
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:36:41)",
+    "text": "Yeah, that’s a beautiful question. What have I learned? I’ve learned that… We also worked with shrimp shells with a glow. How we built this tower on the roof of SF MoMa, which by a couple of months ago until it was on the roof, we’ve shown this structure completely biodegrade into the… Well, not completely, but almost completely biodegrade to the soil. And this notion that a product or an organism or part of that organism can reincarnate is very, very moving thought to me, because I want to believe that I believe in reincarnation."
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:24)",
+    "text": "I want to believe that I believe. I want to believe."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:37:25)",
+    "text": "Yeah, that’s my relationship with God. I like to believe in believing. Most great things in life are second derivatives of things, but that’s part of another conversation."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:38)",
+    "text": "I feel like that’s a quote that’s going to take weeks to really internalize."
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:37:43)",
+    "text": "That notion of, I want you to want, or I need you to need. There’s always something, a deeper truth behind what is on the surface. So I like to go to the second and tertiary derivative of things and discover new truths about them through that. But what have I learned about organisms-"
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:05)",
+    "text": "And why don’t you like E. coli?"
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:38:07)",
+    "text": "I like E. coli, and a lot of the work that we’ve done was not possible without our working on E. coli or other workhorse organisms, like cyanobacteria."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:19)",
+    "text": "How are bacteria used?"
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:38:20)",
+    "text": "Death masks. The death masks."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:24)",
+    "text": "So what are death masks?"
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:38:24)",
+    "text": "We did this project called Vespers, and those were basically death masks. That was set as a process for designing a living product. What happens? I remember looking at Beethoven’s death mask and Agamemnon’s death mask and just studying how they were created. And really they were geometrically attuned to the face of the dead, and what we wanted to do is create a death mask that was not based on the shape of the wearer, but rather was based on their legacy and their biology. And maybe we could harness a few stem cells there for future generations or contain the last breath. Lazarus, which preceded Vespers, was a project where we designed a mask to contain a single breath, the last breath of the wearer. And again, if I had access to these technologies today, I would totally reincorporate my grandmother’s last breath in a product. So it was like an air memento."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "",
+    "timestamp": "(00:39:31)",
+    "text": "So with Vespers, we actually used E. coli to create pigmented masks, masks whose pigments would be recreated at the surface of the mask. And I’m skipping over a lot of content, but basically there were 15 masks and they were created as three sets, the masks of the past, the masks of the present, and the masks of the future. They were five, five, and five, and the masks of the past were based on ornaments and they were embedded with natural minerals like gold. Yes, yes, yes, exactly-"
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:12)",
+    "text": "And we’re looking at pictures of these and they’re gorgeous."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:40:16)",
+    "text": "Yes, yes."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:16)",
+    "text": "Extremely delicate and interesting fractal patterns that are symmetrical."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:40:24)",
+    "text": "They look symmetrical, but they’re not. We intended for you to be tricked and think that they’re all symmetrical, but-"
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:32)",
+    "text": "There’s imperfections."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:40:33)",
+    "text": "There are imperfections by design. All of these forms and shapes and distribution of matter that you’re looking at was entirely designed using a computational program. None of it is manual. But long story short, the first collection is about the surface of the mask. And the second collection, which you’re looking at, is about the volume of the mask and what happens to the mask when all the colors from the surface, yes, enter the volume of the mask inside, create pockets and channels to guide life through them. They were incorporated with pigment-producing living organisms, and then those organisms were templated to recreate the patterns of the original death masks. And so life recycles and re-begins, and so on and so forth. The past meets the future, the future meets the past. From the surface to the volume, from death to life, to death to life, to death to life. And that again, is a recurring theme in the projects that we take on."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "",
+    "timestamp": "(00:41:39)",
+    "text": "But from a technological perspective, what was interesting is that we embedded chemical signals in the jet, in the printer, and those chemical signals basically interacted with the pigment-producing bacteria, in this case E. coli, that were introduced on the surface of the mask. And those interactions between the chemical signals inside the resins and the bacteria at the surface of the mask, at the resolution that is native to the printer, in this case, 20 microns per voxel, allowed us to compute the exact patterns that we wanted to achieve. And we thought, “Well, if we can do this with pigments, can we do this with antibiotics? If we can do this with antibiotics, could we do it with melanin? And what are the implications?” Again, this is a platform technology. Now that we have it, what are the actual real-world implications and potential applications for this technology?"
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "",
+    "timestamp": "(00:42:41)",
+    "text": "We started a new area, one of my students, Rachael, her PhD thesis was titled after this new class of materials that we created through this project, Vespers, Hybrid Living Materials, HLMs. And these hybrid living materials really paved the way towards a whole other set of products that we’ve designed, like the work that we did with melanin for the Mandela pavilion that we presented at SF MoMa. Where again, we’re using the same principles of templating, in this case not silkworms and not bees, but we’re templating bacteria at a much, much, much more finer resolution. And now instead of templating using a robot, we’re templating using a printer."
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "",
+    "timestamp": "(00:43:32)",
+    "text": "But compute is very, very much part of it. And what’s nice about bacteria, of course, is that from an ethical perspective I think there’s a range. So at the end of the silk pavilion, I got an email from professor in Japan who has been working on transgenic silk and said, “Well, if you did amazing silk pavilion, why don’t we create glow in the light silk dresses?” And in order to create this glow in the light silk, we need to apply jeans that are taken from a spider to a silkworm. And this is what is known as a transgenic operation. And we said no. And that was for us a clear decision that, no, we will work with these organisms as long as we know that what we are doing with them is not only better for humans, but it’s also better for them."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "",
+    "timestamp": "(00:44:31)",
+    "text": "And again, just to remind you, I forget the exact number, but it’s around 1,000 cocoons per a single shirt that are exterminated in India and China, in those sericulture industries that are being abused. Now, yes, this organism was designed to serve the human species and maybe it’s time to retire that conception of organisms that are designed for a human-centric world or human-centric set of applications. I don’t feel the same way about E. coli, not that I’m organism agnostic, but still I believe there’s so much for us to do on this planet with bacteria."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:26)",
+    "text": "And so in general, your design principle is to grow cool stuff as a byproduct of the organism flourishing. So not using the organism-"
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:45:36)",
+    "text": "Yes. The win-win, the synergy."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:37)",
+    "text": "Win-win."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:45:38)",
+    "text": "A whole that’s bigger than the sum of its parts."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:40)",
+    "text": "It’s interesting. It just feels like a gray area, where genetic modification of an organism, it just feels like… I don’t know. If you genetically modified me to make me glow in the light, I kind of like it."
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:45:59)",
+    "text": "I think you have enough of an aura."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:00)",
+    "text": "All right, thank you. I was just fishing for compliments. Thank you. I appreciate the-"
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:46:06)",
+    "text": "But you’re absolutely right. And by the way, the gray area is where some of us like to live and like to thrive, and that’s okay. And thank goodness that there’s so many of us that like the black and white and that thrive in the black and white. My husband is a good example for that."
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:21)",
+    "text": "Well, but just to clarify, in this case you are also trying to thrive in the black and white in that you’re saying the silkworm is a beautiful, wonderful creature. Let us not modify it. Is that the idea? Or is it okay to modify a little bit as long as we can see that it benefits the organism as well as the final creation?"
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:46:42)",
+    "text": "With silkworms, absolutely let’s not modify it genetically. Let’s not modify it genetically. And then some. Because why did we get there to begin with 4,000 years ago in the Silk Road? And we should never get to a point where we evolve life for the service of mankind at the risk of these wonderful creatures across the across the kingdom of life. I don’t think about the same kind of ethical range when I think about bacteria."
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:15)",
+    "text": "Nevertheless, bacteria are pretty wonderful organisms."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:47:18)",
+    "text": "I’m moving to my second cup here."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:21)",
+    "text": "Take two, because things are getting serious now."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:47:23)",
+    "text": "Bacteria are. Yeah, for sure."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:25)",
+    "text": "Let’s give bacteria all the love they deserve. We wouldn’t be here without them. They were here for, I don’t know what it is, like a billion years before anything else showed up."
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:47:32)",
+    "text": "But in a way, if you think about it, they create the matter that we consume and then reincarnate, or dissolved into the soil and then creates a tree, and then that tree creates more bacteria. And then that bacteria could… Again, again. That’s why I like to think about not recycling, but reincarnating, because that assumes, imparting upon nature that dimension of agency and maybe awareness. But yeah, lots of really interesting work happening with bacteria. Directed evolution is one of them. We’re looking at directed evolution. So high-throughput directed evolution of bacteria for the production of products. And again, those products can be a shoe, wearables, biomaterials, therapeutics."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:48:26)",
+    "text": "And doing that direction computationally?"
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:48:27)",
+    "text": "Totally computationally, obviously in the lab with the hero organism, the hero bacteria. And what’s happening today, in equal microbial synthetic biology, synthetic biology that lends itself to ecology. And again, all of these fields are coming together. It’s such a wonderful time to be a designer. I can’t think of a better time to be a designer in this world. But with high-throughput directed evolution… And I should say that the physical space in our new lab will have these capsules which we have designed. They are designed like growth chambers or grow rooms, and in those grow rooms we can basically program top-down environmental templating, top-down environmental control of lights, humidity, light, et cetera. Sorry, light, humidity and temperature while doing bottom-up genetic regulation. So it is a wet lab, but in that wet lab you could do at the same time, genetic modulation, regulation and environmental templating."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "",
+    "timestamp": "(00:49:39)",
+    "text": "And then, again, the idea is that in one of those capsules maybe we grow transparent wood, and in another capsule, transparent wood for architectural application. Another capsule, we grow a shoe, and in another capsule we look at that large language model that we talked about. And there was a particular technology associated with that, which we’re hoping to reveal to the world in February. And in each of those capsules is basically a high-throughput computational environment, like a breadboard, think of a physical breadboard environment that has access to oxygen and nitrogen and CO2 and nutritional dispensing, and these little capsules could be stressed. They’re sort of ecology in a box, and they could be stressed to produce the food of the future or the products of the future or the construction materials of the future. Food is a very interesting one, obviously because of food insecurity and the issues that we have around both in terms of food insecurity, but also in terms of the future of food and what will remain after we can’t eat plants and animals anymore, and all we can eat is these false bananas and insects as our protein source."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "",
+    "timestamp": "(00:50:56)",
+    "text": "So there we’re thinking, can we design these capsules to stress an environment and see how that environment behaves? Think about a biodiversity chamber, kind of a time capsule that is designed as a biodiversity chamber where you can program the exact temperature, humidity, and light combination to emulate the environment from the past. So Ohio, 1981, December 31st at 5:00 AM in the morning, what did tomatoes taste like? To all the way in the future, 200 years ago, these are the environmental inputs, these are some genetic regulations that I’m testing and what might the food of the future or the products of the future or the construction materials of the future feel like, taste like, behave like, et cetera. And so these capsules are designed as part of a lab. That’s why it’s been taking us such a long time to get to this point, because we started designing them in 2019, and they’re currently, literally as I speak to you, under construction."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:02)",
+    "text": "How well is it understood how to do this dance of controlling these different variables in order for various kinds of growth to happen?"
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:52:10)",
+    "text": "It’s not. It’s never been done before and these capsules have never been designed before. So when we first decided these are going to be environmental capsules, people thought we were crazy. “What are you building? What are you making?” So the answer is that we don’t know. But we know that there has never been a space like this where you have basically a wet lab and a grow room at that resolution, at that granularity of control over organisms. There is a reason why there is this incredible evolution of products in the software space. The hardware space, that’s a more limiting space because of the physical infrastructure that we have to test and experiment with things. So we really wanted to push on creating a wet lab that is novel in every possible way. What could you create in it? You could create the future. You could create an environment of plants talking to each other with a robotic referee. And you could set an objective function."
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "",
+    "timestamp": "(00:53:20)",
+    "text": "And let’s say for the transaction-driven individuals in the world, let’s say their objective function is carbon sequestration. And all of those plants are implemented with a gaming engine and they have these reward system and they’re constantly needing to optimize the way in which they carbon sequest. We weed out the bad guys, we leave the good guys, and we end up with this ideal ecology of carbon sequestering heroes that connect and communicate with each other. And once we have that model, this biodiversity chamber, we send it out into the field and we see what happens in nature. And that’s sort of what I’m talking about, augmenting plants with that extra dimension of bandwidth that they do not have. Just last week I came across a paper that discusses the in vivo neurons that are augmented with a pong game. And in a dish they basically present sentience and the beginning of awareness."
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "",
+    "timestamp": "(00:54:37)",
+    "text": "Which is wonderful that you could actually take these neurons from a mouse brain, and you have the electrical circuits and the physiological circuits that enable these cells to connect and communicate, and together arrive at swarm situation that allows them to act as a system that is not only perceived to be sentient, but is actually sentient. Michael Levine calls this gentle material, material that has agency. This is of interest to us because, again, this is emergence post-templating. You template until you don’t need to template anymore because the system has its own rules. What we don’t want to happen with AGI, we want to happen with synthetic biology. What we don’t want to happen online and software with language, we want for it to happen with bio-based materials. Because that will get us closer to growing things as opposed to assembly and mechanically putting them together with toxic materials and compounds."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:55:43)",
+    "text": "If I can ask a pothead question for a second, you mentioned just like the silkworms, the individualist silkworms got to actually learn how to collaborate or actually to collaborate in a swarm like way. You’re talking about getting plants to communicate in some interesting way based on an objective function. Is it possible to have some kind of interface between another kind of organisms, humans, and nature? So like a human to have a conversation with a plant?"
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:56:14)",
+    "text": "There already is. You know that when we cut freshly cut grass, I love the smell, but actually it’s a smell of distress that the leaves of grass are communicating to each other. The grass, when it’s cut emits green leaf volatiles, GLVs. And those GLVs are basically one leaf of grass communicating to another leaf of grass, “Be careful. Mind you, you’re about to be cut.” These incredible life forms are communicating using a different language than ours. We use language models, they use molecular models. At the moment where we can parse, we can decode these molecular moments is when we can start having a conversation with plants."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "",
+    "timestamp": "(00:56:57)",
+    "text": "Now, of course there is a lot of work around plant neurobiology. It’s a real thing. Plants do not have a nervous system, but they have something akin to a nervous system. It has kind of a ecological intelligence that is focused on a particular timescale, and the timescale is very, very slow, slow, slow, slow timescale. So it is when we can melt these timescales and connect with these plants in terms of the content of the language, in this case molecules, the duration of the language, and we can start having a conversation, if not simply to understand what is happening in the plant kingdom."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "",
+    "timestamp": "(00:57:38)",
+    "text": "Precision agriculture, I promise to you, will look very, very different. Because right now we are using drones to take photos of crops, of corn, that look bad. And when we take that photo, it’s already too late. But if we understand these molecular footprints and things that they are trying to say, distress that they are trying to communicate, then we could of course predict the physiological, biological behavior of these crops, both for their own self perpetuation, but also for the foods and the pharma and the type of molecules that we’re seeking to grow for the benefit of humanity. And so these languages that we are attempting now to quantify and qualify, will really help us not only better nature and help nature in its striving to surviving, but also help us design better wines and better foods and better medicine and better products, again, across all scales, across all application domains."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:41)",
+    "text": "Is there intricacies to understanding the timescales, like you mentioned, at which these communications, these languages operate? Is there something different between the way humans communicate and the way plants communicate in terms of time?"
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Neri Oxman",
+    "timestamp": "(00:58:56)",
+    "text": "Remember when we started the conversation talking about definitions in the context of design and then in the context of being? That question requires, I think a kind of a shift, a humility. That requires a humility towards nature, understanding that it operates on different scales. We recently discovered that the molecular footprint of a rose, or of a plant in general during nighttime, is different than its molecular footprint during daytime. So these are circadian rhythms that are associated with what kind of molecules these plants emit given stresses, and given there’s a reason why a jasmine field smells so, so delicious and 4:00 AM in the morning. There’s peace and rest amongst the plants. And you have to tune into that time dimension of the plant kingdom, and that of course requires all this humility, where in a single capsule, to design a biodiversity chamber, it will take years, not months, and definitely not days to see these products."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "",
+    "timestamp": "(01:00:13)",
+    "text": "And also, that humility in design comes from simply looking at how we are today as a civilization, how we use and abuse nature. Just think of all these Christmas trees. These Christmas trees, they take years to grow. We use them for one night, the holiest night of the year, and then we let them go. And think about in nature to design a “product,” an organism spends energy and time and thoughtfulness and many, many, many years, and I’m thinking about the redwoods, to grow these channels, these cellulose layers and channels and reach these incredible heights. Takes sometimes hundreds of years, sometimes thousands of years. Am I afraid of building a company that designs products in the scale of thousands of years? No, I’m not."
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "",
+    "timestamp": "(01:01:08)",
+    "text": "And the way of being in the physical world today is really not in tune with the time dimension of the natural world at all, and that needs to change. And that’s obviously very, very hard to do in a community of human beings that is, at least in the Western world, that is based on capitalism. And so here, the wonderful challenge that we have ahead of us is, how do we impart upon the capitalist movement? We know that we need to produce now products that will enter the real world and be shared and used by others, and still benefit the natural world while benefiting humans? And that’s a wonderful challenge to have."
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:55)",
+    "text": "So, integrate technology with nature, and that’s a really difficult problem. I see parallels here with another company of Neuralink, which is basically like, I think you mentioned, Neuralink for nature. That there are short-term products you can come up with, but it’s ultimately a long-term challenge of how do you integrate the machine with this creation of nature, this intricate, complex creation of nature, which is the human brain. And then you’re speaking more generally, nature."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:02:29)",
+    "text": "You know how every company has an image? Like this one single image that embodies the spirit of the company? And I think for Neuralink it was, to me, that chimpanzee playing a video game. It was just unbelievable. But with plants, there potentially is a set of molecules that impacts or inspires, I like that word, the plant to behave or act in a certain way, and allows still the plan the possibility of deciding where it or she or he wants to go. Which is why our first product for this molecular space is going to be a functionalized fragrance. So here we’re thinking about the future of fragrances and the future of fragrances and flavors."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "",
+    "timestamp": "(01:03:23)",
+    "text": "These products in the industry as we know it today, are designed totally for a human-centric use and enjoyment and indulgence and luxury. They’re used on the body for the sake of, I don’t know, attraction and feeling good and smelling good. And we were asking ourselves, is there a world in which a fragrance can be not a functional fragrance? Because you could claim that all fragrances are functional. But is there a world in which the fragrance becomes functionalized, is, again, imparted upon or given agency to connect with another organism? Is there a world in which you and I can go down to your garden and use a perfume that will interact with the rose garden downstairs? I’ve just been enamored with the statements that are being made in the media around, “Oh, this is completely biologically-derived fragrance and it’s bio-based.”"
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "",
+    "timestamp": "(01:04:28)",
+    "text": "But when you look into the fragrance and you understand that in order to get to this bio-derived fragrance, you blew through 10,000 bushes of rose to create 5 mL of a rose fragrance. And all these 10,000 bushes of rose, they take space, they take water management, and so much waste. Is this really what we want the future of our agriculture and molecular goods to look like? And so when we did the Aguahoja pavilion on the roof of SF MoMa, we calculated that for that pavilion we had 40,000 calories embedded into this pavilion that was made of shrimp shells and chitosan and apple skins and cellulose from tree pulp. And we calculated that overall the structure had 40,000 calories. Interesting way to think about a structure, from the point of view of calories. But as you left the gallery, you saw these three clocks that were so beautifully designed by Felix on our team, and these clocks measured temperature and humidity, and we connected them to a weather channel so that we could directly look at how the pavilion was biodegrading in real-time."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "",
+    "timestamp": "(01:05:40)",
+    "text": "And in our calculations, I say this long-winded description of the pavilion to say that in the calculation, we incorporated how much electricity we used for our computers, for the 3D printers that printed the pavilion. And these were called energy calculations, energy end materials. And when you think about a product and you think about a shoe or a chair or a perfume or a building, you don’t stop at the object. You want to go all the way to the system. Again, instead of designing objects or singular embodiments of the will of the designer, you’re really tapping into an entire system that is interconnected."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "",
+    "timestamp": "(01:06:26)",
+    "text": "And if you look at the energy budget that characterize the project Aguahoja, it traverses the entire planet. Some of these shrimp shells were brought from places in the world we haven’t thought of, in terms of the apples and the shrimp shells and the tree pulp. And so going back to fragrances, it’s really, really important to understand the product in the context of the ecological system from which it’s sourced, and how it’s designed. And that is the kind of thinking that is not only desired, but is required if we are to achieve synergy between humanity and nature."
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:06)",
+    "text": "And it’s interesting, because the system-level thinking is almost always going to take you to the entire earth, to considering the entire earth ecosystem."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:07:13)",
+    "text": "Which is why it’s important to have a left brain and a right brain competing for attention. And intimacy [inaudible 01:07:19]. Yes."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:19)",
+    "text": "Yeah. You mentioned a fragrance that sends out a message to the environment, essentially."
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:07:27)",
+    "text": "A message in a bottle. Yeah."
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:29)",
+    "text": "A message in a bottle. So you can go to a rose garden and trick the rose garden to think it’s 4:00 AM, essentially?"
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:07:36)",
+    "text": "You could if you wanted to, but maybe that is-"
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:38)",
+    "text": "Not trick. Trick is such a bad word."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:07:40)",
+    "text": "Right. Right."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:41)",
+    "text": "Inspire."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:07:43)",
+    "text": "Inspire I like. I like the idea of providing nature with a choice, which is why I love that elegant mathematical equation of empowerment and agency."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:53)",
+    "text": "Empower the rose garden to create a romantic moment for the wearer of the fragrance."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:08:00)",
+    "text": "But now again you’re, again, all of this to go back to that human-centric notion of romance. But maybe there’s another way to do romance that we haven’t yet explored. And maybe there’s a way to tap into what happens to the rose when it’s dreaming. Assuming that plants are sentient and assuming that we can tap into that sentient, what can we discover about what does the rose want? What does it actually want and what does it need? And what are the rose’s dreams?"
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:41)",
+    "text": "But do you think there’s some correlation in terms of romance, in terms of the word you sometimes use, magic? Is there some similarities in what humans want and what roses want and what nature wants?"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:08:53)",
+    "text": "I think so. I think there is. And if I did not think so, oh my goodness, this would not be a nice world to live in. I think we all want love. I recently read this beautiful letter that was written by Einstein to his daughter. Einstein asked his daughter to wait 20 years until she reveals these letters, and so she did. It’s just one of the most beautiful letters I’ve ever read from a father to his daughter. And the letter overall is imbued with a sense of remorse or maybe even feelings of sadness. And there is some kind of melancholy note in the letter where Einstein regrets not having spent enough time with his daughter, having focused on the theory of general relativity and changing the world. And then he goes on to talk about this beautiful and elegant equation of E=MC^2. And he tells his daughter that he believes that love is actually the force that shapes the universe because it is like-"
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:10:03)",
+    "text": "Is actually the force that shapes the universe because it is like gravity, right? It attracts people. It is like light. It brings people together and connects between people, and it’s all empowering. And so if you multiply it by the speed of light, you could really change the world for the better. And call me a romanticist. I know you are too, which is why I so love being here. I believe in this. I totally and utterly believe in…"
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:34)",
+    "text": "In love. By the way, let me just excerpt from Einstein’s letter. “There’s an extremely powerful force that so far science has not found a formal explanation to. It’s a force that includes and governs all others and is even behind any phenomena operating in the universe and has not yet been identified by us. This universal force is love.” He also, the last paragraph in the letter, as you’ve mentioned, ” I deeply regret not having been able to express what is in my heart, which has quietly beaten for you all my life. Maybe it’s too late to apologize, but as time is relative,” that jokes to Einstein, “I need to tell you that I love you and thanks to you I have reached the ultimate answer. Your father, Albert Einstein.” By that regret, I deeply regret not having been able to express what is in my heart. Maybe that’s a universal regret, filling your days with busyness and silly pursuits and not sitting down and expressing that."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:11:43)",
+    "text": "But it is everything. It is everything. It is why I love that expression, and I forget who said this, but I love my daughter more than evolution required, and I feel the same way towards my other half. And I feel that when you find that connection, everything and anything is possible and it’s a very, very, very magical moment. So I believe in love and I believe in the one."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:27)",
+    "text": "It might be the same thing, it might be a different thing, but let me ask you a ridiculously big philosophical question about beauty. Dostoevsky said Beauty will save the world in The Idiot, one of my favorite books of his. What is beauty to you? You’ve created through this intersection of engineering and nature, you have created some incredibly beautiful things. What do you think is beauty?"
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:12:55)",
+    "text": "That’s a beautiful question."
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:57)",
+    "text": "Maybe it is connected to the love question."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:12:59)",
+    "text": "It is connected to the love question. Of course, everything is connected to the love question. To me, beauty is agency. To me, something that has agency, it is beautiful. There is this special quote from Buckminster Fuller, which I cannot remember word for word but I remember the concept, which goes something like this. When I work on a problem, I never think about beauty. But when I’m done solving the problem and I look at what I’ve created and it’s not beautiful, I know that I was wrong."
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:37)",
+    "text": "Okay, yeah."
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:13:38)",
+    "text": "It’s kind of an agency that speaks to the “objective function” of the creation, right? Whether for Bucky it’s useless or useful."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:49)",
+    "text": "So this idea of empowerment that you talked about, it’s fundamentally connected to it."
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:13:52)",
+    "text": "Comes back to that, yeah."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:54)",
+    "text": "What’s the difference that you hinted at between empowerment and emergence? Is emergence completely lacks control and empowerment is more controlled? There’s an agent making decisions? Is there an interesting distinction there?"
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:14:16)",
+    "text": "Yes. I think empowerment is a force with direction. It has directionality to it. Emergence is, I believe, multi-directional. Again, that depends on the application. Emergence is perhaps in terms of a material definition, is a tropic spirit. When empowerment, the end is a tropic counterpart, I think they overlap because I think that empowerment is a way of inspiring emergence. I think emergence does not happen without empowerment, but empowerment can happen without emergence."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:05)",
+    "text": "Do you think of emergence as the loss of control? When you’re thinking about these capsules and then the things they create, is emergence of things not a desirable conclusion?"
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:15:19)",
+    "text": "I love that question because to some of us, the loss of control is control. In design, we’re used to extreme levels of control over form and the shape of a thing and how it behaves and how it functions. And that’s something we’ve inherited from the industrial revolution. But with nature, there is this diversity that happens without necessarily having a reward function, right? This is good or bad. Things just happen and some of them happen to have wings and some of them happen to have scales, and you end up with this incredible potential for diversity. So I think the future of design is in that soft control, is in the ability to design highly controlled systems that enable the loss of control."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "",
+    "timestamp": "(01:16:14)",
+    "text": "And creativity is very much part of this because creativity is all about letting go and beginning again and beginning again and beginning again. And when you cannot let go, you cannot be creative and you can’t find novelty. But I think that letting go is a moment that enables empowerment, agency, creativity, emergence, and they’re all connected. They sort of associate themselves with definition of destiny or the inevitable. A good friend of mine shared with me elegant definition of fate, which is the ratio of who you are and who you want to be."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:01)",
+    "text": "Ratio of who you are, who want to be."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:17:04)",
+    "text": "Exactly. And that sort of ends up defining you and those tools, I think when you let go, you sort of find, you give peace to your will, to a sense of will. And so I think that’s very, very important in design, but also in life."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:23)",
+    "text": "She said this fate is the ratio of…"
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:17:25)",
+    "text": "Who you are and who you want to be."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:27)",
+    "text": "Who you want to be. Do you think there’s something to this whole manifestation thing like focusing on a vision of what you want the world to become and in that focusing you manifest it? Like Paula Coelho said in the Alchemist, “when you want something, all the universe conspires in helping you to achieve it.” Is there something to that?"
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:17:48)",
+    "text": "I think so, yes. And I always think of what I do as the culmination of energy, information, and matter and how to direct energy, information, and matter in the design of a thing or in the design of a life. I think living is very much a process of channeling these energies to where they need to go. I think that the manifestation or part of that manifestation is the pointing to the moon in order to get to the moon. And that’s why manifestation is also directional. It has that vector quality to it that I think of agency as."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:31)",
+    "text": "Have you in your own life. Has there been things you’ve done where you kind of direct that energy information and matter in a way that opens up?"
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:18:41)",
+    "text": "New possibilities?"
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:42)",
+    "text": "Yeah. I mean, you’ve also said somewhere, I’m probably misquoting, that many things, you, Neri, are many things and you become new things every 10 years or so."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:18:56)",
+    "text": "Oh, I did say that somewhere, that every decade you’ve sort of switched."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:00)",
+    "text": "That was a previous Neri that said that."
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:19:03)",
+    "text": "Yeah, I did say sometime ago that you have to sort of reboot every 10 years to keep creative and keep inventive and keep fresh."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:12)",
+    "text": "Is there are things you’ve done in your life where just doors opened?"
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:19:20)",
+    "text": "I think everything, everything, everything good I’ve found in my life has been found in that way of letting go and suspending my sense of disbelief. And often you will find me say to the team, suspend your disbelief. I don’t care that this is impossible. Let’s assume it is. Where does it take us? And that suspension of disbelief is absolutely part and parcel of the creative act. I did so when I was in medical school, I was in Hadassah and in the Hebrew University, and I remember I left medical school for architecture the day my grandmother passed away. And that was a moment of relief and that was a door that was closing that opened other opportunities. But that of course required letting go of the great vision of becoming a doctor and letting go of the dream of being surrounded by wonderful patients and the science of medicine and the research associated with that science. And letting go of that dream to accomplish another."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "",
+    "timestamp": "(01:20:43)",
+    "text": "And it has happened throughout my life in different ways. MIT was another experience like that where people pointed at me as the designer for whom the academic currency is not necessarily the citation index. And of course in order to get tenure at MIT, you have to look at the citation index. But for me it was not that. It was manifesting our work in shows and writing papers and writing patents and creating a celebration around the work. And I never saw a distinction between those ways of being. I also think that another kind of way of being or a modality of being that I found helpful is Viktor Frankl wrote this incredible book, Men’s Search for Meaning after the Holocaust. And he writes, different people pursue life for different reasons. According to Freud, the goal of life is to find pleasure and according to Adlers, to find power."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "",
+    "timestamp": "(01:21:54)",
+    "text": "And for Viktor Frankl, it was about finding meaning. And when you let go of the titles and the disciplines and the boundaries and the expectations and the perception, you are elevated to this really special, yes, spiritual, but definitely very, very creative plane where you can sort of start anew, look at the world through the lens of a bacterium or a robot, or look at ecology through the lens of chemistry and look at chemistry through the lens of robotics and look at robotics through the lens of microbial ecologies and so on and so forth. And I feel that kind of rebooting not every 10 years, but every minute, every breath, is very, very important for a creative life and for just maintaining this fresh mind to reboot, reboot, to begin again with every breath, begin again. And that can be confusing some. For my team members, I like to change my mind. It’s who I am, it’s how I think, it’s how I operate."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "",
+    "timestamp": "(01:23:11)",
+    "text": "And they’ll come and we found another technique or another technology that’s interesting and we thought that we were working on this functionalized fragrance, but now there’s another opportunity and let’s go there. And to me, I would much rather live life, like if I had to pick sort of my favorite Broadway show to enter and live through, it would be Into The Woods. It’s not a specific fairytale. It’s not the Sleeping Beauty or Little Red Riding Hood or Rapunzel, it’s all of them. It’s sort of moving into the forest and seeing this wonder and getting close and learning about that and then moving to another wonder. And life is really about tying all of these little fairytales together in work and also in life."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:06)",
+    "text": "Unafraid to leap into the unknown?"
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:24:07)",
+    "text": "Unafraid to leap into the unknown."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:08)",
+    "text": "Speaking of MIT, you got a tenure at MIT and then you leaped to New York and started a new company that with a vision that doesn’t span a couple of years, but centuries."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:24:21)",
+    "text": "I did. It was my destiny to start a company. And do I have mornings when I wake up and I ask myself what the hell am I doing? Yes, I have those mornings."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:32)",
+    "text": "What do you do with those mornings, by the way?"
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:24:33)",
+    "text": "I embrace them and I find gratitude and I say to myself, thank goodness. I am so lucky to have the ability to be frustrated in this way. So I really, really embrace these frustrations and I take them, I wrap them in a bubble and I look at it on the outside of my aware mind and I laugh at them, I smile at them."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:11)",
+    "text": "If I could return actually to the question of beauty for a second, I forgot to ask you something. You mentioned imperfection in the death masks. What role does imperfection play in our conception of beauty? What role does imperfection play in nature? There’s this Japanese aesthetics concept of wabi-sabi, which basically embraces imperfection. Nothing lasts, nothing is finished, and nothing is perfect. What do you think of that?"
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:25:45)",
+    "text": "I totally agree that change is the only permanence. That imperfection is there if only to signal that we are part of a bigger thing than ourselves, that we are on a journey, that things are in movement. And if they were perfect, of course, when things are perfect, it is just so boring. We end up with stereotypes. And as humans, but I think just in general as living beings, we’re here to find meaning and that meaning cannot be found without struggle and without seeking to, not to perfect, but to build towards something better. When I was a child, my mother who I love so much, always explained to me how important it is to fall and to fail and to fight and to argue, and that there is a way, that there’s a culture to failing and to imperfection. So I think it is necessary for something beautiful to be imperfect and it is a sign of nature because nothing in nature is perfect."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:09)",
+    "text": "What about human relations? You mentioned finding love. Are the flaws in humans, imperfection in humans, a component of love? What role do you think the flaws play?"
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:27:23)",
+    "text": "That’s a really profound question. I think the flaws are there to present a vulnerability, and those flaws are a sign of those vulnerabilities. And I think love is very, very gentle, right? Love with Bill, we often talk about between the two of us, about what drives all human behavior. And for him it’s incentive, as you might expect, and he will repeat this sentence to me, oh, incentive drives all human behavior. But I would say to me it’s love, very much so. And I think flaws are part of that because flaws are a sign of that vulnerability, whether physical, whether emotional vulnerability, and these vulnerabilities, they either tear us apart or they bring us together."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "",
+    "timestamp": "(01:28:36)",
+    "text": "The vulnerability is what is the glue. I think that the vulnerability enables connection. The connection is the glue, and that connection enables accessing a higher ground as a community as opposed to as an individual. So if there is a society of the mind, or if there are higher levels of awareness that can be accessed in community as opposed to again, going to the silkworm, as opposed to on the individual level, I think that those occur through the flaws and the vulnerabilities. And without them we cannot find connection, community. And without community, we can’t build what we have built as a civilization for the past hundreds of thousands of years. So I think not only are they beautiful, but they have a functional role in building civilizations."
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:32)",
+    "text": "Yeah, there’s a sense in which love requires vulnerability and maybe love is the leap into that vulnerability."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:29:40)",
+    "text": "And I think yes, I think a flaw, think about it physically, I’m thinking about a brick that’s flawed, but in a way I think of a flaw as an increased surface area."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:02)",
+    "text": "That’s a good line. That’s a good line."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:30:03)",
+    "text": "A surface area that physically or emotionally, right, it sort of introduces this whole new dimension to a human or a brick. And because you have more surface area, you can use mortar and build a home. And yeah, I think of it as accessing this additional dimension of surface area that could be used for good or bad to connect, to communicate, to collaborate. It makes me think of that quote from this incredible movie I’ve watched years ago, Particle Fever, I think it was called, documentary about the large hadron collider, an incredible film, where they talk about the things that are least important for our survival are the things that make us human. Like the pure romantic act or the notion of, and Viktor Frankl talks about that too."
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "",
+    "timestamp": "(01:31:01)",
+    "text": "He talks about feeling the sun on his arms as he is working the soil in two degrees Fahrenheit without clothes. And the officer berates him and says, what have you done? Have you been a businessman before you came here to the camp? And he says, I was a doctor. And he said, you must’ve made a lot of money as a doctor. And he said, all my work I’ve done for free, I’ve been helping the poor. But he keeps his humility and he keeps his modesty and he keeps his preservation of the spirit. And he says the things that actually make him able to, or made him able to outlive the terrible experience in the Holocaust was really cherishing this moment when the sun hits his skin or when he can eat a grain of rice, a single grain of rice. So I think cherishing is a very important part of living a meaningful life, being able to cherish those simple things"
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:30)",
+    "text": "To notice them and to-"
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:32:32)",
+    "text": "To notice them, to pay attention to them in the moment, and I do this now more than ever."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:42)",
+    "text": "Bakowski has this poem called Nirvana where it tells a story of a young man on a bus going through North Carolina or something like this, and they stop off in a cafe and there’s a waitress and he talks about that he notices the magic, something indescribable, he just notices the magic of it. And he gets back on the bus with the rest of the passengers. And none of them seem to have noticed the magic. And I think if you just allow yourself to pause, just to feel whatever that is, maybe ultimately it’s a kind of gratitude for, I don’t know what it is. I’m sure it’s just chemicals in the brain, but it is just so incredible to be alive and noticing that and appreciating that and being one in that with others."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:33:38)",
+    "text": "Yes. Yes. And that goes back to the fireplace, right to the first technology. What was the first technology? It was fire, first technology to have built community. And it emerged out of a vulnerability of wanting to stay away from the cold and be warm together. And of course, that fire is associated with not only with comfort and the ability to form bio relevant nutrients in our food and provide heat and comfort, but also spirits and a kind of way to enter a spiritual moment, to enter a moment that can only be experienced in a community as a form of a meditative moment. There is a lot to be said about light. Light is, I think, an important part of these moments of, I think it’s a real thing. I really truly believe that we’re born with an aura surface area that is measurable. I think we’re born into the world with an aura. And how do we channel that really ends up sort of defining the light in our lives."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:24)",
+    "text": "Do you think we’re all lonely? Do you think there’s loneliness in us humans?"
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:35:26)",
+    "text": "Oh yes, yes. Loneliness is part, yes. I think we all have that loneliness, whether we’re willing to access that loneliness and look at it in the eye or completely, completely avoid it or deny it."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:44)",
+    "text": "It feels like it’s some kind of foundation for longing and longing leads to this combination of vulnerability and connection with others."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:35:55)",
+    "text": "Yes."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:56)",
+    "text": "It feels like that’s a really important part of being human as being lonely."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:35:59)",
+    "text": "Very. We are born into this world alone. Again, being alone and being lonely are two different things and you can be together, but be lonely and you can be alone but not be lonely at all. We often joke, Bill and I, that he cannot be lonely. He cannot deal with being by himself. He always needs people around him. And I strive, long, must have creative solitude, must find pockets of solitude and loneliness in order to find creativity and reconnect with myself. So loneliness is a recipe for community in my opinion. And I think those things compliment each other. And they’re synergetic, absolutely. The yin and yang of togetherness. And they allow you, I think, to reset and to tune in to that ratio we talked about of who you are and who you want to be."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:07)",
+    "text": "If you go to this place of creative solitude, what’s your creative process? Is there something you’ve noticed about what you do that leads to good work?"
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:37:18)",
+    "text": "I love to be able not only to lose focus, but kind of to focus on the peripheral view and to allow different things to occur at once. So I will often, in my loneliness journeys, I will often listen to Leonard Bernstein. Anything I can find online by Lenny Bernstein, it’s reading a nature paper, it’s War and Peace. It’s really revisiting all the texts that are so timeless for me with opportunities that are very, very timely. And I think for me, the creative process is really about bringing timeless problems or concepts together with timely technologies to observe them. I remember when we did the Mandela Pavilion, we read Moby Dick, the whiteness of the whale, the albino, the different the other, and that got us to work on melanin and melanine also is sort of an output from the death mass. So it’s lots of things happening at the same time and really allowing them to come together to form this view about the world through the lens of a spirit being or a living being or a material. And then focus on the world through the lens of that material."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "",
+    "timestamp": "(01:38:41)",
+    "text": "The glasswork was another project like that where we were fascinated by glass because obviously it’s superb material for architecture, but we created this new glass printing technology for the first time that was shedding light on the biomechanics of fluid glass, the math and the physics of which was never done before, which was so exciting to us, but revealing new knowledge about the world through technology. That’s one theme. The reincarnation between things, material and immaterial. That’s another theme. Lenny Bernstein, War and Peace, Tolstoy."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:18)",
+    "text": "You’ve tweeted a Tolstoy quote from War and Peace, as of course you would. Everything I know, I know because of love."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:39:27)",
+    "text": "Yeah, I love this quote."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:28)",
+    "text": "So you use these kind of inspirations to focus you and then find the actual idea in the periphery."
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:39:39)",
+    "text": "Yes. And then connect them with whatever it is that we’re working on, whether it’s high throughput, directed evolution of bacteria, whether it’s recreating that Garden of Eden in the capsule and what it looks like, the food of the future. It is a little bit like directing a film. Creating a new project is a bit like creating a film. And you have these heroes, you have these characters and you put them together and there is a narrative and there’s a story. Whenever we start a new project, it has to have these ingredients of simultaneous complexity. It has to be novel in terms of the synthetic biology, material science, robotics, engineering, all of these elements that are discipline based or rooted must be novel."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "",
+    "timestamp": "(01:40:31)",
+    "text": "If you can combine novelty in synthetic biology with a novelty in robotics, with a novelty in material science, with a novelty in computational design, you are bound to create something novel, period. And that’s how I run the company and that’s how I pick the people. And so that’s another very, very important ingredient of the cutting edge across multiple disciplines that come together. And then in the background, in the periphery, there is all these messages, the whispers of the ancient oldies, right? The Beethoven’s and the Picassos."
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:05)",
+    "text": "So Beethoven’s always whispering to you."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:41:07)",
+    "text": "Yeah. How could one not include Beethoven in the whispers?"
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:11)",
+    "text": "I’m going to ask you about Beethoven and the Evgeny Kissin you’ve mentioned because I’ve played piano my whole life. I obviously know a lot of Beethoven and it’s one of the private things for me, I suppose, because don’t think I’ve ever publicly played piano.-"
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:41:25)",
+    "text": "By the way. Me too."
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:25)",
+    "text": "I mean at night-"
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:41:30)",
+    "text": "I play in private only."
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:32)",
+    "text": "People sometimes even with guitar, people ask me, can you play something? And it just feels like certain things are"
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:41:38)",
+    "text": "Are meant to be done-"
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:41:39)",
+    "text": "Privately. Yeah, it’s weird. I mean it’s a difficult, and some of the times I have performed publicly, it is an ultimate leap in vulnerability. It’s very, very, very difficult for me. And I’m sure, I know it’s not for a lot of people, but it is for me. Anyway, we’ll return to that. But since you’ve mentioned combination of novelty across multiple disciplines and that’s what you seek when you build teams or pick people you work with, I just wanted to linger on this idea of what kind of humans are you looking for in this endeavor that you’re taking on, this fascinating thing that you’ve been talking about. One of the things somewhere else, a previous version, version 5.7 of Neri said somewhere that there’s four fields that are combined to create this intersection of biology and engineering work, and it’s computational design, additive manufacturing, material engineering, synthetic biology. I’m sure there’s others, but how do you find these humans? Machine learnings in the mix."
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:42:45)",
+    "text": "I manifest and they come, there are a few approaches to-"
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:42:50)",
+    "text": "Manifest."
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:42:53)",
+    "text": "They show up."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:42:55)",
+    "text": "Okay."
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:42:55)",
+    "text": "Send your message upon the water. I mean those job descriptions that you saw, the first ones I wrote by myself, and you find interesting people and brilliant people when you look, we talked about second derivative. When you look under and under and under. And if you look deep enough and specialized enough and if you allow yourself to look at the cracks, at the flaws, at the cracks between disciplines and between skills, you find really, really interesting diamonds in the rough. And so I like for those job descriptions to be those messages in a bottle that bring those really interesting people our way. I mean, they have to have humility. They have to have a shine in their eye. They have to be hungry and foolish, as Steve Jobs so famously said."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "",
+    "timestamp": "(01:43:49)",
+    "text": "A friend of mine who’s a dean of well-known architectural school said today, architects don’t want to be architects. Architects don’t look up to the starchitects as role models. Starchitects are no longer role models. Architects want to build by virtue of not building. Architects want, she said, we’re back in the sixties when we think about architecture back in the hippie movement, I think that in a way they have to be somewhat of a hippie, somewhat of a kind of jack of all trades, master of all."
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:26)",
+    "text": "And yet with humility."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:44:27)",
+    "text": "And yet with humility. Now that is hard to find and that is why when I start an interview, I talk about childhood memories and I asked about music and I ask about connection. And through these interviews you can learn a lot about a person’s future by spending time hearing them talk about their past."
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:44:52)",
+    "text": "Do you find that educational, like PhDs versus, what’s the life trajectory? Yours is an interesting life trajectory too. What’s the life trajectory that leads to the…"
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:45:03)",
+    "text": "What’s the life trajectory that leads to the kind of person that would work with you?"
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:45:07)",
+    "text": "It’s people who have ideally had industry experience and know what it’s like to be in the quote unquote real world. They’re dreamers that are addicted to reality as opposed to realists that are addicted to dreams, meaning they have that innocence in them, they have the hunger, they have the idealism without being entitled and with understanding the systems that govern our world and understanding how to utilize these systems as Trojan horses to bring those values into the world. There are individuals who feel comfortable in this friction between highly wondrous and dreamy and incredible fantasy renditions of what the world could be and extremely brilliant skills in terms of their disciplinary background. PhD with industrial experience in a certain field or a double major in two fields that make no sense whatsoever in their combination."
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:17)",
+    "text": "I love it. Yeah."
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:46:17)",
+    "text": "Are things that really, really attract me."
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:19)",
+    "text": "Especially the span, the technology biology gap."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:46:24)",
+    "text": "Yes. Technology, biology, nature, culture. I mean, the secret to one thing is through the lens of another. And I always believe in that kind of translational design ability to be able to see something through the lens of another and always allows you to think again, begin again, reestablish, redefine, suspend your disbelief, revisit. And when you revisit enough times like a hundred times or 200 times and you revisit the same question through the lens of any possible discipline and any possible scenario, eventually you get to the truth."
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:59)",
+    "text": "I have to ask you, because you work at the interplay of the machine and the natural world, is there a good definition for you of what is life? What is a living organism?"
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:47:15)",
+    "text": "I think 440 million years ago, there were all these plants, the cyanobacteria I believe actually. That was the first extinction. There were five extinctions. We are apparently the sixth. We are in the eye of the storm. We are in the sixth extinction. We are going to be extinct as we speak. I mean, death is upon us whether we want to admit it or not."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "",
+    "timestamp": "(01:47:42)",
+    "text": "And actually they found in Argentina and in various places around the world, they found these spores of the first plants that existed on the planet. And they emerged out of these … Cyanobacteria were the first of course, and then they found these spore based plants. And because they didn’t have seeds there were only spores. The spores became sort of the fossils by which we’ve come to known of their existence. And because of these spores, we know that this first extinction existed."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "",
+    "timestamp": "(01:48:18)",
+    "text": "But this extinction is actually what enabled plants to resurrect. The death of these first plants, because they clinked to the rocks and they generated a ton of phosphorus that went into the ocean by clinging to the rocks 60 times more phosphorus than without them. And then all this phosphorus basically choked the oceans and made them super cold and without oxygen, anoxic. And then we lost the plant kingdom, and then because of the death of these first plants, they actually enriched the soil and created nutrients for these new plants to come to the planet. And those planets had more sophisticated vein systems and they were moving beyond spores to seeded plants, et cetera, and flowering plants. And so in a way, one mass extinction or the division period led to life as we know it. And where would we be without plants in a way?"
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "",
+    "timestamp": "(01:49:31)",
+    "text": "I think that death is very much part of life and through that definition, that kind of planetary wide definition in the context of hundreds of millions of years, life gains a completely new light. And that’s when the particles become a wave, where humans, we are not alone and we are here because of those plants. I think death is very much part of life. In the context of the redwood tree, perhaps life is defined as 10 generations. And through the lens of a bacteria, perhaps life is defined as a millisecond. And perhaps through the lens of an AGI, life is defined as all of human civilization. And so I think it really is a question of this timescale again, the timescale and the organism, the life form that’s asking the question through which we can answer, what is life?"
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:50:36)",
+    "text": "What do you think about this? If we think of ourselves in the eye of the storm of another extinction, the natural question to ask here is you have all of nature and then you have this new human creation that is currently being termed artificial intelligence. How does your work play with the possibility of a future super intelligent ecosystem, an AGI that either joins or supersedes humans?"
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:51:13)",
+    "text": "I’m glad you asked this question."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:51:15)",
+    "text": "And are you hopeful or terrified?"
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:51:17)",
+    "text": "Both. I’m hopeful and terrified. I did watch your interview with Eliezer Yudkowsky and I loved it"
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:51:25)",
+    "text": "Because you were scared or because you were excited or because there was a [inaudible 01:51:29]?"
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:51:28)",
+    "text": "First of all, I was both. Totally scared, shamed, excited, and totally also inspired because he’s just such an incredible thinker. And I can agree or disagree with what he says, but I just found his way of thinking about AGI and the perils of humanity as a result."
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:51:53)",
+    "text": "There’s an inevitability to what he’s saying. His advice to young people is that prepare for a short life. He thinks it’s very almost simple. It’s almost common sense that AGI would get rid of humans, that he can’t imagine a trajectory eventually that leads to a place that doesn’t have AGI kill all humans. There’s just too many trajectories where a super intelligent systems gets rid of humans and in the near term. And so that clarity of thinking is very sobering. To me, maybe it is to you as well, it’s super inspiring because I think he’s wrong, but it’s like you almost want to prove him wrong. It’s like, “No, we humans are a clever bunch. We’re going to find a way.”"
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:52:48)",
+    "text": "It is a bit like jumping into super cold water. It’s sort of a kind of fist in your face. It wakes you up. And I like these moments so much, and he was able to bring that moment to life, even though I think a mother can never think that way ever. And it’s a little bit like that notion of I love her more than evolution requires."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "",
+    "timestamp": "(01:53:14)",
+    "text": "On your question about AGI and nature, look, I think we’ve been through a lot in terms of to get here, we sort of moved from data, the ability to collect information to knowledge, the ability to use this information for utility, from knowledge to intelligence. And what is intelligence? It’s the ability to problem solve and adapt and translate. That’s sort of from data to information to knowledge. I think the next frontier is wisdom. And what is wisdom? Wisdom is the ability to have or find insight about the world and from wisdom to spiritual awareness, which sort of transcends wisdom and is able to chart the world into new territory."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "",
+    "timestamp": "(01:53:58)",
+    "text": "But I think what is interesting about AGI is that it is sort of almost like a self recursive thing, because it’s like a washing machine of a third derivative Wikipedia. It uses kind of language to create language, to create language, to create language."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:54:15)",
+    "text": "It feels like novelty is being constantly created. It doesn’t feel like it’s regurgitating."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:54:20)",
+    "text": "And that’s so fascinating because these are not the stochastic parrots. This is sort of a new form of emergence perhaps of novelty as you say, that exists by virtue of using old things to create new things."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "",
+    "timestamp": "(01:54:38)",
+    "text": "But it’s not as if the AGI has self-awareness. Maybe. Maybe it has, but as far as I can tell, it’s not as if AGI has approached consciousness or sentience just yet. It’s probably getting there. But the language appears to present itself as if there is sentience there, but it doesn’t. But I think that’s the problem at the point where this AGI sounds like me and speaks like me and behaves like me and feels like me and breathes like me and my daughter knows the AGI to be me as sort of the end of everything is the end of human agency."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "",
+    "timestamp": "(01:55:23)",
+    "text": "But what is the end of human agency to humans I think is the beginning of agency to nature. Because if you take all of this agency, if you take all of these language models that can summarize all of human civilization and consciousness and then upload that to nature and have nature now deal with that world of consciousness that it never had access to."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "",
+    "timestamp": "(01:55:49)",
+    "text": "Maybe through Eliezer’s lens, the sort of short-lived human becomes sort of a very long-lived humanlike, sentient, weeping willow. Maybe that’s the end in the beginning. And maybe on the more optimistic side for us humans, it’s a different form of existence where everything we create and everything we consume and everything we process is all made out of six elements and that’s it. And there’s only those six elements and not 118 elements. And it’s all the stuff of biology plus some fair amount of bits, genes, and atoms. A lot of Beethoven."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:56:44)",
+    "text": "A lot of Beethoven. I think the idea of connecting AGI to nature through your work is really fascinating. Sort of unlocking this incredible machinery of intelligence that is AGI and connecting it to the incredible machinery of wisdom that is nature has evolved through billions of years of pretty crazy intense evolution."
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:57:15)",
+    "text": "Exactly. Again, I’m going back to directed evolution. Unlike this sort of high throughput brute force approach, if there is a way to utilize this synergy for diversity and diversification, what happens if you ask a ChatGPT question, but it takes 10,000 years to answer that question? What does that look like when you completely switch the timescale and you can afford the time to answer the question? And again, I don’t know, but that world to me is possibly amazing."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:58:10)",
+    "text": "Because when we start to think about timescales like this, just looking at earth, all the possible trajectories it might take of this living organism that is earth, do you think there’s others like it? Do you think there’s other planets with life forms on them that are just doing their thing in this kind of way?"
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:58:26)",
+    "text": "Planets."
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:58:27)",
+    "text": "Because in what you’re doing, you’re directly playing with what’s possible with life, lifelike things. That kind of maps the question of, well, what kind of other things are possible elsewhere? Do you think there’s other worlds full of life, full of alien life out there?"
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "Neri Oxman",
+    "timestamp": "(01:58:50)",
+    "text": "I’ve studied the calculations that point towards the verdict that the possibility of life in and around us is very, very low. We are a chosen planet in a way. There’s water and there’s love. What else do you need? And that sort of very peculiar juxtaposition of conditions, the oxygen, the water, the carbon again, is in a way a miracle given the massive extinctions that we’ve been through as life forms."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "",
+    "timestamp": "(01:59:33)",
+    "text": "And that said, I cannot believe that there is no other life form. I want to believe more than I know that yes, that there are life forms in the white fountain that is the black hole, that there are these life forms that are light years away from us, that are forming other forms of life forces."
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:05)",
+    "text": "I’m much more worried about probably the thing that you’re working on, which is that there’s all kinds of life around us that we’re not communicating with."
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:00:17)",
+    "text": "Yes."
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:18)",
+    "text": "That there’s aliens in a sense all around us that we’re not seeing, that we’re not talking to, that we’re not communicating. Because that to me just seems the more likely situation."
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:00:30)",
+    "text": "That they’re here."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:00:31)",
+    "text": "That they’re here, they’re all around us in different forms, that there’s a thing that connects all of us, all of living beings across the universe, and we’re just beginning to understand any of it. And I feel like that’s the important problem is I feel like you can get there with the tools of science today by just studying life on earth. Unlock some really fundamental things that maybe you can start to answer questions about what is consciousness? Maybe this thing that we’ve been saying about love, but honestly, in a serious way. And then you’ll start to understand that there is alien life all out there, and it’s much more complicated and interesting than we kind of realize as opposed to looking to exactly human-like things. It’s the variety of life that’s possible is just almost endless."
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:01:28)",
+    "text": "I totally agree with you. I think again, define alien, right?"
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:01:36)",
+    "text": "Yeah. Define intelligence, define life."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:01:39)",
+    "text": "Right. And Marvin Minsky used to say, “Intelligence is a suitcase word.” It’s a word so big. It’s a word like sustainability, and it’s a word like rock and roll. And suitcase words are always very, very dangerous."
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:01:55)",
+    "text": "Speaking of rock and roll, you’ve mentioned music and you mentioned Beethoven a bunch of times. You’ve also tweeted about you getting Kiss in performance and so on. What can you say about the role of music in your life?"
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:02:09)",
+    "text": "I love music. I always wondered why is it that plastic arts, meaning architecture and sculpture and painting, can’t get us to cry and music gets us to cry so quickly and connect so quickly? And no wonder that plants also respond to music, but that is at the top of the creative pyramid in my opinion."
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:02:33)",
+    "text": "It’s a weird mystery that we’re so connected to music. Well, by the way, to push back, a good bridge will make me cry."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:02:41)",
+    "text": "It’s true. And I will say when I visited the Segreta Familia, I had that kind of spiritual reverence towards that spatial experience and being in that space and feeling the intention and the space and appreciating every little gesture. It’s true. It is the universal language. It’s the language of waves. It’s the language of the waves, not the language of the particles. It is the universal language, I believe, and that is definitely one of my loves."
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:03:16)",
+    "text": "And you said that if you weren’t doing what you were doing now, perhaps you would be a film director. I have to ask, what do you think is the best film of all time? Maybe top three?"
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:03:30)",
+    "text": "Maybe The Godfather."
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:03:33)",
+    "text": "Godfather, okay."
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:03:34)",
+    "text": "The Godfather is definitely up there. Francis Coppola is one of my heroes."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:03:39)",
+    "text": "Have you met him?"
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:03:40)",
+    "text": "I have met him, yes. Yes, yes. We were very lucky to work with him on his new film, Megalopolis, which is coming out I hope in 2024. And think about the cities of the future in the context of new materials and the unity between nature and culture. Godfather is definitely up there."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "",
+    "timestamp": "(02:04:02)",
+    "text": "2001 is up there. I would watch that film again and again and again. It’s incredible. The last scene in Odyssey 2001, just watch the last scene of 2001, then listen to Yudkowsky, and then go to the garden. And that’s pretty much the end in the beginning."
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "",
+    "timestamp": "(02:04:27)",
+    "text": "But that scene, that last scene from 2001 is everything. It says so much with so little and it’s sort of the embodiment I believe, of ambivalence. And there’s opportunity to believe in the beginning of humankind, the end of humankind, the planet, child star or star child of the future. Was there a death? Was there an reincarnation? That final scene to me is something that I go back to and study, and every time there is a different reading of that scene that inspires me. That scene, and then the first scene in The Godfather, still one of the best scenes of all times, sort of a portrait of America, the ideals and values that are brought from Italy."
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:23)",
+    "text": "A family of loyalty."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:05:25)",
+    "text": "Yes."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:05:26)",
+    "text": "Of values of how different values are constructed."
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:05:29)",
+    "text": "Yes. Loyalty and the human spirit and how Coppola celebrates the human spirit through the most simple gestures in language and acting. And I think in Kubrick you see this highly curated and controlled and manicured vision of creating a film. And with Francis, it’s like an Italian feast. It’s like anything can happen at any moment in time. And just being on the set with him is an experience I’ll take with me to my grave. It’s very, very, very special."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:06:12)",
+    "text": "And you said music is also part of that, of creating a feeling in the movies?"
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:06:13)",
+    "text": "Yeah, actually The Godfather, that tune-"
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:06:21)",
+    "text": "That makes me emotional every time on some weird level."
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:06:25)",
+    "text": "Yeah. It’s one of these tunes I’m sure that if you play it to a Jasmine, you’ll get the best scent of all times. But I think with that particular tune, I learned staccato as something very, very happy and joyous. And then made into this stretched in time and became kind of the refrain of nostalgia and melancholy and loyalty and all of these values that ride on top of this one single tune."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:07:05)",
+    "text": "And you can play it in all kinds of different ways. I’ve played it on guitar and all kinds of different ways. And I think in Godfather III, the son plays it on guitar to the father. I think this happens in movies, but sometimes a melody, and it has a simple melody, you can just like-"
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:07:22)",
+    "text": "And the Straus melody in 2001. And when you juxtapose this melodies with this scene, you get this, again, hole that’s bigger than some of its parts where you get this moment, I think. These are the moments I would send with the next Voyager to outer space. The Godfather in 2001 would definitely beyond that golden record."
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:07:54)",
+    "text": "You are an incredibly successful scientist, engineer, architect, artist, designer. You’ve mentored a lot of successful people. Can you give advice to young people listening to this of how to have a successful career and how to have a successful life?"
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:08:14)",
+    "text": "Look, I think there’s this beautiful line in Sheltering Sky. How many times have you seen a full moon in your life and actually took the time to ingest and explore and reflect upon the full moon? Probably 20, I believe he says."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "",
+    "timestamp": "(02:08:35)",
+    "text": "I spend time with a full moon. I take my time with a full moon and I pay attention to a full moon. And I think paying attention to the seasons and taking time to appreciate the little things, the simple things is what makes a meaningful life. I was very lucky to have grown up in a home that taught me this way of being. My parents, my grandmother, who played a very important role in my growing up. And that ability to pay attention and to be present is so, so, so, so … I could not emphasize it enough, is so crucial."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:09:39)",
+    "text": "And be grateful."
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:09:40)",
+    "text": "And be grateful. I think gratitude and presence, appreciation are really the most important things in life."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:09:53)",
+    "text": "If you could take a short tangent about your grandmother who’s played a big role in your life, what do you remember? What lessons have you learned from her?"
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:10:05)",
+    "text": "She had this blanket that she would give me every time I came back from school and say, “Do your homework here and meet with your friends here.” And it was always in her garden. And her garden in my mind was ginormous. But when last I went there and saw the site, which has now become the site for another tall building, it was a tiny, tiny little garden that to me, seemed so large when I was growing up because it had everything. It had fig trees, it had olive trees, it had mushrooms, it had the blanket. I would do my homework there. It was everything. And I needed nothing else. And that was my Garden of Eden. That was my childhood being."
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "",
+    "timestamp": "(02:10:53)",
+    "text": "And we would lie on the blanket and look at the clouds and reflect upon the shapes of the clouds and study the shapes of the plants, and there was a lot of wonder in that childhood with her. And she taught me the importance of wonder in an eternal childhood and living adulthood as a child. And so I am very, very grateful for that. I think it is the sense of wonder, the speaking up was always something that she adhered to, to speak up your truth, to be straightforward, to be positive."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "",
+    "timestamp": "(02:11:42)",
+    "text": "These are things that I also got from my mom. And from my mom, the sense of humor. She had the best sense of humor that I could think of and was just a joy to be around. And my father taught me everything. My father taught me everything I know. My mom taught me everything I feel."
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:12:02)",
+    "text": "That’s a good way to put it."
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:12:02)",
+    "text": "My grandma taught me everything I insight."
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:12:08)",
+    "text": "Well, I see the sense of wonder that just carries through everything you do. So I think you make your grandmother proud."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "",
+    "timestamp": "(02:12:17)",
+    "text": "Well, what about advice for how to have a career? You’ve had a very interesting career and a successful career, but not an easy one. You took a few leaps."
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:12:29)",
+    "text": "I did take a few leaps and they were uncomfortable. And I’ll never forget, I think we were listening to a Rolling Stone song in the kitchen, and my dad was actually born in Boston. He’s American. He said, “I started to have sort of these second thoughts about continuing my education in Israel, and I was on my way to London to the Architectural Association to do my diploma studies there.” And he looked at me and he said, “Get out of here kiddo. You got to get out of here. You’ve outgrown where you’re at. You need to move forward.”"
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "",
+    "timestamp": "(02:13:16)",
+    "text": "Another thing he had taught me, the feeling of discomfort. As you say, the feeling of loneliness and discomfort is imperative to growth. Growth is painful. Period. Any form of growth is difficult and painful. Birth is difficult and painful, and it is really, really important to place yourself in situations of discomfort. I like to be in a room where everyone in the room is more intelligent than me. I like to be in that kind of state where the people that I surround myself with are orders of magnitude more intelligent than I am. And I can say that that is true of all of my team members, and that’s the intellectual discomfort that I feed off of. The same is true for physical exertion. You got to put yourself in these uncomfortable situations in order to grow, in order to find comfort."
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "",
+    "timestamp": "(02:14:19)",
+    "text": "And then on the other hand is love, is finding love and finding this other human that compliments you and that makes you a better version of the one you are and even of the one you want to be. But with gratitude and attention and love, you can go so, so far."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "",
+    "timestamp": "(02:14:51)",
+    "text": "To the younger generation, I don’t speak of a career. I never thought of my work as my career, ever. And there was this constant entanglement between life and work and love and longing and being and mothering. It’s all the same. And I appreciate that to some people that doesn’t work in their arrangement of will versus comfort versus the reality. But for me, it has always worked. I think to the younger generation, I say, don’t think of your career. A career is something that is imposed upon you. Think of your calling. That’s something that’s innately and directionally moves you, and it’s something that transcends a career."
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "",
+    "timestamp": "(02:15:47)",
+    "text": "Similarly, you can think about the difference between learning versus being educated. Being educated is something that’s given to you that’s external, that’s being imposed, that’s top down imposed, whereas learning is something that comes from within. It’s also the difference between joy and happiness. Many times I’m sad and I’m still joyous. And it’s very, very important to understand the difference between these externally perceived success paths and internally driven value-based ways of being in the world."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "",
+    "timestamp": "(02:16:22)",
+    "text": "And together, when we combine the broken puzzle, let’s say, of substance and vulnerability, we get this bigger gestalt, this wondrous world of a future that is peaceful, that is wholesome, and that proposes or advocates for that kind of synergy that we’ve been talking about throughout. But it’s all fun."
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:01)",
+    "text": "Well, thank you for this incredible conversation. Thank you for all the work you’re doing."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:17:05)",
+    "text": "Thank you."
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:06)",
+    "text": "And I just have to say that thank you for noticing me and listening to me. You’re somebody from just today and from our exchanges before this, there’s a sense where you care about me as a human being, which I could tell you care about other humans. Thank you for doing that. Thank you for having empathy and just really listening and noticing me that I exist. Thank you for that. I’ve been a huge fan of your work, been a huge fan of who you are as a human being. It’s just an honor that you would sit with me. Thank you."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:17:40)",
+    "text": "Thank you so much, Lex. I feel the same way. I’ll just say the same."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:46)",
+    "text": "And I look forward to hearing the response to my job application that I’ve submitted."
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:17:50)",
+    "text": "Oh, you’re accepted."
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:51)",
+    "text": "Oh, damn. All right, excellent."
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:17:53)",
+    "text": "We all speak of you all the time."
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:55)",
+    "text": "Thank you so much."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Neri Oxman",
+    "timestamp": "(02:17:55)",
+    "text": "Thank you, Lex."
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Lex Fridman",
+    "timestamp": "(02:17:56)",
+    "text": "Thank you, Neri. Thank you."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "",
+    "timestamp": "(02:17:58)",
+    "text": "Thanks for listening to this conversation with Neri Oxman. To support this podcast, please check out our sponsors in the description. And now let me leave you with some words from Leo Tolstoy, “Everything I know, I know because of love.” Thank you for listening. I hope to see you next time."
+  }
+]

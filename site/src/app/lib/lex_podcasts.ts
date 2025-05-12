@@ -74,7 +74,7 @@ export const lexPodcasts = [
     guest: "Marc Andreessen",
     uuid: "a535159c-016e-413f-beee-27ffe2a4b99c",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen_2.mp3",
-    transcript: "https://lexfridman.com/marc-andreessen-transcript"
+    transcript: "https://lexfridman.com/marc-andreessen-2-transcript"
   },
   {
     title: "#457 – Jennifer Burns: Milton Friedman, Ayn Rand, Economics, Capitalism, Freedom",
@@ -144,7 +144,7 @@ export const lexPodcasts = [
     guest: "Jordan Peterson",
     uuid: "a3a947f6-66ed-4fa0-8754-fd7f33775b87",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson_2.mp3",
-    transcript: "https://lexfridman.com/jordan-peterson-transcript"
+    transcript: "https://lexfridman.com/jordan-peterson-2-transcript"
   },
   {
     title: "#447 – Cursor Team: Future of Programming with AI",
@@ -214,7 +214,7 @@ export const lexPodcasts = [
     guest: "Elon Musk",
     uuid: "be1141d4-e7e8-44c4-9104-2667692f45c4",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_and_neuralink_team.mp3",
-    transcript: "https://lexfridman.com/elon-musk-transcript"
+    transcript: "https://lexfridman.com/elon-musk-and-neuralink-team-transcript"
   },
   {
     title: "#437 – Jordan Jonas: Survival, Hunting, Siberia, God, and Winning Alone Season 6",
@@ -235,7 +235,7 @@ export const lexPodcasts = [
     guest: "Andrew Huberman",
     uuid: "094b5f0f-d3db-4a8b-bd00-9887e792ad66",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_5.mp3",
-    transcript: "https://lexfridman.com/andrew-huberman-transcript"
+    transcript: "https://lexfridman.com/andrew-huberman-5-transcript"
   },
   {
     title: "#434 – Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet",
@@ -249,7 +249,7 @@ export const lexPodcasts = [
     guest: "Sara Walker",
     uuid: "3811c113-a6ea-4fab-adfc-81e7105aaf49",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker_3.mp3",
-    transcript: "https://lexfridman.com/sara-walker-transcript"
+    transcript: "https://lexfridman.com/sara-walker-3-transcript"
   },
   {
     title: "#432 – Kevin Spacey: Power, Controversy, Betrayal, Truth & Love in Film and Life",
@@ -1208,7 +1208,7 @@ export const lexPodcasts = [
     guest: "Douglas Murray",
     uuid: "30273ad2-ffa5-485d-b92c-373e7aae081d",
     url: "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray.mp3",
-    transcript: "https://lexfridman.com/douglas-murray-transcript"
+    transcript: "https://lexfridman.com/douglas-murray-2-transcript"
   },
   {
     title: "#295 – Richard Wolff: Marxism and Communism",

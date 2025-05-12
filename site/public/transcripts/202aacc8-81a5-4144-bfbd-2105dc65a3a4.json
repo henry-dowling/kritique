@@ -1,0 +1,1507 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:00)",
+    "text": "The following is a conversation with Lisa Randall, a theoretical physicist and cosmologist at Harvard. Her work involves improving our understanding of particle physics, supersymmetry, baryogenesis, cosmological inflation, and dark matter."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "",
+    "timestamp": "(00:00:15)",
+    "text": "This is the Lex Friedman podcast. To support it, please check out our sponsors in the description. Now, dear friends, here’s Lisa Randall."
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "",
+    "timestamp": "(00:00:24)",
+    "text": "One of the things you work on and write about is dark matter. We can’t see it, but there’s a lot of it in the universe. You also end one of your books with a Beatles song quote, “‘Got to be good-looking because he’s so hard to see.” What is dark matter? How should we think about it given that we can’t see it? How should we visualize it in our mind’s eye?"
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:00:47)",
+    "text": "I think one of the really important things that physics teaches you is just our limitations, but also our abilities. The fact that we can deduce the existence of something that we don’t directly see is really a tribute to people that we can do that. It’s also something that tells you, you can’t overly rely on your direct senses. If you just relied on just what you see directly, you would miss so much of what’s happening in the world."
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "",
+    "timestamp": "(00:01:15)",
+    "text": "We can generalize this, but just for now to focus on dark matter, it’s something we know is there, and it’s not just one way we know it’s there. In my book, Dark Matter and the Dinosaurs, I talk about the many different ways. There’s eight or nine that we deduce not just the existence of dark matter, but how much is there, and they all agree."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "",
+    "timestamp": "(00:01:36)",
+    "text": "Now, how do we know it’s there? Because of its gravitational force. Individually, a particle doesn’t have such a big gravitational force. In fact, gravity is an extremely weak force compared to other forces we know about in nature, but there’s a lot of dark matter out there. It carries a lot of energy. Five times the amount of energy as the matter. We know that’s in atoms, et cetera."
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "",
+    "timestamp": "(00:02:00)",
+    "text": "You can ask, how should we think about it? It’s just another form of matter that doesn’t interact with light, or at least as far as we know. It interacts gravitationally, it clumps, it forms galaxies, but it doesn’t interact with light, which means we just don’t see it. Most of our detection, before gravitational wave detectors, we only saw things because of their interactions with light in some sense."
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:25)",
+    "text": "In theory, it behaves just like any other matter, it just doesn’t interact with light."
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:02:30)",
+    "text": "When we say it interacts just like any other form of matter, we have to be careful because gravitationally, it interacts like other forms of matter, but it doesn’t experience electromagnetism, which is why it has a different distribution."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "",
+    "timestamp": "(00:02:44)",
+    "text": "In our galaxy, it’s roughly spherical unless it has its own interactions, that’s another story. We know that it’s roughly spherical, whereas ordinary matter can radiate and clumps into a disk. That’s why we see the Milky Way disk. On large scales, in some sense, yes, all the matter is similar in some sense."
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "",
+    "timestamp": "(00:03:06)",
+    "text": "In fact, dark matter is in some sense more important because it can collapse more readily than ordinary matter because ordinary matter has radiative forces, which makes it hard to collapse on small scales. Actually it’s dark matter that drives galaxy formation and then ordinary matter comes along with it."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "",
+    "timestamp": "(00:03:30)",
+    "text": "There’s also just more of it, and because there’s more of it can start collapsing sooner. That is to say the energy density in dark matter dominates over radiation earlier than you would if you just had an ordinary matter."
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:43)",
+    "text": "It’s part of the story of the origin of the galaxy, part of the story of the end of the galaxy, and part of the story of all the various interactions throughout."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:03:50)",
+    "text": "Exactly. In my book, I make jokes about, it’s like when we think about a building, we think about the architect, we think about the high level, but we forget about all the workers that did all the grunt work. In fact, dark matter was really important in the formation of our universe, and we forget that sometimes."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:07)",
+    "text": "That’s a metaphor on top of a metaphor. Okay. The unheard voices that do the actual work."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:04:16)",
+    "text": "Exactly. No, but it is a metaphor, but it also captures something because the fact is we don’t directly see it, so we forget it’s there or we don’t understand it’s there, or we think it’s not. The fact that we don’t see it makes it no less legitimate, it just means that we have challenges in order to find out exactly what it is."
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:04:35)",
+    "text": "Yeah, but the things we cannot see that nevertheless have a gravitational interaction with the things we can’t see is at the layman level, it’s just mind-blowing."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:04:49)",
+    "text": "It is and it isn’t because I think what it’s teaching us is that we’re human, the universe is what it is, and we’re trying to interact with that universe and discover what it is. We’ve discovered, amazing things."
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "",
+    "timestamp": "(00:05:03)",
+    "text": "In fact, I would say it’s more surprising that the matter that we know about is constitutes as big a fraction of the universe as it does. We’re limited, we’re human. The fact that we see 5% of the energy density of the universe, about one sixth of the energy density in matter, that’s remarkable. Why should that be? Anything could be out there, yet the universe that we see is a significant fraction."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:30)",
+    "text": "Yeah, but a lot of our intuition, I think operates using visualizations in the mind."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:05:36)",
+    "text": "That’s absolutely true. Certainly writing books, I realized also how many of our words are based on how we see the world, and that’s true. That’s actually one of the fantastic things about physics is that it teaches you how to go beyond your immediate intuition to develop intuitions that apply at different distances, different scales, different ways of thinking about things."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:57)",
+    "text": "Yeah. How do you anthropomorphize dark matter?"
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:06:01)",
+    "text": "I just did, I think. I made it the grunt workers."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:04)",
+    "text": "Oh yeah, that’s good. You did. That’s why you get paid the big bucks and write the great books. Okay, you also write in that book about dark matter, having to do something with the extinction events, the extinction of the dinosaurs, which is a fascinating presentation of how everything is connected."
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "",
+    "timestamp": "(00:06:28)",
+    "text": "I guess the disturbances from the dark matter, they create gravitational disturbances in the Oort Cloud at the edge of our solar system, and then that increases the rate of asteroids hitting earth."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:06:42)",
+    "text": "I want to be really clear, this was a speculative theory."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:44)",
+    "text": "I love it, though."
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:06:48)",
+    "text": "I liked it too. We still don’t know for sure, but what we liked about it… Let me take a step back. We usually assume that dark matter, we being physicists, that it’s just one thing. It’s just basically non-interacting aside from gravity or very weakly interacting matter."
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "",
+    "timestamp": "(00:07:11)",
+    "text": "Again, we have to get outside this mindset of just humans and ask what else could be there. What we suggested is that there’s a fraction of dark matter, not all the dark matter, but some of the dark matter, maybe it has interactions of its own just the same way in our universe, we have lots of different types of matter. We have nuclei, we have electrons, we have neutrons, we have forces."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "",
+    "timestamp": "(00:07:35)",
+    "text": "It’s not a simple model, the standard model, but it does have some basic ingredients, so maybe dark matter also has some interesting structure to it. Maybe there’s some small fraction. The interesting thing is that if some of the dark matter does radiate, and I like to call it dark light because it’s light that we don’t see, but dark matter would see. It could radiate that and then it could perhaps collapse into a disk the same way ordinary matter collapsed into the Milky Way disk."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "",
+    "timestamp": "(00:08:06)",
+    "text": "It’s not all the dark matter, it’s a fraction, but it could conceivably be a very thin disk of dark matter, thin, dense disk of dark matter. The question is do these exist? People have done studies now to think about whether they can find them. It’s an interesting target, it’s something you can measure. By measuring the positions and velocities of stars, you can find out what the structure of the Milky Way is, but the fun proposal was that the solar system orbits around the galaxy."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "",
+    "timestamp": "(00:08:36)",
+    "text": "As it does so, it goes a little bit up and down kind of horses on a carousel. The suggestion was every time it goes through, you have an enhanced probability that you would dislodge something from the edge of the solar system in something called the Oort Cloud. The idea was that at those times, you’re more likely to have these cataclysmic events such as the amazing one that actually caused the last extinction that we know of for sure."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:01)",
+    "text": "It wasn’t so amazing for the dinosaurs."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:09:04)",
+    "text": "Or for two thirds of the species on the planet."
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:06)",
+    "text": "But it gets amazing for humans. It wouldn’t be-"
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:09:08)",
+    "text": "What really is amazing… I talk about this in Dark Matter and the Dinosaurs. It is just an amazing scientific story because it really is one of the real stories that combine together different fields of science. Geologists at the time or people thought that things happen slowly and this would be a cataclysmic event."
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "",
+    "timestamp": "(00:09:27)",
+    "text": "Also, I have to say if you think about it, it sounds like a story a five-year-old would make up. Maybe the dinosaurs were killed by some big rock that came and hit the earth, but then there really was a scientific story behind it. That’s also why I like the dark disk because there’s a scientific story behind it. As far-fetched as it might sound, you could actually go and look for the experimental consequences, for the observational consequences to test whether it’s true."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:51)",
+    "text": "I wish you could know high-resolution details of where that asteroid came from, where in the Oort Cloud, why it happened, is it in fact because of dark matter? Just the full tracing back to the origin of the universe because humans seem to be somewhat special. It seems like so many fascinating events at all scales of physics had to happen for [inaudible 00:10:17]."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:10:16)",
+    "text": "I’m really, really glad you mentioned that because actually that was one of the main points of my book, Dark Matter and the Dinosaurs. One of the reasons I wrote it was because I really think we are abusing the planet, we’re changing the planet way too quickly. Just like anything else, when you alter things, it’s good to think about the history of what it took to get here."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "",
+    "timestamp": "(00:10:34)",
+    "text": "As you point out, it took many operations on many different scales. We had to have the formation of structure, the formation of galaxies, the formation of the solar system, the formation of our planet, the formation of humans. There’s so many steps that go into this. Humans in some part were the result of the fact that this big object hit the earth, made the dinosaurs go extinct, and mammals developed. It is an incredible story and yes, something else might come of it, but it won’t be us if we mess with it too much."
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:05)",
+    "text": "But it is on a grand scale, earth is a pretty resilient system. Can you just clarify, just fascinating, the shape of things. The shape of the Milky Way’s… Of the observable stuff is mostly flat. You said dark matter tends to be spherical, but a subset of that might be a flat disk."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:11:31)",
+    "text": "You want to hear about the shape of things."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:34)",
+    "text": "Yes, please."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:11:36)",
+    "text": "Structure formed early on, and now our structure that we live in is… We know about the Milky Way galaxy. The Milky Way galaxy has the disk you can see in a dry dark place, that’s where stars and light is, but you can also measure in some ways the dark matter. We believe that dark matter is more or less spherically distributed. Like we said, there’s a lot of it, not necessarily in the disk, but just because it’s a sphere, there’s a lot of it sitting there."
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "",
+    "timestamp": "(00:12:11)",
+    "text": "The reason it doesn’t collapse as far as we know is that it can’t radiate the same way. Because it can radiate ordinary matter collapses, and this actually, because of conservation of angular momentum, it stays a disk and it doesn’t just collapse to the center. Our suggestion was that maybe there are some components of dark matter that also radiate."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "",
+    "timestamp": "(00:12:31)",
+    "text": "Like I said, that’s far from proven. People have looked for a disk, they see some evidence of some disks of certain densities, but these are all questions that are worth asking. Basically if we can figure it out from existing measurements, why not try?"
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:12:44)",
+    "text": "Okay, so not all dark matter is made the same."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:12:48)",
+    "text": "That’s a possibility. We actually don’t know what dark matter is in the first place, we don’t know what most of it is, we don’t know what a fraction is. It’s hard to measure. Why is it hard to measure for exactly the reason you said earlier, we don’t see it. We want to think of possibilities for what it can be, especially if those give rise to some observational consequences. It’s a tough game because it’s not something that’s just there for the taking. You have to think about what it could be and how you might find it."
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:16)",
+    "text": "The way you detect it is gravitational effects on things we can see."
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:13:22)",
+    "text": "That would be the way you detect the type of dark matter. I’ve been talking about people have suggestions for other forms of dark matter. They could be particles called axions, they could be other types of particles, and then there are different ways of detecting it."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "",
+    "timestamp": "(00:13:34)",
+    "text": "The most popular candidate for dark matter probably until pretty recently because they haven’t found it, is something called WIMPs, Weakly Interacting Massive Particles, particles that have mass about the same as the Higgs boson mass, and it turns out then you would get about the right density of dark matter."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "",
+    "timestamp": "(00:13:52)",
+    "text": "People really like that, of course, because it is connected to the standard model, the particles that we know about, and if it’s connected to that, we have a better chance of actually seeing it. Fortunately or unfortunately, it’s also a better chance that you can rule it out because you can look for it. So far, no one has found it. We’re still looking for"
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:08)",
+    "text": "Is that one of the hopes of the Large Hadron Collider?"
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:14:11)",
+    "text": "That was originally one of the hopes of Large Hadron Collider. I’d say at this point, it would be very unlikely given what they’ve already accomplished, but there are these underground detectors, xenon detectors that look for dark matter coming in, and they are going to try to achieve a much stronger bound than exists today."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:14:35)",
+    "text": "Just to take that tangent, looking back now, what’s the biggest, to you, insight to humanity that the LHC has been able to provide?"
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:14:47)",
+    "text": "It’s interesting. It’s both a major victory. The Higgs boson was proposed 50 years ago, and it was discovered. The Higgs mechanism seemed to be the only way to explain elementary particle masses and it was right so on the one hand, it was a major victory. On the other hand, I’ve been in physics long enough to know it was also a cautionary tale in some sense because at the time I started out in physics, we had proposed something in the United States called the Superconducting Supercollider."
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "",
+    "timestamp": "(00:15:15)",
+    "text": "A lot of physicists, I’ll say particularly in Europe, but I’d say a lot of physicists were saying when that the Large Hadron Collider would have the energy reach necessary to discover what underlies the standard model. We don’t want to just discover the standard model, we want to know what the next step is."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "",
+    "timestamp": "(00:15:31)",
+    "text": "I think here people were more cautious about that. They want to have a more comprehensive search that could get to higher energies, more events so that we could really more definitively rule it out. In that case, many people thought they knew what would be there. It happened to be a theory called supersymmetry. A lot of physicists thought it would be supersymmetry."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "",
+    "timestamp": "(00:15:51)",
+    "text": "It’s one of the many factors I think that went into the fact that the Large Hadron Collider became the only machine in town, and the Superconducting Supercollider would’ve just been a much… If it had really had achieved what it was supposed to, would’ve been a much more robust test of the space."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "",
+    "timestamp": "(00:16:07)",
+    "text": "I’d say for humanity, it’s both a tribute to the ability of discovery and the ability of really believing in things so that you have the confidence to go look for them, but it’s also a cautionary tale that you don’t want to assume things before they’ve been actually found. You want to believe in your theories, but you also want to question them at the same time in ways that you’re more likely to discover the truth."
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:32)",
+    "text": "It’s also an illustration of grand engineering efforts that humanity can take on and maybe a lesson that you could go even bigger."
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:16:43)",
+    "text": "I’m really glad you said that though too, because that’s absolutely true. It really is an impressive… It’s impressive in so many ways. It’s impressive technologically, it’s impressive at engineering level."
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "",
+    "timestamp": "(00:16:55)",
+    "text": "It’s also impressive that so many countries work together to do this. It wasn’t just one country. It was also impressive in that it was a long-term project that people committed to and made it happen. It is a demonstration that when people set their minds to things and they commit to it, that they can do something amazing."
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:18)",
+    "text": "Also in the United States, maybe a lesson that bureaucracy can slow things down to [inaudible 00:17:24]."
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:17:24)",
+    "text": "Bureaucracy and politics."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:26)",
+    "text": "Politics."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:17:27)",
+    "text": "And economics. Many things can make them faster and make them slower."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:32)",
+    "text": "Science is the way to make progress, politics is the way to slow that progress down. And here we are."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:17:39)",
+    "text": "I don’t want to overstate that because without politics, the [inaudible 00:17:42] wouldn’t happen either."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:43)",
+    "text": "You need broccoli."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:17:49)",
+    "text": "Sometimes I do think… You’re not asking this question, but sometimes I do think when I think about some of these conflicts, sometimes it’s just good to have a project that people work on together. There were some efforts to do that in science too, to have Palestinians and Israelis work together, a project called Sesame. I think it’s not a bad idea when you can do that, when you can get… Forget the politics and just focus on some particular project. Sometimes that can work."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:18:25)",
+    "text": "Some kind of forcing function, some kind of deadline that gets people to sit in a room together and you’re working on a thing. As part of that, you realize the common humanity, that you all have the same concerns, the same hopes, the same fears, that you are all human. That’s an accidental side effect of working together on a thing."
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:18:45)",
+    "text": "That’s absolutely true. It’s one of the reasons CERN was formed actually. It was post-World War II, and a lot of European physicists had actually left Europe and they wanted to see Europeans work together and rebuild, and it worked. They did. It’s true, I often think that, that one of the major problems is we just don’t meet enough people so that everyone… When they seem like the other, it’s more easy to forget their humanity. I think it is important to have these connections."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:16)",
+    "text": "Given the complexity, all cosmological scales involved here that led to the extinction of the dinosaurs, when you look out at the future of earth, do you worry about future extinction events?"
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:19:29)",
+    "text": "I do think that we might be in the middle of an extinction right now if you define it by the number of species that are getting killed off. It’s subtle, but it’s a complex system. The way things respond to events is sometimes things evolve, sometimes animals just move to another place. The way we’ve developed the earth, it’s very hard for species just to move somewhere else."
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "",
+    "timestamp": "(00:19:54)",
+    "text": "We’re seeing that with people now, too. I know people are worried just about AI taking over, and that’s a totally different story. We just don’t think about the future very much. We think about what we’re doing now, and we certainly don’t think enough about all the animals that we’re destroying, all the things that are precursors to humans that we rely on."
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:14)",
+    "text": "It’s interesting to think whether the things that threaten us is the stuff we see that’s happening gradually or the stuff we don’t really see that’s going to happen all of a sudden. I sometimes think about what should we be worried about? It seems like with the asteroids or nuclear war, it could be stuff that just happens one day. When I say one day meaning over a span of a few days or a few months, but not on a scale of decades and centuries. We sometimes mostly talk about stuff that’s happening gradually, but we can be really surprised."
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:20:57)",
+    "text": "It’s actually really interesting. That was actually one of the reasons it took a while to determine what it was that it caused the last extinction because people did think at the time, many people thought that things were more gradual, and the idea of extinction was actually a novel concept at some point."
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "",
+    "timestamp": "(00:21:14)",
+    "text": "These aren’t predictable events necessarily. They’re only predictable on a grand scale, but sometimes they are. I think people were pretty aware that nuclear weapons were dangerous. I’m not sure people are as aware now as they were say, 20 or 30 years ago, and that certainly worries me. I have to say I was not as worried about AI as other people, but now I understand. It’s more that as soon as you create things that we lose control over, it’s scary."
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "",
+    "timestamp": "(00:21:50)",
+    "text": "The other thing that we’re learning from the events today is that it takes a few bad actors. It takes everyone to make things work well, it takes not that many things to make things go wrong. The issue with disease, we can find out what causes a disease, but to make things better is not necessarily that simple. Sometimes it is. But for things to be healthy, a lot of things have to work. For things to go wrong, only one thing has to go wrong. It’s amazing that we do it."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "",
+    "timestamp": "(00:22:19)",
+    "text": "The same is true for democracy. For democracy to work, a lot of people have to believe in it. A few bad actors can destroy things sometimes. A lot of the things that we really rely on are delicate equilibrium situations. There is some robustness in the systems, we try to build in robustness, but a few extreme events can sometimes alter things. I think that’s what people are scared of today in many ways. They’re scared of it for democracy, they’re scared of it for peace, they’re scared of it for AI."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "",
+    "timestamp": "(00:22:51)",
+    "text": "I think they’re not as scared as they should be about nuclear weapons, to be honest. I think that’s more serious danger than people realize. I think people are a little bit more scared about pandemics than they were before, but I still say they’re not super scared about it. So you’re right, there are these major events that can happen and we are setting things up so that they might happen, and we should be thinking about them. The question is who should be thinking about them? How should we be thinking about them? How do you make things happen on a global scale, because that’s really what we need."
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:23)",
+    "text": "It certainly shouldn’t be a source of division, it should be a source of grand collaboration probably."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:23:29)",
+    "text": "Wouldn’t that be nice?"
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:30)",
+    "text": "Yeah. I just wonder what it’d be like to be a dinosaur. It must have been beautiful to look at that asteroid enter the atmosphere. Until everything…. Man, that would be one of the things I would travel back in time to just to watch it."
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:23:50)",
+    "text": "That’s also one of the things that I think you probably could do with virtual reality. I don’t think you have to be there and get extinct."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:54)",
+    "text": "To just experience it."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:23:55)",
+    "text": "I think there’s something… It’s an event. You’re just watching. You’re not doing anything, you’re just looking at it, so maybe you could just recreate it."
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:01)",
+    "text": "I actually heard that there’s a nuclear weapon explosion experience in virtual reality that’s good to remind you about what it would feel like."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:24:14)",
+    "text": "I have to say, I got an award from the Museum of Nuclear History and Technology in the Southwest, and I went to visit the museum, which turned out to be mostly a museum of nuclear weapons. The scary thing is that they look really cool."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "",
+    "timestamp": "(00:24:30)",
+    "text": "It’s true that you have that, yes, this is scary, but you also have, this is cool feeling and I think we have to get around that because I think that yes, you can be in that, but I’m not sure that’s going to make people scared. Have they actually asked afterwards, are you more or less scared?"
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:24:50)",
+    "text": "That’s a really good point. That’s a good summary of just humanity in general. We’re attracted to creating cool stuff, even though it can be dangerous."
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:25:01)",
+    "text": "Actually, that was the really interesting thing about visiting that museum, actually. It was very nice because I had a tour from people who had been working there in the Cold War and actually one or two people from the Manhattan Project. It was a very cool tour. You just realize just how just the thing itself gets you so excited."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "",
+    "timestamp": "(00:25:16)",
+    "text": "I think that’s something sometimes these movies miss, just the thing itself. You’re not thinking about the overall consequences. In some ways it was like the early Silicon Valley. People were just thinking what if we did this? What if we did that? Not keeping track of what the peripheral consequences are. You definitely see that happening with AI now. I think that was the moral of the battle that just happened, that it’s just full speed ahead."
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:43)",
+    "text": "Which gives me a really great transition to another quote in your book. You write about the experience of facing the sublime in physics, and you quote Rainer Rilke. “For beauty is nothing but the beginning of terror, which we are still just able to endure, and we’re so odd because it’s serenely disdains to annihilate us.” It’s pretty intense. It I think applies to nuclear weapons."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:26:14)",
+    "text": "At a more mundane, perhaps level, I think it applies… It’s really interesting. One of the things that I found when I wrote these books is some people love certainty. Scientists, many revel in uncertainty. It’s not that you want to be uncertain, you want to solve it, but you’re at this edge where it’s really frustrating because you don’t really want to not know the answer, but of course, if you knew the answer, it would be done."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "",
+    "timestamp": "(00:26:41)",
+    "text": "You’re always at this edge where you’re trying to sort things out and there is something scary. You don’t know if there’s going to be a solution, you don’t know if you’re going to find it. It’s not something that can destroy the earth, it’s just something that you do on your individual level. But then of course there are much bigger things like the ones you’re talking about where they could actually be dangerous. The stuff I do, I just want to be clear, I’m doing theoretical physics. Not very dangerous, but sometimes things end up having bigger consequences than you think."
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:13)",
+    "text": "Dangerous in a very pragmatic sense. Isn’t it still in part terrifying when you think of just the size of things like the size of dark matter, the power of this thing in terms of its potential gravitational effects, just cosmological objects of a black hole at the center of our galaxy."
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:27:36)",
+    "text": "This might be why I’m a physicist or why I differ from other people because I’m not such a big fan of humanity in some ways. Some ways I am, but the idea that we were everything would be really boring to me. I love the idea that there’s so much more out there, that there’s a bigger universe and there’s lots to discover and that we’re not all there is. Wouldn’t it be disappointing if we were all there is?"
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:57)",
+    "text": "Yeah, and the full diversity of other stuff is pretty interesting."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:28:04)",
+    "text": "We have no idea how much there is. We know what we can observe so far, so the idea that there’s other stuff out there that we yet have to figure out, it’s exciting."
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:13)",
+    "text": "Let me ask you an out there question. If you think of humans on earth, life on earth as this pocket of complexity that emerged and there’s a bunch of conditions that came to be, and there’s Darwinian evolution and however life originated, do you think it’s possible there’s some pockets of complexity of that sort inside dark matter that we can’t see?"
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:28:42)",
+    "text": "That’s possible."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:47)",
+    "text": "Chemistry and biology evolving in different ways."
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:28:49)",
+    "text": "That’s one of the reasons we suggest… It’s not the reason, but it would be true if there were the type of interactions we’d suggest, it would need more complex ones. We don’t know. I will say that the conditions that give rise to life and complexity, they’re complex, they’re unlikely. It’s not like there’s great odds that would happen, but there’s no reason to know that it doesn’t happen. It’s worth investigating are there other forces that exist in the dark matter sector? That’s exactly-"
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:20)",
+    "text": "So the dark matter sector doesn’t have all the forces of the standard model of physics?"
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:29:26)",
+    "text": "Right. As far as we know, it doesn’t have any. It might have it at some low level, but it could have its own forces, just like the dark matter might not experience our light. Maybe it has its light that we don’t experience."
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:38)",
+    "text": "So there could be other kinds of forces."
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:29:41)",
+    "text": "There could be other kinds of forces even within our sector that are too weak for us to have discovered so far or that exist at different scales than we know about. We detect what interacts strongly enough with our detectors to detect. It’s worth asking, and that’s one of the reasons we build big colliders to see are there other forces, other particles that exist say, at higher energies, at shorter distance scales than we’ve explored so far. It’s not just in the dark matter sector. Even in our sector, there could be a whole bunch of stuff we don’t yet know."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:17)",
+    "text": "Maybe let’s zoom out and look at the standard model of particle physics. How does dark matter fit into it? First of all, what is it? Can you explain what the standard model is?"
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:30:28)",
+    "text": "The standard model of particle physics is basically it tells us about nature’s most basic elements and their interactions. It’s the substructure as far as we understand it. If you look at atoms, we know they have nuclei and electrons, nuclei have protons and neutrons in them, protons and neutrons have particles called quarks that are held together by something called the strong force."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "",
+    "timestamp": "(00:30:54)",
+    "text": "They interact through the strong force, the strong nuclear force. There’s something called the weak nuclear force and electromagnetism. Basically, all those particles and their interactions describe many, many things we understand. That’s the standard model. We now know about the Higgs boson, which is associated with how elementary particles get their mass. That piece of the puzzle has also been completed."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "",
+    "timestamp": "(00:31:20)",
+    "text": "We also know that there are a weird array of masses of elementary particles. There’s not just the up and down quark, but there are heavier versions of the up and down quark. Charm and strange, top and bottom. There’s not just the electron, there’s a muon and a tau. There are particles called neutrinos, which are under intense study now, which are partnered with the leptons through the weak interactions."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "",
+    "timestamp": "(00:31:42)",
+    "text": "We really do know these basic elements and we know the forces. When we’re doing particle physics experiments, we can usually even ignore gravity except in exceptional cases that we can talk about. Those are the basic elements in their interactions."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "",
+    "timestamp": "(00:31:58)",
+    "text": "Dark matter stands outside that, it’s not interacting through those forces. When we look at the world around us, we don’t usually see the effects of dark matter. It’s because there’s so much of it that we do and it doesn’t have those forces that we know about. The standard model has worked spectacularly well. It’s been tested to a high degree of precision. People are still testing it."
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "",
+    "timestamp": "(00:32:20)",
+    "text": "One of the things we do as physicists is we actually want it to break down at some level, we’re looking for the precision measurement or the energy or whatever it will take where the standard model is no longer working. Not that it’s not working approximately, but we’re looking for the deviations. Those deviations are critical because they can tell us what underlies the standard model, which is what we really want to see next."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:45)",
+    "text": "Where can you find the places where the standard model breaks down? What are the places you can see those tiny little deviations?"
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:32:53)",
+    "text": "We don’t know yet, but we know the kinds of things you wouldn’t want to look for. One obvious place to look is at higher energy. We’re looking at the Large Hadron Collider, but we’d love to go beyond that. Higher energy means shorter distances and it means things that we just couldn’t produce before. E=mc², so if you have a heavy particle and you don’t have enough energy to make it, you’ll never see it. That’s one place."
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "",
+    "timestamp": "(00:33:17)",
+    "text": "The other place is precision measurements. The standard model has been tested exquisitely, so if it’s been tested 1%, you want to look at a 10th of a percent. There are some processes that we know shouldn’t even happen at all in the standard model or happen at very suppressed level, and those are other things that we look for. All of those things could indicate there’s something beyond what we know about, which of course would be very exciting."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:42)",
+    "text": "When you just step back and look at the standard model, the quarks and all the different particles and neutrinos, isn’t it wild how this little system came to be and underpins everything we see?"
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:33:59)",
+    "text": "Absolutely. That’s why we’d like to understand it better. We want to know is it part of some bigger sector? Why are these particles… Why do they have the masses they do? Why is the Higgs boson so light compared to the mass that could have had, which we might’ve even expected based on the principles of special relativity and quantum mechanics. That’s a really big question. Why are they what they are?"
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:21)",
+    "text": "And they originate, there’s some mechanism that created the whole thing?"
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:34:24)",
+    "text": "That’s one of the things we’re trying to study. Why is it what it is?"
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:29)",
+    "text": "Even just the mechanism that creates stuff, the way a human being is created from a single cell. It’s like embryogenesis, the whole thing, you build up this thing. All of it, this whole thing comes to be from just like a [inaudible 00:34:47]."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:34:46)",
+    "text": "Don’t forget it is interacting with the environment."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:49)",
+    "text": "For sure. Okay, right, right, right."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:34:51)",
+    "text": "It’s important."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:53)",
+    "text": "That’s a really good question is how much of it is the environment? Is it just the environment acting on a set of constraints? How much of it is just the information in the DNA or any information? How much is it in the initial conditions of the universe versus some other thing acting on it?"
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:35:14)",
+    "text": "These are big questions. These are big questions in pretty much every field. For the universe, we do consider it… It’s everything there is by definition. But people now think about it. Is it one of many universes? Of course it’s a misnomer, but could there be other places where there are self-contained gravitational systems that we don’t even interact with? Those are really important questions, and the only way we’re going to answer them is we go back as far as we can. We try to think theoretically, and we try to think about observational consequences. That’s all we can do."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:49)",
+    "text": "One interesting way to explore the standard model is to look at your fun, nuanced disagreement with Carlo Rovelli. When you talked about him writing in his book, “Electrons don’t always exist. They exist when they interact. They materialize in a place when they collide with something else.” You wrote that… I’ll just read the whole thing because it’s interesting."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "",
+    "timestamp": "(00:36:12)",
+    "text": "“Stocks may not achieve a precise value until they’re traded, but that doesn’t mean we can’t approximate their worth until they change hands. Similarly, electrons might not have definite properties, but they do exist. It’s true that the electron doesn’t exist as a classical object with definite position until the position is measured. But something was there – which physicists use a wave function to describe.” It’s a fascinating nuanced disagreement. Do electrons always exist or not? Does a tree fall in the forest if nobody’s there to see it?"
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:36:48)",
+    "text": "I like to think of the universe as being out there, whether or not… It would be really weird if the only time things came into existence was when I saw them or I measured them."
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:57)",
+    "text": "There’s a lot of weird stuff in the works."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:36:58)",
+    "text": "I could believe that the Middle East doesn’t exist because I’m not there now. That would be kind of ridiculous, I think we would all agree on that. I think there’s only so much that we can attribute to our own powers of seeing. The whole system doesn’t come into being because I’m measuring it. What is weird, and this isn’t even a disagreement about the standard model, this is a disagreement about how you interpret quantum mechanics."
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "",
+    "timestamp": "(00:37:22)",
+    "text": "I would say that those wave functions are real. One of the things that don’t forget that particle physics does that quantum field theory says is that electrons can be created and destroyed. It’s not that every electron has to be in the universe. That’s what happens at colliders, particles get created and destroyed, but that doesn’t mean that if I have electron in an atom, it’s not there. It’s certainly there, and we know about it. Its charge is there."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:47)",
+    "text": "Physics is a kind of way to see the world. At the bottom, what’s the bottom turtle? Do you have a sense that there’s a bottom reality that we’re trying to approximate with physics?"
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:38:01)",
+    "text": "I think we always have in our head maybe that we’d like to find that, but I have to… I might not seem so, but I think I’m more humble than a lot of physicists. I’m not sure that we’re ever going to get to that bottom level, but I do think we’re going to keep penetrating different layers and get further."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:16)",
+    "text": "I just wonder how far away we are."
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:38:20)",
+    "text": "We all wonder that. What’s even the measure of how far away we are. One way you can measure it is just by our everyday lives. In terms of our everyday lives, we’ve measured everything. In terms of what underlies it. There’s a lot more to see. Part of it has to do with how far we think we can go. It might be that the nature of reality changes so much that even these terms are different. Maybe the notion of distance itself might break down at some point."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:49)",
+    "text": "Also to push back on the we’ve measured everything, maybe there’s stuff we haven’t even considered is measurable. For example, consciousness. There might be stuff, just like you said, forces unseen, undetected."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:39:03)",
+    "text": "It’s an interesting thing, and this is often a confusion that happens. There’s the fundamental stuff underlying it, and then there’s the higher levels, what we’ll call an effective theory at some level. We’re not always working… When I throw a ball, I don’t tell you where every atom is. I tell you there’s a ball."
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "",
+    "timestamp": "(00:39:22)",
+    "text": "There might be different layers of reality that are built in terms of the matter that we know about in terms of the stuff we know about that. When I say we’ve measured everything, I say that with a grain of salt. I mean we’ve measured everything about the standard model. There’s lots of phenomena that we don’t understand, but often there are complex phenomena that will be given in terms of the fundamental ingredients that we know about."
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:47)",
+    "text": "That is an interesting question because yes, there’s phenomena that are at the higher level of abstractions that emerge, but maybe with consciousness, there is far out people that think that consciousness is panpsychus, that there’s going to be almost like a fundamental force of physics. That’s consciousness that permeates all that matter."
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:40:10)",
+    "text": "Usually when you have a crazy… Sorry, when you have a far out theory, the thing you do is you test all the possibilities within the constructs that exist. You don’t just jump to the most far out possibility. You can do that, but then to see if it’s true, you either have to find evidence of it or you have to show that it’s not possible without that, and we’re very far from that."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:32)",
+    "text": "I think one of the criticisms of your theory on the dinosaurs was that it requires, if I remember correctly, for dark matter to be weirder than it already is. I think you had a clever response to that. Can you remind…"
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:40:46)",
+    "text": "I’m not sure I remember what I said then, but we have no idea how weird dark matter is. It’s based on everyone thinking they know what dark matter is. Weirder than it already is, it’s not already anything. We don’t know what it is, so there’s no normalization here."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:59)",
+    "text": "Do we know if dark matter varies in density?"
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:41:05)",
+    "text": "It just certainly does in the universe, just like… For example, there’s more dark matter in galaxies than there’s between galaxies. It clumps. It’s matter, so it’s distributed like matter. It is matter."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:18)",
+    "text": "It does clump, but the full details of how it clumps and the complexity of the clumping…"
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:41:25)",
+    "text": "It’s understood pretty well. People do simulations… Where people are always looking for things, including us as particle physics, it’s at small scales, are the deviations on small scales so that indicating other interactions or other processes or interactions with baryons. That is to say normal matter that we don’t understand. But on large scales, we have a pretty good understanding of dark matter distribution."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:50)",
+    "text": "You were part of a recent debate on can science uncover reality. Let me ask you this question then, what do you think is the limits of science?"
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:42:00)",
+    "text": "I’m smart enough to know that I have no idea. Also it’s not even clear what science means because there’s the science that we do, which is particle physics. We try to find fundamental things and figure out what their effects are. There’s science like biology where at a higher level, the kind of questions you ask are different, the kind of measurements are different."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "",
+    "timestamp": "(00:42:21)",
+    "text": "The kind of science that’s going to happen in the more numerical age or even AI, what does it mean to answer a question? Does it mean that we can predict it? Does it mean that we can reproduce it? I think we’re coming up against the definition of what we mean by science as human beings. In terms of the science that we can do, I don’t think we’ll know it until we get there. We’re trying to solve hard problems and we’ve made progress."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "",
+    "timestamp": "(00:42:50)",
+    "text": "If you think of how much science has advanced in the last century or century and a half, it’s incredible. We didn’t even know the universe was expanding at the beginning of the 20th century. We didn’t know about quantum mechanics at the beginning of the century, we didn’t know about special relativity. That’s a lot in a relatively short time, depending on how you think of time. I think it would be premature to say we know limitations."
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:14)",
+    "text": "At various points throughout the history, we thought we solved everything or at least various people declared-"
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:43:20)",
+    "text": "[inaudible 00:43:20] various people. Exactly."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:21)",
+    "text": "Declared that we’ve solved everything. This also a good place to… Maybe could you describe the difference between top-down and bottom-up approaches to theoretical physics that you talked about in the book?"
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:43:33)",
+    "text": "You could try to jump in and say I have a theory that I think is so perfect that I can predict everything from it or at least predict some salient features from it."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:46)",
+    "text": "Mm-hmm. That’s top-down."
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:43:47)",
+    "text": "That would be a top-down. Bottom-up is more like the questions we just asked. Why are masses what they are? We measure things. We want to put them together. Usually a good approach is to combine the two. If you ask a very specific question but combine it with the methods of knowing that there could be a fundamental theory underlying it, sometimes you make progress."
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "",
+    "timestamp": "(00:44:09)",
+    "text": "The community tends to get segmented or fragmented into people who do one or the other, but there are definitely times… Some of my best collaborations with people who are more top-down than I am, so that we come up with interesting ideas that we wouldn’t have thought of if either one of us was working individually."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:25)",
+    "text": "Would you say the truly big leaps happened top-down? Like Einstein?"
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:44:30)",
+    "text": "Einstein was not a top-down person in the beginning. Special relativity was very much him thinking about… They were thought experiments, but he was very much… The original theory about relativity is something like on the nature of electromagnetism. He was trying to understand how Maxwell’s laws could make sense when they seemed to have different symmetries than what we had thought they were."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "",
+    "timestamp": "(00:44:54)",
+    "text": "He was very much a bottom-up person, and in fact, he resisted top-down for a long time. Then when he tried to do the theory of general relativity or the general theory of relativity, whichever you want to call it, incorporating gravity into the system when you need some feedback, then he was helped by a mathematician who had developed some differential geometry and helped him figure out how to write down that."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "",
+    "timestamp": "(00:45:16)",
+    "text": "After that, he thought top-down was the way to go, but he actually didn’t make that much progress. I think it’s naive to think it was just one or the other. In fact, a lot of people who made real progress were rooted in actual measurements."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:31)",
+    "text": "Speaking of mathematicians, what do you is the difference, you’ve had a bit of foot in both, between physics and mathematics in the way it helps us understand the world?"
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:45:41)",
+    "text": "To be frank, there’s a lot more overlap in physics and math. I think that has been… Maybe not more, but there’s certainly a lot. I think, again, the kinds of questions you’re asking are usually different. Mathematicians like the structure itself, physicists are trying to concentrate on, to some extent, on the consequences for the world. But there is a lot of overlap."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:04)",
+    "text": "The string theory is an example. There’s certain theories where there’s a certain mathematical beauty to it."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:46:12)",
+    "text": "There’s also some really cool ideas that you get in particle physics where you can describe what’s going on and connect it to other ideas. That’s also really beautiful. I think basically insights can be beautiful. They might seem simple, and sometimes they genuinely are, and sometimes they’re built on a whole system that you have to understand before. If you actually saw Einstein’s equations written out in components, if you wouldn’t think it’s so beautiful. If you write in a compact way, it looks nice."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:43)",
+    "text": "What do you think about the successes and the failures of string theory? To what degree do you think it succeeded, to what degrees it not succeeded yet or has failed?"
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:46:54)",
+    "text": "I think to talk about any science in terms of success and failure often misses the point because there’s not some absolute thing. I do think that string theorists were a bit overly ambitious… Not overly ambitious, but a little bit overly arrogant in the beginning, thinking they could solve many problems that they weren’t going to solve."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "",
+    "timestamp": "(00:47:14)",
+    "text": "That’s not to say the methods and advances in strength theory don’t exist, but they certainly weren’t able to immediately solve all the problems they thought they could solve. It has given us tools, it has given us some insights, but it becomes almost a sociological question of how much it should be one or the other."
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "",
+    "timestamp": "(00:47:35)",
+    "text": "I do think that you can get caught up in the problems themselves, and sometimes you can get caught up in the methods and just do other examples. The real physics insights often come from people who are thinking about physics as well as math."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:49)",
+    "text": "Because you mentioned AI, is there hope that AI might be able to help find some interesting insights? Another way to ask this question is how special are humans that we’re able to discover novel insights about the world?"
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:48:09)",
+    "text": "That’s a great question, and it depends on what kind of insights and what we’re going to find that out. Because it’s hard to think about something that doesn’t quite exist yet, I could just think about something, take a step back. It’s a little bit like I’m trying understand four dimensions so you go back to three dimensions. Go to something you can imagine."
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "",
+    "timestamp": "(00:48:31)",
+    "text": "You can say a lot of the things in a very different level about the internet. You could say has the internet helped do things? It definitely took on a life of its own in some sense, but it’s also something that we’re able to tame. I know that I, myself wouldn’t have been able to write books if the internet didn’t exist because I wouldn’t have had the time to go to the library and look everything up. It helped me enormously."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "",
+    "timestamp": "(00:48:57)",
+    "text": "In some sense, AI could be that. In a very nice world, it could be a tool that helps us go a step further than we would and a lot more efficiently. It’s already done that to some extent. Or it could be like the parts of the internet that we can control that are ruining politics or whatever. There’s certainly a lot of indications that can do that. Then there are even bigger things that people speculate about AI being able to do its own things, but in terms of actually figuring things out, we’re in the early stages."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:33)",
+    "text": "Yeah, there’s several directions here. One is on the theorem prover side, Wolfram Alpha where everything’s much more precise, and we have large language model type of stuff. One of the limitations of those is it seems to come up with convincing looking things, which we don’t know if it’s true or not, and that’s a big problem for physics."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:49:54)",
+    "text": "Large language models are more or less generalizations of stuff that we have. There’s still breakthroughs in AI waiting to happen, and maybe they are happening and maybe they’ll be good, maybe not, but that’s not quite the same. Maybe in some cases, it’s just pattern recognition that leads to important things, but sometimes it could be something more insightful than that that I can’t even put my finger on."
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "",
+    "timestamp": "(00:50:21)",
+    "text": "It forces us to… We don’t really understand how smart we are. We don’t understand how we think about things all that well, actually. But one thing is true though, we are a lot more efficient right now than computers and coming up with things, we require a lot less energy to do that. If computers figure out how to do that, then it’s going to be at a totally different ball game."
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "",
+    "timestamp": "(00:50:42)",
+    "text": "Here are clearly kinds of connections that we don’t know how we’re making, but we are making them. That’s going to be interesting. I say we’re in early stages, but this is changing very rapidly. Right now, I don’t think that it’s actually discovered new laws of physics, but could it in the future? Maybe it can."
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:06)",
+    "text": "It will raise big questions about what is special about humans that we don’t quite appreciate. There could be things that are like that leap of insight that happens, truly novel ideas, that could potentially be very difficult to do."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:51:26)",
+    "text": "There are abstract questions like that. There’s also questions of how is it that we can address to some extent, how will AI be used in the context of the world we live in? Which is based on at least our country’s based on capitalism in a certain political system. How will global politics deal with it? How will our capitalist system deal with it? What will be the things that we focus on doing with it? How much will researchers get control of it to be able to ask different sorts of questions?"
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "",
+    "timestamp": "(00:51:58)",
+    "text": "While it was starting out, people were doing these kinds of toy problems, but what will it actually be applied to and what will it be optimized to do? There’s a lot of questions out there that it’s really important we start addressing."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:11)",
+    "text": "What to you is the most beautiful unsolved problem in physics and cosmology, which is really exciting if we can unlock the mystery of in the next few decades?"
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:52:30)",
+    "text": "Is it what’s the most beautiful unsolved problem, or what is the most beautiful unsolved problem I think we can make progress on?"
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:35)",
+    "text": "Oh boy, we make progress on in the next few centuries."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:52:43)",
+    "text": "Most of the big questions have to do with what underlies things, how things started, what’s at the base of it. There’s also just basic questions like that you asked earlier, how far will science take us? How much can we understand? There are questions like how we got here, what underlies it, are there."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "",
+    "timestamp": "(00:53:02)",
+    "text": "Also, there’s really deep questions like what fraction are we actually seeing? If there are these other forces, if there is another way of seeing the world, are there universes beyond their own? If they’re so totally different, how do we even comprehend them? What would we even think about them? There’s a lot about trying to get beyond… It’s always just getting beyond our limited vision and limited experience and trying to see what underlies it, both at small scales and at large scales."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "",
+    "timestamp": "(00:53:35)",
+    "text": "We just don’t know the answers. I’d like to think that we understand more about dark matter, about dark energy, about are there extra dimensions, things that we actually work on, but there’s probably a lot beyond what we work on that’s yet to be discovered."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:50)",
+    "text": "Yeah, understanding the extra dimensions piece will be really interesting."
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:53:55)",
+    "text": "Totally. If it is how the universe went from higher dimensions to what we see, are the extra dimensions present everywhere? One of the really interesting pieces of physics we did that I talk about in my first book, Warped Passages, is finding out that there can be a higher dimension, but only locally. Do you think there’s a gravity of a lower dimension? It could be like only locally do we think we live in three dimensions. It could be higher dimensions is different."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "",
+    "timestamp": "(00:54:25)",
+    "text": "That’s not actually the gravity we have, but there’s all sorts of phenomena that might be out there that we don’t know about. All sorts of evolution things, time dependence that we don’t know about. Of course, that’s from the point of view of particle physics, from the point of view of other kinds of physics, we’re just beginning, so who knows?"
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:40)",
+    "text": "Yeah, if the physics changes throughout is not homogeneous throughout the universe, that’ll be weird."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:54:48)",
+    "text": "I mean, for the observable universe, it’s the same. But beyond the observable universe, who knows?"
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:58)",
+    "text": "You’ve had an exceptional career. What advice would you give to young people, maybe high school, college, on how to have a career they can be proud of and a life they can be proud of?"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:55:10)",
+    "text": "I think the weird thing about being a scientist or an academic in general is you have to believe really strongly what you do while questioning it all the time. That’s a hard balance to have. Sometimes it helps to collaborate with people, but to really believe that you could have good ideas at the same time, knowing they could all be wrong. That’s a tough tightrope to walk sometimes, but to really test them out."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "",
+    "timestamp": "(00:55:34)",
+    "text": "The other thing is sometimes if you get too far buried, you look out and you think there’s so much out there. Sometimes it’s just good to bring it back home and just think okay, can I have as good idea as the person next to me rather than the greatest physicist who ever lived? Right now, like you said, I think there’s lots of big issues out there, and it’s hard to balance that."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "",
+    "timestamp": "(00:55:55)",
+    "text": "Sometimes it’s hard to forget the role of physics, but I think Wilson said it really well when he said when they were building Fermilab, it was like this won’t defend the country, but it’ll make it worth defending. It’s just the idea that in all this chaos, it’s still important that we still make progress in these things. Sometimes when major world events are happening, it’s easy to forget that. I think those are important too. You don’t want to forget those, but to try to keep that balance because we don’t want to lose what it is that makes humans special."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:24)",
+    "text": "That’s the big picture. Do you also lose yourself in the simple joy of puzzle solving?"
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:56:29)",
+    "text": "Yeah. We all like solving puzzles. Actually one of the things that drives me in my research is the inconsistencies. When things don’t make sense, it really bugs me and it just will go into different directions to see how could these things fit together."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:46)",
+    "text": "It bugs you, but that motivates you?"
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:56:48)",
+    "text": "Yeah, totally."
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:49)",
+    "text": "Until it doesn’t. You have to resolve it."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:56:52)",
+    "text": "I think I have this underlying belief that it should make sense, even though the world comes at you in many ways and tells you nothing should make sense, but if you believe that it makes sense and you look for underlying logic. I think that’s just good advice for everything to try to find why is it the way."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "",
+    "timestamp": "(00:57:08)",
+    "text": "I talk about effective theory in my second book, Knocking On Heaven’s Door, a lot. It’s rather than ask the big questions, sometimes we just ask the questions about the immediate things that we can measure and like I said, we can sometimes tell one that we’ll fail, but we can have these effective theories. Sometimes I think when we approach these big questions, it’s good to do it from an effective theory point. Why do I find this satisfying? Why is the world we have the way it is?"
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "",
+    "timestamp": "(00:57:31)",
+    "text": "We think things are beautiful that we live in. I’m not sure if we had different senses or different ways of looking at things, we wouldn’t necessarily find it beautiful. But I have to say, it is fantastic that no matter how many times I see a sunset, I will always find it beautiful. I don’t think I ever see a sunset as say whatever. It’s just always beautiful."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "",
+    "timestamp": "(00:57:54)",
+    "text": "There are things that as humans, clearly resonate with us, but we were maybe evolved that way. But that’s about us. In terms of figuring out the universe, it’s amazing how far we’ve gotten. We have discovered many, many wonderful things, but there’s a lot more out there and I hope we have the opportunity to keep going."
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:14)",
+    "text": "With effective theories, one small step at a time, just keep unraveling the mystery."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:58:19)",
+    "text": "Also having in mind the big questions, but doing one small step at a time. Exactly."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:23)",
+    "text": "Yeah, looking out to the stars. You said the sunset. For me, it’s the sunset, the sunrise, and just looking at the stars. It’s wondering what’s all out there and having a lot of hope that humans will figure it out."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:58:39)",
+    "text": "Right. I like it."
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:42)",
+    "text": "Lisa, thank you for being one of the humans in the world for having me here for that are pushing it forward and figuring out this beautiful puzzle of ours. Thank you for talking today. This was amazing."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Lisa Randall",
+    "timestamp": "(00:58:53)",
+    "text": "Thank you for having me here."
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:55)",
+    "text": "Thanks for listening to this conversation with Lisa Randall. To support this podcast, please check out our sponsors in the description. Now, let me leave you with some words from Albert Einstein. The important thing is to not stop questioning. Curiosity has its own reason for existence. Thank you for listening, and hope to see you next time."
+  }
+]

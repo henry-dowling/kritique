@@ -1,0 +1,2949 @@
+[
+  {
+    "start": 0,
+    "end": 1,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:00:00)",
+    "text": "For me, cooking is an art."
+  },
+  {
+    "start": 2,
+    "end": 3,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:01)",
+    "text": "What’s your favorite ingredient to cook with?"
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:00:03)",
+    "text": "There isn’t one. It’s more like when there is one, it really is one. There’s peaches on the cover of this cookbook. Those peaches, those were in August, Colorado peaches. It just doesn’t get any better than that."
+  },
+  {
+    "start": 6,
+    "end": 7,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:16)",
+    "text": "On that day, at that moment, that was best ingredient?"
+  },
+  {
+    "start": 8,
+    "end": 9,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:00:17)",
+    "text": "That was the best, but that only lasts for a week and then they don’t taste so great, but damn are they so good in that moment and you just can’t stop wanting to use that ingredient."
+  },
+  {
+    "start": 10,
+    "end": 11,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:00:33)",
+    "text": "The following is a conversation with Kimbal Musk, a long time entrepreneur and chef and author of a new cookbook called The Kitchen Cookbook, Cooking for Your Community. You should check it out. It is in fact the first cookbook I’ve ever owned. I’ve already made stuff from it and it’s delicious. This is the Lex Fridman podcast. To support it, please check out our sponsors in the description. And now, dear friends, here’s Kimbal Musk."
+  },
+  {
+    "start": 12,
+    "end": 13,
+    "speaker": "",
+    "timestamp": "(00:01:02)",
+    "text": "Growing up in South Africa, you said it was a violent place. What are some formative moments that you remember from that time?"
+  },
+  {
+    "start": 14,
+    "end": 15,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:01:09)",
+    "text": "South Africa was, so I grew up in apartheid South Africa, but more specifically the fall of apartheid. I was a teenager in the ’80s and our community would, part of our social life frankly, was the anti-apartheid protests and to go be with white people, Black people, kind of mixing it all altogether. The most formative experiences, frankly, how much I appreciate a place like America where we have value for human life. So, that was a country where human life was not valued. It’s a weird thing to come from that to here where we take it so seriously, if someone dies in a war or something like that, and we just didn’t take it seriously."
+  },
+  {
+    "start": 16,
+    "end": 17,
+    "speaker": "",
+    "timestamp": "(00:02:05)",
+    "text": "In South Africa, people died, or people were killed. I saw someone killed in front of me. I was getting off a train and it’s a very violent train known for violence. We were stupid kids. We didn’t really listen to our parents. We went on this train and the doors opened and I had people trying to get off the train and in front of me, two Black people, one Black guy just stabbed this knife in the side of this other Black guy’s head and you’re like, “What the fuck?” And you just, I got to get off the train."
+  },
+  {
+    "start": 18,
+    "end": 19,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:02:44)",
+    "text": "How old were you at this time?"
+  },
+  {
+    "start": 20,
+    "end": 21,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:02:45)",
+    "text": "Probably 16 or 17. And I got to get off the train and everyone is trying to get me to get off because they’re all behind me. So, I step off and I step into the pool of blood one foot, and then I just walk for about a hundred paces while the stickiness of the blood just kind of for my sneakers just on one foot just leaves a footprint behind me. And you just walk on. You just walk on."
+  },
+  {
+    "start": 22,
+    "end": 23,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:12)",
+    "text": "Did the others walk on as well?"
+  },
+  {
+    "start": 24,
+    "end": 25,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:12)",
+    "text": "Go to the concert."
+  },
+  {
+    "start": 26,
+    "end": 27,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:03:13)",
+    "text": "Everyone walked on."
+  },
+  {
+    "start": 28,
+    "end": 29,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:15)",
+    "text": "That’s an interesting point you make. Underlying the violence is a kind of philosophy that human life is disposable, the individual life is disposable. I mean, that underlies many ideologies. I grew up in the Soviet Union, the value of human life was lower there than in the United States. The value of the individual in the United States is really high. There’s probably an index you can put together."
+  },
+  {
+    "start": 30,
+    "end": 31,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:03:39)",
+    "text": "Yeah, right, exactly."
+  },
+  {
+    "start": 32,
+    "end": 33,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:03:41)",
+    "text": "Per nation, that’s a really interesting way to put it because violence is much easier on a mass scale. Suffering, causing suffering on a mass scale is much easier when you don’t value the human life."
+  },
+  {
+    "start": 34,
+    "end": 35,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:03:56)",
+    "text": "I’ve heard this before, which I think I agree with, is when someone is killed, someone is taken from our lives. The vacuum that it creates, the social vacuum is extraordinarily painful and it truly is true. I mean, if someone in my community passes away, it’s very, very sad for me. And when you go to a place where, or live, grow up in a place where that human life is not valued, there’s something about, there’s a little bit less of the social vacuum created because everyone is kind of expecting everyone to potentially be taken out at any moment. But then there’s also a beauty to it because there’s a much more of a celebratory element."
+  },
+  {
+    "start": 36,
+    "end": 37,
+    "speaker": "",
+    "timestamp": "(00:04:45)",
+    "text": "When my cousin, Russ and I, again, we’re stupid kids, we shouldn’t be doing this, but we go into the townships where a lot of the violence would be happening, and we really didn’t see most of the violence there. It was in these more protests and so forth. But there’s a joy that also comes from lower value of human life. There’s a real joy. Everyone was like, well, I mean it’s beautiful. We’d have dinner with Black friends, friends with their family, and we were still pretty young and there was just a real joy to it."
+  },
+  {
+    "start": 38,
+    "end": 39,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:21)",
+    "text": "When you accept mortality, you can really enjoy life."
+  },
+  {
+    "start": 40,
+    "end": 41,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:05:24)",
+    "text": "You can really enjoy life. I mean, I think that’s actually quite a nice insight. I’ve never really put it that way, but I think that’s right actually. I think you just chill out a bit, takes things a little less seriously."
+  },
+  {
+    "start": 42,
+    "end": 43,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:34)",
+    "text": "Because life does end for everybody."
+  },
+  {
+    "start": 44,
+    "end": 45,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:05:37)",
+    "text": "It does. Right."
+  },
+  {
+    "start": 46,
+    "end": 47,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:05:37)",
+    "text": "And if you just head on accept that fact, you can just enjoy every single moment and let go of this attachment and just enjoy the moment."
+  },
+  {
+    "start": 48,
+    "end": 49,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:05:47)",
+    "text": "I do love that we all live longer and so forth, but we should live longer with the goal of joy and the goal of happiness and peace, not some form of misery that you choose to attach yourself to."
+  },
+  {
+    "start": 50,
+    "end": 51,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:03)",
+    "text": "Maximize joy."
+  },
+  {
+    "start": 52,
+    "end": 53,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:06:04)",
+    "text": "Maximize joy. That’s right."
+  },
+  {
+    "start": 54,
+    "end": 55,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:06:06)",
+    "text": "There’s a story that Walter Isaacson writes about where Elon got beat up pretty bad and you were there, and then you also had to watch your dad yell at Elon for an hour, calling him worthless, all those kinds of things. You said it was the worst memory of your life. What do you make of such cruelty? What do you remember from that time?"
+  },
+  {
+    "start": 56,
+    "end": 57,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:06:33)",
+    "text": "I mean, it was horrible. I think coming back to the point of low value of human life, they tried to kill him. There was no holding back, so I just watched someone… It wasn’t just one, but there was a main person and then there was a few others that piled in. They tried to kill him in front of me. We were eating sandwiches on a staircase at the school, in outdoor staircase. They were not coming after me and I just had to watch and I couldn’t help. It was one of the saddest, most difficult experiences. It was just awful."
+  },
+  {
+    "start": 58,
+    "end": 59,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:22)",
+    "text": "Just like that, life can end."
+  },
+  {
+    "start": 60,
+    "end": 61,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:07:25)",
+    "text": "Yeah."
+  },
+  {
+    "start": 62,
+    "end": 63,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:07:25)",
+    "text": "If could have been you."
+  },
+  {
+    "start": 64,
+    "end": 65,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:07:27)",
+    "text": "Yeah. I think I’ve had a near death experience where I almost died. I was in 2010 and I think that… And I broke my neck and I can go into that story in a moment, but this was different. This comes back to the low value of human life part where if someone had killed my brother, if that person had beat him to death, which he was trying to do, life would’ve gone on. That’s like an insane thought in an American, well maybe in some tough neighborhoods, but for the most part, it’s another thing."
+  },
+  {
+    "start": 66,
+    "end": 67,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:09)",
+    "text": "Yeah, the brutality of that, the mundaneness of the brutality."
+  },
+  {
+    "start": 68,
+    "end": 69,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:08:13)",
+    "text": "Yeah."
+  },
+  {
+    "start": 70,
+    "end": 71,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:15)",
+    "text": "It makes you think of all the places in the world that that’s happening."
+  },
+  {
+    "start": 72,
+    "end": 73,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:08:18)",
+    "text": "Exactly. Exactly."
+  },
+  {
+    "start": 74,
+    "end": 75,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:08:18)",
+    "text": "And all the beautiful people that just disappear."
+  },
+  {
+    "start": 76,
+    "end": 77,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:08:22)",
+    "text": "I always say to people who have an opinion about America that this is a really bad country or whatever, and I say, “Look, please go try another country before you say that. Not to say that America can’t get better, but please go try another country,” because not having that perspective or having a perspective that, I don’t know, they’ll catch up on their shoulder about the country that they’re in. Okay, go try another country and then come back and tell me, pick any country. It doesn’t have to be some very violent country. You go pick any country and you just realize that actually the world doesn’t think the same way that America thinks, and you are going to just learn a perspective that I think gives you a better way to critique where we live in America."
+  },
+  {
+    "start": 78,
+    "end": 79,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:09:17)",
+    "text": "Yeah, it’s humbling. You said that your dad was a roller coaster of affection and then verbal abuse. Walter Isaacson quotes Barack Obama who said, “Someone once said that every man is trying to live up to his father’s expectations or makeup for his father’s mistakes, and I suppose that may explain my particular malady.” Is part of that ring true for you?"
+  },
+  {
+    "start": 80,
+    "end": 81,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:09:39)",
+    "text": "What I thought you were going to say, thought you were going to end the sentence with live up to my father’s expectations. That’s what most people say. But then you said the second part, which is make up for his mistakes. I think that’s actually, that one rings true for me."
+  },
+  {
+    "start": 82,
+    "end": 83,
+    "speaker": "",
+    "timestamp": "(00:09:57)",
+    "text": "He was really [inaudible 00:09:59], but I’m not connected to him, but he taught me, the phrase I used to have was he taught me what not to do, so I still actually learned a lot. What kind of human not to be, what kind of actions not to take. And so that kind of closer to living up to his mistakes. But my father was such a train wreck that it’s not really mistakes. It’s like intentional actions of what not to do. Okay, look, don’t do that."
+  },
+  {
+    "start": 84,
+    "end": 85,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:10:34)",
+    "text": "But there’s still the trauma of that. It has an effect on the human psychology and can permeate through time. So, it has probably complex indirect effects on who you are, the good and the bad."
+  },
+  {
+    "start": 86,
+    "end": 87,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:10:50)",
+    "text": "There’s a critique that my friends give me, which is when they’re talking to me, I kind of just drift away. That just, I’m still looking at them, I’m still nodding, might even respond to them in their conversation, but I’m actually not there. And I’ve realized that actually that grew up because my father would just, verbal abuse is one way to say it. It is abuse, but it’s more just verbal diarrhea for you for hours and constantly saying, “Do you understand?” He wants to make sure that I’m paying attention. So, I trained myself to look like I’m paying attention, but I’m not."
+  },
+  {
+    "start": 88,
+    "end": 89,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:35)",
+    "text": "To disappear to someplace."
+  },
+  {
+    "start": 90,
+    "end": 91,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:11:37)",
+    "text": "Disappear to someplace."
+  },
+  {
+    "start": 92,
+    "end": 93,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:38)",
+    "text": "Wherever that is."
+  },
+  {
+    "start": 94,
+    "end": 95,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:11:39)",
+    "text": "Yeah, I do that less and less over time, but I-"
+  },
+  {
+    "start": 96,
+    "end": 97,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:43)",
+    "text": "That path has been paved somewhere in your mind at childhood, so it could be easy to walk down it. You and Elon were close growing up, you’re still close. What did you learn from each other? How did you compliment each other?"
+  },
+  {
+    "start": 98,
+    "end": 99,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:11:58)",
+    "text": "Yeah, I think we are a good compliment. I’ll talk for myself first. My strength is definitely on the social side. I love the gathering place and I love putting people together in person and I love to have vibrant debates and conversations. I’ve been doing that forever, including throwing fun parties and stuff where I bring people together and I really want people to have fun, but be vulnerable in not just silly partying, just actually let’s all connect. The definition for me of a good party is people laugh and cry. I want to have people have an emotional connection. I go to Burning Man every year, and that is, there’s no question you will cry at some point during Burning Man."
+  },
+  {
+    "start": 100,
+    "end": 101,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:11:58)",
+    "text": "No small talk."
+  },
+  {
+    "start": 102,
+    "end": 103,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:12:45)",
+    "text": "No small talk. Yeah, exactly. No small talk. You’re totally right on most parties, not parties, but most events you go to are like clubs, these sort of nightclubs. I never go to those. And my joke is why would I want to go to a place where I pay to shout small talk in the dark?"
+  },
+  {
+    "start": 104,
+    "end": 105,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:07)",
+    "text": "That’s a good line. That’s what it feels like. The only reason I enjoy those places is the full absurdity of exactly that."
+  },
+  {
+    "start": 106,
+    "end": 107,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:13:14)",
+    "text": "Right. It’s totally absurd."
+  },
+  {
+    "start": 108,
+    "end": 109,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:16)",
+    "text": "What are we doing? What is this? What is this life?"
+  },
+  {
+    "start": 110,
+    "end": 111,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:13:20)",
+    "text": "My compliment for my brother was just bringing joy and social connection and he’s an engineering genius. I’ve worked with him forever and we do compliment each other."
+  },
+  {
+    "start": 112,
+    "end": 113,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:33)",
+    "text": "You just came out with a cookbook, by the way. Thank you for giving me my first cookbook. I feel legit."
+  },
+  {
+    "start": 114,
+    "end": 115,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:13:37)",
+    "text": "I love that. Your first cookbook."
+  },
+  {
+    "start": 116,
+    "end": 117,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:41)",
+    "text": "I’m going to keep it on the counter and it’s going to give me legitimacy when anyone comes over. Hey, listen, I’m basically a chef now."
+  },
+  {
+    "start": 118,
+    "end": 119,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:13:49)",
+    "text": "That’s right. Exactly."
+  },
+  {
+    "start": 120,
+    "end": 121,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:13:51)",
+    "text": "When did you first fall in love with cooking?"
+  },
+  {
+    "start": 122,
+    "end": 123,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:13:54)",
+    "text": "I started cooking when I was 11 years old. My mom, she’s wonderful, but she is self-admittedly a bad cook. But at the time it was, and I think anyone with kids goes through this, your kids just want something like spaghetti bolognese or a burger or something. And my mom would do brown bread, plain yogurt, and boiled squash. The absolute most disgusting things that a child could imagine eating. And so I said, “Can I cook?” And she said, “Yeah, if you want to cook, no problem.”"
+  },
+  {
+    "start": 124,
+    "end": 125,
+    "speaker": "",
+    "timestamp": "(00:14:32)",
+    "text": "So, I went to the grocery store and back in those days, a butcher is separate to the grocery store, and I went to the butcher and I said, “What can I cook?” And he pulled out a chicken and he said, “This is the easiest recipe for you. Just put it on a pan in an oven, a hot oven.” Because back then the ovens weren’t necessarily like 400 degrees or 450 or whatever. “And put it in a hot oven for one hour and enjoy.” That was it. And so I went home and actually I also bought some french fries, I’ll tell you that as well. I’m a kid, of course, I went french fries. So, the roast chicken with french fries and the chicken came out and it was just fantastic."
+  },
+  {
+    "start": 126,
+    "end": 127,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:16)",
+    "text": "It was?"
+  },
+  {
+    "start": 128,
+    "end": 129,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:15:16)",
+    "text": "Absolutely fantastic."
+  },
+  {
+    "start": 130,
+    "end": 131,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:18)",
+    "text": "That’s incredible, by the way."
+  },
+  {
+    "start": 132,
+    "end": 133,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:15:19)",
+    "text": "Yeah."
+  },
+  {
+    "start": 134,
+    "end": 135,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:20)",
+    "text": "You didn’t screw it up the first time."
+  },
+  {
+    "start": 136,
+    "end": 137,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:15:21)",
+    "text": "First of all, I think that also kicks off the magic. If you screw it up and you’re like, “Oh, maybe this is not for me.” So for me, it really did kick it off."
+  },
+  {
+    "start": 138,
+    "end": 139,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:15:30)",
+    "text": "You started out on a high note."
+  },
+  {
+    "start": 140,
+    "end": 141,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:15:32)",
+    "text": "Right, exactly. But I tell the french fry part, which was a disaster. I cooked the french fries, but I didn’t heat the oil first, so I just put the potatoes in the oil and I waited for to heat up. And I just was throwing up later that night, your body can’t ingest that much because it sucks the oils in. And so that was a disaster. But at the time it tasted good. The real magic, which I also found was wonderful, was when I cooked, my brother, my sister, my mom, all very, very busy, very intense people, would sit down and we would have a meal together."
+  },
+  {
+    "start": 142,
+    "end": 143,
+    "speaker": "",
+    "timestamp": "(00:16:10)",
+    "text": "And I was like, “Wow, this is a very powerful thing that I’ve now got.” Where in no other way could I have that connection with my family. I mean, obviously we stay connected, we’re very close, et cetera, but in no other way can we sit down and just talk about things or talk about whatever’s on our mind or just to not even talk, just to be at the table together. And I’ve done that now through my whole life. My kids still for my family, and we will do gratitudes at the beginning of our meal. And it’s just, I think what kept me cooking, what made my love of cooking so great was actually the fact that we would sit down-"
+  },
+  {
+    "start": 144,
+    "end": 145,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:16:53)",
+    "text": "Together."
+  },
+  {
+    "start": 146,
+    "end": 147,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:16:54)",
+    "text": "… and be present with each other. And I’m also just horrible with that too, so I also get to be present."
+  },
+  {
+    "start": 148,
+    "end": 149,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:17:00)",
+    "text": "What is that about food that brings people together and not just together, but really together where you’re paying attention? What is that? Why is it food? What else does that? Sometimes maybe alcohol can do that, which is a kind of food, I guess [inaudible 00:17:18]-"
+  },
+  {
+    "start": 150,
+    "end": 151,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:17:18)",
+    "text": "Yeah, but I think alcohol is different because you’re usually standing when you’re doing alcohol. You’re socializing, but you’re just going to stay more in the small talk zone. Whereas if you sit down, and I see this in my restaurant, in the kitchen in Boulder where we have every viewpoint or we go to Denver, every viewpoint. In restaurant in Chicago, every viewpoint. And the physical presence of someone being right there is people, they’re just different, absolutely different to what they are online. I think we all know the difference between you send an email to someone and they misunderstand the email and “Oh, if I just had talked to the person, it would’ve been fine.”"
+  },
+  {
+    "start": 152,
+    "end": 153,
+    "speaker": "",
+    "timestamp": "(00:18:02)",
+    "text": "Well, this is now happening at scale with all of these, what do you, call trolling or whatever. And I’ve sat at the bar and I’ve had a hardcore Trump supporter, and I’m just curious, just like, “Tell me what, I’m not a Trump supporter, but tell me more.” And actually it draws the conversation out because you’re there for an hour or longer, so there’s no rush to get the answer. And I think that’s a big difference. I’ve had one time where just a couple months ago I had someone, I was sitting at the community table, we have a community table in the restaurant, and I didn’t know him too well, but he asked me, did I know that 9-11 was a conspiracy and it didn’t really happen?"
+  },
+  {
+    "start": 154,
+    "end": 155,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:18:54)",
+    "text": "It didn’t happen? Yeah.;"
+  },
+  {
+    "start": 156,
+    "end": 157,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:18:56)",
+    "text": "And I was like, “Huh.” So, I was at 9-11, [inaudible 00:19:02] I was there physically there. So, it’s like, nope."
+  },
+  {
+    "start": 158,
+    "end": 159,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:04)",
+    "text": "Allegedly."
+  },
+  {
+    "start": 160,
+    "end": 161,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:19:05)",
+    "text": "There’s no doubt in my mind. But I didn’t want to interrupt what he had to say. I let him talk for five minutes, six minutes, seven minutes. Again, you’re there for a while, so you’re not in a rush to jump in and argue. And then I shared that I was there, and I think because I had been willing to listen to him, he was willing to listen to me. And I don’t know if he changed his mind. Certainly doesn’t change my mind, but it was actually a pretty cool conversation to get into each other’s mind."
+  },
+  {
+    "start": 162,
+    "end": 163,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:43)",
+    "text": "Well, I think you connect on a different level. Not on the level of the conspiracy, but on the level of basic humanity."
+  },
+  {
+    "start": 164,
+    "end": 165,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:19:51)",
+    "text": "Yes."
+  },
+  {
+    "start": 166,
+    "end": 167,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:19:52)",
+    "text": "That’s what you really connect on. And then it almost becomes interesting and fun that you can exchange ideas, even crazy ideas, out there ideas, and kind of play with them. We humans are good at that."
+  },
+  {
+    "start": 168,
+    "end": 169,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:20:04)",
+    "text": "Yeah, exactly. I like the term play with them because what you’re not trying to do is shut the conversation down. You’re also not trying to-"
+  },
+  {
+    "start": 170,
+    "end": 171,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:14)",
+    "text": "Talk down on me."
+  },
+  {
+    "start": 172,
+    "end": 173,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:20:15)",
+    "text": "Yeah, yeah, exactly. This guys is, let me just be nice while I totally disagree with this person. You can do that for a few minutes. You can’t do that for two hours."
+  },
+  {
+    "start": 174,
+    "end": 175,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:20:25)",
+    "text": "And there’s something about food that completely, I don’t know, it must be evolutionary that it makes us vulnerable in a way that even just standing there for a prolonged period of time doesn’t. There’s something about, you know when the animals gather to the water or whatever, this kind of experience where you’re just like, “All right, let’s just acknowledge together that we need sustenance.”"
+  },
+  {
+    "start": 176,
+    "end": 177,
+    "speaker": "",
+    "timestamp": "(00:20:55)",
+    "text": "And somehow that kind of grounds us to, we’re just a bunch of descendants of apes here, just kind of grateful to be alive, frankly, and grateful to be consuming this thing which keeps us alive. And in that context, you can talk about all kinds of stuff. You can discuss flat earth and enjoy it."
+  },
+  {
+    "start": 178,
+    "end": 179,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:21:18)",
+    "text": "Absolutely. Absolutely. In fact, one of my favorite things to do is you do a Jeffersonian style dinner, let’s say five or six people. Sometimes people will break off into individual conversations. That’s actually when things break down. So that’s when you go back to small talk like, “Oh, I’m stuck next to this guy. I’m just going to do a little small talk.” What you need to do to really create a great conversation is one conversation at the table. And that’s where there’ll be some simple questions that I’ll say. I’ll say, “What’s your middle name?” And you’ll be amazed at the stories you get from that, but it’s about creating vulnerability."
+  },
+  {
+    "start": 180,
+    "end": 181,
+    "speaker": "",
+    "timestamp": "(00:21:56)",
+    "text": "So, they’re like, “Oh, no one’s ever asked me that before,” so then they become vulnerable. And then it’s something as simple as, “What’s the most fun thing you’ve done recently and what is the most fun thing you’re looking forward to?” I have gotten into, with those prompts, I’ve gotten into hours long discussions on God. I’ve gotten into hours long discussions on love. I’ve got into hours long discussions on anger. It’s actually amazing when people are just asked a question, ” What’s the most fun thing you’ve done lately?” Well, why would anger come up? Well, actually, they’re in a vulnerable place, so it’ll just kind of come out of them."
+  },
+  {
+    "start": 182,
+    "end": 183,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:37)",
+    "text": "So, you get to see this, you get to see this at the kitchen in you said Boulder, Denver, Chicago?"
+  },
+  {
+    "start": 184,
+    "end": 185,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:22:42)",
+    "text": "And we’re going to open in Austin."
+  },
+  {
+    "start": 186,
+    "end": 187,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:43)",
+    "text": "In Austin. That’s what I saw. When?"
+  },
+  {
+    "start": 188,
+    "end": 189,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:22:45)",
+    "text": "In October is the goal."
+  },
+  {
+    "start": 190,
+    "end": 191,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:22:47)",
+    "text": "In October is the goal. Well, I mean, speaking of characters and human beings, Austin is fascinating. I forget how long ago, a couple months ago, I was just sitting at a bar and the two people were talking and they were talking about Marxism, and it turns out that they’re a narco communists, which is the thing. And I got into this conversation."
+  },
+  {
+    "start": 192,
+    "end": 193,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:23:09)",
+    "text": "Communist likes drugs?"
+  },
+  {
+    "start": 194,
+    "end": 195,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:12)",
+    "text": "That’s a good question."
+  },
+  {
+    "start": 196,
+    "end": 197,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:23:15)",
+    "text": "I think I know some of those."
+  },
+  {
+    "start": 198,
+    "end": 199,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:18)",
+    "text": "Anyway, they were beautiful people. I think they’re local from Austin. I don’t know the depth of their personal experience of the different kinds of communists-like systems, but it was fascinating to listen to and then get to know them and the humanity, the weirdness, like the characters. I love it. One of the reasons I really love Austin, I decided to be here, is just the cliche thing of keep Austin weird. I mean, there’s a lot of weird characters."
+  },
+  {
+    "start": 200,
+    "end": 201,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:23:46)",
+    "text": "I love it. I think that I’ve talked to a lot Austinites who’ve been here forever, and I’m like, “Man, you got to hold us accountable. We got to keep this place weird.”"
+  },
+  {
+    "start": 202,
+    "end": 203,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:23:55)",
+    "text": "A hundred percent. Which makes the restaurant seem great because you have all these characters come in. It’s great, so I look forward to that. But you were saying you get to see humans in real life interact. That’s one of the beautiful things over food. In the book you write, Picasso once said, “The meaning of life is to find your gift. The purpose of life is to give it away.” Then you wrote that you believe food is the gift we give ourselves three times a day. Can you explain that? The gift nature of it."
+  },
+  {
+    "start": 204,
+    "end": 205,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:24:26)",
+    "text": "Yeah. I think it’s one of my most powerful life lessons is we have to eat. So, it’s not like you have a choice, you have to eat. And so what I choose to do is I choose to make it a gift to myself for each meal. And most of the time, the best gift is with friends, with family. We’ll have to cook some scrambled eggs in the morning with my daughter, or we’ll have dinner with our family. To me, it’s a gift we give ourselves three times a day at least, but for the most part, three times a day, let’s make it a good one."
+  },
+  {
+    "start": 206,
+    "end": 207,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:00)",
+    "text": "What makes it a good one to you? What aspect of what makes it a good one?"
+  },
+  {
+    "start": 208,
+    "end": 209,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:25:03)",
+    "text": "Well, first definitely eating with people, so that makes it a good one. Eating in a restaurant, it doesn’t have to be my restaurant, where you have the energy of people around you, energy of the town, people you don’t know creates a little bit of a vibe. You mentioned the watering hole analogy that animals sipping at the water, but there’s an energy to that because they’re also looking around going, “Am I just about to be eaten?”"
+  },
+  {
+    "start": 210,
+    "end": 211,
+    "speaker": "",
+    "timestamp": "(00:25:35)",
+    "text": "So, they’re all in it together, we need to have water. But there’s still a little bit of tension as well in the background. And I think that’s what restaurants do is a very, very subtle version of that. You’re in a room with strangers and you’re a little cluster. Okay, fine, you guys are connected in it, but you’re in a room with strangers, and it’s just something that adds that energy to the meal."
+  },
+  {
+    "start": 212,
+    "end": 213,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:25:57)",
+    "text": "Yeah. You’re a little bit wondering what does everyone else think about our little cluster?"
+  },
+  {
+    "start": 214,
+    "end": 215,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:02)",
+    "text": "Right. Are we too loud or just people are random, so something random could happen."
+  },
+  {
+    "start": 216,
+    "end": 217,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:08)",
+    "text": "And also depending on your personality, if you’re an extrovert, maybe you want to show off to the other clusters."
+  },
+  {
+    "start": 218,
+    "end": 219,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:12)",
+    "text": "Exactly. Yeah, absolutely. Totally right. I mean, look at the cowboy hat. I mean, actually, I’ll take my hat off when I want to have a quiet meal and I can leave my hat on when I’m-"
+  },
+  {
+    "start": 220,
+    "end": 221,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:22)",
+    "text": "So you’re aware of [inaudible 00:26:23] of the hat."
+  },
+  {
+    "start": 222,
+    "end": 223,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:23)",
+    "text": "I’m aware of the effect it has. Yeah, absolutely."
+  },
+  {
+    "start": 224,
+    "end": 225,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:26)",
+    "text": "Everyone turns [inaudible 00:26:27]."
+  },
+  {
+    "start": 226,
+    "end": 227,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:27)",
+    "text": "That’s right."
+  },
+  {
+    "start": 228,
+    "end": 229,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:28)",
+    "text": "And then it’s back to the watering hole because when you wear a cowboy hat, you just might actually not-"
+  },
+  {
+    "start": 230,
+    "end": 231,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:33)",
+    "text": "Yeah. I’m like, they’re going to get me first."
+  },
+  {
+    "start": 232,
+    "end": 233,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:26:37)",
+    "text": "At noon. I love it."
+  },
+  {
+    "start": 234,
+    "end": 235,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:26:39)",
+    "text": "I got to tell the story. So, talk to the craziness of being in the restaurant world where you’re sitting at a table and anything can happen in the restaurant. So, this one time, it was like 15 years ago, this guy comes up to us and says, he’d like to propose to his wife, his girlfriend. And so we said, “Okay, cool. We’ve done this before. We’ll make sure it’s-"
+  },
+  {
+    "start": 236,
+    "end": 237,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:27:00)",
+    "text": "And so we said, okay, cool. We’ve done this before. We’ll make sure it’s all set up, 6:00 PM reservation. So she shows up and we give her a glass of champagne and we obviously didn’t want to spoil the surprise so we just doing everything we can. But then he doesn’t arrive and they’re like, oh man. Now we’re like, don’t leave. Can we get you another glass of champagne? We’re doing everything we can because the guy was obviously earnest earlier, but just as he stuck in traffic or whatever and coming through the back door of the restaurant, which is you’re not allowed to come through the back door of the restaurant, a marching band from the school, the university comes through the restaurant full on brass band and the whole thing and he gets down and he proposes and it’s beautiful, sure, but it’s also like, man, this is chaos. This is insane. And we would never have said yes to this if he’d actually told us what he was going to do."
+  },
+  {
+    "start": 238,
+    "end": 239,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:27:56)",
+    "text": "Well sometimes in life you have to do it and apologize."
+  },
+  {
+    "start": 240,
+    "end": 241,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:27:59)",
+    "text": "You do it and apologize. But that talks to that kind of what’s the crazy thing that could happen in a… It’s subtle, but it’s still there."
+  },
+  {
+    "start": 242,
+    "end": 243,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:28:07)",
+    "text": "So in 2004 you opened The Kitchen. It’s an American bistro restaurant. What was it like? What’s it like running a restaurant? The good, the bad and the ugly. What’s the easy, what’s the fun and what’s the hard?"
+  },
+  {
+    "start": 244,
+    "end": 245,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:28:19)",
+    "text": "I think the thing that I absolutely love about running the restaurant, not eating at it but running the restaurant is the tangible reaction from people. And you also kind of know when you screwed it up and you also know when you got it right. It’s kind of a weird way to say this, but even if the customer’s unhappy, you know whether you got it right or wrong. It’s not just about the food you’re making, but it’s about the person’s psychological state. And you’ll do something that you’d know that was not done well. And their psychological state, they’re just in a very happy place and they love it. And you’re like, huh, interesting. That’s not how I would’ve reacted to that dish. And then the other way around you’re like I got that right and that person’s just really unhappy today."
+  },
+  {
+    "start": 246,
+    "end": 247,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:14)",
+    "text": "Yeah. And it’s so hard to read humans because you have to… If you got it right, that can look a million different ways depending on the emotional rollercoaster that humans living through. I’ve been at some very low points and I’ve gone to a restaurant alone and just sitting there and be truly happy with just the zen aspect of it. And it was just a great steak or something like this and maybe two other people around me would look like I’m very unhappy just because I’m within myself."
+  },
+  {
+    "start": 248,
+    "end": 249,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:29:52)",
+    "text": "Sure, struggling with your today."
+  },
+  {
+    "start": 250,
+    "end": 251,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:29:53)",
+    "text": "Yeah. Within myself. But I’m truly happy within that struggle. So yeah, it’s interesting. But you can kind of tell."
+  },
+  {
+    "start": 252,
+    "end": 253,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:29:59)",
+    "text": "Yeah, you can tell. And you mentioned being at the bar the most gifted bartenders really understand that. What’s also great about a restaurant it goes beyond the one-time experience that you walk in and you have that experience, is the good bartenders they remember you. Oh, you were in a few months ago and this is kind of your thing. You might need a little time. And other people will come in, they want a conversation or other people come in and they’re going through a divorce and they just want to be sad for a moment. Have a scotch. And it’s like, it’s amazing what you learn in the restaurant world to just be connected to humanity."
+  },
+  {
+    "start": 254,
+    "end": 255,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:30:42)",
+    "text": "Yeah. What is that about bars? That’s a different experience. You said the table, the communal."
+  },
+  {
+    "start": 256,
+    "end": 257,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:30:48)",
+    "text": "The table is when you connect with people, learn about each other. Bars, you can sometimes do that, you can talk left and right, but you have the freedom to always break free. You can say, okay great, I’m going to go back to my meal. It’s a friend you can turn on and off at any time because the bartender knows that. They’re trained. If you want attention, I’m going to give it to you. If you don’t, I’m going to stay away. If you want to be chatty, I’m going to be chatty. If you want to be completely in your head, I’ll leave you in your head."
+  },
+  {
+    "start": 258,
+    "end": 259,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:18)",
+    "text": "But there’s also strangers next to you that you… There’s a feeling with a bar that you’re kind of alone together."
+  },
+  {
+    "start": 260,
+    "end": 261,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:31:26)",
+    "text": "Yeah. And you can reach out, you can add some conversation or you can choose not to."
+  },
+  {
+    "start": 262,
+    "end": 263,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:31:30)",
+    "text": "And you can exit quickly."
+  },
+  {
+    "start": 264,
+    "end": 265,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:31:31)",
+    "text": "You can exit. Exactly. It’s a really good exit. So bars are wonderful and I love going to a bar by myself after work. I might have a scotch, might even not even have alcohol, just have something and maybe I’ll have a snack or something before dinner because I’m going to go home and have dinner with the family and that 20 minutes is just an amazing state change from daytime to nighttime. Whereas if I went straight home, I’m still in my head and I’m just trying to get grounded and I’m not as pleasant of a person. So that’s another powerful use of a bar. It’s just like a transition time."
+  },
+  {
+    "start": 266,
+    "end": 267,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:13)",
+    "text": "Well, it would be remiss not to mention the other use of the bar, which is like when you’re going through some shit in life and you just go. I mean that’s the cliche thing, I’ve been somewhere-"
+  },
+  {
+    "start": 268,
+    "end": 269,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:32:26)",
+    "text": "Drowning your sorrows."
+  },
+  {
+    "start": 270,
+    "end": 271,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:27)",
+    "text": "Exactly."
+  },
+  {
+    "start": 272,
+    "end": 273,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:32:28)",
+    "text": "The real thing."
+  },
+  {
+    "start": 274,
+    "end": 275,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:32:30)",
+    "text": "Exactly. But the bar makes the melancholy somehow rich and beautiful and you feel heard in the silence."
+  },
+  {
+    "start": 276,
+    "end": 277,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:32:40)",
+    "text": "Yes. You feel heard. Like I said earlier, people going through a divorce, they don’t know where else to go. These are mostly men. Sometimes women will do it, but mostly men will do this and women have other ways of processing it. But they want a place to be sad and want a place where they could feel comfortable talking about it if… They’re certainly not going to go into too much detail, but they just want to say something and the bartender is there for them."
+  },
+  {
+    "start": 278,
+    "end": 279,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:10)",
+    "text": "Yeah, you don’t know where to go."
+  },
+  {
+    "start": 280,
+    "end": 281,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:33:12)",
+    "text": "You don’t know where to go. Exactly."
+  },
+  {
+    "start": 282,
+    "end": 283,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:33:14)",
+    "text": "And the bar… Yeah, you’re right. For men especially is a place to just go and just, I don’t know. What is that? What is that?"
+  },
+  {
+    "start": 284,
+    "end": 285,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:33:23)",
+    "text": "I’ll be honest, I still do it myself where if I’m at home and I don’t have a work thing that I got to deal with and I don’t have kids and I don’t have my wife or my family around, I don’t often cook for myself. I actually love going to a bar by myself. I have a glass of red wine and I usually don’t have a starter, appetizer. I just have a main meal and I just take in the energy of the space. It was my restaurant, someone else’s restaurant, I just take in the energy and it’s so much better than being home and turn the TV on. No, no, no. I want to be out in the restaurant. I want to feel the energy of the town. The other thing that restaurants teach me is they’re the front lines of the economy or what’s a better word for it? Front lines of the energy of how things are going."
+  },
+  {
+    "start": 286,
+    "end": 287,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:24)",
+    "text": "Of a people’s in general. It doesn’t necessarily mean this part of town, but it could be the entire society."
+  },
+  {
+    "start": 288,
+    "end": 289,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:34:30)",
+    "text": "Yeah, exactly. So you can go into a restaurant and I’ll use a simple example and why is the restaurant empty? Ah, there’s a football game going on and there’s such a large number of people want to watch that game that the restaurant is quiet. Or it might be like another world series or something and you’re like, wow, that’s so interesting. You can actually watch in America, of course, American humanity, you can watch them move in their patterns just by being in the restaurant."
+  },
+  {
+    "start": 290,
+    "end": 291,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:34:59)",
+    "text": "Yeah. Yeah. Yeah."
+  },
+  {
+    "start": 292,
+    "end": 293,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:35:00)",
+    "text": "And then another time you might be in a restaurant and he’s just jamming. It’s a Monday night and you’re like, what is the energy that created this on a Monday night and maybe even on a cold February, Monday night, what is it? And sometimes you can’t find out but you can feel it. And it’s my front lines of humanity that I also just really love about the restaurants."
+  },
+  {
+    "start": 294,
+    "end": 295,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:24)",
+    "text": "Yeah, it could be empty, it could be full. Empty bars, there’s a magic to those too."
+  },
+  {
+    "start": 296,
+    "end": 297,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:35:29)",
+    "text": "Yeah."
+  },
+  {
+    "start": 298,
+    "end": 299,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:30)",
+    "text": "You could still feel that energy. I don’t know."
+  },
+  {
+    "start": 300,
+    "end": 301,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:35:32)",
+    "text": "I actually prefer empty bars than full ones."
+  },
+  {
+    "start": 302,
+    "end": 303,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:35:34)",
+    "text": "It’s just you and the bartender. I mean some of my greatest experiences is just the quiet bar, just me and the bartender and they’re doing their thing and they’ve seen so many… I’ve almost like through osmosis somehow feel the stories that that bartender has seen, has felt, has heard and all that kind of stuff. It’s not to be sort of spiritual about it, but it seems like it’s in the walls or something. Like there’s the history is felt."
+  },
+  {
+    "start": 304,
+    "end": 305,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:36:01)",
+    "text": "And then some of these bars are actually very old and it’s wonderful. There are many in Europe like this, but there’s a couple in New York City, a few hundred years old and they’re still operating nonstop for that long and man, you feel it."
+  },
+  {
+    "start": 306,
+    "end": 307,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:14)",
+    "text": "Yeah. Let me ask you some questions about ingredients. What’s your favorite ingredient to cook with?"
+  },
+  {
+    "start": 308,
+    "end": 309,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:36:20)",
+    "text": "For me, cooking is an art. So it’d be like asking me what’s my favorite paint color to use. It’s not that it isn’t like there isn’t one, it’s more like when there is one, it really is one. There’s peaches on the cover of this cookbook. Those peaches, those were in August, Colorado peaches. It just doesn’t get any better than that."
+  },
+  {
+    "start": 310,
+    "end": 311,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:44)",
+    "text": "On that day, at that moment, that was the best."
+  },
+  {
+    "start": 312,
+    "end": 313,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:36:47)",
+    "text": "That was the best, but that only lasts for a week and then they don’t taste so great."
+  },
+  {
+    "start": 314,
+    "end": 315,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:36:50)",
+    "text": "Yeah."
+  },
+  {
+    "start": 316,
+    "end": 317,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:36:53)",
+    "text": "But damn are they so good in that moment and you just can’t stop wanting to use that ingredient."
+  },
+  {
+    "start": 318,
+    "end": 319,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:00)",
+    "text": "They look really good."
+  },
+  {
+    "start": 320,
+    "end": 321,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:37:01)",
+    "text": "They are so good."
+  },
+  {
+    "start": 322,
+    "end": 323,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:02)",
+    "text": "What’s your favorite fruit? I love veggies and fruit. What’s your favorite fruit?"
+  },
+  {
+    "start": 324,
+    "end": 325,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:37:07)",
+    "text": "I love a smoothie bowl, so I do sort of berries, raspberries, but I use fruit more in the form of a smoothie bowl than I eat fruit that often. I like an apple or a banana, but for the most part, I prefer the blended."
+  },
+  {
+    "start": 326,
+    "end": 327,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:22)",
+    "text": "Not me. I love the way you casually said I like an apple."
+  },
+  {
+    "start": 328,
+    "end": 329,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:37:27)",
+    "text": "A good apple is pretty great."
+  },
+  {
+    "start": 330,
+    "end": 331,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:28)",
+    "text": "For me it’s a problem, I think. Probably cherries number one. Probably, what are they called? Granny Smith apples number two."
+  },
+  {
+    "start": 332,
+    "end": 333,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:37:37)",
+    "text": "Oh, yeah, those are great. But try it when sometime come to Colorado in August and when you try those peaches, it is like it heaven has arrived in your mouth. It is so ridiculously good."
+  },
+  {
+    "start": 334,
+    "end": 335,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:52)",
+    "text": "But just for a week in August."
+  },
+  {
+    "start": 336,
+    "end": 337,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:37:53)",
+    "text": "Just for a week. You can’t have it all year long."
+  },
+  {
+    "start": 338,
+    "end": 339,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:37:55)",
+    "text": "Okay. What about veggies? You wrote that Chef Hugo that you worked with the co-founder of The Kitchen with taught you the power of a good vegetable."
+  },
+  {
+    "start": 340,
+    "end": 341,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:38:05)",
+    "text": "Yeah."
+  },
+  {
+    "start": 342,
+    "end": 343,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:38:05)",
+    "text": "What’s the power of good vegetable?"
+  },
+  {
+    "start": 344,
+    "end": 345,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:38:07)",
+    "text": "So I’ve trained in New York as a French chef, but it wasn’t very much ingredients focused. It wasn’t very much sourcing focused. He came from the River Cafe in London, which was one of the OGs for the farm to table and still going strong today. And he taught me the value of getting to know farmers and getting to know vegetables from that farm versus vegetables from that farm. And they’re actually different. The soil’s a little different. The way they grow it a little different. It’s the opposite of the industrial machine where everything needs to look exactly the same. And sometimes you’ll get carrots that are ugly and deformed, but there’s much sweeter than the carrots you’d get for other purposes."
+  },
+  {
+    "start": 346,
+    "end": 347,
+    "speaker": "",
+    "timestamp": "(00:38:50)",
+    "text": "So you’d make a carrot puree out of that and then you’d carrots that are more typical in shape and size, you might roast them for dinner. So it’s the appreciation for vegetables in general. I probably would say carrots is my favorite just because that was an example of one where I’ve really had to learn how to use the different types of carrots that come from all of our farms. And it’s fun. It’s a fun ingredient. If you just went to the whole foods or just went to a grocery store and you just got exactly the same carrot every time, less fun. But go to a farmer’s market and see what you get and you’ll see they’re quite different."
+  },
+  {
+    "start": 348,
+    "end": 349,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:28)",
+    "text": "Yeah, carrot for me is probably number one. I have rigorous detailed rankings for fruit and veggies."
+  },
+  {
+    "start": 350,
+    "end": 351,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:39:35)",
+    "text": "That’s amazing."
+  },
+  {
+    "start": 352,
+    "end": 353,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:35)",
+    "text": "But we’ll get into it. No, I’m just kidding. Well, I am the kind of person that would have a spreadsheet for that."
+  },
+  {
+    "start": 354,
+    "end": 355,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:39:40)",
+    "text": "That’s great."
+  },
+  {
+    "start": 356,
+    "end": 357,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:42)",
+    "text": "But I’m mostly just making fun of myself. But I do love carrots. I wish they weren’t so full of carbs, but…"
+  },
+  {
+    "start": 358,
+    "end": 359,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:39:52)",
+    "text": "Yeah, I’m just not anti carbs. I think the-"
+  },
+  {
+    "start": 360,
+    "end": 361,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:39:55)",
+    "text": "Anti carb. Yeah. Yeah. Yeah. Yeah."
+  },
+  {
+    "start": 362,
+    "end": 363,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:39:56)",
+    "text": "Yeah. I think they play a role. I have a great friend who’s an amazing doctor and he did some tests for me and everything and turns out I have a gluten allergy and I was like, okay. So what that means is I shouldn’t eat gluten. It’s like, yeah. It’s like, okay, but I also have hay fever and that means I should not go out into nature. So I was like, nah, I think I’m going to go out into nature and maybe what I’ll do on bread and pasta is, like the true carbs I’ll just have it when it’s really good because when it’s really good, it’s really good and you don’t want to miss that. Most of the time, okay, find some crummy bread, whatever. I can skip that part, but I find all of these diets that are like, no, none of this will work. Super this, super that. I wonder if they’re just like people are just looking for something to hang on to. But these diets have been around forever and if they work, then we would know that."
+  },
+  {
+    "start": 364,
+    "end": 365,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:40:58)",
+    "text": "Yeah, I think one of the biggest problems with diets is it adds stress when you do have that perfect bowl of pasta. If you have categorized yourself as a low-carb eating person, you might be very stressed about enjoying this thing when you should just let go."
+  },
+  {
+    "start": 366,
+    "end": 367,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:41:16)",
+    "text": "Let go. This is your cheat day or whatever. And I’ve heard that, and actually I have friends who do that their cheat day, and I say to them, I’m only going to hang out with you on your cheat day because that’s when you’re actually fun."
+  },
+  {
+    "start": 368,
+    "end": 369,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:28)",
+    "text": "Yeah. I would say for me there’s things that make me feel really good, but they’re not rules. They’re not… They’re like go-to favorites in terms of diet and so on. For example, I’ve mostly been eating once a day for the longest time, but that’s not a rule. It’s completely flexible and I’ve mostly been eating very low-carb."
+  },
+  {
+    "start": 370,
+    "end": 371,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:41:54)",
+    "text": "Yeah, but you must be eating a lot of food in that one meal."
+  },
+  {
+    "start": 372,
+    "end": 373,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:41:56)",
+    "text": "Yeah, because it’s usually a very sort of meat heavy. It’s not, portions are not that big."
+  },
+  {
+    "start": 374,
+    "end": 375,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:42:03)",
+    "text": "Sure, but your body needs food."
+  },
+  {
+    "start": 376,
+    "end": 377,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:04)",
+    "text": "Yeah, body needs food. So you’re talking about like 2000 calories. What you find out is that dinner is the most social time of the day."
+  },
+  {
+    "start": 378,
+    "end": 379,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:42:13)",
+    "text": "Yeah. I have kids in the mornings, so if you have kids, it’s for sure a morning experience, but if you don’t, then you’re right."
+  },
+  {
+    "start": 380,
+    "end": 381,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:18)",
+    "text": "Yeah. But like you said, I deviate. I’m more afraid of missing the perfect dessert, the perfect breakfast, the perfect bowl of pasta, pizza, all that kind of stuff. I don’t think of it as a cheat day. I think it’s a-"
+  },
+  {
+    "start": 382,
+    "end": 383,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:42:36)",
+    "text": "Well, of you only doing one meal a day, you can eat whatever you like."
+  },
+  {
+    "start": 384,
+    "end": 385,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:39)",
+    "text": "But I want to make clear that it’s not one meal a day always, and I’m like this very strict thing. You always have to be open to the experience, to the new experience."
+  },
+  {
+    "start": 386,
+    "end": 387,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:42:50)",
+    "text": "I love that. Yeah."
+  },
+  {
+    "start": 388,
+    "end": 389,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:42:51)",
+    "text": "Otherwise you do miss out, just like you said, hay fever. I think if you want to be really safe, you should never leave your home."
+  },
+  {
+    "start": 390,
+    "end": 391,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:42:59)",
+    "text": "Yes. Right we learned during COVID, if you wrap yourself in cotton wool in your basement-"
+  },
+  {
+    "start": 392,
+    "end": 393,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:03)",
+    "text": "Yes."
+  },
+  {
+    "start": 394,
+    "end": 395,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:43:04)",
+    "text": "… you’re not going to die from COVID. You might die from a lot of other things, of pure misery."
+  },
+  {
+    "start": 396,
+    "end": 397,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:10)",
+    "text": "Yeah. Well, you might live forever."
+  },
+  {
+    "start": 398,
+    "end": 399,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:43:13)",
+    "text": "We don’t know."
+  },
+  {
+    "start": 400,
+    "end": 401,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:15)",
+    "text": "But it certainly doesn’t maximize the joy of whatever makes life worth living, it doesn’t maximize that."
+  },
+  {
+    "start": 402,
+    "end": 403,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:43:22)",
+    "text": "Yeah. Exactly."
+  },
+  {
+    "start": 404,
+    "end": 405,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:43:23)",
+    "text": "You wrote in the book that Anthony Bourdain was one of your heroes. Can you speak to what inspired you about him?"
+  },
+  {
+    "start": 406,
+    "end": 407,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:43:33)",
+    "text": "Yeah, he wrote a book called Kitchen Confidential in the nineties. I was in cooking school at the time. It was so… He romanticized the cooking in the restaurant so well. His writing is great. He kind of got me into like, oh, that’s cool, I want to do that. It was cool. So I got into cooking school, got more engaged in it, and I had this FOMO feeling of I wanted to experience what it’s like to be in the back. When you’re in cooking school, you are in the back. It had a restaurant, we would serve people, but it’s not the same thing as actually being in a… A real restaurant it’s like you’re in a submarine with your teammates and you got to win tonight. It’s a real energy. And so that was a big inspiration. I followed him over the… It’s so sad that he chose to end his life, but I also had met with him a few times. Not like one-on-one over dinner or anything, but just met with him and I just felt his love for food and truly just love for food."
+  },
+  {
+    "start": 408,
+    "end": 409,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:44:41)",
+    "text": "He gave the advice of don’t be afraid, get excited, and cook with love."
+  },
+  {
+    "start": 410,
+    "end": 411,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:44:45)",
+    "text": "Yeah. I’ve used that phrase, especially the cook loved one. One of the things about which we talked about this earlier, where you get quick tangible feedback from a customer when you’re in the restaurant. I know when I didn’t put love into that dish. I know when one of my line cooks did not put love into that part of the dish. I know when that expert person did not put love into double checking the dish before putting it on the table. You just know and cook with love is you do it for your family. Oh, actually, especially when you do it for your family. The food doesn’t have to be perfect, but you’re cooking with love."
+  },
+  {
+    "start": 412,
+    "end": 413,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:27)",
+    "text": "That’s why you lost scrambled eggs."
+  },
+  {
+    "start": 414,
+    "end": 415,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:45:29)",
+    "text": "I do that, it’s-"
+  },
+  {
+    "start": 416,
+    "end": 417,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:30)",
+    "text": "That’s in the book, Kimbal’s scrambled eggs."
+  },
+  {
+    "start": 418,
+    "end": 419,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:45:32)",
+    "text": "Yes."
+  },
+  {
+    "start": 420,
+    "end": 421,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:33)",
+    "text": "You promised to make me scrambled eggs, I’m going to hold you to it."
+  },
+  {
+    "start": 422,
+    "end": 423,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:45:35)",
+    "text": "That’s great."
+  },
+  {
+    "start": 424,
+    "end": 425,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:38)",
+    "text": "A cooking school you mentioned, The French Culinary Institute. I heard it was a bit of a rough experience in parts."
+  },
+  {
+    "start": 426,
+    "end": 427,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:45:46)",
+    "text": "I will call it… It’s not a rough experience in that-"
+  },
+  {
+    "start": 428,
+    "end": 429,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:45:50)",
+    "text": "In a beautiful way."
+  },
+  {
+    "start": 430,
+    "end": 431,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:45:51)",
+    "text": "Yeah, it’s exactly. It’s not like I’m a victim of it. It’s rough in that they intentionally make it rough. So the school costs the same price as Harvard to go to. You show up, it’s an 18 month program. You are allowed to drop out at any time. You don’t get your money back. 25 people started, six people graduated, and the people who graduated, I graduated, but man, there were times where I’m like, I can’t handle this. I would literally say to my friends, “Oh, I got to go to cooking school. I’m going to go get screamed at for the next six or seven hours.” And I had this little French chef who was my nemesis."
+  },
+  {
+    "start": 432,
+    "end": 433,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:35)",
+    "text": "Does he still live in your head somewhere?"
+  },
+  {
+    "start": 434,
+    "end": 435,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:46:40)",
+    "text": "He still lives in my head. Exactly. He totally does. He’s like five foot two or something. And I remember him screaming so much at me that… He’s like the short guy. I’m six five. The spittle would land on my face."
+  },
+  {
+    "start": 436,
+    "end": 437,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:46:52)",
+    "text": "Nice."
+  },
+  {
+    "start": 438,
+    "end": 439,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:46:53)",
+    "text": "And I would just have to stand there and take it. It was a very humbling experience. I did learn though that it’s intentionally rough. So it took a little bit of the edge off it. One day when that same chef had come over to me and said, move over a little bit, and I moved over and he took my carrots, whatever, and started just chopping everything, perfectly. And then he said, okay, you can come back. And then he went over to someone else and started screaming at them saying that, look, even Kimbal can do this and you can’t do this. And I was like, this whole thing’s like a psycho game. So it did take the edge off when I realized it was… The guy was intentionally trying to break you down. And they do this apparently in the army. I’ve not been to the army, but they need to break you down. Everything you know is worthless so that then we can teach you and you can come out of it with what actually we want you to know."
+  },
+  {
+    "start": 440,
+    "end": 441,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:47:57)",
+    "text": "Are there specific technical lessons you remember you learned from that, sort of how to cut carrots or how to approach food, how to prepare food, how to think about food, how to carry yourself in the kitchen?"
+  },
+  {
+    "start": 442,
+    "end": 443,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:48:15)",
+    "text": "All of those things. I think that one of the most beautiful lessons was actually scrambled eggs. So there’s different layers of chefs. So they’re all master chefs. They’re all very well-known people and everything, but Alain Sailhac was one of the chief main main guys, and he just passed away, master chef, and everything kind of stopped when he would show up in the kitchen and he would teach very few things. And all of the other chefs, the same ones that were screaming at us, just like, it was like the Red Sea parting."
+  },
+  {
+    "start": 444,
+    "end": 445,
+    "speaker": "",
+    "timestamp": "(00:48:48)",
+    "text": "They have total respect for this human and he can do whatever he wants. And one of the things he wanted to teach was how do you make an omelet, a French omelet, and it’s really fundamentally the same thing. It’s a soft scrambled eggs that you fold and the love that he put into the time with us. And of course he’s a legend. There were moments like that where I’m like, wow, okay. Also, just like the other chefs, he didn’t have any concern berating anyone. So he berated our master chefs saying, “I don’t trust these people to teach you how to make scrambled eggs, so I’m going to do it instead.”"
+  },
+  {
+    "start": 446,
+    "end": 447,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:31)",
+    "text": "Can you speak to that? Because a lot of people here in this would be like scrambled eggs. Why do you need to be a master chef to really make scrambled eggs?"
+  },
+  {
+    "start": 448,
+    "end": 449,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:49:39)",
+    "text": "Yeah. Well, first of all, for me, and it’s a learning journey forever. So I make scrambled eggs. I must have made it 10,000 times or more, whatever."
+  },
+  {
+    "start": 450,
+    "end": 451,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:52)",
+    "text": "So it’s like Jared dreams of sushi, Kimbal dreams of scrambled eggs."
+  },
+  {
+    "start": 452,
+    "end": 453,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:49:55)",
+    "text": "Pretty much."
+  },
+  {
+    "start": 454,
+    "end": 455,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:49:56)",
+    "text": "Okay."
+  },
+  {
+    "start": 456,
+    "end": 457,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:49:57)",
+    "text": "So I will wake up and be held accountable by my kids to make scrambled eggs. So this happens every morning and I know all the steps, muscle memory level kind of steps, how well I know it, and then I’ll cook it. And it’s very meditative for me because you have to focus. So most scrambled eggs, soft scrambled egg recipes are 10, 15 minutes to get them to that perfect softness. And the recipe that I got from Chef Alain was something that you do in 90 seconds, but it requires total focus. If you look up for a second, you’re going to miss the perfect moment where you have to stop and get those eggs out of the pan because the eggs will keep cooking. And so it’s this meditation. And sometimes you hit it perfectly, but most times could have been a little softer, could have been a little firmer, could have been a little bit more salt, could have been a little bit of pepper. And so what’s really fun about the morning is my kids are kind of into it so we critique the eggs every morning."
+  },
+  {
+    "start": 458,
+    "end": 459,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:19)",
+    "text": "Do they have a rating system? We’re back to the spreadsheet."
+  },
+  {
+    "start": 460,
+    "end": 461,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:51:21)",
+    "text": "It’s more like, and again, it also comes back to how do people feel. So my kids can be in a bad mood and they can be grumpy."
+  },
+  {
+    "start": 462,
+    "end": 463,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:27)",
+    "text": "Or it’s like a Michelin star system. What?"
+  },
+  {
+    "start": 464,
+    "end": 465,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:51:28)",
+    "text": "No, no. It’s more like, oh yeah, I like my eggs a little more gooier or yesterday it was this way, but a little bit more salt, a little less salt. Salt is usually the one that is… Because not all salts are equal. So if you are used to working with a certain kind of salt and then you just are forced for some reason to… You ran out of salt so you use some other salt, you actually don’t know how to use it. You really want to have the same salt all the time."
+  },
+  {
+    "start": 466,
+    "end": 467,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:51:58)",
+    "text": "Yeah. You have a page on salt in the book, which is fascinating."
+  },
+  {
+    "start": 468,
+    "end": 469,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:52:01)",
+    "text": "Totally. Salt is you got to get to know your salt, you got to love your salt, and you got to use it over and over and over again. And it will teach you how to use that salt, whereby your own palate will tell you how salty you like things. But if you change it up and you mix up a whole bunch of salts, you’ve now multiplied your learning path. So for me, my favorite salt is kosher salt. And I like to use that all the time. And if I ever change it, I might sprinkle a little bit of Maldon salt, just a crunchy sort of a flaky salt. But it’s more for that when you’re actually eating."
+  },
+  {
+    "start": 470,
+    "end": 471,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:36)",
+    "text": "For the texture."
+  },
+  {
+    "start": 472,
+    "end": 473,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:52:37)",
+    "text": "Yeah, it gives you texture as well as salt. Exactly. You wouldn’t use it on scrambled eggs, but if you switch out your salts, it’s a different weapon."
+  },
+  {
+    "start": 474,
+    "end": 475,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:46)",
+    "text": "Yeah. Yeah."
+  },
+  {
+    "start": 476,
+    "end": 477,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:52:47)",
+    "text": "You need to learn it."
+  },
+  {
+    "start": 478,
+    "end": 479,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:52:50)",
+    "text": "I like how usually there’s wine connoisseurs. You’re saying going back to farm to table when you’re talking about carrots, in that same rigor and nuance you have to consider the different farms involved for the carrots, in that same way you have to consider the different salts with like-"
+  },
+  {
+    "start": 480,
+    "end": 481,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:53:12)",
+    "text": "And also not even all kosher salts are the same. It’s the particular salt that you like, get to know it, get in a relationship with it. It’s like great. You’ll learn so much."
+  },
+  {
+    "start": 482,
+    "end": 483,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:53:24)",
+    "text": "In terms of the measurement, the proportion, the amount you put of salt you put in, are you doing that exactly, or are you doing it by feel."
+  },
+  {
+    "start": 484,
+    "end": 485,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:53:34)",
+    "text": "So it’s by feel, and that’s where you get the relationship. So in fact, in the cookbook, I have QR codes that people can scan because what I struggle with is they don’t teach you technique. They can describe the technique, but they don’t teach the technique because it’s a technique, it’s not a recipe. And so one of the lessons is how do you salt a steak. And the answer is not here’s a teaspoon and you do it this way. The answer is use kosher salts-"
+  },
+  {
+    "start": 486,
+    "end": 487,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:54:00)",
+    "text": "The answer is use kosher salt so you can see with your eyes, because they’re little flakes, how much salt is on your steak, cook it and then taste it. Do you think you need more or do you need it less? Okay, now next time put a little more on it because you can see it. And it’s about learning the fact that you want to be able to see how much salt is on the steak so that you can then train yourself for the future of how much salt you want on your steak."
+  },
+  {
+    "start": 488,
+    "end": 489,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:29)",
+    "text": "Yeah. But then the steak and the salt kind of dance together. It depends on where the steak came from."
+  },
+  {
+    "start": 490,
+    "end": 491,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:54:34)",
+    "text": "That’s true. Or the thickness of the steak, that’ll make a difference. But for the most part, if you’re able to see it versus table salt, for example, just disappears, you just can’t see what you’re putting on your steak. You can’t really learn as a result."
+  },
+  {
+    "start": 492,
+    "end": 493,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:48)",
+    "text": "I think you talk about roast chickens where your love of food began. What about steak?"
+  },
+  {
+    "start": 494,
+    "end": 495,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:54:54)",
+    "text": "I love a good steak. It’s so great."
+  },
+  {
+    "start": 496,
+    "end": 497,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:54:56)",
+    "text": "So in the French school, you add sauces and all this kind of stuff, and in Boulder is when you realized there’s a beauty to the basic ingredient."
+  },
+  {
+    "start": 498,
+    "end": 499,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:55:06)",
+    "text": "Simplicity, yeah, a good New York strip from a good rancher. There’s a lot of discussion and controversy on how cattle should be raised, and we have a very different approach, which is, we know how our cattle are raised. We go to the farm, we get to know the rancher. And sometimes you do want to have them be finished on, they’ll be grass-fed for the most part, but then there’s some sort of cool recipe of food you’re giving them that will then make them taste better. And sometimes it is actually pretty good to have 100% grass fed. I’ve had some amazing ranchers that show me that the flavor is all there. For the average person that might go to Whole Foods or a grocery store, I think the simplicity of a good steak, it is important to get good sourcing, but also it’s just good."
+  },
+  {
+    "start": 500,
+    "end": 501,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:07)",
+    "text": "What’s your favorite kind of meat? Is it New York Strip? It’s probably New York Strip for me."
+  },
+  {
+    "start": 502,
+    "end": 503,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:56:10)",
+    "text": "Yeah. New York Strip. I like the fact that it’s lean, but if you want the fat, you can dive into that little strip of fat or you can leave it alone because you don’t want it that night. It’s also a great steak for adding something, if you want. You could either do a pepper sauce or you could do a lot of ground pepper, which it’s not sauce, but it’s a peppery steak. It’s a really good steak for a canvas for other things."
+  },
+  {
+    "start": 504,
+    "end": 505,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:56:41)",
+    "text": "But the basic ingredients you’re playing with are salt and pepper?"
+  },
+  {
+    "start": 506,
+    "end": 507,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:56:45)",
+    "text": "Yeah, pretty much. Actually, I will say there’s another one, garlic. This is my favorite recipe for a steak. You season it, both sides salt and pepper. You saute it in a little olive oil, barely anything, and you’re getting a nice crisp, a golden dark, golden brown on both sides. The other trick with cooking a steak is don’t touch it. You just put one side when you’re ready to turn it, turn it around. Don’t touch it any other time. But at the end, you take a dab of butter and you crush a clove of garlic. You don’t even chop it, you just crush the clove, and you put the two of them in the pan and you just roll the steak around in the garlic butter. I think that’s the one."
+  },
+  {
+    "start": 508,
+    "end": 509,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:36)",
+    "text": "Bold move, bold move. Since you’re in Austin quite a bit opening a restaurant here, what do you think about barbecue? It’s the Texas way."
+  },
+  {
+    "start": 510,
+    "end": 511,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:57:52)",
+    "text": "Well, I would say there’s an Austin way."
+  },
+  {
+    "start": 512,
+    "end": 513,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:57:53)",
+    "text": "There’s an Austin way."
+  },
+  {
+    "start": 514,
+    "end": 515,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:57:55)",
+    "text": "And actually even Austin would say, “There’s a suburb of Austin way.” I think that actually the adventure of food is wonderful. I would absolutely say that Austin is one of the great food cities of America, and barbecue is one of its gifts that it gives the city. But you go to one and the other and you’ll have a different approach, and that’s the part I love is where the real celebration of the art is in. So you might go to one, and they have a style that they love and they’ve been doing it for years, and then you’ll go to another and they have a style that they love and they’ve been doing it for years. They’re still barbecue, but they’re actually different. And it’s really beautiful to see that. I think that’s what food culture is. It just builds up over time by people who love this style of cooking."
+  },
+  {
+    "start": 516,
+    "end": 517,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:58:49)",
+    "text": "Well, I especially love the communal, how they structure restaurants usually. I don’t even want to call it a restaurant because it doesn’t feel like a restaurant. It feels like a tavern of some sort. Terry Black’s was like that."
+  },
+  {
+    "start": 518,
+    "end": 519,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:59:03)",
+    "text": "Yeah. They also have paper towels. You can get as messy as you like. And it’s a whole roll of paper towels. They don’t just give you a napkin. They know what you’re getting into."
+  },
+  {
+    "start": 520,
+    "end": 521,
+    "speaker": "Lex Fridman",
+    "timestamp": "(00:59:11)",
+    "text": "There’s just wood everywhere and it has this feel like this place has been around forever. It’s not changing. I know it’s the 21st century with the internet and all this nonsense that you people are building, but really this is all about the same. It’s been the same for generations. We’re doing it the same. That kind of feel, if you want to escape the world in that way and then truly connect with people."
+  },
+  {
+    "start": 522,
+    "end": 523,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(00:59:34)",
+    "text": "One of the other things that’ll happen in a town like Austin is there’ll be a barbecue joint that is just legendary, and then out of that will come someone who wants to go do their own barbecue joint and they’ll take the learning from that barbecue joint, they’ll open up a new one, but it won’t be the same as the other barbecue joint. Part of it says, “Dude, don’t just do the same thing. Do something. What you have to say?” But also part of it is, if you’re in the world of food as an art form and you want to go open up another barbecue joint, you want to prove yourself. “I deserve to have a barbecue joint in this town. I know this is one of the holy grails of barbecue.” And people will follow you like they’re following a musician or they’re following an artist and they are excited to see what your version is and how well you can pull it off. But that’s what I love. That’s what I mean by a city with a food culture. Austin has that."
+  },
+  {
+    "start": 524,
+    "end": 525,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:00:34)",
+    "text": "There’s also a legend to certain places. Certain places are more than just the food they create. That could be a burden. You have to live up to the legendary nature of the name."
+  },
+  {
+    "start": 526,
+    "end": 527,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:00:47)",
+    "text": "Our restaurant in Boulder, The Kitchen, is 20 years old. We’re very well known, very well respected, and we do have to live up to the name. I think that our restaurant lives up to its name in not just the food. It’s like you walk in and you feel the restaurant. And that is also something we’ve just done naturally. The space is 120 year old building. It used to be a brothel. It was a bookstore, a storied history."
+  },
+  {
+    "start": 528,
+    "end": 529,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:19)",
+    "text": "That’s an interesting take."
+  },
+  {
+    "start": 530,
+    "end": 531,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:01:20)",
+    "text": "Literally, this was a mining town. So back in the 1800s, this was built late 1800s, brothels were all over. That was a thing. And so there’s an actual tunnel in the basement that goes to the local hotel that would be used for going back and forth between the hotel and the brothel without people knowing. The tunnel is now concreted up, but you can go about 20, 30 feet into the tunnel. You go into the space and it’s actually an old space, so you feel like it’s been there forever."
+  },
+  {
+    "start": 532,
+    "end": 533,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:01:58)",
+    "text": "In 2010, you had a life-threatening accident that changed the way you see life, the world, also the way you see food and cooking. Can you tell me the story of it?"
+  },
+  {
+    "start": 534,
+    "end": 535,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:02:12)",
+    "text": "Yeah. So 2010, I was 37. I had opened the restaurant in 2004, and I had loved the restaurant world, loved it, but I didn’t really want to grow a restaurant company. That wasn’t my goal. And so I went back into technology and I had gone from something that I love to something that I like. For me, it was like chewing sawdust every day. I just couldn’t believe that I had changed my life and had gone back into technology. And then now I do, do work in technology and I do love it, but I found a better relationship with it. But I was really unhappy. From the outside, I was a CEO of a hot startup, but from the inside I was just very unhappy. And I was in Jackson Hole and I was doing these very aggressive snowboard runs and I’m at the time a pretty good, aggressive snowboarder. And I remember saying to myself, “Look, I’ve got kids. I need to chill on this.”"
+  },
+  {
+    "start": 536,
+    "end": 537,
+    "speaker": "",
+    "timestamp": "(01:03:18)",
+    "text": "The next day, it was Valentine’s Day. Tomorrow’s Valentine’s Day. I’m just going to have a nice day with the family and my wife at the time. And we went to a children’s run to do the inner tube run, and the tubes are small, but everyone uses the same tube. So I’m six foot five, my kids are four years old, and everyone uses the same size tube. It should have been a message to me not to get on this thing. But I went and got on it and on the first run, I went down and you’re going super fast, 35 miles an hour, and the tube hit the braking mats and it stopped. The tube just stopped where it was. It just threw me. My head was facing downhill, so that’s created the wrong center of gravity. So instead of braking, it just threw me."
+  },
+  {
+    "start": 538,
+    "end": 539,
+    "speaker": "",
+    "timestamp": "(01:04:08)",
+    "text": "I landed on my head. My head went into my chest, compression into my chest, down like that. I ruptured my spine at C6 and C7. And in the blink of a second, I was paralyzed. I was like, “What?” Just impossible to comprehend. And they put this big thing, this halo on my head, and they take me to the hospital, which was more of a medical clinic. And I’m just like, “What is going on here?”"
+  },
+  {
+    "start": 540,
+    "end": 541,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:04:47)",
+    "text": "Do you remember your thoughts from the moment it happened to when you got to the hospital?"
+  },
+  {
+    "start": 542,
+    "end": 543,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:04:53)",
+    "text": "So this is one of the things that actually the doctor said caused the most damage was I was thrown from the tube, and I heard this big crunch sound in my body and I knew that I was hurt, but I didn’t feel any pain. That’s also, why wouldn’t you feel pain? Because when you’re paralyzed, you don’t feel pain. And I’m face down on the snow and the snow is burning my face because you can’t do that. You need something. And I found a way to turn myself around so that my face wouldn’t be on the ground, but I knew I couldn’t move. And that they said actually caused more damage. Well, obviously, the accident created the opening, but once you move your body, the blood goes into the spinal column at a faster rate. And that is what caused my paralysis. But I remember that and I remember getting into the ambulance."
+  },
+  {
+    "start": 544,
+    "end": 545,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:06:00)",
+    "text": "Did you think you were going to die in those seconds, minutes?"
+  },
+  {
+    "start": 546,
+    "end": 547,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:06:05)",
+    "text": "It was a different feeling than death. It was more of a, what is going on here? It was more like, I can’t make sense of what’s going on. There was a moment where I got to the hospital and they did this MRI and the doctor comes up to me and says, “Look, we’ve done this MRI.” Now I’m in the hospital and I’m like, “I can’t move.” But I also don’t feel any pain. So it’s very confusing. Your body looks like you can move it. Look, see how I’m moving my hand? It looks like you can do that and then it just doesn’t move. There’s no feedback loop that it’s not moving. Your brain even thinks it’s moving, but it’s not moving. It’s the worst, most terrifying thing."
+  },
+  {
+    "start": 548,
+    "end": 549,
+    "speaker": "",
+    "timestamp": "(01:07:02)",
+    "text": "So the doctor says, “Look, the way you broke your neck, really, at a zero degree angle, that is so rare, but as a result, there is no twisting of the spine. We think that we can get the blood out of your spinal column and you should get some or maybe all of your movement back.” And I was like, “Oh, okay. I think I’m going to be fine. I guess I’m going to be fine.” And then I realized I had tears just streaming down the side of my face and I was like, “Whoa, man. I have no idea what is going on.”"
+  },
+  {
+    "start": 550,
+    "end": 551,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:07:39)",
+    "text": "So this kind of intense state of confusion, I wonder if it’s a weird psychological defense mechanism of taking you away from the obvious possibility of death."
+  },
+  {
+    "start": 552,
+    "end": 553,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:07:52)",
+    "text": "For sure, all of the defenses were up. I don’t know else to describe it. But there was denial. There was this curiosity of, why is there no pain? When they did actually repair me and fix me, it was three days later, the pain was indescribable how much pain I was in, but there was no pain for three days."
+  },
+  {
+    "start": 554,
+    "end": 555,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:24)",
+    "text": "The human body is fascinating,"
+  },
+  {
+    "start": 556,
+    "end": 557,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:08:26)",
+    "text": "Man."
+  },
+  {
+    "start": 558,
+    "end": 559,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:08:27)",
+    "text": "Wow. So they were able?"
+  },
+  {
+    "start": 560,
+    "end": 561,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:08:31)",
+    "text": "Yeah, so they did the surgery. But I had this very clear voice in my head that I’ve determined that it’s God, I’m not religious, but I don’t know how else to describe the voice. And this voice was very clear. “You’re going to work with kids and food.” Okay, where did that come from? I’m a tech CEO. I have a restaurant. We were working with some kids in schools with helping at a local nonprofit. And he’s like, “No, you’re just going to work on kids and food.” My good friend Antonio and my brother were in the hospital and I was like, “I’m going to work on kids and food.” They were like, “He’s crazy. He’s lost his mind.” But not that they were arguing, no one was arguing with me, but I was like, “I’m just going to do that. I need to say it out loud.” And I remember resigning from my job as the CEO from the hospital, and that was it."
+  },
+  {
+    "start": 562,
+    "end": 563,
+    "speaker": "",
+    "timestamp": "(01:09:34)",
+    "text": "It was just clear. It was a clear voice. It wasn’t for a moment. It wasn’t like a flash of light or anything. It was probably two weeks of clear voice."
+  },
+  {
+    "start": 564,
+    "end": 565,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:43)",
+    "text": "Of clarity."
+  },
+  {
+    "start": 566,
+    "end": 567,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:09:44)",
+    "text": "Clarity. Exactly, clarity. No monkey brain, nothing. No monkey brain, just clarity."
+  },
+  {
+    "start": 568,
+    "end": 569,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:09:50)",
+    "text": "So you’re not a religious person, but you do call it the voice of God. Who is that God, do you think? Who is that? Where did that come from?"
+  },
+  {
+    "start": 570,
+    "end": 571,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:10:02)",
+    "text": "Well, I’ve done ayahuasca and I’ve spoken to what they call Mother Aya, which is another version of God. It’s a divine presence, I think is a better way to say it. I’ve also had this debate in my head. Maybe it’s just me. I’m talking to me and it’s my peaceful, more kinder, less caught up in the emotion of the day version of me. Maybe it’s me. Okay, maybe it is, but it’s there."
+  },
+  {
+    "start": 572,
+    "end": 573,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:10:40)",
+    "text": "But who are you? How deep does it go? What does you mean? First of all, the depth of what the human mind even is, is a gigantic mystery, consciousness, all of it. Who are you? So yeah, maybe it is you, but then maybe in order to build you, we need to build the universe. You are actually fundamentally a part of this whole human society, so the pieces of humans that you’ve interacted with are all within you. And then maybe the history of the humans that came before are also in there. And maybe the entirety of life on earth is also in there. And whatever brought life about on earth is in there somewhere. So that’s all you."
+  },
+  {
+    "start": 574,
+    "end": 575,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:11:27)",
+    "text": "Yeah, which is really true. It literally is true that we all are, the photons from the sun came in."
+  },
+  {
+    "start": 576,
+    "end": 577,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:11:35)",
+    "text": "You’re part fish."
+  },
+  {
+    "start": 578,
+    "end": 579,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:11:37)",
+    "text": "We all came from all that. One of the things I do is meditate, I’ve been meditating for many, many years, and the way I meditate is I sit and I listen to my thoughts and I simply just do that for 15 to 20 minutes. It just calms the nervous system, and I might breathe and just breathe through because it’s been a stressful day and it’s just a beautiful way I do it around. I remember I said I used to do a [inaudible 01:12:08] at the bar after work. Now I go meditate, for instance."
+  },
+  {
+    "start": 580,
+    "end": 581,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:12:12)",
+    "text": "Same thing."
+  },
+  {
+    "start": 582,
+    "end": 583,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:12:12)",
+    "text": "A little bit better for my health. But meditation I was taught. Sam Harris actually taught me. It was not so much just about watching your thoughts, but realizing that you’re a watcher. You’re actually a watcher. Who is the person watching? That’s you actually. Your thoughts are floating through your mind, but you are the watcher. And I was like, oh, that’s really interesting. Okay, so I’m going to learn that. I’m going to be the watcher. And what I learned was I’m watching these thoughts go by and there’s a consistent other presence. And I’m like, what is that consistent other presence? It’s not a thought. It’s not something I can let it float away, and it doesn’t even want to float away. It’s just a consistent other presence that I can watch and feel."
+  },
+  {
+    "start": 584,
+    "end": 585,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:18)",
+    "text": "So you are the watcher watching the feelings and thoughts, but there’s also other presence next to you almost?"
+  },
+  {
+    "start": 586,
+    "end": 587,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:13:24)",
+    "text": "Yes. Yeah, that’s how I feel. And it’s a beautiful presence. It’s not a presence that is trying to intervene. It’s not a presence that is trying to tell you what to do. It’s just a beautiful presence."
+  },
+  {
+    "start": 588,
+    "end": 589,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:37)",
+    "text": "And that might be part of the thing you met when you took Ayahuasca."
+  },
+  {
+    "start": 590,
+    "end": 591,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:13:45)",
+    "text": "I learned about Mother Ayahuasca where you have this experience of talking to… Actually, I would say the closest thing to breaking my neck, that feeling was ayahuasca."
+  },
+  {
+    "start": 592,
+    "end": 593,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:13:53)",
+    "text": "Can you go through that experience? Because I’m actually traveling to the Amazon jungle in a month. I’ll probably do ayahuasca for the first time."
+  },
+  {
+    "start": 594,
+    "end": 595,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:14:01)",
+    "text": "Okay."
+  },
+  {
+    "start": 596,
+    "end": 597,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:14:01)",
+    "text": "I need a preview, unofficial instruction manual."
+  },
+  {
+    "start": 598,
+    "end": 599,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:14:04)",
+    "text": "Yeah, sure. First of all, I think there are many different ways to do it, and I’ve done many different ways. There’s a very western medicine approach where you have doctors that look after you during the day, put an eye mask on, you’re on a futon, and you really are in a western medicine setting. And it frankly for me has been the most powerful experience. I feel the most comfortable part of western medicine in my upbringing. The other extreme, but they’re in-between would be very probably Peruvian ceremonies, where you’re probably going to go, very much about you do it in a community, you do it with others, and you feel people go through their pain and their processing. So I know the whole gamut, but the thing that I found most powerful about it and profoundly powerful, I would say, first of all, it’s non-recreational. No one should do this for a good time. This is not a good time. This is a very…"
+  },
+  {
+    "start": 600,
+    "end": 601,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:13)",
+    "text": "Almost traumatic, but in, again, a beautiful way."
+  },
+  {
+    "start": 602,
+    "end": 603,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:15:16)",
+    "text": "I was actually going to say that word, but it’s not traumatic. It’s profound. So it’s more like you really leave who you were before behind, and then you become the person you will be afterwards."
+  },
+  {
+    "start": 604,
+    "end": 605,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:40)",
+    "text": "And that’s never an easy thing."
+  },
+  {
+    "start": 606,
+    "end": 607,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:15:42)",
+    "text": "Yes, exactly. And what I recall was arguing with Mother Aya and saying, “No, I’m fine. What are you talking about? Leave me alone.”"
+  },
+  {
+    "start": 608,
+    "end": 609,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:15:52)",
+    "text": "How did that work out? But before 2010, the accident and the two transformational experiences you had, you were a very successful tech CEO. Maybe go back to the early days with Zip2. In 1994, you and Elon started Zip2. Tell me the story of that."
+  },
+  {
+    "start": 610,
+    "end": 611,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:16:24)",
+    "text": "So in ’94, we actually did a road trip around the U.S. to brainstorm about what we wanted to do after college."
+  },
+  {
+    "start": 612,
+    "end": 613,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:16:30)",
+    "text": "What was the road trip like?"
+  },
+  {
+    "start": 614,
+    "end": 615,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:16:32)",
+    "text": "That was awesome. So we went from Silicon Valley to Philadelphia. My brother’s old very really cool, it’s one of those very old BMW’s, not ones from the ’60s or ’70s, but the car didn’t work. It would break down all the time, but we had a blast. I remember going through Needles, on the border of California in Arizona, there’s a town called Needles, it’s the hottest place in America, and the engine was not cooling, so we had to put the heat on. So we had the heat blasting to cool the engine, keep the engine cool, and keep the windows down because you can’t stand the heat in the car. But actually the outside heat is hotter than the inside heat, so you’re just in a furnace if you’re driving through."
+  },
+  {
+    "start": 616,
+    "end": 617,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:19)",
+    "text": "Just sweating."
+  },
+  {
+    "start": 618,
+    "end": 619,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:17:20)",
+    "text": "This is at night even. I can’t imagine doing that in the day."
+  },
+  {
+    "start": 620,
+    "end": 621,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:23)",
+    "text": "Oh, wow."
+  },
+  {
+    "start": 622,
+    "end": 623,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:17:23)",
+    "text": "Yeah, it was wonderful. It took us a few weeks. I think three weeks maybe."
+  },
+  {
+    "start": 624,
+    "end": 625,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:29)",
+    "text": "First time across America?"
+  },
+  {
+    "start": 626,
+    "end": 627,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:17:30)",
+    "text": "First road trip like that, yeah, for sure. But it was really not a road trip for tourist sites. We went to the weirdest places. And actually, I would say, we didn’t go to them. We broke down in the weirdest places because that’s when we stopped."
+  },
+  {
+    "start": 628,
+    "end": 629,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:17:46)",
+    "text": "Did you meet any interesting people?"
+  },
+  {
+    "start": 630,
+    "end": 631,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:17:49)",
+    "text": "I remember we broke down in the Badlands of South Dakota, about an hour from Rapid City. That road is empty, and so we actually slept in the car because there was just no one around. No cell phones in those days. And eventually a trucker picked us up. He was just like, “Man, you guys are the dumbest kids on the planet.” I was 21. He was maybe 22. But he was so nice to us and so kind to us, and found us a mechanic in Rapid City and then found us a tow truck. You find the most wonderful people. When you’re in a place of distress, people do want to take care of other people."
+  },
+  {
+    "start": 632,
+    "end": 633,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:33)",
+    "text": "They help you."
+  },
+  {
+    "start": 634,
+    "end": 635,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:18:33)",
+    "text": "Yeah, they want to help."
+  },
+  {
+    "start": 636,
+    "end": 637,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:18:34)",
+    "text": "And especially when you’re on a road trip, because I’ve taken a road trip across the United States, and there’s a part of people where they really love that. I think part of them wants to do that also, wants to escape whatever the local struggles. Just whatever the mundaneness, the struggles of life are, a road trip is a kind of thing where you’re like, you know what? I’m going to get away from it all and I’m going to experience life in the full epic Jack Kerouac way of seeing America. And the people. Not the tourist sites, just the humans."
+  },
+  {
+    "start": 638,
+    "end": 639,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:19:12)",
+    "text": "Yeah, exactly. This was not tourist related. We did, of course, one. We stopped at Mount Rushmore at night, which you can see nothing. We thought that was hilarious. We couldn’t see Mount Rushmore."
+  },
+  {
+    "start": 640,
+    "end": 641,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:24)",
+    "text": "That’s great."
+  },
+  {
+    "start": 642,
+    "end": 643,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:19:27)",
+    "text": "It was like, well, we physically were here. We took a photo of us not seeing Mount Rushmore."
+  },
+  {
+    "start": 644,
+    "end": 645,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:19:34)",
+    "text": "In the darkness. You could just say you went to the Grand Canyon too, just at night. And just visit different places when the car broke down, I love it. So yes, you took the road trip before founding Zip2."
+  },
+  {
+    "start": 646,
+    "end": 647,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:19:45)",
+    "text": "Yeah. So I had a experience in college running a house painting business. That, for me, was my first experience with success. It was very, very hard. It was a franchise where they teach students how to paint houses, but I was good at it. I built a team of 30 people after about two years. So I was like, I had a taste of, hey, I’m not unable to do this. In fact, my most vulnerable place I remember as an entrepreneur was I just loved the idea of Wall Street and finance. I was allured by it. This is in the late ’80s. I’m in high school and there was a lot of these books, Liar’s Poker and others that came out and I was like, ah, man, this is awesome. These people must be amazing."
+  },
+  {
+    "start": 648,
+    "end": 649,
+    "speaker": "",
+    "timestamp": "(01:20:33)",
+    "text": "So I went to business school and I busted my ass to get a kick-ass summer job, and I got a job in one of the main banks. It was in Toronto, but it was like their version of Wall Street. I was so disappointed with the people that I was around. I was just like, whoa. I totally misunderstood what the banking world is. It was a very large bank. I’m sure if I’d gone to a more aggressive one, maybe I would’ve had a better experience. I say aggressive, meaning someone was paying attention. This was just a…"
+  },
+  {
+    "start": 650,
+    "end": 651,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:21:00)",
+    "text": "Aggressive meaning someone was paying attention. This was just people showing up and not doing much. Actually, it is funny. This is great. So 1991, ’92, so one of those summers, but the summer job was literally they print out the sales for all the brokerage houses for the whole company. It’s a pile of papers that’s maybe four or five feet tall and you have a pencil and you add things up using your pencil and a calculator. And I had known about Lotus 1-2-3 forever. Excel was coming out and I was like, “Hey, guys, you know that there’s a different way to do this.” And they’re like, “Don’t talk to us. This is just your job. Go do it.”"
+  },
+  {
+    "start": 652,
+    "end": 653,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:02)",
+    "text": "Yeah, just use the pencil."
+  },
+  {
+    "start": 654,
+    "end": 655,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:22:03)",
+    "text": "So I went to the head of the data… I just asked because in those days you had the manila envelope where you just write the name of the person that you want this to go to and it’ll go to them. It’s like email, I guess, but there’s no filter."
+  },
+  {
+    "start": 656,
+    "end": 657,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:22:03)",
+    "text": "There’s no spam filter."
+  },
+  {
+    "start": 658,
+    "end": 659,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:22:21)",
+    "text": "There’s no spam filter. So I sent a note, I wrote a nice letter to the database administrator who I didn’t really know, and I said, “Would you be open to me saying hi and maybe I can get access to the file rather than print the damn thing out and use a pencil?” And she responded right away and we hit it off. She was great. So she’s like, “Of course you can [inaudible 01:22:43] I can’t believe these guys are doing what they’re doing.” So for the first couple of weeks of the summer, I wrote code in Lotus 1-2-3 that would… This is going to sound crazy, but you type in the date range and you type in the geography and you type in which part of the bank you care about, and it will literally just create a new spreadsheet and it will just, a macro would print it out. It was like a magic trick for these guys."
+  },
+  {
+    "start": 660,
+    "end": 661,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:23:17)",
+    "text": "Incredible."
+  },
+  {
+    "start": 662,
+    "end": 663,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:23:17)",
+    "text": "I know. No, it’s [inaudible 01:23:20] for me, I was like, “Guys, this is so obvious.” So I got all that done and this job was supposed to take three or four months because it’s really, you’re doing this with a pencil and now I’ve created this macro that you could not just do it, you could do it, you could tweak it and say, “Oh, I want this area of the world or this area of or this month or that month compared to that month,” all the normal things you could do with the spreadsheet. And the software was on a floppy disk. And I was like, “Here’s the software and just put it into your computer right now, open 1-2-3 and it just pops up with a little box that type in your dates and the whole little, I coded a little thing like that.”"
+  },
+  {
+    "start": 664,
+    "end": 665,
+    "speaker": "",
+    "timestamp": "(01:24:06)",
+    "text": "And what I was astounded by was not so much that there was a magic trick, it was the lack of appreciation for innovation. They just looked at it and they were like, “Huh, that’s nice.” And I was like, “We’re going to have someone spend hundreds of hours doing something and now it’s something you can do in a minute.”"
+  },
+  {
+    "start": 666,
+    "end": 667,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:33)",
+    "text": "Yeah, if that doesn’t fill you with excitement…"
+  },
+  {
+    "start": 668,
+    "end": 669,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:24:35)",
+    "text": "Yeah, if that doesn’t move your needle, what the heck? And so I was really disappointed with the banking world. But anyway, that was also fine. That’s…"
+  },
+  {
+    "start": 670,
+    "end": 671,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:24:44)",
+    "text": "Such a good example though. Yeah. And then also see the possibility of where that goes."
+  },
+  {
+    "start": 672,
+    "end": 673,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:24:49)",
+    "text": "Then I got back to business school and I canceled all of my business classes I possibly could. But I was actually in business school, so I couldn’t cancel them all. All finance courses, I was like, “I’m done with that industry. I’m not going back.” So the vulnerable part for me was my whole family’s full of entrepreneurs and there was this franchise to do house painting, and I genuinely was afraid that I wouldn’t be good at it. And I was like, “Wow, I really am afraid of failure.” It’s very easy to avoid entrepreneurship, but if your whole family’s entrepreneurs and you go in and you aren’t good, I was really afraid."
+  },
+  {
+    "start": 674,
+    "end": 675,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:25:29)",
+    "text": "You’re going to have to face that failure every time you meet your family."
+  },
+  {
+    "start": 676,
+    "end": 677,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:25:32)",
+    "text": "Yes. And our family are wonderful and everything, but pretty much everyone’s an entrepreneur. And of course not everyone is perfect. Not everyone’s doing it successfully all the time, but when you’re young and you want to prove yourself, it really was putting my heart on my sleeve. I started the business in this part of Toronto and for the first… Paint the houses in the summer, but you do all your sales pre before the summer and all the way until April, I was just not succeeding. And I was like, I’m like, “Oh my God, I’m just going to fail.” And I remember that my whole nervous system was like, “I’m a failure.” And I remember I had this gentle manager who he was like, “You seem like you know what you’re doing. Why are you not making any sales?” So he actually went with me on a few sales calls and he said, “Oh, he was great. You’re doing this wrong, you’re doing that wrong, you’re doing this wrong.”"
+  },
+  {
+    "start": 678,
+    "end": 679,
+    "speaker": "",
+    "timestamp": "(01:26:43)",
+    "text": "And changed those three things. And it was like a watershed moment just all of a sudden. And I just followed the instructions of what this guy told me. All of a sudden, every single sale I would make, I was like, I can’t believe that it was really my lack of humility to learn from someone else. I was like, “No, I’m going to prove that I can do this without your teachings,” and I was going to fail."
+  },
+  {
+    "start": 680,
+    "end": 681,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:20)",
+    "text": "So to you, that humility is essential for the entrepreneur, especially young."
+  },
+  {
+    "start": 682,
+    "end": 683,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:27:25)",
+    "text": "I would say if we have an openness to learning, which does require humility, and you course correct or you help get other people to help you course correct. But it does start with humility because if you try and pretend you have all the answers, you don’t."
+  },
+  {
+    "start": 684,
+    "end": 685,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:45)",
+    "text": "So you went from that to founding Zip2. That was an interesting time in the history of tech."
+  },
+  {
+    "start": 686,
+    "end": 687,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:27:50)",
+    "text": "Yeah."
+  },
+  {
+    "start": 688,
+    "end": 689,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:27:50)",
+    "text": "But what was it like? You mentioned and the first people to look at a map basically at directions."
+  },
+  {
+    "start": 690,
+    "end": 691,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:28:00)",
+    "text": "Yeah. So mapping had been on the internet but vector-based mapping had not. So that’s the ability to zoom in or zoom out, and it’s really data versus an image that comes across. And we went into this company called Navtech, my brother and I, and we just asked for the data and this is Silicon Valley. They wrote us a one page letter that we had to sign and said, “Here’s all of our data that we own it, you don’t own it, but you can use it on the internet and if you ever make any money on it, you have to call us.” That was it. We’re like, “Okay, that sounds great.” And so we put it up on the internet and back in those days, it might take 60 to 120 seconds to actually give you an answer back, but it was amazing. The door to door directions, the ability to take a map and zoom in and zoom out. We use these things 10 times a day now. It was amazing. And we were the first two humans to see it on the internet because this stuff didn’t even exist to the world."
+  },
+  {
+    "start": 692,
+    "end": 693,
+    "speaker": "",
+    "timestamp": "(01:29:01)",
+    "text": "Navtech was building it for NeverLost, for Hertz NeverLost, which would come out a few years later. This was not something that people knew existed. This was something we discovered that it existed. Let’s put it on the internet and share it with the world."
+  },
+  {
+    "start": 694,
+    "end": 695,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:14)",
+    "text": "What did the two of you feel like to see that magic? Did you know…"
+  },
+  {
+    "start": 696,
+    "end": 697,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:29:17)",
+    "text": "It’s amazing. It was like, “What?”"
+  },
+  {
+    "start": 698,
+    "end": 699,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:24)",
+    "text": "Did you mean the amazing, just that it’s cool, but also that you could see the future that this could transform…"
+  },
+  {
+    "start": 700,
+    "end": 701,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:29:32)",
+    "text": "I don’t think people understand before this moment, you could not be told your directions. You just could not. Today, we live in this world where you’re told our directions all the time. Before this moment you could not be told your directions and all of a sudden you could. It wasn’t like a little thing."
+  },
+  {
+    "start": 702,
+    "end": 703,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:29:56)",
+    "text": "Yeah, there’s a bunch of things that once we have, we take it for granted. And that takes a day for people to transition."
+  },
+  {
+    "start": 704,
+    "end": 705,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:30:05)",
+    "text": "Totally."
+  },
+  {
+    "start": 706,
+    "end": 707,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:05)",
+    "text": "It’s like, “Oh, okay, cool.”"
+  },
+  {
+    "start": 708,
+    "end": 709,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:30:08)",
+    "text": "Yeah. Right. Exactly. Exactly."
+  },
+  {
+    "start": 710,
+    "end": 711,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:10)",
+    "text": "And when you see, maybe when you’re one of the first humans to see that thing, you’re like, “Holy, shit.”"
+  },
+  {
+    "start": 712,
+    "end": 713,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:30:15)",
+    "text": "Holy shit. This is going to be used by everyone all the time forever."
+  },
+  {
+    "start": 714,
+    "end": 715,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:30:20)",
+    "text": "So Zip2 was a success."
+  },
+  {
+    "start": 716,
+    "end": 717,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:30:22)",
+    "text": "I would say it was a success but it was also a very hard company to build. And I mean it because the internet in those days was a boom time. We were being funded, but you couldn’t make any money. So it was actually really hard, the constant outside criticism that we aren’t for real. This is not going to survive. This is not going to… And it started to feel that way. We’re like, “Wow, man, we are doing something that is great that people are using.” And we were top 100 website. Most of our work was through folks like The New York Times. So we were even much, much busier than that. But there was just no money at it. And even today, go to Google Maps, there’s no money in it. It’s just a local search that is needed for everyone. And so it became an add-on to search. But even remember in those days, you couldn’t make money at search either. No one had figured out AdWords or anything, they didn’t realize how big of a business this was. But we all knew this was a thing and everyone was using it."
+  },
+  {
+    "start": 718,
+    "end": 719,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:31:30)",
+    "text": "But didn’t quite know how to make money on it."
+  },
+  {
+    "start": 720,
+    "end": 721,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:31:31)",
+    "text": "Didn’t make money. When we got acquired, it was a bittersweet moment because Compact that owned AltaVista wanted to merge so that sort of regular search with the best search engine at the time, pre-Google with Zip2, which would be the best local search, and it would be a Yahoo killer. And the Compact just wanted to make money by taking the company public but they wouldn’t give us any stock. They paid us cash return out, actually very well for us, but because the whole internet bubble burst, we didn’t know that at the time. And so it was bittersweet because they essentially wanted our company and we were welcome to stay but you don’t have to. And that feeling, that was a pretty rough feeling. Yeah."
+  },
+  {
+    "start": 722,
+    "end": 723,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:19)",
+    "text": "But in retrospect, it opened the door to…"
+  },
+  {
+    "start": 724,
+    "end": 725,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:32:23)",
+    "text": "It set us up for an incredible platform to go do beautiful things."
+  },
+  {
+    "start": 726,
+    "end": 727,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:32:28)",
+    "text": "You’ve invested in X. com that eventually merged with PayPal. That’s a fascinating story there, also fascinating on many levels, including the fact that the current social media company, formerly known as Twitter, is now called X. History has a rhyme to it. It’s kind of all hilarious in a certain kind of way. You invested in and help sell a lot of the initial products for Tesla."
+  },
+  {
+    "start": 728,
+    "end": 729,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:32:59)",
+    "text": "Yeah, I still sell on the board of Tesla. Tesla is 20 years now. Isn’t that amazing?"
+  },
+  {
+    "start": 730,
+    "end": 731,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:03)",
+    "text": "20 years."
+  },
+  {
+    "start": 732,
+    "end": 733,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:33:03)",
+    "text": "Yeah."
+  },
+  {
+    "start": 734,
+    "end": 735,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:04)",
+    "text": "From the Roadster, the initial Roadster to…"
+  },
+  {
+    "start": 736,
+    "end": 737,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:33:06)",
+    "text": "I still have the first business plan. So I didn’t join as a founder, I joined as a founding board member. And so I actually, I didn’t write the business plan. I got to read it and I still have that. I still have it as a part of history."
+  },
+  {
+    "start": 738,
+    "end": 739,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:33:20)",
+    "text": "Did you see the future at that time, the company that Tesla is today? Could you have possibly, could you and Elon imagine it?"
+  },
+  {
+    "start": 740,
+    "end": 741,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:33:27)",
+    "text": "No. No, I certainly didn’t. What I saw in it was a real… For me personally, I was really upset that the General Motors had killed their EV car. There’s even a movie called Who Killed the Electric Car? And I knew that the physics of electric is perfectly fine. There’s no reason why you couldn’t use an electric car to drive around. What resonated with me with the business plan was take an electric motor, which is really a high performance motor, and put it in a sports car and sell it at a high price as a way to enter into the market. Whereas what others had been doing, or at least General Motors had done, is you put it into a really crummy car and you sell it as a commuter vehicle that doesn’t really work that well and looks ugly as well. They really did everything you could to make that thing as ugly as Zen. And then I was like, “Okay, I get it. We’re going to take an appropriate technology and put it in an appropriate car so that when you have…”"
+  },
+  {
+    "start": 742,
+    "end": 743,
+    "speaker": "",
+    "timestamp": "(01:34:37)",
+    "text": "Because electric motors, they have constant torque, incredible power, put it in a car that looks like a sports car. So the idea was to put it in the Lotus release, redesign it a bit. And even at that point I was like, “This is theoretically good, so I’m going to join and help build it.” But I was not convinced that it would work because General Motors had done such a terrible job of making everyone think that these things are terrible. But I was curious. And the time that I fell in love with the company and its mission was I was driving in what’s called a mule where we take a car and we take the engine out and we put in electric drive train and I drove it. Even the dashboards, there’s no dashboard. It’s just you got a steering wheel and it’s just wires and everything around. And I remember there’s a street, we were running the Bay Area called Bing Street, and I was just like… No traffic. So I’m just going to drive this on the floor and see what happens."
+  },
+  {
+    "start": 744,
+    "end": 745,
+    "speaker": "",
+    "timestamp": "(01:35:44)",
+    "text": "And it was a feeling I’d never experienced before. Gasoline cars have an inertia to them. So you go… This was being shot out of a cannon. And I was like, “Okay, this is going to be real.”"
+  },
+  {
+    "start": 746,
+    "end": 747,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:35:58)",
+    "text": "It’s a very spaceship-like feeling."
+  },
+  {
+    "start": 748,
+    "end": 749,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:36:00)",
+    "text": "Yeah. It’s like, “Whoa.” It’s like the G-force pulls you back."
+  },
+  {
+    "start": 750,
+    "end": 751,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:05)",
+    "text": "Yeah."
+  },
+  {
+    "start": 752,
+    "end": 753,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:36:06)",
+    "text": "So I was like, “Okay, this is going to be great. This is going to be an interesting… We are going to create something interesting here.” I think the real transformative thing for Tesla was the Model 3 when we were able to get the price down for the world."
+  },
+  {
+    "start": 754,
+    "end": 755,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:23)",
+    "text": "And that was also one of the most challenging periods…"
+  },
+  {
+    "start": 756,
+    "end": 757,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:36:27)",
+    "text": "Oh my God."
+  },
+  {
+    "start": 758,
+    "end": 759,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:36:27)",
+    "text": "… For Tesla for you."
+  },
+  {
+    "start": 760,
+    "end": 761,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:36:29)",
+    "text": "We were borderline bankrupt like two or three times that year. And everyone was hating on us about whether we’d get that done. The Model 3 today is incredibly affordable car, like a 300 bucks a month kind of lease and $3,000 down. That’s where you get the scale. That’s where you get people who… And by the way, it’s a great car. It’s even a better Model 3 now than it was five years ago. We don’t function the way car companies function. We function more like how an iPhone company or how Apple works. So our Model 3 today this year is better than last year. It’s like it’s way better and we just keep getting better."
+  },
+  {
+    "start": 762,
+    "end": 763,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:10)",
+    "text": "Yeah, and the software is a fundamental part of the car and the software keeps improving."
+  },
+  {
+    "start": 764,
+    "end": 765,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:37:15)",
+    "text": "Exactly. And we upload over the air."
+  },
+  {
+    "start": 766,
+    "end": 767,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:17)",
+    "text": "Which was one of the things that people don’t often acknowledge, it’s over the air updates. It’s like a revolutionary thing. It’s not just the autopilot. To me, it’s like the over the updates, is even bigger thing than on the autopilot, at least in this moment of history because you basically turned a car into the iPhone."
+  },
+  {
+    "start": 768,
+    "end": 769,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:37:36)",
+    "text": "Exactly. It’s an iPhone with wheels. But actually talking about autopilot, right after this interview, I’m going to go test out the latest Model 3."
+  },
+  {
+    "start": 770,
+    "end": 771,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:37:45)",
+    "text": "You’re going to get driven around by a robot."
+  },
+  {
+    "start": 772,
+    "end": 773,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:37:46)",
+    "text": "I’m going to get driven around by the car. I’m going to say, “I want to go to this barbecue joint. Take me there and park me there.” And I’m going to see how it is. And this is the latest Model 3 that we have out into production. Anyone can buy it. And it’s super affordable. And it’s like, “Okay. Full stop driving is a journey. It’s not like there’s a destination. It’s a journey forever. So let’s see where we are on the journey today.”"
+  },
+  {
+    "start": 774,
+    "end": 775,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:16)",
+    "text": "And there’s been a bit of a push and pull between you and Elon in terms of levels of optimism about deadlines and so on, timelines about when we’ll arrive at the destination. I like that you said it’s a journey. For Elon, there’s a destination, right?"
+  },
+  {
+    "start": 776,
+    "end": 777,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:38:30)",
+    "text": "Exactly."
+  },
+  {
+    "start": 778,
+    "end": 779,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:38:31)",
+    "text": "And that destination is tomorrow or yesterday."
+  },
+  {
+    "start": 780,
+    "end": 781,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:38:34)",
+    "text": "I think that’s a really good insight. I actually live with this concept of a growth mindset versus a fixed mindset. And it’s a philosophical term where fixed mindset is about the destination and a growth mindset is about learning on the journey. And I think that I’m a happier person because I take that learning on the journey approach, whereas it’s really frustrating if you’re always, it has to be about the destination every time."
+  },
+  {
+    "start": 782,
+    "end": 783,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:06)",
+    "text": "The nice thing about destination, at least from my personal perspective as a programmer engineer, is it puts a little fire under you to get shit done."
+  },
+  {
+    "start": 784,
+    "end": 785,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:39:06)",
+    "text": "That’s true."
+  },
+  {
+    "start": 786,
+    "end": 787,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:16)",
+    "text": "If there’s a clear deadline of a destination, you feel the anxiety of it."
+  },
+  {
+    "start": 788,
+    "end": 789,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:39:20)",
+    "text": "I would say that I still do that, but I call those forcing functions instead of destinations…"
+  },
+  {
+    "start": 790,
+    "end": 791,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:24)",
+    "text": "That’s true."
+  },
+  {
+    "start": 792,
+    "end": 793,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:39:25)",
+    "text": "… Because you’re just forcing people to crank on some code or cookbook or whatever because you have a date. And oftentimes there’s reason. It’s 20th anniversary, you wanted to get the cookbook out. We have a reason we didn’t make this up out of thin air. And so yeah, that does push you, but just because we have the cookbook doesn’t mean it’s a destination. It means it was a forcing function to get it out there. Now we’re on the journey."
+  },
+  {
+    "start": 794,
+    "end": 795,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:39:53)",
+    "text": "Speaking of journeys, I have to ask you about SpaceX. The journey that all of humanity [inaudible 01:40:00]"
+  },
+  {
+    "start": 796,
+    "end": 797,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:40:00)",
+    "text": "Seriously. Talk about a journey. That is incredible."
+  },
+  {
+    "start": 798,
+    "end": 799,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:40:04)",
+    "text": "It’s an interesting moment in the history of humanity that perhaps hopefully we’ll become a multi-planetary species. But SpaceX is also a company. You invested in SpaceX, you were side by side with Elon through the highs and the lows, through the lows and the highs. So what were some memorable challenges? What were some low points…"
+  },
+  {
+    "start": 800,
+    "end": 801,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:40:30)",
+    "text": "Sure."
+  },
+  {
+    "start": 802,
+    "end": 803,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:40:30)",
+    "text": "… From the history of SpaceX?"
+  },
+  {
+    "start": 804,
+    "end": 805,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:40:32)",
+    "text": "One of the hardest times in SpaceX was we were in the mid-Pacific in Kwajalein and my brother had sold PayPal. He’d done well financially. But in the rocket world, that money goes away really quickly. And we were in this military base in Kwajalein and I think it was the second rocket that blew up, I’m not sure. But we didn’t have infinite resources. I certainly didn’t have the resources. I’m there to support, brotherly support. So every rocket launch was do or die, and the first one had blown up. And so the second one, I think it was the second one, blew up. And it was so depressing. It was just like, “Ugh.” There’s nowhere to go. There’s no distraction. You’re on this military base. You don’t really socialize. It was just, we were all together. And I had gotten to know… For me, I’m not part of the team, I’m just there for emotional support or whatever, because it’s cool."
+  },
+  {
+    "start": 806,
+    "end": 807,
+    "speaker": "",
+    "timestamp": "(01:41:42)",
+    "text": "So I got to know a couple of people locally and got to know this one guy who had a mobile home, best view in the world, but it’s just a mobile home with a patch of grass next to it. And I was just desperate to find food that wasn’t from the cafeteria because this is the worst food you can imagine. And I met him and he showed me this little tiny little grocery store, which had a few things like canned tomatoes. And this is, again, your middle of nowhere. It’s just nothing fresh. And I made this dish that was a version of an Italian version of chili, just baked beans and sweating onions and then tomatoes. And it was a big pot of food. It’s a group of people. We didn’t even have a table. And we just put the big pot in the middle and we had our little paper plates and we took a scoop as we needed it."
+  },
+  {
+    "start": 808,
+    "end": 809,
+    "speaker": "",
+    "timestamp": "(01:42:37)",
+    "text": "And it was… Do we need the gathering place of food brings people together in the most difficult times, and it was one of my favorite memories because I was able to bring my gift to this group of incredible people that their hearts were broken. And to sit there and share a meal and feel the life kind come back into us and by the end of the night, we’re actually having a good time."
+  },
+  {
+    "start": 810,
+    "end": 811,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:43:04)",
+    "text": "What a fascinating contrast of rockets representing the peak accomplishment of human beings as a society and then returning to the thing that is the foundation of human society, which is that communal experience."
+  },
+  {
+    "start": 812,
+    "end": 813,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:43:20)",
+    "text": "That communal, vulnerable connection. Like we mentioned vulnerability earlier. The most vulnerable place, actually that’s when you have some of your most beautiful meals."
+  },
+  {
+    "start": 814,
+    "end": 815,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:43:28)",
+    "text": "Yeah, the descendants of apes gathering around some baked beans after watching a rocket explode."
+  },
+  {
+    "start": 816,
+    "end": 817,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:43:36)",
+    "text": "Right."
+  },
+  {
+    "start": 818,
+    "end": 819,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:43:36)",
+    "text": "What gives you hope about the future of this whole thing we’ve got going on, humanity?"
+  },
+  {
+    "start": 820,
+    "end": 821,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:43:43)",
+    "text": "If you look at how things have changed over the past, say, 50 years, you can clearly say, “Oh, wow. Poverty rates have gone down, infant mortality has gone down dramatically. All these things have gone down a lot.” So if you look at it on a daily basis, you can tell that life is very dramatic, whether it’s something’s blowing up on X or from the newspapers or whatever, and you can really get caught up into it. But if you look back over the past few decades, things are getting better. And at the fundamental level, are less people hungry? Are there is war going on? Of course, but are there less wars? Yes. And so I think if we all just step back a little bit, it’s less about hope. It’s more perspective and reflection. And if I do see a problem, like in case of the obesity epidemic, I work really hard to help with that. Our nonprofit’s called Big Green and we work with 150 nonprofits around the country to help Americans grow food again, get connected to their food because I really believe growing food changes your life."
+  },
+  {
+    "start": 822,
+    "end": 823,
+    "speaker": "",
+    "timestamp": "(01:45:08)",
+    "text": "And so, “Okay, let’s go do that.” So I’ll help out where I think we really can make a difference. But if you step back a little, things are actually getting better. It’s just a bumpy ride."
+  },
+  {
+    "start": 824,
+    "end": 825,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:45:22)",
+    "text": "Yeah, and for those of us watching all of this, I think I would love to see more celebrating of the people that are helping, the people that have found their way of helping and just celebrating those people."
+  },
+  {
+    "start": 826,
+    "end": 827,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:45:33)",
+    "text": "Yeah. I would also, actually that’s a really nice point. I have learned that you really want to celebrate your successes because even in the greater scheme of things, I’ve learned this in the startup world where you are constantly facing death. Why should you even exist? Do your customers want your product or whatever? And then something will happen where you’re like, “Wow, we really nailed that. That’s really great.” Or we got a product released or got some good kudos from something, right? Everyone, we’re going to go celebrate. And actually everyone’s still like, “No, no, we’ve got all these other problems.” Nope, we’re going to go celebrate and then we’ll go back to the problems. But if you don’t do that, then it starts building on this kind of… You never really get to celebrate."
+  },
+  {
+    "start": 828,
+    "end": 829,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:17)",
+    "text": "Mm-hmm. And be grateful. I think this is a good time to go celebrate the very fact that we’re alive today. We get to live and enjoy this incredible life, the two of us, and have this great conversation, and we’ll get to celebrate over some scrambled eggs."
+  },
+  {
+    "start": 830,
+    "end": 831,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:46:32)",
+    "text": "Beautiful."
+  },
+  {
+    "start": 832,
+    "end": 833,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:32)",
+    "text": "I’m going to hold you to it."
+  },
+  {
+    "start": 834,
+    "end": 835,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:46:33)",
+    "text": "Beautiful."
+  },
+  {
+    "start": 836,
+    "end": 837,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:34)",
+    "text": "Kimbal, thank you so much for talking today."
+  },
+  {
+    "start": 838,
+    "end": 839,
+    "speaker": "Kimbal Musk",
+    "timestamp": "(01:46:36)",
+    "text": "Thank you for having me."
+  },
+  {
+    "start": 840,
+    "end": 841,
+    "speaker": "Lex Fridman",
+    "timestamp": "(01:46:37)",
+    "text": "Thanks for listening to this conversation with Kimbal Musk. To support this podcast, please check out our sponsors in the description. And now let me leave you some words from Anthony Bourdain. Your body is not a temple, it’s an amusement park. Enjoy the ride. Thank you for listening and hope to see you next time."
+  }
+]
