@@ -101,12 +101,26 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
 
   useEffect(() => {
     const fetchTranscript = async () => {
-      const response = await fetch("/lex_primeagen_segments.json");
-      const data = await response.json();
-      setTranscript(data);
+      let transcriptData = null;
+      if (podcast && podcast.uuid) {
+        try {
+          const response = await fetch(`/transcripts/${podcast.uuid}.json`);
+          if (!response.ok) throw new Error('Transcript not found');
+          transcriptData = await response.json();
+        } catch (e) {
+          // Fallback to default if not found
+          console.log("error not found")
+          const response = await fetch("/lex_primeagen_segments.json");
+          transcriptData = await response.json();
+        }
+      } else {
+        const response = await fetch("/lex_primeagen_segments.json");
+        transcriptData = await response.json();
+      }
+      setTranscript(transcriptData);
     };
     fetchTranscript();
-  }, []);
+  }, [podcast]);
 
   const startConversation = useCallback(async () => {
     console.log("yo whats up");
