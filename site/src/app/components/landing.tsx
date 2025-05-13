@@ -20,6 +20,7 @@ export default function LandingPage() {
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState("");
   const [selectedEpisode, setSelectedEpisode] = useState<PodcastEpisode | null>(null);
+  const [isComboOpen, setIsComboOpen] = useState(false);
   const router = useRouter();
 
   // Debounce the query update
@@ -58,8 +59,10 @@ export default function LandingPage() {
           <Combobox value={selectedEpisode} onChange={ep => {
             setSelectedEpisode(ep);
             setQuery(ep ? ep.title : "");
-            setDebouncedQuery(ep ? ep.title : ""); // keep debouncedQuery in sync if selected
-          }}>
+            setDebouncedQuery(ep ? ep.title : "");
+          }}
+          as="div"
+          >
             <div className="relative w-full max-w-md">
               <Combobox.Input
                 className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400 text-lg shadow-sm"
@@ -69,44 +72,53 @@ export default function LandingPage() {
                   setSelectedEpisode(null);
                   debouncedSetQuery(e.target.value);
                 }}
+                onFocus={() => setIsComboOpen(true)}
+                onBlur={() => setTimeout(() => setIsComboOpen(false), 100)}
                 placeholder="Try: ThePrimeagen"
               />
-              <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none z-50">
-                {filteredEpisodes.length === 0 && query !== "" ? (
-                  <div className="cursor-default select-none px-4 py-2 text-gray-700">
-                    No episodes found.
-                  </div>
-                ) : (
-                  filteredEpisodes.map((ep) => (
-                    <Combobox.Option
-                      key={ep.uuid}
-                      value={ep}
-                      className={({ active }) =>
-                        `relative cursor-pointer select-none py-2 pl-10 pr-4 ${
-                          active ? 'bg-blue-600 text-white' : 'text-gray-900'
-                        }`
-                      }
-                    >
-                      {({ selected, active }) => (
-                        <>
-                          <span className={`block truncate ${selected ? 'font-medium' : 'font-normal'}`}>
-                            {ep.title} <span className="text-gray-400">({ep.guest})</span>
-                          </span>
-                          {selected ? (
-                            <span
-                              className={`absolute inset-y-0 left-0 flex items-center pl-3 ${
-                                active ? 'text-white' : 'text-blue-600'
-                              }`}
-                            >
-                              ✓
-                            </span>
-                          ) : null}
-                        </>
+              {isComboOpen && (
+                <Combobox.Options className="absolute mt-1 max-h-60 w-full overflow-auto rounded-md bg-white py-1 text-base shadow-lg ring-1 ring-black/5 focus:outline-none z-50">
+                  {filteredEpisodes.length === 0 && query !== "" ? (
+                    <div className="cursor-default select-none px-4 py-2 text-gray-700">
+                      No episodes found.
+                    </div>
+                  ) : (
+                    <>
+                      {query === "" && (
+                        <div className="px-4 py-2 text-xs text-gray-400 uppercase tracking-wide">Recent Episodes</div>
                       )}
-                    </Combobox.Option>
-                  ))
-                )}
-              </Combobox.Options>
+                      {filteredEpisodes.map((ep) => (
+                        <Combobox.Option
+                          key={ep.uuid}
+                          value={ep}
+                          className={({ active }) =>
+                            `relative cursor-pointer select-none py-2 pl-10 pr-4 ${
+                              active ? 'bg-blue-600 text-white' : 'text-gray-900'
+                            }`
+                          }
+                        >
+                          {({ selected, active }) => (
+                            <>
+                              <span className={`block truncate ${selected ? 'font-medium' : 'font-normal'}`}>
+                                {ep.title} <span className="text-gray-400">({ep.guest})</span>
+                              </span>
+                              {selected ? (
+                                <span
+                                  className={`absolute inset-y-0 left-0 flex items-center pl-3 ${
+                                    active ? 'text-white' : 'text-blue-600'
+                                  }`}
+                                >
+                                  ✓
+                                </span>
+                              ) : null}
+                            </>
+                          )}
+                        </Combobox.Option>
+                      ))}
+                    </>
+                  )}
+                </Combobox.Options>
+              )}
             </div>
           </Combobox>
           <button
