@@ -110,7 +110,7 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
           transcriptData = await response.json();
         } catch (e) {
           // Fallback to default if not found
-          console.log("error not found")
+          console.log("error, transcript not found", e)
           const response = await fetch("/lex_primeagen_segments.json");
           transcriptData = await response.json();
         }
