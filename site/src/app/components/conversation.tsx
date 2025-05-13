@@ -20,6 +20,7 @@ import {
 import { contextToText, getRollingContext, TranscriptEntry } from "./context";
 import { lexPodcasts } from "../lib/lex_podcasts";
 import { AudioCircle } from "./AudioCircle";
+import Link from "next/link";
 
 type DynamicVariables = {
   podcast_context: string;
@@ -435,6 +436,12 @@ export function Conversation({ audioUrl, uuid }: ConversationProps) {
     <div
       className={`w-full min-h-screen flex flex-col items-center justify-center gap-8 py-8 mb-24 transition-colors duration-300`}
     >
+      {/* Home button - absolutely positioned at the top center */}
+      <div className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50">
+        <Link href="/" className="px-4 py-1 rounded-full border border-gray-300 bg-white/80 text-gray-700 text-sm shadow hover:bg-gray-100 transition-all">
+          Home
+        </Link>
+      </div>
       {/* Theme toggle button */}
       <ThemeToggle />
 
