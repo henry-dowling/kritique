@@ -21,3 +21,7 @@ NEXT_PUBLIC_PICOVOICE_ACCESS_KEY=
 ```
 
 To use the app, you'll need to create an Eleven Labs conversation agent (recording the agent ID as `NEXT_PUBLIC_AGENT_ID`). You'll also use [Pico Voice](https://picovoice.ai/) to use the wake word. Create an account and add the access key (`NEXT_PUBLIC_PICOVOICE_ACCESS_KEY`). The Pico voice model (Porcupine) parameters for english audio and the `hey_lex` custom wake word file are already in `site/public`.  
+
+# Updating
+
+When a new episode drops, you can update the local store of transcripts by running `python parse_lex_rss.py` to update the list of lex podcasts and `parse_lex_html_transcripts.py` to update the locally stored annotated podcast transcripts. If things ever start to get slow, ping us to let us know that we should set up an s3 bucket for them.
